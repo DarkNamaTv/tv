@@ -666,16 +666,6 @@
         "country": "TR"
     },
     {
-        "name": "Life TV",
-        "id": "LifeTV.tr",
-        "logo": "https://i.imgur.com/lWeJxm0.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Star TV",
         "id": "StarTV.tr",
         "logo": "https://i.imgur.com/9O3DHRB.png",
@@ -1060,24 +1050,31 @@
         "country": "TR"
     },
     {
-        "name": "TRT Genc",
-        "id": "TRTGenc.tr",
-        "logo": "https://i.imgur.com/fCHQYWS.png",
-        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "name": "DHA",
+        "id": "DHA.tr",
+        "logo": "https://i.imgur.com/VZhag2x.png",
+        "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
         "categories": [
-            "general",
-            "culture"
+            "news"
         ],
         "country": "TR"
     },
     {
-        "name": "TRT Cocuk",
-        "id": "TRTCocuk.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "name": "Kanal 33",
+        "id": "Kanal33.tr",
+        "logo": "https://i.imgur.com/5WYaoFZ.png",
+        "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
         "categories": [
-            "kids"
+            "general"
         ],
+        "country": "TR"
+    },
+    {
+        "name": "TV 100",
+        "id": "TV100.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8",
+        "categories": [],
         "country": "TR"
     }
 ]

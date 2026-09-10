@@ -199,26 +199,6 @@
         "country": "PY"
     },
     {
-        "name": "Dismar Radio TV",
-        "id": "DismarRadioTV.py",
-        "logo": "https://i.imgur.com/KOuxdMD.png",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Radio Colmenar 92.5 FM",
-        "id": "RadioColmenar925FM.py",
-        "logo": "https://i.imgur.com/LniNLO1.jpeg",
-        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "SNT",
         "id": "SNT.py",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
@@ -243,16 +223,6 @@
         "id": "Paravision.py",
         "logo": "https://i.imgur.com/yd9Dw2G.png",
         "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "SUR TV Itapua",
-        "id": "SURTVItapua.py",
-        "logo": "https://i.imgur.com/ltJQvZd.png",
-        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
         "categories": [
             "general"
         ],
@@ -367,16 +337,6 @@
         "country": "PY"
     },
     {
-        "name": "Occidental TV",
-        "id": "OccidentalTV.py",
-        "logo": "https://i.imgur.com/8IRBA9h.png",
-        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Suceso TV",
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
@@ -467,16 +427,6 @@
         "country": "PY"
     },
     {
-        "name": "America Paraguay",
-        "id": "AmericaParaguay.py",
-        "logo": "https://i.imgur.com/rCEu3fM.png",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Popu TV",
         "id": "PopuTV.py",
         "logo": "https://i.imgur.com/UqCogyZ.png",
@@ -558,21 +508,40 @@
         "country": "PY"
     },
     {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
-            "entertainment",
-            "music"
+            "news"
         ],
         "country": "PY"
     },
     {
-        "name": "Oviedo TV",
-        "id": "OviedoTV.py",
-        "logo": "https://i.imgur.com/6OlfgSQ.png",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "name": "Oasis TV",
+        "id": "OasisTV.py",
+        "logo": "https://i.imgur.com/u9umNKp.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Radio TV El Arca del Pacto",
+        "id": "RadioTVElArcadelPacto.py",
+        "logo": "https://i.imgur.com/Oq0i3Rb.png",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "TV Aire",
+        "id": "TVAire.py",
+        "logo": "https://i.imgur.com/7gHFKPZ.png",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "categories": [
             "general"
         ],

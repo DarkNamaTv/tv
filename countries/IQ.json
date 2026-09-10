@@ -224,14 +224,6 @@
         "country": "IQ"
     },
     {
-        "name": "Al Iraqia Kurdish",
-        "id": "AlIraqiaKurdish.iq",
-        "logo": "https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-        "categories": [],
-        "country": "IQ"
-    },
-    {
         "name": "Kurdistan 24",
         "id": "Kurdistan24.iq",
         "logo": "https://i.imgur.com/9QWs2ms.png",
@@ -429,6 +421,26 @@
         "url": "https://live.alissahost.net/hls/test.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al Iraqia News",
+        "id": "AlIraqiaNews.iq",
+        "logo": "https://i.imgur.com/feQTXeZ.jpg",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al-Jawadain TV",
+        "id": "AlJawadainTV.iq",
+        "logo": "https://i.imgur.com/Eo3UYCK.png",
+        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "IQ"
     }

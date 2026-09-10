@@ -744,16 +744,6 @@
         "country": "RO"
     },
     {
-        "name": "Kapital TV",
-        "id": "KapitalTV.ro",
-        "logo": "https://i.imgur.com/Q1PYwkZ.png",
-        "url": "https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Metropola TV",
         "id": "MetropolaTV.ro",
         "logo": "https://i.imgur.com/Gzq05v8.png",
@@ -779,6 +769,36 @@
         "logo": "https://i.imgur.com/zVk3WlT.png",
         "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
         "categories": [],
+        "country": "RO"
+    },
+    {
+        "name": "Comedy Play",
+        "id": "ComedyPlay.ro",
+        "logo": "https://i.imgur.com/6kAeVOk.png",
+        "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TeleM Botosani",
+        "id": "TeleMBotosani.ro",
+        "logo": "https://i.imgur.com/3EZ8CmJ.png",
+        "url": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "RO"
     }
 ]

@@ -652,14 +652,6 @@
         "country": "CL"
     },
     {
-        "name": "Zona Latina",
-        "id": "ZonaLatina.cl",
-        "logo": "https://i.imgur.com/lMyZZtk.png",
-        "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "FX",
         "id": "FX.cl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
@@ -894,16 +886,6 @@
         "country": "CL"
     },
     {
-        "name": "El Centro TV",
-        "id": "ElCentroTV.cl",
-        "logo": "https://i.imgur.com/2KqGHvA.png",
-        "url": "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Alternativa TV",
         "id": "AlternativaTV.cl",
         "logo": "https://i.imgur.com/KCrSbgv.png",
@@ -1012,16 +994,6 @@
         "id": "RadioFantasiaTV.cl",
         "logo": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
         "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Uniregion TV",
-        "id": "UniregionTV.cl",
-        "logo": "https://i.imgur.com/VEO6aos.png",
-        "url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1146,16 +1118,6 @@
         "country": "CL"
     },
     {
-        "name": "Cultura Online",
-        "id": "CulturaOnline.cl",
-        "logo": "https://i.imgur.com/w8td5Lq.png",
-        "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Star Channel",
         "id": "StarChannel.cl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
@@ -1163,16 +1125,6 @@
         "categories": [
             "movies",
             "series"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "FM Plus TV",
-        "id": "FMPlusTV.cl",
-        "logo": "https://i.imgur.com/1UokOyN.png",
-        "url": "https://v2.tustreaming.cl/fmplus/index.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "CL"
     },
@@ -1591,16 +1543,6 @@
         "country": "CL"
     },
     {
-        "name": "Zoom Tecnologico Plus",
-        "id": "ZoomTecnologicoPlus.cl",
-        "logo": "https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png",
-        "url": "https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Canal Chilote",
         "id": "CanalChilote.cl",
         "logo": "https://i.imgur.com/mdYIKyt.png",
@@ -1747,16 +1689,6 @@
         "country": "CL"
     },
     {
-        "name": "La Clave",
-        "id": "LaClave.cl",
-        "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
-        "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Frecuencia Uno",
         "id": "RadioFrecuenciaUno.cl",
         "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
@@ -1869,6 +1801,26 @@
             "entertainment",
             "lifestyle",
             "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Interactiva TV",
+        "id": "InteractivaTV.cl",
+        "logo": "https://i.imgur.com/RcjwlX4.png",
+        "url": "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CL"
     }

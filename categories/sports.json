@@ -140,16 +140,6 @@
         "country": "UA"
     },
     {
-        "name": "UPL.TV",
-        "id": "UPLTV.ua",
-        "logo": "https://s4.vcdn.biz/static/f/9219528031/image.jpg",
-        "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "Realitatea Sportiva",
         "id": "RealitateaSportiva.ro",
         "logo": "https://i.imgur.com/BaEyZto.png",
@@ -311,10 +301,10 @@
         "country": "DO"
     },
     {
-        "name": "Tour Spot TV",
-        "id": "TourSpotTV.do",
-        "logo": "https://imgur.com/khj869k.png",
-        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+        "name": "Colimdo TV",
+        "id": "ColimdoTV.do",
+        "logo": "https://i.imgur.com/ZeUgLCa.png",
+        "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
         "categories": [
             "sports"
         ],
@@ -329,6 +319,26 @@
             "sports"
         ],
         "country": "KZ"
+    },
+    {
+        "name": "Arena Sport 4",
+        "id": "ArenaSport4.ba",
+        "logo": "https://i.imgur.com/h1XhGkz.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BA"
+    },
+    {
+        "name": "Arena Sport Premium 1 BH",
+        "id": "ArenaSportPremium1BH.ba",
+        "logo": "https://imgur.com/csv6YsL",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BA"
     },
     {
         "name": "Astrahan.Ru Sport",
@@ -449,6 +459,16 @@
             "sports"
         ],
         "country": "RU"
+    },
+    {
+        "name": "TV 2 Sport",
+        "id": "TV2Sport.dk",
+        "logo": "https://i.imgur.com/76Zzs5R.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DK"
     },
     {
         "name": "Arryadia",
@@ -621,6 +641,16 @@
         "country": "IN"
     },
     {
+        "name": "Unite8 Sports 2",
+        "id": "Unite8Sports2.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=720x540",
+        "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Jordan Sport",
         "id": "JordanSport.jo",
         "logo": "https://i.imgur.com/2EmrZPQ.png",
@@ -785,16 +815,6 @@
         "id": "TyCSports.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "TyC Sports USA",
-        "id": "TyCSportsUSA.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-        "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1409,16 +1429,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Women Sports",
-        "id": "TVSWomenSports.us",
-        "logo": "https://i.imgur.com/8hC4PfF.png",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Willow",
         "id": "Willow.us",
         "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
@@ -1439,33 +1449,12 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.us",
-        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
-        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Fox Sports 2",
         "id": "FoxSports2.us",
         "logo": "https://i.ibb.co/35bddzKR/IMG-2281.png",
         "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
         "categories": [
             "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Monster Jam",
-        "id": "MonsterJam.us",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
-        "categories": [
-            "sports",
-            "outdoor"
         ],
         "country": "US"
     },
@@ -1484,6 +1473,36 @@
         "id": "PokerGo.us",
         "logo": "https://i.imgur.com/1603HED.png",
         "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MLB Network",
+        "id": "MLBNetwork.us",
+        "logo": "https://i.imgur.com/sA5V39D.png",
+        "url": "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NBC Sports Bay Area",
+        "id": "NBCSportsBayArea.us",
+        "logo": "https://i.imgur.com/MTgUVKx.png",
+        "url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NBC Sports Philadelphia",
+        "id": "NBCSportsPhiladelphia.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
+        "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
         "categories": [
             "sports"
         ],
@@ -1534,6 +1553,16 @@
         "id": "PolsatSportPremium1.pl",
         "logo": "https://i.imgur.com/hy1SKE0.png",
         "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "TVP Sport",
+        "id": "TVPSport.pl",
+        "logo": "https://i.imgur.com/JUZDOCO.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1594,16 +1623,6 @@
         "country": "VN"
     },
     {
-        "name": "VSBet HD",
-        "id": "VSBetHD.vn",
-        "logo": "https://i.imgur.com/sMhL2Nl.png",
-        "url": "https://live05.meung.app/live/16226575.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "Talent TV",
         "id": "TalentTV.lk",
         "logo": "https://talenttv.lk/logo-footer.png",
@@ -1655,6 +1674,26 @@
         "country": "ES"
     },
     {
+        "name": "Deportes por Movistar Plus+",
+        "id": "DeportesporMovistarPlusPlus.es",
+        "logo": "",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Liga de Campeones por Movistar Plus+",
+        "id": "LigadeCampeonesporMovistarPlusPlus.es",
+        "logo": "",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "ES"
+    },
+    {
         "name": "Equidia",
         "id": "Equidia.fr",
         "logo": "https://i.imgur.com/QPpbRcZ.png",
@@ -1681,6 +1720,16 @@
         "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
         "categories": [
             "news",
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "RMC Sport 1",
+        "id": "RMCSport1.fr",
+        "logo": "https://i.imgur.com/NsFTG7u.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
+        "categories": [
             "sports"
         ],
         "country": "FR"
@@ -1907,6 +1956,26 @@
         "country": "IT"
     },
     {
+        "name": "Sky Sport F1",
+        "id": "SkySportF1.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Zona DAZN",
+        "id": "ZonaDAZN.it",
+        "logo": "https://i.imgur.com/Jop3Vip.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "MNB Sport",
         "id": "MNBSport.mn",
         "logo": "https://i.imgur.com/z854PC3.png",
@@ -1941,6 +2010,16 @@
         "id": "ArenaSport1x2.rs",
         "logo": "https://i.imgur.com/cGIIyxR.png",
         "url": "https://webtvstream.bhtelecom.ba/arena_1x2.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RS"
+    },
+    {
+        "name": "Arena Sport 2 Premium",
+        "id": "ArenaSport2Premium.rs",
+        "logo": "https://i.imgur.com/ztOmQ7P.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/78/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -2186,6 +2265,16 @@
         "id": "SetantaSports2Eurasia.ie",
         "logo": "https://i.imgur.com/ouHunnK.png",
         "url": "http://stream.mcquack.net/235/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IE"
+    },
+    {
+        "name": "Premier Sports 2",
+        "id": "PremierSports2.ie",
+        "logo": "https://i.imgur.com/Fx1n84p.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8",
         "categories": [
             "sports"
         ],

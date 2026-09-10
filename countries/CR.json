@@ -440,16 +440,6 @@
         "country": "CR"
     },
     {
-        "name": "Canal 3 KMK TV",
-        "id": "Canal3KMKTV.cr",
-        "logo": "https://i.imgur.com/sgRDRBK.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Agrotendencia TV",
         "id": "AgrotendenciaTV.cr",
         "logo": "https://i.imgur.com/frd60hR.png",
@@ -498,17 +488,6 @@
         "country": "CR"
     },
     {
-        "name": "Gex TV",
-        "id": "GexTV.cr",
-        "logo": "https://gextv.com/LOGO-WHITE.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
-        "categories": [
-            "music",
-            "entertainment"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Vintage Music",
         "id": "VintageMusic.cr",
         "logo": "https://i.imgur.com/KImqYnN.jpeg",
@@ -526,6 +505,24 @@
         "categories": [
             "music"
         ],
+        "country": "CR"
+    },
+    {
+        "name": "360 RFTV",
+        "id": "360RFTV.cr",
+        "logo": "https://i.imgur.com/EBtgnxR.png",
+        "url": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "BestClasicosTV",
+        "id": "BestClasicosTV.cr",
+        "logo": "https://i.imgur.com/a/BRb8AVL.png",
+        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
+        "categories": [],
         "country": "CR"
     }
 ]
