@@ -714,16 +714,6 @@
         "country": "RO"
     },
     {
-        "name": "TeleMoldova +",
-        "id": "TeleMoldovaPlus.ro",
-        "logo": "https://i.imgur.com/8z0zLjw.jpeg",
-        "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Arges TV",
         "id": "ArgesTV.ro",
         "logo": "https://i.imgur.com/qufz6nk.png",
@@ -796,6 +786,16 @@
         "id": "RadioRomania3Net.ro",
         "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
         "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
         "categories": [
             "music"
         ],

@@ -351,6 +351,16 @@
         "country": "RO"
     },
     {
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
         "name": "Tiankov Folk",
         "id": "TiankovFolk.bg",
         "logo": "https://i.imgur.com/VKY4q64.png",
@@ -1013,16 +1023,6 @@
         "country": "BR"
     },
     {
-        "name": "KpopTV Play",
-        "id": "KpopTVPlay.br",
-        "logo": "https://i.imgur.com/Tf0vweF.png",
-        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "9X Jhakaas",
         "id": "9XJhakaas.in",
         "logo": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540",
@@ -1358,6 +1358,16 @@
         "id": "FabulosaEstereo1005FM.pa",
         "logo": "https://i.imgur.com/YFmzkOp.png",
         "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Planet 100.9 FM",
+        "id": "Planet1009FM.pa",
+        "logo": "https://i.imgur.com/8ZIBs8l.png",
+        "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1737,6 +1747,16 @@
         "country": "PE"
     },
     {
+        "name": "Galactica TV",
+        "id": "GalacticaTV.pe",
+        "logo": "https://i.imgur.com/byL1zCV.jpeg",
+        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "Radio Weser TV Bremen",
         "id": "RadioWeserTVBremen.de",
         "logo": "",
@@ -1851,6 +1871,16 @@
         "id": "Lausitzwelle.de",
         "logo": "https://i.imgur.com/4kYF4bK.png",
         "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+        "categories": [
+            "music"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Folx Music Television",
+        "id": "FolxMusicTelevision.de",
+        "logo": "https://i.imgur.com/ze04puX.png",
+        "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2114,6 +2144,16 @@
         "id": "LaClave.cl",
         "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
         "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Granja TV",
+        "id": "LaGranjaTV.cl",
+        "logo": "https://i.imgur.com/90luGab.png",
+        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -2520,6 +2560,17 @@
         "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Gex TV",
+        "id": "GexTV.cr",
+        "logo": "https://gextv.com/LOGO-WHITE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "categories": [
+            "music",
+            "entertainment"
         ],
         "country": "CR"
     },
@@ -2959,26 +3010,6 @@
         "country": "US"
     },
     {
-        "name": "Classica",
-        "id": "Classica.us",
-        "logo": "https://i.imgur.com/bLjmQTU.png",
-        "url": "https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Karaoke por Stingray",
-        "id": "PlutoTVKaraokeporStingray.us",
-        "logo": "https://i.imgur.com/rWpLepJ.png",
-        "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Klara",
         "id": "Klara.be",
         "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
@@ -3076,16 +3107,6 @@
         "id": "NutaTV.pl",
         "logo": "https://i.imgur.com/JHFUxDu.png",
         "url": "https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "BTB Music",
-        "id": "BTBMusic.pl",
-        "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-        "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
         "categories": [
             "music"
         ],
@@ -4633,6 +4654,18 @@
         "country": "ID"
     },
     {
+        "name": "Lingkar TV",
+        "id": "LingkarTV.id",
+        "logo": "https://lingkartv.com/assets/img/logo-square.png",
+        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+        "categories": [
+            "news",
+            "music",
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "LRT Opus",
         "id": "LRTOpus.lt",
         "logo": "https://i.imgur.com/oLuZTMH.png",
@@ -5108,26 +5141,6 @@
         "id": "StingrayRememberthe80s.ca",
         "logo": "https://i.imgur.com/duwc8E8.png",
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Stingray DJAZZ",
-        "id": "StingrayDJAZZ.ca",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-        "url": "https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Stingray Naturescape",
-        "id": "StingrayNaturescape.ca",
-        "logo": "https://i.imgur.com/882kd90.png",
-        "url": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
         "categories": [
             "music"
         ],

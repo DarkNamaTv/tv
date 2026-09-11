@@ -858,16 +858,6 @@
         "country": "MX"
     },
     {
-        "name": "SIPSE TVCUN 8.1",
-        "id": "SIPSETVCUN81.mx",
-        "logo": "https://i.imgur.com/uiTgClU.png",
-        "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Tele UV",
         "id": "TeleUV.mx",
         "logo": "https://i.imgur.com/8MdUH69.jpeg",
@@ -936,16 +926,6 @@
         "country": "MX"
     },
     {
-        "name": "El Sonorense",
-        "id": "ElSonorense.mx",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Golden Edge",
         "id": "GoldenEdge.mx",
         "logo": "https://i.imgur.com/SlSbcp3.png",
@@ -959,6 +939,34 @@
         "logo": "https://i.imgur.com/dbJKErB.png",
         "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
         "categories": [],
+        "country": "MX"
+    },
+    {
+        "name": "California Medios TV",
+        "id": "CaliforniaMediosTV.mx",
+        "logo": "https://i.imgur.com/IDvpRNI.png",
+        "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Canal 10 Durango",
+        "id": "Canal10Durango.mx",
+        "logo": "https://i.imgur.com/H34quHQ.png",
+        "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
+        "categories": [],
+        "country": "MX"
+    },
+    {
+        "name": "Unison TV",
+        "id": "UnisonTV.mx",
+        "logo": "https://i.imgur.com/7ixWRId.png",
+        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
+        "categories": [
+            "education"
+        ],
         "country": "MX"
     }
 ]

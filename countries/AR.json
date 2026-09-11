@@ -574,18 +574,6 @@
         "country": "AR"
     },
     {
-        "name": "LAMIL35 TV",
-        "id": "LAMIL35TV.ar",
-        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
-        "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
-        "categories": [
-            "classic",
-            "entertainment",
-            "animation"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "El Gourmet",
         "id": "ElGourmet.ar",
         "logo": "https://i.imgur.com/ByMyRI9.png",
@@ -738,14 +726,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 3 Pinamar",
-        "id": "Canal3Pinamar.ar",
-        "logo": "https://i.imgur.com/IABFaH1.png",
-        "url": "http://intelincloud01.com.ar/hls/cn3/index.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Radio Conexion Web TV",
         "id": "RadioConexionWebTV.ar",
         "logo": "https://i.imgur.com/pXS38zo.png",
@@ -841,16 +821,6 @@
         "id": "ArgentinisimaSatelital.ar",
         "logo": "https://i.imgur.com/xFgJawa.png",
         "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Tele Posadas",
-        "id": "TelePosadas.ar",
-        "logo": "https://i.imgur.com/88MVgwX.png",
-        "url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1109,16 +1079,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal Pulpo TV",
-        "id": "CanalPulpoTV.ar",
-        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
-        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Bayres TV",
         "id": "BayresTV.ar",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
@@ -1195,16 +1155,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 7 Neuquen",
-        "id": "Canal7Neuquen.ar",
-        "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
-        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "NG Federal",
         "id": "NGFederal.ar",
         "logo": "https://i.imgur.com/lJCIqYn.png",
@@ -1221,6 +1171,36 @@
         "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Universidad",
+        "id": "CanalUniversidad.ar",
+        "logo": "https://i.imgur.com/trmPKYw.png",
+        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Folcloreando TV",
+        "id": "FolcloreandoTV.ar",
+        "logo": "https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png",
+        "url": "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Radio Yguazu TV",
+        "id": "RadioYguazuTV.ar",
+        "logo": "https://i.imgur.com/kVi0ICm.png",
+        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "AR"
     }

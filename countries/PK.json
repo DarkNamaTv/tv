@@ -363,16 +363,6 @@
         "country": "PK"
     },
     {
-        "name": "Sky News Urdu",
-        "id": "SkyNewsUrdu.pk",
-        "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "Aik News",
         "id": "AikNews.pk",
         "logo": "https://i.imgur.com/svPXoAP.png",
@@ -410,6 +400,26 @@
         "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Filmax",
+        "id": "Filmax.pk",
+        "logo": "https://i.imgur.com/eLmdZ6k.png",
+        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "PK Sports",
+        "id": "PKSports.pk",
+        "logo": "https://i.imgur.com/qtbSnrY.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "PK"
     }

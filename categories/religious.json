@@ -272,6 +272,16 @@
         "country": "BA"
     },
     {
+        "name": "Mercy TV",
+        "id": "MercyTV.sl",
+        "logo": "https://i.imgur.com/YPAM74x.jpeg",
+        "url": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SL"
+    },
+    {
         "name": "3ABN Russia",
         "id": "3ABNRussia.ru",
         "logo": "https://i.imgur.com/4fhBbam.png",
@@ -348,17 +358,6 @@
         "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
         "categories": [
             "music",
-            "religious"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden TV",
-        "id": "CityEdenTV.ru",
-        "logo": "https://i.imgur.com/X9kACKi.png",
-        "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
-        "categories": [
-            "general",
             "religious"
         ],
         "country": "RU"
@@ -1618,6 +1617,16 @@
         "country": "CL"
     },
     {
+        "name": "ADA TV",
+        "id": "ADATV.cl",
+        "logo": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
+        "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Himlen TV7",
         "id": "HimlenTV7.fi",
         "logo": "https://i.imgur.com/k8a7KNn.png",
@@ -2131,16 +2140,6 @@
         "country": "SV"
     },
     {
-        "name": "TVCa",
-        "id": "TVCa.sv",
-        "logo": "https://i.imgur.com/uPWWtCA.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "Kuriakos Kids",
         "id": "KuriakosKids.pt",
         "logo": "https://i.imgur.com/SRX6EPY.png",
@@ -2343,16 +2342,6 @@
         "country": "CR"
     },
     {
-        "name": "Luz Naciente TV",
-        "id": "LuzNacienteTV.cr",
-        "logo": "https://i.imgur.com/GC2lubh.png",
-        "url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Impact Channel",
         "id": "ImpactChannel.cr",
         "logo": "https://i.imgur.com/YRRID7W.png",
@@ -2497,16 +2486,6 @@
         "id": "SerajTV.ps",
         "logo": "https://i.imgur.com/1d25a9Q.png",
         "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PS"
-    },
-    {
-        "name": "Holy Quran Radio Nablus",
-        "id": "HolyQuranRadioNablus.ps",
-        "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
-        "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
         "categories": [
             "religious"
         ],
@@ -3540,16 +3519,6 @@
         "country": "US"
     },
     {
-        "name": "Muslim Network TV",
-        "id": "MuslimNetworkTV.us",
-        "logo": "",
-        "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Greater Love TV",
         "id": "GreaterLoveTV.us",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Quest_logo.png/960px-Quest_logo.png",
@@ -3880,6 +3849,16 @@
         "categories": [
             "culture",
             "music",
+            "religious"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al-Jawadain TV",
+        "id": "AlJawadainTV.iq",
+        "logo": "https://i.imgur.com/Eo3UYCK.png",
+        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "categories": [
             "religious"
         ],
         "country": "IQ"
@@ -4669,6 +4648,16 @@
         "country": "TT"
     },
     {
+        "name": "Riddim & Hope TV",
+        "id": "RiddimHopeTV.tt",
+        "logo": "https://i.imgur.com/c27k0Bd.png",
+        "url": "https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "TT"
+    },
+    {
         "name": "Ando TV",
         "id": "AndoTV.cn",
         "logo": "https://i.imgur.com/EpTsFVu.png",
@@ -4989,11 +4978,13 @@
         "country": "ID"
     },
     {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "name": "Lingkar TV",
+        "id": "LingkarTV.id",
+        "logo": "https://lingkartv.com/assets/img/logo-square.png",
+        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
         "categories": [
+            "news",
+            "music",
             "religious"
         ],
         "country": "ID"
@@ -5426,6 +5417,16 @@
         "id": "RadioTeleEvangileSansLimite.ca",
         "logo": "https://i.imgur.com/CL32kFA.png",
         "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Azan TV",
+        "id": "AzanTV.ca",
+        "logo": "https://i.imgur.com/JlqS6I4.jpeg",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
         "categories": [
             "religious"
         ],

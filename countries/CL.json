@@ -990,16 +990,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Fantasia TV",
-        "id": "RadioFantasiaTV.cl",
-        "logo": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
-        "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "VTV Valle de Aconcagua",
         "id": "VTVValledeAconcagua.cl",
         "logo": "https://i.imgur.com/0bFVvKj.png",
@@ -1232,14 +1222,6 @@
         "categories": [
             "news"
         ],
-        "country": "CL"
-    },
-    {
-        "name": "Canal del Sur",
-        "id": "CanaldelSur.cl",
-        "logo": "https://i.imgur.com/NVLJBzy.png",
-        "url": "https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8",
-        "categories": [],
         "country": "CL"
     },
     {
@@ -1810,6 +1792,84 @@
         "logo": "https://i.imgur.com/lMyZZtk.png",
         "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
         "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "ADA TV",
+        "id": "ADATV.cl",
+        "logo": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
+        "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Cultura Online",
+        "id": "CulturaOnline.cl",
+        "logo": "https://i.imgur.com/w8td5Lq.png",
+        "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Estacion Limache TV",
+        "id": "EstacionLimacheTV.cl",
+        "logo": "https://i.imgur.com/YAADx7P.png",
+        "url": "https://v4.tustreaming.cl/limachemovil/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Granja TV",
+        "id": "LaGranjaTV.cl",
+        "logo": "https://i.imgur.com/90luGab.png",
+        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "RTV Nuble",
+        "id": "RTVNuble.cl",
+        "logo": "https://i.imgur.com/BDKgDZG.png",
+        "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Zoom Tecnologico Plus",
+        "id": "ZoomTecnologicoPlus.cl",
+        "logo": "https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png",
+        "url": "https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "CL"
     }
 ]
