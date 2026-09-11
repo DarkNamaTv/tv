@@ -268,16 +268,6 @@
         "country": "AR"
     },
     {
-        "name": "Quiero Musica en mi Idioma",
-        "id": "QuieroMusicaenmiIdioma.ar",
-        "logo": "https://i.imgur.com/RO9Dz3X.png",
-        "url": "http://177.234.249.178:8888/MTV/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Sony Channel",
         "id": "SonyChannel.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
@@ -935,16 +925,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal Universidad",
-        "id": "CanalUniversidad.ar",
-        "logo": "https://i.imgur.com/trmPKYw.png",
-        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Neo TV",
         "id": "NeoTV.ar",
         "logo": "https://i.imgur.com/Xtu85tb.png",
@@ -1054,26 +1034,6 @@
         "logo": "https://i.imgur.com/bd2afET.png",
         "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
         "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 4 Teleaire",
-        "id": "Canal4Teleaire.ar",
-        "logo": "https://i.imgur.com/XyiNvbY.png",
-        "url": "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Folcloreando TV",
-        "id": "FolcloreandoTV.ar",
-        "logo": "https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png",
-        "url": "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "AR"
     },
     {
@@ -1235,12 +1195,32 @@
         "country": "AR"
     },
     {
-        "name": "Radio Yguazu TV",
-        "id": "RadioYguazuTV.ar",
-        "logo": "https://i.imgur.com/kVi0ICm.png",
-        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+        "name": "Canal 7 Neuquen",
+        "id": "Canal7Neuquen.ar",
+        "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
         "categories": [
-            "entertainment"
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "NG Federal",
+        "id": "NGFederal.ar",
+        "logo": "https://i.imgur.com/lJCIqYn.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "TyC Sports USA",
+        "id": "TyCSportsUSA.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+        "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "AR"
     }

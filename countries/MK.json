@@ -20,14 +20,6 @@
         "country": "MK"
     },
     {
-        "name": "Sitel",
-        "id": "Sitel.mk",
-        "logo": "https://i.imgur.com/pdobwKt.png",
-        "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
-        "categories": [],
-        "country": "MK"
-    },
-    {
         "name": "Cool TV",
         "id": "CoolTV.mk",
         "logo": "https://i.imgur.com/2tFrjUz.png",
@@ -92,6 +84,16 @@
         "id": "RockTV.mk",
         "logo": "https://i.imgur.com/Y9miDQo.png",
         "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "TopEstrada TV",
+        "id": "TopEstradaTV.mk",
+        "logo": "https://i.imgur.com/0Dh1FJZ.png",
+        "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
         "categories": [
             "music"
         ],

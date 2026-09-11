@@ -501,18 +501,6 @@
         "country": "SK"
     },
     {
-        "name": "UMSA TVU LP",
-        "id": "UMSATVULP.bo",
-        "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
-        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "news",
-            "culture",
-            "education"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Radio Universitaria San Andres",
         "id": "RadioUniversitariaSanAndres.bo",
         "logo": "https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg",
@@ -865,6 +853,16 @@
         "country": "HU"
     },
     {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "Paci Contemporary Channel",
         "id": "PaciContemporaryChannel.it",
         "logo": "https://i.imgur.com/RtOvD2M.png",
@@ -1064,6 +1062,16 @@
         "id": "UAATV.mx",
         "logo": "https://i.imgur.com/brCSiGh.png",
         "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "El Sonorense",
+        "id": "ElSonorense.mx",
+        "logo": "https://i.imgur.com/aKvPd4g.jpg",
+        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
         "categories": [
             "culture"
         ],

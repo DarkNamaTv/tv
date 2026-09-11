@@ -1195,16 +1195,6 @@
         "country": "CL"
     },
     {
-        "name": "La Granja TV",
-        "id": "LaGranjaTV.cl",
-        "logo": "https://i.imgur.com/90luGab.png",
-        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Universal",
         "id": "RadioUniversal.cl",
         "logo": "https://cdn.m3u.cl/logo/390_Radio_Universal.png",
@@ -1349,16 +1339,6 @@
         "url": "https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Televida",
-        "id": "Televida.cl",
-        "logo": "https://i.imgur.com/bmNA8hq.png",
-        "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "CL"
     },
@@ -1581,26 +1561,6 @@
         "country": "CL"
     },
     {
-        "name": "ADA TV",
-        "id": "ADATV.cl",
-        "logo": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
-        "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Arica TV",
-        "id": "AricaTV.cl",
-        "logo": "https://i.imgur.com/I67WOgT.png",
-        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Chiloe Red 25",
         "id": "ChiloeRed25.cl",
         "logo": "https://i.imgur.com/3tqrImm.png",
@@ -1627,16 +1587,6 @@
         "url": "https://v2.tustreaming.cl/enlineamauletv/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Estacion Limache TV",
-        "id": "EstacionLimacheTV.cl",
-        "logo": "https://i.imgur.com/YAADx7P.png",
-        "url": "https://v4.tustreaming.cl/limachemovil/index.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "CL"
     },
@@ -1815,13 +1765,51 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "name": "El Centro TV",
+        "id": "ElCentroTV.cl",
+        "logo": "https://i.imgur.com/2KqGHvA.png",
+        "url": "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "FM Plus TV",
+        "id": "FMPlusTV.cl",
+        "logo": "https://i.imgur.com/1UokOyN.png",
+        "url": "https://v2.tustreaming.cl/fmplus/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Clave",
+        "id": "LaClave.cl",
+        "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
+        "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Uniregion TV",
+        "id": "UniregionTV.cl",
+        "logo": "https://i.imgur.com/VEO6aos.png",
+        "url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
         "categories": [
             "general"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "Zona Latina",
+        "id": "ZonaLatina.cl",
+        "logo": "https://i.imgur.com/lMyZZtk.png",
+        "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]

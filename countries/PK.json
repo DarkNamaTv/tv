@@ -234,16 +234,6 @@
         "country": "PK"
     },
     {
-        "name": "PK Sports",
-        "id": "PKSports.pk",
-        "logo": "https://i.imgur.com/qtbSnrY.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "Aaj Entertainment",
         "id": "AajEntertainment.pk",
         "logo": "https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png",
@@ -379,6 +369,47 @@
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Aik News",
+        "id": "AikNews.pk",
+        "logo": "https://i.imgur.com/svPXoAP.png",
+        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "BS Film",
+        "id": "BSFilm.pk",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "God Stands Kids Club TV",
+        "id": "GodStandsKidsClubTV.pk",
+        "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+        "categories": [
+            "kids",
+            "religious"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "God Stands TV",
+        "id": "GodStandsTV.pk",
+        "logo": "https://i.imgur.com/EO6cYUI.png",
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "PK"
     }

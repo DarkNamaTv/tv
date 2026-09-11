@@ -311,6 +311,16 @@
         "country": "DO"
     },
     {
+        "name": "Tour Spot TV",
+        "id": "TourSpotTV.do",
+        "logo": "https://imgur.com/khj869k.png",
+        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "QazSport",
         "id": "QazSport.kz",
         "logo": "https://i.imgur.com/UDJ0P5Q.png",
@@ -831,6 +841,16 @@
         "country": "AR"
     },
     {
+        "name": "TyC Sports USA",
+        "id": "TyCSportsUSA.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+        "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Arena Sport 1",
         "id": "ArenaSport1.sk",
         "logo": "https://i.imgur.com/2qf67zW.png",
@@ -1265,16 +1285,6 @@
         "country": "US"
     },
     {
-        "name": "GolTV Latin America",
-        "id": "GolTVLatinAmerica.us",
-        "logo": "https://i.imgur.com/pypul3s.png",
-        "url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Fox Sports 1",
         "id": "FoxSports1.us",
         "logo": "https://i.imgur.com/O9BapV9.png",
@@ -1459,16 +1469,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Competition",
-        "id": "PlutoTVCompetition.us",
-        "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "PokerGo",
         "id": "PokerGo.us",
         "logo": "https://i.imgur.com/1603HED.png",
@@ -1503,6 +1503,47 @@
         "id": "NBCSportsPhiladelphia.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
         "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Monster Jam",
+        "id": "MonsterJam.us",
+        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
+        "categories": [
+            "sports",
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBR RidePass",
+        "id": "PBRRidePass.us",
+        "logo": "https://i.imgur.com/gUxH97E.png",
+        "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV E-Sports",
+        "id": "PlutoTVESports.us",
+        "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Women Sports",
+        "id": "TVSWomenSports.us",
+        "logo": "https://i.imgur.com/8hC4PfF.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1619,6 +1660,16 @@
             "travel",
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },
@@ -1906,16 +1957,6 @@
         "country": "IT"
     },
     {
-        "name": "SuperTennis",
-        "id": "SuperTennis.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
-        "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Rai Sport",
         "id": "RaiSport.it",
         "logo": "https://i.imgur.com/6PEevOM.png",
@@ -2184,16 +2225,6 @@
         "id": "PTVSports.pk",
         "logo": "https://i.imgur.com/CPm6GHA.png",
         "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "PK"
-    },
-    {
-        "name": "PK Sports",
-        "id": "PKSports.pk",
-        "logo": "https://i.imgur.com/qtbSnrY.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
         "categories": [
             "sports"
         ],
