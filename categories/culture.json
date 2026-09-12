@@ -207,17 +207,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV UFOP",
         "id": "TVUFOP.br",
         "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
@@ -512,6 +501,21 @@
         "country": "AR"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "TV Vita",
         "id": "TVVita.sk",
         "logo": "https://i.imgur.com/Cx1GLbo.png",
@@ -530,6 +534,18 @@
             "culture",
             "education",
             "entertainment"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "UMSA TVU LP",
+        "id": "UMSATVULP.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
+        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news",
+            "culture",
+            "education"
         ],
         "country": "BO"
     },
@@ -821,16 +837,6 @@
         "country": "FR"
     },
     {
-        "name": "Ev-tele",
-        "id": "Evtele.cg",
-        "logo": "https://i.imgur.com/iBlXl2T.png",
-        "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CG"
-    },
-    {
         "name": "Bonaire.tv",
         "id": "Bonairetv.bq",
         "logo": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
@@ -872,6 +878,16 @@
             "culture"
         ],
         "country": "HU"
+    },
+    {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
     },
     {
         "name": "Paci Contemporary Channel",
@@ -1075,6 +1091,18 @@
         "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
         "categories": [
             "culture"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "GikTVMX",
+        "id": "GikTVMX.mx",
+        "logo": "https://i.imgur.com/Gwz78jZ.png",
+        "url": "https://pistream.ddns.net/hls/stream.m3u8",
+        "categories": [
+            "culture",
+            "animation",
+            "entertainment"
         ],
         "country": "MX"
     },

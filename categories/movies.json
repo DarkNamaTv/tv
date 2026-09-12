@@ -224,6 +224,16 @@
         "country": "BG"
     },
     {
+        "name": "TV1000",
+        "id": "TV1000.bg",
+        "logo": "https://i.imgur.com/GHNsctR.png",
+        "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+        "categories": [
+            "movies"
+        ],
+        "country": "BG"
+    },
+    {
         "name": "NH BollyFlix",
         "id": "NHBollyFlix.np",
         "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
@@ -268,6 +278,16 @@
         "id": "Boreal.do",
         "logo": "https://i.imgur.com/KSquHTG.png",
         "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Mega Cine TV",
+        "id": "MegaCineTV.do",
+        "logo": "https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png",
+        "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
         "categories": [
             "movies"
         ],
@@ -1210,10 +1230,40 @@
         "country": "IN"
     },
     {
-        "name": "All Time Movies",
-        "id": "AllTimeMovies.in",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
-        "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+        "name": "Goldmines Action",
+        "id": "GoldminesAction.in",
+        "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold 2",
+        "id": "StarGold2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540",
+        "url": "http://107.167.16.138/stargold2/index.m3u8?token=test",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Action",
+        "id": "ZeeAction.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
+        "url": "http://107.167.16.138/zeeaction/index.m3u8?token=test",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Talkies",
+        "id": "ZeeTalkies.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540",
+        "url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",
         "categories": [
             "movies"
         ],
@@ -1251,20 +1301,20 @@
         "country": "UZ"
     },
     {
+        "name": "Aurora Media Films",
+        "id": "AuroraMediaFilms.gt",
+        "logo": "https://i.imgur.com/DVC5w6H.png",
+        "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "GT"
+    },
+    {
         "name": "Grjngo Western Movies",
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
         "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Cult Films",
-        "id": "PlutoTVCultFilms.de",
-        "logo": "https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8",
         "categories": [
             "movies"
         ],
@@ -1370,6 +1420,21 @@
         "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
@@ -1938,22 +2003,125 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Cine Inspiracao",
-        "id": "PlutoTVCineInspiracao.us",
-        "logo": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png",
-        "url": "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8",
+        "name": "70s Cinema",
+        "id": "70sCinema.us",
+        "logo": "https://i.imgur.com/mgXeEE4.png",
+        "url": "https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Crime Movies",
-        "id": "PlutoTVCrimeMovies.us",
-        "logo": "https://i.imgur.com/SJcqknt.png",
-        "url": "https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8",
+        "name": "80s Rewind",
+        "id": "80sRewind.us",
+        "logo": "https://i.imgur.com/nkEeYfI.png",
+        "url": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "90s Throwback",
+        "id": "90sThrowback.us",
+        "logo": "https://i.imgur.com/KoGko6M.png",
+        "url": "https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Classic Movies Channel",
+        "id": "ClassicMoviesChannel.us",
+        "logo": "https://i.imgur.com/pQJxov2.png",
+        "url": "https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Classic Movie Westerns",
+        "id": "ClassicMovieWesterns.us",
+        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Paramount Network",
+        "id": "ParamountNetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+        "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
+        "categories": [
+            "series",
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Cult Films",
+        "id": "PlutoTVCultFilms.us",
+        "logo": "https://i.imgur.com/xoaIAus.png",
+        "url": "https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Icons",
+        "id": "PlutoTVIcons.us",
+        "logo": "https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Spotlight",
+        "id": "PlutoTVSpotlight.us",
+        "logo": "https://i.imgur.com/UmuJkVB.png",
+        "url": "https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Staff Picks",
+        "id": "PlutoTVStaffPicks.us",
+        "logo": "https://i.imgur.com/JzwO8IO.png",
+        "url": "https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Westerns",
+        "id": "PlutoTVWesterns.us",
+        "logo": "https://i.imgur.com/biepi4A.png",
+        "url": "https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Wild Wild West",
+        "id": "TheWildWildWest.us",
+        "logo": "https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8",
+        "categories": [
+            "movies",
+            "series"
         ],
         "country": "US"
     },
@@ -2481,16 +2649,6 @@
         "country": "CN"
     },
     {
-        "name": "CND Film Middle School Channel",
-        "id": "CNDFilmMiddleSchoolChannel.cn",
-        "logo": "https://i.imgur.com/4uG8HsQ.png",
-        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "CN"
-    },
-    {
         "name": "Nolly Africa",
         "id": "NollyAfrica.uk",
         "logo": "https://i.imgur.com/IxtGpti.png",
@@ -2601,16 +2759,6 @@
         "country": "IR"
     },
     {
-        "name": "iFilm Arabic",
-        "id": "iFilmArabic.ir",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
-        "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "iFilm English",
         "id": "iFilmEnglish.ir",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
@@ -2709,18 +2857,6 @@
         "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "MCI Television",
-        "id": "MCITelevision.co",
-        "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
-        "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
-        "categories": [
-            "movies",
-            "family",
-            "general"
         ],
         "country": "CO"
     },

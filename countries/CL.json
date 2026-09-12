@@ -1044,16 +1044,6 @@
         "country": "CL"
     },
     {
-        "name": "China Channel",
-        "id": "ChinaChannel.cl",
-        "logo": "https://cdn.m3u.cl/logo/1769_China_Channel.png",
-        "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Rancagua FM",
         "id": "RadioRancaguaFM.cl",
         "logo": "https://i.imgur.com/ZzUc6je.png",
@@ -1487,16 +1477,6 @@
         "country": "CL"
     },
     {
-        "name": "TeleCauquenes",
-        "id": "TeleCauquenes.cl",
-        "logo": "https://i.imgur.com/cNYDqhp.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Vision Plus TV",
         "id": "VisionPlusTV.cl",
         "logo": "https://i.imgur.com/mpNcG5F.png",
@@ -1805,16 +1785,6 @@
         "country": "CL"
     },
     {
-        "name": "Arica TV",
-        "id": "AricaTV.cl",
-        "logo": "https://i.imgur.com/I67WOgT.png",
-        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Cultura Online",
         "id": "CulturaOnline.cl",
         "logo": "https://i.imgur.com/w8td5Lq.png",
@@ -1845,16 +1815,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "RTV Nuble",
         "id": "RTVNuble.cl",
         "logo": "https://i.imgur.com/BDKgDZG.png",
@@ -1869,6 +1829,56 @@
         "url": "https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Agricultura TV",
+        "id": "AgriculturaTV.cl",
+        "logo": "https://i.imgur.com/sxrYc3Q.png",
+        "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Fantasia TV",
+        "id": "RadioFantasiaTV.cl",
+        "logo": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
+        "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Solo Bailalo",
+        "id": "SoloBailalo.cl",
+        "logo": "https://i.imgur.com/SImJE7c.png",
+        "url": "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Televida",
+        "id": "Televida.cl",
+        "logo": "https://i.imgur.com/bmNA8hq.png",
+        "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "UTalca TV",
+        "id": "UTalcaTV.cl",
+        "logo": "https://i.imgur.com/2AK61FQ.png",
+        "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
+        "categories": [
+            "education"
         ],
         "country": "CL"
     }

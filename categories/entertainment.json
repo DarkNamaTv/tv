@@ -536,10 +536,10 @@
         "country": "DO"
     },
     {
-        "name": "Nitida TV",
-        "id": "NitidaTV.do",
-        "logo": "https://i.imgur.com/z9JkxcM.png",
-        "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
+        "name": "JARABACOA TV",
+        "id": "JARABACOATV.do",
+        "logo": "https://imgur.com/m9WCrlw.jpg",
+        "url": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -858,6 +858,16 @@
         "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
         "categories": [
             "general",
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Vicosa",
+        "id": "TVVicosa.br",
+        "logo": "https://i.imgur.com/TZF55f9.png",
+        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+        "categories": [
             "entertainment"
         ],
         "country": "BR"
@@ -1644,16 +1654,6 @@
         "country": "IN"
     },
     {
-        "name": "Siri Kannada All Time",
-        "id": "SiriKannadaAllTime.in",
-        "logo": "https://i.imgur.com/IR0BrEX.jpeg",
-        "url": "https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "MH One Dil Se",
         "id": "MHOneDilSe.in",
         "logo": "https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png",
@@ -1741,16 +1741,6 @@
         "categories": [
             "entertainment",
             "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Oasis TV",
-        "id": "OasisTV.py",
-        "logo": "https://i.imgur.com/u9umNKp.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "PY"
     },
@@ -1911,16 +1901,6 @@
         "id": "MovistarPlus.pe",
         "logo": "https://i.imgur.com/yGQGDoi.png",
         "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Kora TV",
-        "id": "KoraTV.pe",
-        "logo": "https://i.imgur.com/ahBYv4x.png",
-        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2257,6 +2237,43 @@
         "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Pulpo TV",
+        "id": "CanalPulpoTV.ar",
+        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "LAMIL35 TV",
+        "id": "LAMIL35TV.ar",
+        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+        "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+        "categories": [
+            "classic",
+            "entertainment",
+            "animation"
         ],
         "country": "AR"
     },
@@ -3266,40 +3283,30 @@
         "country": "US"
     },
     {
-        "name": "Dating Disasters",
-        "id": "DatingDisasters.us",
-        "logo": "https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Canal UOL",
-        "id": "PlutoTVCanalUOL.us",
-        "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Price Is Right",
-        "id": "ThePriceIsRight.us",
-        "logo": "https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WWON-TV Channel 48",
         "id": "WWONTVChannel48.us",
         "logo": "https://i.imgur.com/l4qHAq6.png",
         "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Best of Dr Phil",
+        "id": "BestofDrPhil.us",
+        "logo": "https://i.imgur.com/Jj0wTFQ.png",
+        "url": "https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Heartland",
+        "id": "Heartland.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+        "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3380,16 +3387,6 @@
         "id": "MaximaTV.ve",
         "logo": "https://i.imgur.com/HMZRVL5.jpeg",
         "url": "https://maximatv.net/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Nortena Tv",
-        "id": "NortenaTv.ve",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -4276,16 +4273,6 @@
         "country": "EC"
     },
     {
-        "name": "La Nueva Radio TV 97.7",
-        "id": "LaNuevaRadioTV977.ec",
-        "logo": "https://i.imgur.com/19FN4Lp.png",
-        "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Gaviota TV",
         "id": "GaviotaTV.ec",
         "logo": "https://i.imgur.com/1vlZA6O.png",
@@ -4714,6 +4701,18 @@
         "logo": "https://i.imgur.com/R3icGuG.png",
         "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
         "categories": [
+            "entertainment"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "GikTVMX",
+        "id": "GikTVMX.mx",
+        "logo": "https://i.imgur.com/Gwz78jZ.png",
+        "url": "https://pistream.ddns.net/hls/stream.m3u8",
+        "categories": [
+            "culture",
+            "animation",
             "entertainment"
         ],
         "country": "MX"

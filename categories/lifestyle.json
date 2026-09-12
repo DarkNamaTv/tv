@@ -144,6 +144,16 @@
         "country": "RU"
     },
     {
+        "name": "FashionTV",
+        "id": "FashionTV.ru",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
+        "url": "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Loupe",
         "id": "Loupe.br",
         "logo": "https://i.imgur.com/T6tsw0O.png",
@@ -179,6 +189,16 @@
         "id": "NDTVGoodTimes.in",
         "logo": "https://i.imgur.com/7cruYvo.png",
         "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Zest",
+        "id": "ZeeZest.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZKWY.png?lock=720x540",
+        "url": "http://107.167.16.138/zeezesthd/index.m3u8?token=test",
         "categories": [
             "lifestyle"
         ],
@@ -543,6 +563,16 @@
             "lifestyle",
             "business",
             "culture"
+        ],
+        "country": "LU"
+    },
+    {
+        "name": "Luxe TV",
+        "id": "LuxeTV.lu",
+        "logo": "https://i.imgur.com/24ehonx.png",
+        "url": "http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8",
+        "categories": [
+            "lifestyle"
         ],
         "country": "LU"
     },
