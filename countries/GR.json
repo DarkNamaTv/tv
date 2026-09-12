@@ -136,16 +136,6 @@
         "country": "GR"
     },
     {
-        "name": "Ionian TV",
-        "id": "IonianTV.gr",
-        "logo": "https://i.imgur.com/JILN3kS.png",
-        "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Naftemporiki TV",
         "id": "NaftemporikiTV.gr",
         "logo": "https://i.imgur.com/9OFdMud.png",
@@ -403,16 +393,6 @@
         "country": "GR"
     },
     {
-        "name": "Action 24",
-        "id": "Action24.gr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
-        "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Star Kentrikis Elladas",
         "id": "StarKentrikisElladas.gr",
         "logo": "https://i.imgur.com/ZBt6beo.png",
@@ -450,16 +430,6 @@
         "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "Ellinikos FM",
-        "id": "EllinikosFM.gr",
-        "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
-        "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "GR"
     },
@@ -522,16 +492,6 @@
         "country": "GR"
     },
     {
-        "name": "NRG 91",
-        "id": "NRG91.gr",
-        "logo": "https://i.imgur.com/1Zl1OJ5.png",
-        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "4E",
         "id": "4E.gr",
         "logo": "https://i.imgur.com/Na0UCV7.png",
@@ -564,6 +524,24 @@
         "id": "LepantoTV.gr",
         "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
         "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "Faros TV2",
+        "id": "FarosTV2.gr",
+        "logo": "https://i.imgur.com/7xtz1Jo.png",
+        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+        "categories": [],
+        "country": "GR"
+    },
+    {
+        "name": "Kos TV",
+        "id": "KosTV.gr",
+        "logo": "https://i.imgur.com/bdJnQ1W.png",
+        "url": "https://eu1.streams.gr:8081/kostv/index.m3u8",
         "categories": [
             "general"
         ],

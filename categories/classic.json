@@ -53,6 +53,17 @@
         "country": "IN"
     },
     {
+        "name": "ZillarBarta News",
+        "id": "ZillarBartaNews.in",
+        "logo": "https://i.imgur.com/6uestzY.jpeg",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+        "categories": [
+            "news",
+            "classic"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "TVS Retro",
         "id": "TVSRetro.gt",
         "logo": "https://i.imgur.com/jdnHci0.png",
@@ -309,20 +320,10 @@
         "country": "US"
     },
     {
-        "name": "Beverly Hillbillies",
-        "id": "BeverlyHillbillies.us",
-        "logo": "https://i.imgur.com/OV9hT93.png",
-        "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Classic TV Drama",
-        "id": "ClassicTVDrama.us",
-        "logo": "https://i.imgur.com/XHQxv0x.png",
-        "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
+        "name": "Classic TV Crime Drama",
+        "id": "ClassicTVCrimeDrama.us",
+        "logo": "https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8",
         "categories": [
             "classic"
         ],
@@ -337,6 +338,39 @@
             "classic"
         ],
         "country": "CN"
+    },
+    {
+        "name": "Happy Days",
+        "id": "HappyDays.se",
+        "logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "JAG",
+        "id": "JAG.se",
+        "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Rawhide",
+        "id": "Rawhide.se",
+        "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+        "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
     },
     {
         "name": "Cinevault Westerns (540p) [Geo-blocked]",

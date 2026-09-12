@@ -1,5 +1,17 @@
 [
     {
+        "name": "Manas TV",
+        "id": "ManasTV.kg",
+        "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "entertainment"
+        ],
+        "country": "KG"
+    },
+    {
         "name": "ART",
         "id": "ART.gr",
         "logo": "https://i.imgur.com/mNeLu04.png",
@@ -226,6 +238,17 @@
         "categories": [
             "education",
             "culture"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
         ],
         "country": "BR"
     },
@@ -785,16 +808,6 @@
         "country": "VN"
     },
     {
-        "name": "Imai TV",
-        "id": "ImaiTV.lk",
-        "logo": "https://i.imgur.com/9tODclu.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "LK"
-    },
-    {
         "name": "Hamaika Telebista",
         "id": "HamaikaTelebista.es",
         "logo": "https://i.imgur.com/HR3G3Ie.png",
@@ -880,16 +893,6 @@
         "country": "HU"
     },
     {
-        "name": "Belarus-3",
-        "id": "Belarus3.by",
-        "logo": "https://i.imgur.com/JkcDycn.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "BY"
-    },
-    {
         "name": "Paci Contemporary Channel",
         "id": "PaciContemporaryChannel.it",
         "logo": "https://i.imgur.com/RtOvD2M.png",
@@ -949,6 +952,16 @@
             "culture"
         ],
         "country": "NL"
+    },
+    {
+        "name": "Kemet TV",
+        "id": "KemetTV.cm",
+        "logo": "https://i.imgur.com/NZ0YqOb.jpeg",
+        "url": "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CM"
     },
     {
         "name": "Ciracu TV",
