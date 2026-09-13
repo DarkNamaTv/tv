@@ -244,16 +244,6 @@
         "country": "PK"
     },
     {
-        "name": "ARY News",
-        "id": "ARYNews.pk",
-        "logo": "https://i.imgur.com/R4KtTbJ.jpg",
-        "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "24 News HD",
         "id": "24NewsHD.pk",
         "logo": "https://i.imgur.com/IH6AaWm.jpeg",
@@ -382,6 +372,36 @@
         "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "PK Sports",
+        "id": "PKSports.pk",
+        "logo": "https://i.imgur.com/qtbSnrY.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "PTV Sports",
+        "id": "PTVSports.pk",
+        "logo": "https://i.imgur.com/CPm6GHA.png",
+        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Sky News Urdu",
+        "id": "SkyNewsUrdu.pk",
+        "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "PK"
     }

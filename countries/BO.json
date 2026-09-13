@@ -508,10 +508,43 @@
         "country": "BO"
     },
     {
-        "name": "Gigavision",
-        "id": "Gigavision.bo",
-        "logo": "https://i.imgur.com/fE3BkcT.png",
-        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "FAP TV",
+        "id": "FAPTV.bo",
+        "logo": "https://i.imgur.com/jZ7g58e.png",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Radio Clasica TV",
+        "id": "RadioClasicaTV.bo",
+        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Vos TV",
+        "id": "VosTV.bo",
+        "logo": "https://i.imgur.com/Cm1Xjeq.png",
+        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
         "categories": [],
         "country": "BO"
     }

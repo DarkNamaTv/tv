@@ -262,6 +262,16 @@
         "country": "BA"
     },
     {
+        "name": "Mercy TV",
+        "id": "MercyTV.sl",
+        "logo": "https://i.imgur.com/YPAM74x.jpeg",
+        "url": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SL"
+    },
+    {
         "name": "3ABN Russia",
         "id": "3ABNRussia.ru",
         "logo": "https://i.imgur.com/4fhBbam.png",
@@ -338,17 +348,6 @@
         "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
         "categories": [
             "music",
-            "religious"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden TV",
-        "id": "CityEdenTV.ru",
-        "logo": "https://i.imgur.com/X9kACKi.png",
-        "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
-        "categories": [
-            "general",
             "religious"
         ],
         "country": "RU"
@@ -1338,20 +1337,20 @@
         "country": "KE"
     },
     {
+        "name": "YOUNIB Media TV",
+        "id": "YOUNIBMediaTV.ke",
+        "logo": "https://i.imgur.com/LtiPOYG.jpg",
+        "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "KE"
+    },
+    {
         "name": "Bethel TV",
         "id": "BethelTV.pe",
         "logo": "https://i.imgur.com/zCVh765.png",
         "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Vision",
-        "id": "Vision.pe",
-        "logo": "https://i.imgur.com/gyuoNZk.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2081,6 +2080,16 @@
         "country": "UG"
     },
     {
+        "name": "Ark TV",
+        "id": "ArkTV.ug",
+        "logo": "https://i.imgur.com/yCHNZXD.png",
+        "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "UG"
+    },
+    {
         "name": "Josue TV",
         "id": "JosueTV.sv",
         "logo": "https://i.imgur.com/LNWGe1D.jpg",
@@ -2095,16 +2104,6 @@
         "id": "TVLeondeJuda.sv",
         "logo": "https://i.imgur.com/ZUCppwi.png",
         "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "TV CRET",
-        "id": "TVCRET.sv",
-        "logo": "https://i.imgur.com/ChonoKb.png",
-        "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
         "categories": [
             "religious"
         ],
@@ -2135,6 +2134,16 @@
         "id": "TVGetsemani.sv",
         "logo": "https://i.imgur.com/C9SJCcE.jpg",
         "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "TVCa",
+        "id": "TVCa.sv",
+        "logo": "https://i.imgur.com/uPWWtCA.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2277,6 +2286,16 @@
         "id": "TVManaRusskiy.pt",
         "logo": "https://i.imgur.com/fACHqmY.png",
         "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "ADB TV",
+        "id": "ADBTV.pt",
+        "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
+        "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3875,6 +3894,16 @@
         "country": "IQ"
     },
     {
+        "name": "Al-Jawadain TV",
+        "id": "AlJawadainTV.iq",
+        "logo": "https://i.imgur.com/Eo3UYCK.png",
+        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IQ"
+    },
+    {
         "name": "Shalom TV",
         "id": "ShalomTV.sr",
         "logo": "https://i.imgur.com/lJ4MLHn.png",
@@ -4125,6 +4154,16 @@
             "religious"
         ],
         "country": "FR"
+    },
+    {
+        "name": "Esaie 45 Tele",
+        "id": "Esaie45Tele.cg",
+        "logo": "https://i.imgur.com/nc9QBnD.png",
+        "url": "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CG"
     },
     {
         "name": "IBN TV",
@@ -5109,16 +5148,6 @@
             "religious"
         ],
         "country": "PK"
-    },
-    {
-        "name": "CNA",
-        "id": "CNA.dz",
-        "logo": "https://i.imgur.com/Ki3ySUE.png",
-        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DZ"
     },
     {
         "name": "TV Mana Mocambique",

@@ -942,16 +942,6 @@
         "country": "CL"
     },
     {
-        "name": "Abajo e' La Linea TV",
-        "id": "AbajoeLaLineaTV.cl",
-        "logo": "https://i.imgur.com/CK5DBuh.png",
-        "url": "https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "ARTV",
         "id": "ARTV.cl",
         "logo": "https://i.imgur.com/rKP1ihL.png",
@@ -1207,16 +1197,6 @@
         "country": "CL"
     },
     {
-        "name": "Ciudadano Radio",
-        "id": "CiudadanoRadio.cl",
-        "logo": "https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png",
-        "url": "https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Decima TV",
         "id": "DecimaTV.cl",
         "logo": "https://i.imgur.com/eu8hDDc.png",
@@ -1373,16 +1353,6 @@
         "id": "AntofagastaTV.cl",
         "logo": "https://i.imgur.com/XIQr0fs.png",
         "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Autonoma TV",
-        "id": "AutonomaTV.cl",
-        "logo": "https://i.imgur.com/kD6badL.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1883,12 +1853,30 @@
         "country": "CL"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "name": "Alternativa TV",
+        "id": "AlternativaTV.cl",
+        "logo": "https://i.imgur.com/KCrSbgv.png",
+        "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
         "categories": [
-            "documentary"
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "TeleCauquenes",
+        "id": "TeleCauquenes.cl",
+        "logo": "https://i.imgur.com/cNYDqhp.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "CL"
     }

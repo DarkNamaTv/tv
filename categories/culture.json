@@ -42,6 +42,16 @@
         "country": "UA"
     },
     {
+        "name": "MRTV NRC",
+        "id": "MRTVNRC.mm",
+        "logo": "https://i.imgur.com/5aLFslk.jpg",
+        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "MM"
+    },
+    {
         "name": "Woman TV",
         "id": "WomanTV.tr",
         "logo": "https://i.imgur.com/f2zGoV3.png",
@@ -97,10 +107,10 @@
         "country": "TR"
     },
     {
-        "name": "Canal 17 RTVD",
-        "id": "Canal17RTVD.do",
-        "logo": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
-        "url": "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+        "name": "Guaymate TV",
+        "id": "GuaymateTV.do",
+        "logo": "https://i.imgur.com/PBgQi9a.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
         "categories": [
             "culture"
         ],
@@ -625,16 +635,6 @@
         "country": "US"
     },
     {
-        "name": "Flowers TV USA",
-        "id": "FlowersTVUSA.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",
-        "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Hmong Star TV",
         "id": "HmongStarTV.us",
         "logo": "https://i.imgur.com/dRsacao.png",
@@ -880,16 +880,6 @@
             "culture"
         ],
         "country": "HU"
-    },
-    {
-        "name": "Belarus-3",
-        "id": "Belarus3.by",
-        "logo": "https://i.imgur.com/JkcDycn.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "BY"
     },
     {
         "name": "Paci Contemporary Channel",
@@ -1148,6 +1138,17 @@
             "culture"
         ],
         "country": "AZ"
+    },
+    {
+        "name": "ETV 2",
+        "id": "ETV2.ee",
+        "logo": "https://i.imgur.com/fUjGHDa.png",
+        "url": "https://sb.err.ee/live/etv2.m3u8",
+        "categories": [
+            "kids",
+            "culture"
+        ],
+        "country": "EE"
     },
     {
         "name": "Pamir TV",
