@@ -327,7 +327,7 @@
         "name": "CNBC",
         "id": "CNBC.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
-        "url": "http://41.205.93.154/CNBC/index.m3u8",
+        "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
         "categories": [
             "business"
         ],
@@ -373,6 +373,17 @@
             "business"
         ],
         "country": "ES"
+    },
+    {
+        "name": "BFM Business",
+        "id": "BFMBusiness.fr",
+        "logo": "https://i.imgur.com/psqIHn4.png",
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+        "categories": [
+            "business",
+            "news"
+        ],
+        "country": "FR"
     },
     {
         "name": "BMG TV",

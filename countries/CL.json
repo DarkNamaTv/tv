@@ -772,16 +772,6 @@
         "country": "CL"
     },
     {
-        "name": "La Popular TV",
-        "id": "LaPopularTV.cl",
-        "logo": "https://i.imgur.com/AWdgMCC.png",
-        "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Campo Abierto TV",
         "id": "CampoAbiertoTV.cl",
         "logo": "https://i.imgur.com/KL6pgaL.png",
@@ -883,14 +873,6 @@
         "categories": [
             "music"
         ],
-        "country": "CL"
-    },
-    {
-        "name": "Alternativa TV",
-        "id": "AlternativaTV.cl",
-        "logo": "https://i.imgur.com/KCrSbgv.png",
-        "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8",
-        "categories": [],
         "country": "CL"
     },
     {
@@ -1881,22 +1863,32 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
         "categories": [
             "general"
         ],
         "country": "CL"
     },
     {
-        "name": "TeleCauquenes",
-        "id": "TeleCauquenes.cl",
-        "logo": "https://i.imgur.com/cNYDqhp.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
+        "name": "Chocolate FM",
+        "id": "ChocolateFM.cl",
+        "logo": "https://cdn.m3u.cl/logo/382_ChocolateFM.png",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8",
         "categories": [
-            "news"
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
         ],
         "country": "CL"
     }

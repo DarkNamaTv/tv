@@ -180,6 +180,16 @@
         "country": "TR"
     },
     {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Tiguerito TV",
         "id": "TigueritoTV.do",
         "logo": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
@@ -215,6 +225,16 @@
         "id": "NickelodeonCIS.kz",
         "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
         "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "KZ"
+    },
+    {
+        "name": "Balapan International",
+        "id": "BalapanInternational.kz",
+        "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+        "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -590,6 +610,37 @@
         "country": "IN"
     },
     {
+        "name": "ETV Bal Bharat",
+        "id": "ETVBalBharat.in",
+        "logo": "https://i.imgur.com/zsTxPV9.png",
+        "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Super Hungama",
+        "id": "SuperHungama.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143883_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Cartoon",
+        "id": "ZBCartoon.in",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Bolajon",
         "id": "Bolajon.uz",
         "logo": "https://i.imgur.com/s7o0ifu.png",
@@ -655,16 +706,6 @@
         "id": "DisneyChannel.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "url": "https://cdn.telecloud.tv/CH4019/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Junior",
-        "id": "PlutoTVJunior.de",
-        "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-        "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
         "categories": [
             "kids"
         ],
@@ -1197,55 +1238,25 @@
         "country": "US"
     },
     {
-        "name": "Bob Esponja Pantalones Cuadrados",
-        "id": "BobEsponjaPantalonesCuadrados.us",
-        "logo": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png",
-        "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+        "name": "Nickelodeon en espanol",
+        "id": "Nickelodeonenespanol.us",
+        "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
         "categories": [
             "kids"
         ],
         "country": "US"
     },
     {
-        "name": "Nickelodeon Clasico",
-        "id": "NickelodeonClasico.us",
-        "logo": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png",
-        "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nickelodeon Pluto TV",
-        "id": "NickelodeonPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+        "name": "JapanimTV",
+        "id": "JapanimTV.be",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+        "url": "https://foxkidstv.be:3369/stream/play.m3u8",
         "categories": [
             "animation",
             "kids"
         ],
-        "country": "US"
-    },
-    {
-        "name": "Nickelodeon Toons",
-        "id": "NickelodeonToons.us",
-        "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
-        "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Super! iCarly",
-        "id": "SuperiCarly.us",
-        "logo": "https://i.imgur.com/IWcQfF2.png",
-        "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
+        "country": "BE"
     },
     {
         "name": "Afarin Baxcha",
@@ -1711,6 +1722,16 @@
         "country": "UK"
     },
     {
+        "name": "Nickelodeon",
+        "id": "Nickelodeon.uk",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "UK"
+    },
+    {
         "name": "Kids TV",
         "id": "KidsTV.id",
         "logo": "https://i.imgur.com/B5YiUIP.png",
@@ -1881,17 +1902,6 @@
         "categories": [
             "animation",
             "kids"
-        ],
-        "country": "EE"
-    },
-    {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
         ],
         "country": "EE"
     },

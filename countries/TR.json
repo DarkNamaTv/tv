@@ -838,14 +838,6 @@
         "country": "TR"
     },
     {
-        "name": "Show Turk",
-        "id": "ShowTurk.tr",
-        "logo": "https://i.imgur.com/fdZpGDj.png",
-        "url": "https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8",
-        "categories": [],
-        "country": "TR"
-    },
-    {
         "name": "Afroturk TV",
         "id": "AfroturkTV.tr",
         "logo": "https://i.imgur.com/fWlLvRA.png",
@@ -952,16 +944,6 @@
         "country": "TR"
     },
     {
-        "name": "MTurk TV",
-        "id": "MTurkTV.tr",
-        "logo": "https://i.imgur.com/xj1gvrq.png",
-        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Natural TV",
         "id": "NaturalTV.tr",
         "logo": "https://i.imgur.com/rfcJ674.png",
@@ -1062,14 +1044,6 @@
         "country": "TR"
     },
     {
-        "name": "TV 100",
-        "id": "TV100.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8",
-        "categories": [],
-        "country": "TR"
-    },
-    {
         "name": "Life TV",
         "id": "LifeTV.tr",
         "logo": "https://i.imgur.com/lWeJxm0.png",
@@ -1080,22 +1054,21 @@
         "country": "TR"
     },
     {
-        "name": "TRT Genc",
-        "id": "TRTGenc.tr",
-        "logo": "https://i.imgur.com/fCHQYWS.png",
-        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "general",
-            "culture"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "TV 264",
         "id": "TV264.tr",
         "logo": "https://i.imgur.com/tudXdOZ.png",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
         "categories": [],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
+        ],
         "country": "TR"
     }
 ]

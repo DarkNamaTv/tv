@@ -636,16 +636,6 @@
         "country": "PE"
     },
     {
-        "name": "Zeleve TV",
-        "id": "ZeleveTV.pe",
-        "logo": "https://i.imgur.com/CGWaunJ.jpeg",
-        "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Nacional Tv Peru",
         "id": "NacionalTvPeru.pe",
         "logo": "https://i.imgur.com/ad0GNqa.png",
@@ -858,24 +848,6 @@
         "country": "PE"
     },
     {
-        "name": "Region TV Callao",
-        "id": "RegionTVCallao.pe",
-        "logo": "https://i.imgur.com/I4grcqk.png",
-        "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
-        "name": "Trivu",
-        "id": "Trivu.pe",
-        "logo": "https://i.imgur.com/QrUYjOS.png",
-        "url": "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Top TV",
         "id": "TopTV.pe",
         "logo": "https://i.imgur.com/tiNvihZ.png",
@@ -920,26 +892,6 @@
         "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Galactica TV",
-        "id": "GalacticaTV.pe",
-        "logo": "https://i.imgur.com/byL1zCV.jpeg",
-        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Kora TV",
-        "id": "KoraTV.pe",
-        "logo": "https://i.imgur.com/ahBYv4x.png",
-        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "PE"
     },
@@ -1008,6 +960,36 @@
         "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "JNE TV",
+        "id": "JNETV.pe",
+        "logo": "https://i.imgur.com/b25XfCj.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Latina Noticias 24/7",
+        "id": "LatinaNoticias247.pe",
+        "logo": "https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png",
+        "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Turbo Mix Radio TV",
+        "id": "TurboMixRadioTV.pe",
+        "logo": "https://i.imgur.com/AsdBQa3.png",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "PE"
     }

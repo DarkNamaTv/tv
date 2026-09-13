@@ -261,16 +261,6 @@
         "country": "VE"
     },
     {
-        "name": "BTA TV",
-        "id": "BTATV.ve",
-        "logo": "https://i.imgur.com/vygOosC.png",
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Inter TV",
         "id": "InterTV.ve",
         "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
@@ -295,16 +285,6 @@
         "id": "VepacoTV.ve",
         "logo": "https://i.imgur.com/0bqJksL.png",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Portuguesa Television",
-        "id": "PortuguesaTelevision.ve",
-        "logo": "https://i.imgur.com/jHUSfGz.png",
-        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -463,6 +443,46 @@
         "id": "TVOasisMonay.ve",
         "logo": "https://i.imgur.com/hwd7osJ.jpeg",
         "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Canal C del Zulia",
+        "id": "CanalCdelZulia.ve",
+        "logo": "https://i.imgur.com/ew44KOZ.png",
+        "url": "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Grande TV",
+        "id": "GrandeTV.ve",
+        "logo": "https://i.imgur.com/jxCirrP.png",
+        "url": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Plous TV",
+        "id": "PlousTV.ve",
+        "logo": "https://i.imgur.com/OSet4en.png",
+        "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "TRT",
+        "id": "TRT.ve",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
         "categories": [
             "general"
         ],
