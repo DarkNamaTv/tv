@@ -180,6 +180,16 @@
         "country": "TR"
     },
     {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Tiguerito TV",
         "id": "TigueritoTV.do",
         "logo": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
@@ -215,6 +225,16 @@
         "id": "NickelodeonCIS.kz",
         "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
         "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "KZ"
+    },
+    {
+        "name": "Balapan International",
+        "id": "BalapanInternational.kz",
+        "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+        "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -732,17 +752,6 @@
         "country": "SA"
     },
     {
-        "name": "Xtrema Cartoons",
-        "id": "XtremaCartoons.ar",
-        "logo": "https://i.imgur.com/X2d8y4e.png",
-        "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Disney Jr. Latin America",
         "id": "DisneyJrLatinAmerica.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
@@ -1207,10 +1216,32 @@
         "country": "US"
     },
     {
-        "name": "Bob Esponja Pantalones Cuadrados",
-        "id": "BobEsponjaPantalonesCuadrados.us",
-        "logo": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png",
-        "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+        "name": "Kids Movie Club",
+        "id": "KidsMovieClub.us",
+        "logo": "https://i.imgur.com/avFk0Tt.png",
+        "url": "https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8",
+        "categories": [
+            "kids",
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MeTV Toons",
+        "id": "MeTVToons.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nickelodeon Classico",
+        "id": "NickelodeonClassico.us",
+        "logo": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png",
+        "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
         "categories": [
             "kids"
         ],
@@ -1862,16 +1893,6 @@
             "kids"
         ],
         "country": "SG"
-    },
-    {
-        "name": "Pluto TV Juniorklubben",
-        "id": "PlutoTVJuniorklubben.se",
-        "logo": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
-        "url": "https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "SE"
     },
     {
         "name": "Nickelodeon",

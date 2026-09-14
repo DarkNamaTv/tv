@@ -1246,14 +1246,6 @@
         "country": "BR"
     },
     {
-        "name": "Amazon Sat",
-        "id": "AmazonSat.br",
-        "logo": "https://i.imgur.com/7rjCS5i.png",
-        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TVitape",
         "id": "TVitape.br",
         "logo": "https://i.imgur.com/XeqcwKe.png",
@@ -1558,6 +1550,16 @@
         "id": "TVAFolha.br",
         "logo": "https://i.imgur.com/I7XGMhj.png",
         "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Brusque",
+        "id": "TVBrusque.br",
+        "logo": "https://i.imgur.com/J2EAZPS.png",
+        "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
         "categories": [
             "news"
         ],
