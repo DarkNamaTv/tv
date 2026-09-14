@@ -1322,16 +1322,6 @@
         "country": "ES"
     },
     {
-        "name": "Fuerteventura TV",
-        "id": "FuerteventuraTV.es",
-        "logo": "https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png",
-        "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "TBN Espana",
         "id": "TBNEspana.es",
         "logo": "https://i.imgur.com/oGvsUH9.png",
@@ -1606,6 +1596,25 @@
         "categories": [
             "movies"
         ],
+        "country": "ES"
+    },
+    {
+        "name": "24 Horas Catalunya",
+        "id": "24HorasCatalunya.es",
+        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+        "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+        "categories": [
+            "news",
+            "public"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Canal Donana",
+        "id": "CanalDonana.es",
+        "logo": "https://i.imgur.com/0WrKIxm.png",
+        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "categories": [],
         "country": "ES"
     }
 ]

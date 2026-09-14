@@ -1,17 +1,5 @@
 [
     {
-        "name": "TV UFOP",
-        "id": "TVUFOP.br",
-        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
-        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
-        "categories": [
-            "public",
-            "education",
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "3CatInfo",
         "id": "3CatInfo.es",
         "logo": "https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",
@@ -204,6 +192,17 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
         "categories": [
             "general",
+            "public"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "24 Horas Catalunya",
+        "id": "24HorasCatalunya.es",
+        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+        "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+        "categories": [
+            "news",
             "public"
         ],
         "country": "ES"

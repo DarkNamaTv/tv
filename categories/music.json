@@ -331,20 +331,20 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania 3Net",
-        "id": "RadioRomania3Net.ro",
-        "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
-        "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
         "categories": [
             "music"
         ],
         "country": "RO"
     },
     {
-        "name": "Radio Romania Antena Satelor",
-        "id": "RadioRomaniaAntenaSatelor.ro",
-        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "name": "Radio Fx Net",
+        "id": "RadioFxNet.ro",
+        "logo": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+        "url": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -721,6 +721,16 @@
         "country": "DO"
     },
     {
+        "name": "TV Exitos",
+        "id": "TVExitos.do",
+        "logo": "https://i.imgur.com/ahz7X7u.png",
+        "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Star 101 FM",
         "id": "Star101FM.gu",
         "logo": "https://star101.gu/images/fb_icon.jpg",
@@ -957,6 +967,16 @@
         "id": "CityEdenSirtakiTV.ru",
         "logo": "https://i.imgur.com/V3MTfyc.png",
         "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1314,6 +1334,16 @@
         "country": "IN"
     },
     {
+        "name": "YET Max",
+        "id": "YETMax.in",
+        "logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
+        "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Pindin TV",
         "id": "PindinTV.pa",
         "logo": "https://i.imgur.com/UaQC0l8.jpeg",
@@ -1424,6 +1454,16 @@
         "country": "MD"
     },
     {
+        "name": "Melody FM",
+        "id": "MelodyFM.jo",
+        "logo": "https://i.imgur.com/J8omcNz.png",
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "JO"
+    },
+    {
         "name": "E40",
         "id": "E40.py",
         "logo": "https://i.imgur.com/0RypDUY.png",
@@ -1500,17 +1540,6 @@
         "logo": "https://i.imgur.com/KOuxdMD.png",
         "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "categories": [
-            "entertainment",
             "music"
         ],
         "country": "PY"
@@ -1731,6 +1760,16 @@
         "id": "RadioRumbaTV.pe",
         "logo": "https://i.imgur.com/BYcxI03.png",
         "url": "https://tv.sistemasandinos.org/rumbatv/video.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -2404,16 +2443,6 @@
         "country": "PT"
     },
     {
-        "name": "Alegria TV",
-        "id": "AlegriaTV.bo",
-        "logo": "https://i.imgur.com/MIBZ2pZ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Audiokiss",
         "id": "Audiokiss.bo",
         "logo": "https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png",
@@ -2987,6 +3016,36 @@
         "id": "VideoMixTV.us",
         "logo": "https://i.imgur.com/nyLrIPP.png",
         "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "La Que Buena Atlanta",
+        "id": "LaQueBuenaAtlanta.us",
+        "logo": "https://iili.io/JysD2a4.png",
+        "url": "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MTV Classic",
+        "id": "MTVClassic.us",
+        "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo True School Hip-Hop",
+        "id": "VevoTrueSchoolHipHop.us",
+        "logo": "https://i.imgur.com/owUXUih.png",
+        "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
         "categories": [
             "music"
         ],
@@ -4024,16 +4083,6 @@
         "country": "MK"
     },
     {
-        "name": "Love TV",
-        "id": "LoveTV.mk",
-        "logo": "https://i.imgur.com/B8iaejQ.png",
-        "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "MK"
-    },
-    {
         "name": "Rock TV",
         "id": "RockTV.mk",
         "logo": "https://i.imgur.com/Y9miDQo.png",
@@ -4657,6 +4706,18 @@
         "country": "ID"
     },
     {
+        "name": "Lingkar TV",
+        "id": "LingkarTV.id",
+        "logo": "https://lingkartv.com/assets/img/logo-square.png",
+        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+        "categories": [
+            "news",
+            "music",
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "LRT Opus",
         "id": "LRTOpus.lt",
         "logo": "https://i.imgur.com/oLuZTMH.png",
@@ -4745,6 +4806,16 @@
             "music"
         ],
         "country": "IR"
+    },
+    {
+        "name": "A2i Music",
+        "id": "A2iMusic.sn",
+        "logo": "https://i.imgur.com/Fykhzxh.jpg",
+        "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "SN"
     },
     {
         "name": "Conecta TV",
@@ -5198,20 +5269,20 @@
         "country": "CO"
     },
     {
-        "name": "Buenisima Radio TV",
-        "id": "BuenisimaRadioTV.co",
-        "logo": "https://i.imgur.com/URKDlOZ.png",
-        "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+        "name": "Salsa Gorda Television",
+        "id": "SalsaGordaTelevision.co",
+        "logo": "https://i.imgur.com/3IhYd7G.jpg",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "categories": [
             "music"
         ],
         "country": "CO"
     },
     {
-        "name": "Salsa Gorda Television",
-        "id": "SalsaGordaTelevision.co",
-        "logo": "https://i.imgur.com/3IhYd7G.jpg",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+        "name": "MasMusica FM",
+        "id": "MasMusicaFM.co",
+        "logo": "https://i.imgur.com/tCg7owd.png",
+        "url": "https://video.ejeserver.com/live/masmusica.m3u8",
         "categories": [
             "music"
         ],

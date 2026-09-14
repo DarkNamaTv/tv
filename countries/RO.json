@@ -772,16 +772,6 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania 3Net",
-        "id": "RadioRomania3Net.ro",
-        "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
-        "url": "https://media.3netmedia.ro/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "TeleMoldova +",
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
@@ -854,6 +844,16 @@
         "id": "RadioRomaniaAntenaSatelor.ro",
         "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
         "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Radio Fx Net",
+        "id": "RadioFxNet.ro",
+        "logo": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+        "url": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
         "categories": [
             "music"
         ],

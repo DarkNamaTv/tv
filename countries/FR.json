@@ -671,16 +671,6 @@
         "country": "FR"
     },
     {
-        "name": "MTV",
-        "id": "MTV.fr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-        "url": "http://99.27.51.147:8080/MTV/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "ViaMatele",
         "id": "ViaMatele.fr",
         "logo": "https://i.imgur.com/XVCV9rj.png",
@@ -709,16 +699,6 @@
         "country": "FR"
     },
     {
-        "name": "Cine+ Classic",
-        "id": "CinePlusClassic.fr",
-        "logo": "https://i.imgur.com/y2zeLS3.jpeg",
-        "url": "http://99.27.51.147/CineClassic/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "Persiana Travel",
         "id": "PersianaTravel.fr",
         "logo": "",
@@ -733,34 +713,6 @@
         "id": "SciFi.fr",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
         "url": "http://41.205.93.154/SYFY/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Cine+ Frisson",
-        "id": "CinePlusFrisson.fr",
-        "logo": "https://i.imgur.com/MwFtbnR.jpeg",
-        "url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Syfy",
-        "id": "Syfy.fr",
-        "logo": "https://i.imgur.com/gUOXdjv.png",
-        "url": "http://99.27.51.147:8080/SYFY/index.m3u8",
-        "categories": [],
-        "country": "FR"
-    },
-    {
-        "name": "M6",
-        "id": "M6.fr",
-        "logo": "https://i.imgur.com/7GVp3fW.png",
-        "url": "http://99.27.51.147:8080/M6/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -804,6 +756,26 @@
         "categories": [
             "news",
             "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Alpe d'Huez TV",
+        "id": "AlpedHuezTV.fr",
+        "logo": "https://i.imgur.com/090tCQ5.png",
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Euronews Spanish",
+        "id": "EuronewsSpanish.fr",
+        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "FR"
     }

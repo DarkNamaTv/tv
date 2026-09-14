@@ -107,6 +107,17 @@
         "country": "TR"
     },
     {
+        "name": "TRT Genc",
+        "id": "TRTGenc.tr",
+        "logo": "https://i.imgur.com/fCHQYWS.png",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "general",
+            "culture"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Guaymate TV",
         "id": "GuaymateTV.do",
         "logo": "https://i.imgur.com/PBgQi9a.png",
@@ -203,18 +214,6 @@
         "logo": "https://i.imgur.com/HZI0ilU.png",
         "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
         "categories": [
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV UFOP",
-        "id": "TVUFOP.br",
-        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
-        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
-        "categories": [
-            "public",
-            "education",
             "culture"
         ],
         "country": "BR"
@@ -403,6 +402,16 @@
         "id": "VersoTV.cl",
         "logo": "https://i.imgur.com/zdv4IF8.png",
         "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
         "categories": [
             "culture"
         ],
@@ -787,16 +796,6 @@
         "country": "VN"
     },
     {
-        "name": "Imai TV",
-        "id": "ImaiTV.lk",
-        "logo": "https://i.imgur.com/9tODclu.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "LK"
-    },
-    {
         "name": "Hamaika Telebista",
         "id": "HamaikaTelebista.es",
         "logo": "https://i.imgur.com/HR3G3Ie.png",
@@ -1114,6 +1113,17 @@
         "categories": [
             "culture",
             "animation",
+            "entertainment"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Capital 21",
+        "id": "Capital21.mx",
+        "logo": "https://i.imgur.com/8ign49i.png",
+        "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+        "categories": [
+            "culture",
             "entertainment"
         ],
         "country": "MX"
