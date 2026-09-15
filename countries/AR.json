@@ -886,16 +886,6 @@
         "country": "AR"
     },
     {
-        "name": "Radio UP",
-        "id": "RadioUP.ar",
-        "logo": "https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png",
-        "url": "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "X Level Media",
         "id": "XLevelMedia.ar",
         "logo": "https://i.imgur.com/BGwQdQW.jpeg",
@@ -984,16 +974,6 @@
             "entertainment",
             "documentary",
             "movies",
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 7 Neuquen",
-        "id": "Canal7Neuquen.ar",
-        "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
-        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
-        "categories": [
             "general"
         ],
         "country": "AR"
@@ -1225,6 +1205,107 @@
         "id": "ElNueve.ar",
         "logo": "https://i.imgur.com/cJHP7bU.png",
         "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "5tv",
+        "id": "5tv.ar",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Beats Radio",
+        "id": "BeatsRadio.ar",
+        "logo": "https://i.imgur.com/zkNUO5p.png",
+        "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 9 Link",
+        "id": "Canal9Link.ar",
+        "logo": "https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg",
+        "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 9 Resistencia",
+        "id": "Canal9Resistencia.ar",
+        "logo": "https://i.imgur.com/xqgRFpC.png",
+        "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Showsport",
+        "id": "CanalShowsport.ar",
+        "logo": "https://i.imgur.com/0L9tW3Z.png",
+        "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Ciudad TV Resistencia",
+        "id": "CiudadTVResistencia.ar",
+        "logo": "https://i.imgur.com/oL8SMTL.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Corrientes TV",
+        "id": "CorrientesTV.ar",
+        "logo": "https://i.imgur.com/7PBkvRp.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Cosmos Tv",
+        "id": "CosmosTv.ar",
+        "logo": "https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",
+        "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+        "categories": [
+            "movies",
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Mas FM",
+        "id": "MasFM.ar",
+        "logo": "https://i.imgur.com/TJ4gWQM.png",
+        "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "NG Federal",
+        "id": "NGFederal.ar",
+        "logo": "https://i.imgur.com/lJCIqYn.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
         "categories": [
             "general"
         ],

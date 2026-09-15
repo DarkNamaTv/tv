@@ -430,16 +430,6 @@
         "country": "PY"
     },
     {
-        "name": "TV Aire",
-        "id": "TVAire.py",
-        "logo": "https://i.imgur.com/7gHFKPZ.png",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "America Paraguay",
         "id": "AmericaParaguay.py",
         "logo": "https://i.imgur.com/rCEu3fM.png",
@@ -585,6 +575,36 @@
         "categories": [
             "entertainment",
             "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Oasis TV",
+        "id": "OasisTV.py",
+        "logo": "https://i.imgur.com/u9umNKp.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Paraguay TV",
+        "id": "ParaguayTV.py",
+        "logo": "https://i.imgur.com/fkK7i8g.png",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "PY"
     }
