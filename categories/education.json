@@ -250,6 +250,18 @@
         "country": "BR"
     },
     {
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "categories": [
+            "public",
+            "education",
+            "culture"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Kite Victers",
         "id": "KiteVicters.in",
         "logo": "https://i.imgur.com/kj4OEsb.png",
@@ -276,6 +288,27 @@
         "id": "BVG.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png",
         "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "DD Kisan",
+        "id": "DDKisan.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/9/master.m3u8",
+        "categories": [
+            "education",
+            "outdoor"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Gyandarshan",
+        "id": "Gyandarshan.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/14/master.m3u8",
         "categories": [
             "education"
         ],
@@ -452,6 +485,16 @@
         "country": "TH"
     },
     {
+        "name": "ETV",
+        "id": "ETV.th",
+        "logo": "https://i.imgur.com/HTnQGcs.png",
+        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "TH"
+    },
+    {
         "name": "TV Maya",
         "id": "TVMaya.gt",
         "logo": "https://i.imgur.com/BGFa4OO.png",
@@ -542,18 +585,6 @@
         "country": "AR"
     },
     {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Radio Universitaria San Andres",
         "id": "RadioUniversitariaSanAndres.bo",
         "logo": "https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg",
@@ -574,6 +605,18 @@
             "news",
             "culture",
             "education"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "UMSA TVU Internacional",
+        "id": "UMSATVUInternacional.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "education",
+            "science",
+            "documentary"
         ],
         "country": "BO"
     },
@@ -865,10 +908,20 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Natureza",
-        "id": "PlutoTVNatureza.us",
-        "logo": "https://i.imgur.com/RuyQQ6M.png",
-        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
+        "name": "Pluto TV Misterios",
+        "id": "PlutoTVMisterios.us",
+        "logo": "https://i.imgur.com/gwxX1Y3.png",
+        "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Vida Real",
+        "id": "PlutoTVVidaReal.us",
+        "logo": "https://i.imgur.com/dRbBbxP.png",
+        "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
         "categories": [
             "education"
         ],

@@ -789,16 +789,6 @@
         "country": "PL"
     },
     {
-        "name": "Disney XD",
-        "id": "DisneyXD.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
-        "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "Polsat JimJam",
         "id": "PolsatJimJam.pl",
         "logo": "https://i.imgur.com/GjppUlg.png",
@@ -829,22 +819,33 @@
         "country": "PL"
     },
     {
-        "name": "Pixel TV",
-        "id": "PixelTV.pl",
-        "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
-        "url": "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8",
+        "name": "BTB Info",
+        "id": "BTBInfo.pl",
+        "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+        "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "categories": [
-            "animation",
-            "kids"
+            "documentary",
+            "news"
         ],
         "country": "PL"
     },
     {
-        "name": "TVP Dokument",
-        "id": "TVPDokument.pl",
-        "logo": "https://i.imgur.com/oQUNtzs.png",
-        "url": "https://tvpi.travny.workers.dev/tvpdokument.m3u8",
+        "name": "Telewizja iTTV",
+        "id": "TelewizjaiTTV.pl",
+        "logo": "https://www.ittv.pl/media/images/ittv-logo.png",
+        "url": "https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8",
         "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "TVK Stella",
+        "id": "TVKStella.pl",
+        "logo": "https://www.tvkstella.pl/img/poster.png",
+        "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
+        "categories": [
+            "general",
+            "news"
+        ],
         "country": "PL"
     }
 ]

@@ -60,16 +60,6 @@
         "country": "RO"
     },
     {
-        "name": "MISA TV",
-        "id": "MISATV.ro",
-        "logo": "https://i.imgur.com/2RxQNm6.png",
-        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Alfa Omega TV",
         "id": "AlfaOmegaTV.ro",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
@@ -260,16 +250,6 @@
             "religious"
         ],
         "country": "BA"
-    },
-    {
-        "name": "Mercy TV",
-        "id": "MercyTV.sl",
-        "logo": "https://i.imgur.com/YPAM74x.jpeg",
-        "url": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SL"
     },
     {
         "name": "3ABN Russia",
@@ -504,10 +484,10 @@
         "country": "BR"
     },
     {
-        "name": "Plenitude TV",
-        "id": "PlenitudeTV.br",
-        "logo": "",
-        "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
+        "name": "IMPD TV Worldwide",
+        "id": "IMPDTVWorldwide.br",
+        "logo": "https://i.imgur.com/9dW3AUQ.png",
+        "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
         "categories": [
             "religious"
         ],
@@ -1130,6 +1110,116 @@
         "id": "ZBBhakti.in",
         "logo": "https://i.imgur.com/MBaKNPC.jpeg",
         "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Aastha Telugu",
+        "id": "AasthaTelugu.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/262/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Aradana TV",
+        "id": "AradanaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Bhakthi TV",
+        "id": "BhakthiTV.in",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
+        "url": "https://cdn.pishow.tv/ott/live/397/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Channel WIN",
+        "id": "ChannelWIN.in",
+        "logo": "https://i.imgur.com/yrBBCO4.png",
+        "url": "https://cdn.pishow.tv/ott/live/229/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "CVR OM Spiritual",
+        "id": "CVROMSpiritual.in",
+        "logo": "https://i.imgur.com/77RIaqe.png",
+        "url": "https://cdn.pishow.tv/ott/live/957/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Hindu Dharmam",
+        "id": "HinduDharmam.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/959/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Jinvani Channel",
+        "id": "JinvaniChannel.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/989/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Nambikkai TV",
+        "id": "NambikkaiTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540",
+        "url": "https://cdn.pishow.tv/ott/live/1389/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Nireekshana TV",
+        "id": "NireekshanaTV.in",
+        "logo": "https://i.imgur.com/nGJv6QR.png",
+        "url": "https://cdn.pishow.tv/ott/live/965/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "OM TV",
+        "id": "OMTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
+        "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sankara TV",
+        "id": "SankaraTV.in",
+        "logo": "https://i.imgur.com/2z0bDRD.png",
+        "url": "https://cdn.pishow.tv/ott/live/1135/master.m3u8",
         "categories": [
             "religious"
         ],
@@ -2303,6 +2393,16 @@
         "country": "BO"
     },
     {
+        "name": "CVC",
+        "id": "CVC.bo",
+        "logo": "https://i.imgur.com/taGdzLe.png",
+        "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "San Jose TV",
         "id": "SanJoseTV.cr",
         "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
@@ -2487,16 +2587,6 @@
         "id": "SerajTV.ps",
         "logo": "https://i.imgur.com/1d25a9Q.png",
         "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PS"
-    },
-    {
-        "name": "Holy Quran Radio Nablus",
-        "id": "HolyQuranRadioNablus.ps",
-        "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
-        "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
         "categories": [
             "religious"
         ],
@@ -3865,16 +3955,6 @@
         "country": "IQ"
     },
     {
-        "name": "Al-Jawadain TV",
-        "id": "AlJawadainTV.iq",
-        "logo": "https://i.imgur.com/Eo3UYCK.png",
-        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Shalom TV",
         "id": "ShalomTV.sr",
         "logo": "https://i.imgur.com/lJ4MLHn.png",
@@ -4181,16 +4261,6 @@
         "id": "HopeChannelAfrica.za",
         "logo": "https://i.imgur.com/SFacyYO.png",
         "url": "https://jstre.am/live/jsl:i1onRBELcGV.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ZA"
-    },
-    {
-        "name": "Faith Africa",
-        "id": "FaithAfrica.za",
-        "logo": "https://i.imgur.com/yAZE7aU.png",
-        "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -5001,6 +5071,16 @@
         "country": "ID"
     },
     {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Kabbalah for the People Israel",
         "id": "KabbalahforthePeopleIsrael.il",
         "logo": "https://i.imgur.com/VxAHOgr.png",
@@ -5549,6 +5629,16 @@
         "id": "BethelColombia.co",
         "logo": "https://i.imgur.com/BYdMsLL.png",
         "url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Canal Oracion Con Son",
+        "id": "CanalOracionConSon.co",
+        "logo": "https://i.imgur.com/rfnFqU3.png",
+        "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
         "categories": [
             "religious"
         ],

@@ -1036,16 +1036,6 @@
         "country": "BR"
     },
     {
-        "name": "O Dia TV",
-        "id": "ODiaTV.br",
-        "logo": "https://i.imgur.com/1LUbAVP.png",
-        "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "RecordTV Interior SP",
         "id": "RecordTVInteriorSP.br",
         "logo": "https://i.imgur.com/VcHy0fu.png",
@@ -1345,16 +1335,6 @@
         "country": "BR"
     },
     {
-        "name": "Plenitude TV",
-        "id": "PlenitudeTV.br",
-        "logo": "",
-        "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Rede SPTV",
         "id": "RedeSPTV.br",
         "logo": "https://i.imgur.com/kh3LGAP.png",
@@ -1552,16 +1532,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Arapuan",
-        "id": "TVArapuan.br",
-        "logo": "https://i.imgur.com/3395A2h.png",
-        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Brasil Oeste",
         "id": "TVBrasilOeste.br",
         "logo": "https://i.imgur.com/noqGfuy.png",
@@ -1578,6 +1548,28 @@
         "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "IMPD TV Worldwide",
+        "id": "IMPDTVWorldwide.br",
+        "logo": "https://i.imgur.com/9dW3AUQ.png",
+        "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "categories": [
+            "public",
+            "education",
+            "culture"
         ],
         "country": "BR"
     }

@@ -1460,14 +1460,6 @@
         "country": "IT"
     },
     {
-        "name": "TV7 Benevento",
-        "id": "TV7Benevento.it",
-        "logo": "https://i.imgur.com/VBhVaKB.png",
-        "url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
-        "categories": [],
-        "country": "IT"
-    },
-    {
         "name": "Telecity Lombardia",
         "id": "TelecityLombardia.it",
         "logo": "https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg",
@@ -1656,6 +1648,40 @@
         "id": "VisualRadio.it",
         "logo": "https://i.imgur.com/ah14ah0.png",
         "url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Nick Jr.",
+        "id": "NickJr.it",
+        "logo": "https://i.imgur.com/6p3eFgf.png",
+        "url": "http://102.129.186.182:81/nick/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 4",
+        "id": "Rai4.it",
+        "logo": "https://i.imgur.com/sEY21rg.png",
+        "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai Gulp",
+        "id": "RaiGulp.it",
+        "logo": "https://i.imgur.com/irAhPJM.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Tele Quattro",
+        "id": "TeleQuattro.it",
+        "logo": "https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png",
+        "url": "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8",
         "categories": [],
         "country": "IT"
     }
