@@ -130,16 +130,6 @@
         "country": "VE"
     },
     {
-        "name": "UN24",
-        "id": "UN24.ve",
-        "logo": "https://i.imgur.com/nGJlulj.png",
-        "url": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Wata Vision",
         "id": "WataVision.ve",
         "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg",
@@ -391,16 +381,6 @@
         "country": "VE"
     },
     {
-        "name": "TAM TV",
-        "id": "TAMTV.ve",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
-        "url": "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Aguacate TV",
         "id": "AguacateTV.ve",
         "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
@@ -445,6 +425,56 @@
         "id": "TVOasisMonay.ve",
         "logo": "https://i.imgur.com/hwd7osJ.jpeg",
         "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Anzoategui TV",
+        "id": "AnzoateguiTV.ve",
+        "logo": "https://i.imgur.com/SLqrEOz.png",
+        "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "KandelaTV",
+        "id": "KandelaTV.ve",
+        "logo": "https://i.imgur.com/cCFxyIp.jpg",
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Nortena Tv",
+        "id": "NortenaTv.ve",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Somos TV",
+        "id": "SomosTV.ve",
+        "logo": "https://i.imgur.com/jOroeJZ.png",
+        "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "TVS",
+        "id": "TVS.ve",
+        "logo": "https://i.imgur.com/J8ztiAN.png",
+        "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
         "categories": [
             "general"
         ],

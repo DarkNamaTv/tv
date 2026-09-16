@@ -40,6 +40,16 @@
         "country": "BG"
     },
     {
+        "name": "ARDB TV",
+        "id": "ARDBTV.kh",
+        "logo": "https://i.imgur.com/yOncWla.png",
+        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "KH"
+    },
+    {
         "name": "Ohotnik i rybolov",
         "id": "Ohotnikirybolov.ru",
         "logo": "https://i.imgur.com/Bj1jI7F.png",
@@ -170,6 +180,16 @@
             "outdoor"
         ],
         "country": "PY"
+    },
+    {
+        "name": "Agro TV",
+        "id": "AgroTV.pe",
+        "logo": "https://i.imgur.com/1uLGa3w.png",
+        "url": "https://play.agenciastreaming.com:8081/agrotv/index.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "PE"
     },
     {
         "name": "Agricultura TV",
@@ -315,12 +335,11 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Naturaleza",
-        "id": "PlutoTVNaturaleza.us",
-        "logo": "https://i.imgur.com/vUHAWAJ.png",
-        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+        "name": "Spike Outdoors",
+        "id": "SpikeOutdoors.us",
+        "logo": "https://i.imgur.com/cdCD2A2.png",
+        "url": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
         "categories": [
-            "documentary",
             "outdoor"
         ],
         "country": "US"

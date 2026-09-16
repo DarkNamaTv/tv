@@ -931,26 +931,6 @@
         "country": "CL"
     },
     {
-        "name": "ARTV",
-        "id": "ARTV.cl",
-        "logo": "https://i.imgur.com/rKP1ihL.png",
-        "url": "http://45.162.193.35/ARTV/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Docu.",
-        "id": "Docu.cl",
-        "logo": "https://i.imgur.com/7xvQ7jR.png",
-        "url": "http://45.162.193.35/DOCU/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "VTV Valle de Aconcagua",
         "id": "VTVValledeAconcagua.cl",
         "logo": "https://i.imgur.com/0bFVvKj.png",
@@ -1103,16 +1083,6 @@
         "logo": "https://i.imgur.com/FknQYSp.png",
         "url": "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "San Nicolas TV",
-        "id": "SanNicolasTV.cl",
-        "logo": "https://i.imgur.com/z94YCpH.png",
-        "url": "https://v4.tustreaming.cl/sannicolastv/index.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "CL"
     },
     {
@@ -1858,12 +1828,43 @@
         "country": "CL"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "name": "Chile Channel",
+        "id": "ChileChannel.cl",
+        "logo": "https://i.imgur.com/F1it6fh.png",
+        "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
         "categories": [
-            "documentary"
+            "travel",
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "China Channel",
+        "id": "ChinaChannel.cl",
+        "logo": "https://cdn.m3u.cl/logo/1769_China_Channel.png",
+        "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Clave",
+        "id": "LaClave.cl",
+        "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
+        "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CL"
     }

@@ -421,62 +421,6 @@
         "country": "BO"
     },
     {
-        "name": "Bolivia TV",
-        "id": "BoliviaTV.bo",
-        "logo": "https://i.imgur.com/tKLYYys.png",
-        "url": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Cadena A",
-        "id": "CadenaA.bo",
-        "logo": "https://i.imgur.com/BxQPPAA.png",
-        "url": "http://15.204.246.24:8080/CadenaAHD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "CVC",
-        "id": "CVC.bo",
-        "logo": "https://i.imgur.com/taGdzLe.png",
-        "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Plus TLT",
-        "id": "PlusTLT.bo",
-        "logo": "",
-        "url": "http://15.204.246.24:8080/PlusTLTHD/index.m3u8",
-        "categories": [],
-        "country": "BO"
-    },
-    {
-        "name": "Red DTV",
-        "id": "RedDTV.bo",
-        "logo": "https://i.imgur.com/fK0g2CK.png",
-        "url": "http://15.204.246.24:8080/DTVHD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "TV Culturas",
-        "id": "TVCulturas.bo",
-        "logo": "https://comteco.com.bo/img/upload/canales/lBVfEh.png",
-        "url": "http://15.204.246.24:8080/TVCulturasSD/index.m3u8",
-        "categories": [],
-        "country": "BO"
-    },
-    {
         "name": "UMSA TVU Internacional",
         "id": "UMSATVUInternacional.bo",
         "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
@@ -485,16 +429,6 @@
             "education",
             "science",
             "documentary"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Palenque TV",
-        "id": "PalenqueTV.bo",
-        "logo": "https://i.imgur.com/wAIBvaO.png",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "BO"
     },
@@ -521,10 +455,40 @@
         "country": "BO"
     },
     {
-        "name": "Univalle Television",
-        "id": "UnivalleTelevision.bo",
-        "logo": "https://i.imgur.com/qgrWDIs.png",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "name": "FAP TV",
+        "id": "FAPTV.bo",
+        "logo": "https://i.imgur.com/jZ7g58e.png",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Imperial TV",
+        "id": "ImperialTV.bo",
+        "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "SPC Canal 15",
+        "id": "SPCCanal15.bo",
+        "logo": "https://i.imgur.com/8GzjELt.jpeg",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Vos TV",
+        "id": "VosTV.bo",
+        "logo": "https://i.imgur.com/Cm1Xjeq.png",
+        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
         "categories": [],
         "country": "BO"
     }

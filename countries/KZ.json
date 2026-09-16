@@ -158,16 +158,6 @@
         "country": "KZ"
     },
     {
-        "name": "Novoe televidenie",
-        "id": "Novoetelevidenie.kz",
-        "logo": "https://i.imgur.com/mmKWrWs.png",
-        "url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "KZ"
-    },
-    {
         "name": "TDK 42",
         "id": "TDK42.kz",
         "logo": "https://i.imgur.com/iVhdcS7.png",
@@ -241,6 +231,16 @@
         "logo": "https://i.imgur.com/VagTPMo.png",
         "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
         "categories": [],
+        "country": "KZ"
+    },
+    {
+        "name": "Novoe televidenie",
+        "id": "Novoetelevidenie.kz",
+        "logo": "https://i.imgur.com/mmKWrWs.png",
+        "url": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv",
+        "categories": [
+            "general"
+        ],
         "country": "KZ"
     }
 ]
