@@ -1126,16 +1126,6 @@
         "country": "BR"
     },
     {
-        "name": "Canal Sete",
-        "id": "CanalSete.br",
-        "logo": "https://i.imgur.com/0cq0BPp.png",
-        "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "RBATV",
         "id": "RBATV.br",
         "logo": "https://i.imgur.com/ZWFxlU1.png",
@@ -1177,16 +1167,6 @@
         "logo": "https://i.imgur.com/Ikrj3lk.png",
         "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
         "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TV Passo Fundo",
-        "id": "TVPassoFundo.br",
-        "logo": "https://i.imgur.com/QFE6TiV.png",
-        "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "BR"
     },
     {
@@ -1261,16 +1241,6 @@
         "categories": [
             "general",
             "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Padre Cicero",
-        "id": "TVPadreCicero.br",
-        "logo": "https://i.imgur.com/Y7b29VG.png",
-        "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "BR"
     },
@@ -1544,22 +1514,52 @@
         "country": "BR"
     },
     {
-        "name": "1001 Noites",
-        "id": "1001Noites.br",
-        "logo": "https://i.imgur.com/dWA9y2J.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+        "name": "BR8 TV",
+        "id": "BR8TV.br",
+        "logo": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8",
         "categories": [
-            "shop"
+            "news"
         ],
         "country": "BR"
     },
     {
-        "name": "Plenitude TV",
-        "id": "PlenitudeTV.br",
-        "logo": "",
-        "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
+        "name": "KpopTV Play",
+        "id": "KpopTVPlay.br",
+        "logo": "https://i.imgur.com/Tf0vweF.png",
+        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
         "categories": [
-            "religious"
+            "music"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "O Dia TV",
+        "id": "ODiaTV.br",
+        "logo": "https://i.imgur.com/1LUbAVP.png",
+        "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Arapuan",
+        "id": "TVArapuan.br",
+        "logo": "https://i.imgur.com/3395A2h.png",
+        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Sao Mateus",
+        "id": "TVSimSaoMateus.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "BR"
     }

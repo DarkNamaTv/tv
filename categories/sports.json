@@ -301,6 +301,16 @@
         "country": "DO"
     },
     {
+        "name": "Tour Spot TV",
+        "id": "TourSpotTV.do",
+        "logo": "https://imgur.com/khj869k.png",
+        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "QazSport",
         "id": "QazSport.kz",
         "logo": "https://i.imgur.com/UDJ0P5Q.png",
@@ -655,6 +665,16 @@
         "id": "TSports7.th",
         "logo": "https://i.imgur.com/KyI0s5n.png",
         "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "TH"
+    },
+    {
+        "name": "True Tennis",
+        "id": "TrueTennis.th",
+        "logo": "https://i.imgur.com/Zu72OYA.png",
+        "url": "http://58.8.186.128:10004/bysid/2418",
         "categories": [
             "sports"
         ],
@@ -1265,19 +1285,6 @@
         "country": "US"
     },
     {
-        "name": "USA Network",
-        "id": "USANetwork.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-        "url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
-        "categories": [
-            "movies",
-            "series",
-            "sports",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Bowling Network",
         "id": "TVSBowlingNetwork.us",
         "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
@@ -1349,26 +1356,6 @@
         "country": "US"
     },
     {
-        "name": "Willow",
-        "id": "Willow.us",
-        "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Fox Sports 2",
-        "id": "FoxSports2.us",
-        "logo": "https://i.ibb.co/35bddzKR/IMG-2281.png",
-        "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Women Sports",
         "id": "TVSWomenSports.us",
         "logo": "https://i.imgur.com/8hC4PfF.png",
@@ -1389,22 +1376,35 @@
         "country": "US"
     },
     {
-        "name": "Fox Sports 1",
-        "id": "FoxSports1.us",
-        "logo": "https://i.imgur.com/O9BapV9.png",
-        "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Golf Channel Latin America",
         "id": "GolfChannelLatinAmerica.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
         "url": "http://143.14.178.35/TCM-HD/index.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Deportes",
+        "id": "PlutoTVDeportes.us",
+        "logo": "https://i.imgur.com/0pDy6f4.png",
+        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "USA Network",
+        "id": "USANetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+        "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
+        "categories": [
+            "movies",
+            "series",
+            "sports",
+            "comedy"
         ],
         "country": "US"
     },
@@ -1509,16 +1509,6 @@
             "travel",
             "sports",
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "VSBet HD",
-        "id": "VSBetHD.vn",
-        "logo": "https://i.imgur.com/sMhL2Nl.png",
-        "url": "https://live05.meung.app/live/16226575.m3u8",
-        "categories": [
-            "sports"
         ],
         "country": "VN"
     },
@@ -1962,26 +1952,6 @@
         "id": "Arena.id",
         "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/a6a7392cdcfff7c5324b503d0eb3b35b.png",
         "url": "https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV",
-        "id": "SPOTV.id",
-        "logo": "https://i.imgur.com/HaoVsm5.png",
-        "url": "http://58.8.186.128:10006/bysid/2614",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV 2",
-        "id": "SPOTV2.id",
-        "logo": "https://i.imgur.com/YD8fbTH.png",
-        "url": "http://58.8.186.128:10006/bysid/2630",
         "categories": [
             "sports"
         ],

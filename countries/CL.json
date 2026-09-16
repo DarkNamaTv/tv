@@ -178,17 +178,6 @@
         "country": "CL"
     },
     {
-        "name": "Chile Channel",
-        "id": "ChileChannel.cl",
-        "logo": "https://i.imgur.com/F1it6fh.png",
-        "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
-        "categories": [
-            "travel",
-            "entertainment"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "DCH TV",
         "id": "DCHTV.cl",
         "logo": "https://i.imgur.com/65Xk6oI.png",
@@ -1617,16 +1606,6 @@
         "country": "CL"
     },
     {
-        "name": "La Clave",
-        "id": "LaClave.cl",
-        "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
-        "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Uniregion TV",
         "id": "UniregionTV.cl",
         "logo": "https://i.imgur.com/VEO6aos.png",
@@ -1851,16 +1830,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Nuble",
         "id": "RadioNuble.cl",
         "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
@@ -1876,6 +1845,26 @@
         "logo": "https://i.imgur.com/BDKgDZG.png",
         "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8",
         "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
         "country": "CL"
     }
 ]

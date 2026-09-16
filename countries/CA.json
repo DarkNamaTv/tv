@@ -1,15 +1,5 @@
 [
     {
-        "name": "IIPC TV",
-        "id": "IIPCTV.ca",
-        "logo": "https://i.imgur.com/mIih39Y.png",
-        "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Az Star TV",
         "id": "AzStarTV.ca",
         "logo": "https://i.imgur.com/di3XX5L.png",
@@ -680,16 +670,6 @@
         "country": "CA"
     },
     {
-        "name": "CP24",
-        "id": "CP24.ca",
-        "logo": "https://i.imgur.com/YzjZUEl.png",
-        "url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Ontario Parliamentary Network",
         "id": "OntarioParliamentaryNetwork.ca",
         "logo": "https://i.imgur.com/xKXs6ER.png",
@@ -812,6 +792,36 @@
         "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "CP24",
+        "id": "CP24.ca",
+        "logo": "https://i.imgur.com/YzjZUEl.png",
+        "url": "http://107.167.16.138/cp24/index.m3u8?token=test",
+        "categories": [
+            "news"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "IIPC TV",
+        "id": "IIPCTV.ca",
+        "logo": "https://i.imgur.com/mIih39Y.png",
+        "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Stingray DJAZZ",
+        "id": "StingrayDJAZZ.ca",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
+        "url": "https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "CA"
     }
