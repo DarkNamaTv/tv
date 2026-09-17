@@ -209,6 +209,17 @@
         "country": "DE"
     },
     {
+        "name": "Mission Impossible",
+        "id": "MissionImpossible.de",
+        "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "13T",
         "id": "13T.cl",
         "logo": "https://i.imgur.com/csBNi2L.png",
@@ -228,16 +239,6 @@
             "series"
         ],
         "country": "CL"
-    },
-    {
-        "name": "Serie Max",
-        "id": "SerieMax.ci",
-        "logo": "https://i.imgur.com/GaRQXHT.png",
-        "url": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "CI"
     },
     {
         "name": "Europa Europa",
@@ -833,16 +834,6 @@
         "country": "US"
     },
     {
-        "name": "JAG",
-        "id": "JAG.us",
-        "logo": "https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "SYFY",
         "id": "SYFY.us",
         "logo": "https://i.imgur.com/4fMWhUE.png",
@@ -877,22 +868,164 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Dog el cazarrecompensas",
-        "id": "PlutoTVDogelcazarrecompensas.us",
-        "logo": "https://i.imgur.com/h3kSZLc.png",
-        "url": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Star Trek: Voyager",
         "id": "StarTrekVoyager.us",
         "logo": "https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png",
         "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
         "categories": [
             "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "50 Cent Action",
+        "id": "50CentAction.us",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
+        "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Black Ink Crew",
+        "id": "BlackInkCrew.us",
+        "logo": "https://i.imgur.com/QnuIVB6.png",
+        "url": "https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "El encantador de perros",
+        "id": "Elencantadordeperros.us",
+        "logo": "https://i.imgur.com/hYqjQ1n.png",
+        "url": "https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Jersey Shore",
+        "id": "JerseyShore.us",
+        "logo": "https://i.imgur.com/SssCaj1.png",
+        "url": "https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Misterios sin resolver",
+        "id": "Misteriossinresolver.us",
+        "logo": "https://i.imgur.com/8mnvubb.png",
+        "url": "https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MTV Com o Ex",
+        "id": "MTVComoEx.us",
+        "logo": "https://i.imgur.com/sWqnNPm.png",
+        "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Dramas Coreanos",
+        "id": "PlutoTVDramasCoreanos.us",
+        "logo": "https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png",
+        "url": "https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Minuto Para Ganar",
+        "id": "PlutoTVMinutoParaGanar.us",
+        "logo": "https://i.imgur.com/go5o1gB.png",
+        "url": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Misterios Medicos",
+        "id": "PlutoTVMisteriosMedicos.us",
+        "logo": "https://i.imgur.com/1WDFKF0.png",
+        "url": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Novelas de Venezuela",
+        "id": "PlutoTVNovelasdeVenezuela.us",
+        "logo": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png",
+        "url": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Series de Drama",
+        "id": "PlutoTVSeriesdeDrama.us",
+        "logo": "https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png",
+        "url": "https://jmp2.uk/plu-655f636d954b020008c93299.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Storage Wars",
+        "id": "PlutoTVStorageWars.us",
+        "logo": "https://i.imgur.com/mnHRLlg.png",
+        "url": "https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Addams Family",
+        "id": "TheAddamsFamily.us",
+        "logo": "https://i.imgur.com/Bl8X7EW.png",
+        "url": "https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Wild Wild West",
+        "id": "TheWildWildWest.us",
+        "logo": "https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Three's Company",
+        "id": "ThreesCompany.us",
+        "logo": "https://i.imgur.com/5bTwwpD.png",
+        "url": "https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8",
+        "categories": [
             "series"
         ],
         "country": "US"
@@ -1072,6 +1205,79 @@
             "series"
         ],
         "country": "SG"
+    },
+    {
+        "name": "Bondi Rescue",
+        "id": "BondiRescue.se",
+        "logo": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Britain's Next Top Model",
+        "id": "BritainsNextTopModel.se",
+        "logo": "https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "CSI",
+        "id": "CSI.se",
+        "logo": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Matlock",
+        "id": "Matlock.se",
+        "logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Sci-Fi",
+        "id": "PlutoTVSciFi.se",
+        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
+        "categories": [
+            "series",
+            "movies"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Scorpion",
+        "id": "Scorpion.se",
+        "logo": "https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "The Wild Wild West",
+        "id": "TheWildWildWest.se",
+        "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
+        "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
     },
     {
         "name": "Are we there Yet? [Geo-blocked]",

@@ -468,6 +468,16 @@
         "country": "DE"
     },
     {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Dvojka",
         "id": "Dvojka.sk",
         "logo": "https://i.imgur.com/ft10wQn.png",
@@ -722,11 +732,12 @@
         "country": "US"
     },
     {
-        "name": "Smithsonian Channel Pluto TV",
-        "id": "SmithsonianChannelPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+        "name": "Pluto TV Turbo",
+        "id": "PlutoTVTurbo.us",
+        "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
         "categories": [
+            "auto",
             "documentary"
         ],
         "country": "US"
@@ -801,6 +812,16 @@
         "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
         "categories": [
             "culture",
+            "documentary"
+        ],
+        "country": "HR"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.hr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+        "categories": [
             "documentary"
         ],
         "country": "HR"

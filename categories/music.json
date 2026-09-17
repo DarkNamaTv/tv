@@ -70,6 +70,16 @@
         "country": "GR"
     },
     {
+        "name": "NRG 91",
+        "id": "NRG91.gr",
+        "logo": "https://i.imgur.com/1Zl1OJ5.png",
+        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "GR"
+    },
+    {
         "name": "EU Music",
         "id": "EUMusic.ua",
         "logo": "https://i.imgur.com/fJdvyrG.png",
@@ -973,10 +983,10 @@
         "country": "RU"
     },
     {
-        "name": "Shanson TV",
-        "id": "ShansonTV.ru",
-        "logo": "https://i.imgur.com/Fk4sd8t.png",
-        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "name": "SONGTV Russia",
+        "id": "SONGTVRussia.ru",
+        "logo": "https://i.imgur.com/nM7LbmV.png",
+        "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1494,6 +1504,16 @@
         "country": "PA"
     },
     {
+        "name": "Fabulosa Estereo 100.5 FM",
+        "id": "FabulosaEstereo1005FM.pa",
+        "logo": "https://i.imgur.com/YFmzkOp.png",
+        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
         "name": "Radio Moldova Muzical",
         "id": "RadioMoldovaMuzical.md",
         "logo": "https://i.imgur.com/ZFHWst4.png",
@@ -1542,16 +1562,6 @@
             "music"
         ],
         "country": "MD"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "E40",
@@ -1866,16 +1876,6 @@
         "country": "PE"
     },
     {
-        "name": "Galactica TV",
-        "id": "GalacticaTV.pe",
-        "logo": "https://i.imgur.com/byL1zCV.jpeg",
-        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Radio Weser TV Bremen",
         "id": "RadioWeserTVBremen.de",
         "logo": "",
@@ -2101,16 +2101,6 @@
         "id": "RitoqueTV.cl",
         "logo": "https://i.imgur.com/nTVJcFA.png",
         "url": "https://v2.tustreaming.cl/unetev/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Interradio TV",
-        "id": "InterradioTV.cl",
-        "logo": "https://i.imgur.com/3875n4G.png",
-        "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -2508,6 +2498,16 @@
         "country": "AR"
     },
     {
+        "name": "Beats Radio",
+        "id": "BeatsRadio.ar",
+        "logo": "https://i.imgur.com/zkNUO5p.png",
+        "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Galaxy TV",
         "id": "GalaxyTV.ug",
         "logo": "https://i.imgur.com/P5OABe5.png",
@@ -2567,16 +2567,6 @@
             "lifestyle",
             "music",
             "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Radio Clasica TV",
-        "id": "RadioClasicaTV.bo",
-        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
-        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "BO"
     },
@@ -2692,24 +2682,14 @@
         "country": "CR"
     },
     {
-        "name": "Imagen FM 105.1",
-        "id": "ImagenFM1051.hn",
-        "logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
-        "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
         ],
-        "country": "HN"
-    },
-    {
-        "name": "Radio Ideal",
-        "id": "RadioIdeal.hn",
-        "logo": "https://i.imgur.com/chPfoOs.png",
-        "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "HN"
+        "country": "CR"
     },
     {
         "name": "La Top 107.7",
@@ -3107,16 +3087,6 @@
         "country": "US"
     },
     {
-        "name": "Video Mix TV",
-        "id": "VideoMixTV.us",
-        "logo": "https://i.imgur.com/nyLrIPP.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "La Que Buena Atlanta",
         "id": "LaQueBuenaAtlanta.us",
         "logo": "https://iili.io/JysD2a4.png",
@@ -3141,6 +3111,16 @@
         "id": "HighVisionTV.us",
         "logo": "https://i.imgur.com/zhCgoru.png",
         "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Karaoke por Stingray",
+        "id": "PlutoTVKaraokeporStingray.us",
+        "logo": "https://i.imgur.com/rWpLepJ.png",
+        "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
         "categories": [
             "music"
         ],
@@ -3192,16 +3172,6 @@
         "id": "BTATV.ve",
         "logo": "https://i.imgur.com/vygOosC.png",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "KandelaTV",
-        "id": "KandelaTV.ve",
-        "logo": "https://i.imgur.com/cCFxyIp.jpg",
-        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
         "categories": [
             "music"
         ],
@@ -3348,6 +3318,16 @@
             "music"
         ],
         "country": "AW"
+    },
+    {
+        "name": "Flex Studio Radio TV",
+        "id": "FlexStudioRadioTV.bz",
+        "logo": "https://i.imgur.com/tZjqtxd.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BZ"
     },
     {
         "name": "Tra Vinh TV",
@@ -3775,16 +3755,6 @@
             "music"
         ],
         "country": "BQ"
-    },
-    {
-        "name": "BOKTV",
-        "id": "BOKTV.za",
-        "logo": "https://i.imgur.com/mcNjuuO.png",
-        "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ZA"
     },
     {
         "name": "ATN Music",
@@ -5304,16 +5274,6 @@
         "country": "CO"
     },
     {
-        "name": "Fiesta TV",
-        "id": "FiestaTV.co",
-        "logo": "https://i.imgur.com/42wImV2.png",
-        "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Salsa Gorda Television",
         "id": "SalsaGordaTelevision.co",
         "logo": "https://i.imgur.com/3IhYd7G.jpg",
@@ -5338,16 +5298,6 @@
         "id": "BuenisimaRadioTV.co",
         "logo": "https://i.imgur.com/URKDlOZ.png",
         "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Rumba TV",
-        "id": "RumbaTV.co",
-        "logo": "https://i.imgur.com/WtVpWwI.png",
-        "url": "http://186.148.196.100:8000/play/a02h",
         "categories": [
             "music"
         ],

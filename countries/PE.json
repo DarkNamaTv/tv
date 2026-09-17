@@ -762,16 +762,6 @@
         "country": "PE"
     },
     {
-        "name": "Autentica Television",
-        "id": "AutenticaTelevision.pe",
-        "logo": "https://i.imgur.com/bEJK3RN.png",
-        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Millenium 109 FM",
         "id": "Millenium109FM.pe",
         "logo": "https://i.imgur.com/sfNL6Bv.png",
@@ -994,36 +984,6 @@
         "country": "PE"
     },
     {
-        "name": "Agro TV",
-        "id": "AgroTV.pe",
-        "logo": "https://i.imgur.com/1uLGa3w.png",
-        "url": "https://play.agenciastreaming.com:8081/agrotv/index.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Galactica TV",
-        "id": "GalacticaTV.pe",
-        "logo": "https://i.imgur.com/byL1zCV.jpeg",
-        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Kora TV",
-        "id": "KoraTV.pe",
-        "logo": "https://i.imgur.com/ahBYv4x.png",
-        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Trivu",
         "id": "Trivu.pe",
         "logo": "https://i.imgur.com/QrUYjOS.png",
@@ -1040,6 +1000,26 @@
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Genios TV",
+        "id": "GeniosTV.pe",
+        "logo": "https://i.imgur.com/iH2Lx6E.png",
+        "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV Kaliente",
+        "id": "TVKaliente.pe",
+        "logo": "https://i.imgur.com/MFQpLuQ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "PE"
     }
