@@ -782,16 +782,6 @@
         "country": "PE"
     },
     {
-        "name": "Radio Tropical",
-        "id": "RadioTropical.pe",
-        "logo": "https://i.imgur.com/TBPVOBI.png",
-        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "RN Television",
         "id": "RNTelevision.pe",
         "logo": "https://i.imgur.com/oFGiW7u.png",
@@ -878,16 +868,6 @@
         "country": "PE"
     },
     {
-        "name": "Tevesur",
-        "id": "Tevesur.pe",
-        "logo": "https://i.imgur.com/LcZ2Hhd.jpeg",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Uchu TV",
         "id": "UchuTV.pe",
         "logo": "https://i.imgur.com/xYGkUR9.png",
@@ -966,14 +946,6 @@
         "country": "PE"
     },
     {
-        "name": "Solar Television",
-        "id": "SolarTelevision.pe",
-        "logo": "https://i.imgur.com/ufnWpUf.png",
-        "url": "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "Turbo Mix Radio TV",
         "id": "TurboMixRadioTV.pe",
         "logo": "https://i.imgur.com/AsdBQa3.png",
@@ -1014,10 +986,20 @@
         "country": "PE"
     },
     {
-        "name": "TV Kaliente",
-        "id": "TVKaliente.pe",
-        "logo": "https://i.imgur.com/MFQpLuQ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "name": "Autentica Television",
+        "id": "AutenticaTelevision.pe",
+        "logo": "https://i.imgur.com/bEJK3RN.png",
+        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
         "categories": [
             "entertainment"
         ],

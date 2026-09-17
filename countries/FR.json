@@ -750,16 +750,6 @@
         "country": "FR"
     },
     {
-        "name": "Cine+ Frisson",
-        "id": "CinePlusFrisson.fr",
-        "logo": "https://i.imgur.com/MwFtbnR.jpeg",
-        "url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "M6",
         "id": "M6.fr",
         "logo": "https://i.imgur.com/7GVp3fW.png",
@@ -806,22 +796,32 @@
         "country": "FR"
     },
     {
-        "name": "Euronews Italian",
-        "id": "EuronewsItalian.fr",
-        "logo": "https://i.imgur.com/8t9mdg9.png",
-        "url": "https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "HANDICAP TV",
         "id": "HANDICAPTV.fr",
         "logo": "https://i.imgur.com/vXbAeD0.png",
         "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
         "categories": [
             "lifestyle"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "FashionTV Asia",
+        "id": "FashionTVAsia.fr",
+        "logo": "https://i.imgur.com/ucTh9tO.png",
+        "url": "http://58.8.186.128:10006/bysid/2616",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "RMC Sport 1",
+        "id": "RMCSport1.fr",
+        "logo": "https://i.imgur.com/NsFTG7u.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "FR"
     }

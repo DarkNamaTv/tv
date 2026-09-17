@@ -80,6 +80,16 @@
         "country": "RO"
     },
     {
+        "name": "TraLaLa TV",
+        "id": "TraLaLaTV.ro",
+        "logo": "https://i.imgur.com/xJBMnjy.png",
+        "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "RO"
+    },
+    {
         "name": "EKids",
         "id": "EKids.bg",
         "logo": "https://i.imgur.com/dux7sjZ.png",
@@ -196,16 +206,6 @@
         "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
         "categories": [
             "animation",
-            "kids"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Chinola TV",
-        "id": "ChinolaTV.do",
-        "logo": "https://i.imgur.com/ybud4dI.png",
-        "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
-        "categories": [
             "kids"
         ],
         "country": "DO"
@@ -710,26 +710,6 @@
         "country": "DE"
     },
     {
-        "name": "iCarly",
-        "id": "iCarly.de",
-        "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Junior",
-        "id": "PlutoTVJunior.de",
-        "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-        "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "13 Kids",
         "id": "13Kids.cl",
         "logo": "https://i.imgur.com/8WJUbSD.png",
@@ -1226,20 +1206,10 @@
         "country": "US"
     },
     {
-        "name": "Nickelodeon Clasico",
-        "id": "NickelodeonClasico.us",
-        "logo": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png",
-        "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nickelodeon Toons",
-        "id": "NickelodeonToons.us",
-        "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
-        "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+        "name": "Nickelodeon en espanol",
+        "id": "Nickelodeonenespanol.us",
+        "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
         "categories": [
             "kids"
         ],
@@ -1261,6 +1231,16 @@
         "id": "AfarinTV.iq",
         "logo": "https://i.imgur.com/6MnXD7g.png",
         "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Afarin Baxcha",
+        "id": "AfarinBaxcha.iq",
+        "logo": "https://afarin.tv/images/baxcha.png",
+        "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
         "categories": [
             "kids"
         ],
@@ -1807,17 +1787,6 @@
         "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
         "categories": [
             "kids"
-        ],
-        "country": "PK"
-    },
-    {
-        "name": "God Stands Kids Club TV",
-        "id": "GodStandsKidsClubTV.pk",
-        "logo": "https://i.imgur.com/FxDBbpz.jpeg",
-        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
-        "categories": [
-            "kids",
-            "religious"
         ],
         "country": "PK"
     },

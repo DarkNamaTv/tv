@@ -126,16 +126,6 @@
         "country": "BO"
     },
     {
-        "name": "As Contenidos",
-        "id": "AsContenidos.bo",
-        "logo": "https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png",
-        "url": "https://master.tucableip.com/ascontenido/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Cinerama Television",
         "id": "CineramaTelevision.bo",
         "logo": "https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw",
@@ -475,16 +465,6 @@
         "country": "BO"
     },
     {
-        "name": "Palenque TV",
-        "id": "PalenqueTV.bo",
-        "logo": "https://i.imgur.com/wAIBvaO.png",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Plus TLT",
         "id": "PlusTLT.bo",
         "logo": "",
@@ -516,6 +496,34 @@
         "logo": "https://i.imgur.com/qgrWDIs.png",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "Gigavision",
+        "id": "Gigavision.bo",
+        "logo": "https://i.imgur.com/fE3BkcT.png",
+        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "Imperial TV",
+        "id": "ImperialTV.bo",
+        "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Radio Clasica TV",
+        "id": "RadioClasicaTV.bo",
+        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
         "country": "BO"
     }
 ]

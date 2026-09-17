@@ -314,6 +314,26 @@
         "country": "KZ"
     },
     {
+        "name": "KinoBoevik",
+        "id": "KinoBoevik.kz",
+        "logo": "https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png",
+        "url": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv",
+        "categories": [
+            "movies"
+        ],
+        "country": "KZ"
+    },
+    {
+        "name": "Mirovoe kino",
+        "id": "Mirovoekino.kz",
+        "logo": "https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png",
+        "url": "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv",
+        "categories": [
+            "movies"
+        ],
+        "country": "KZ"
+    },
+    {
         "name": "Lollywood HD TV",
         "id": "LollywoodHDTV.cd",
         "logo": "https://i.imgur.com/fQhrsdr.png",
@@ -1317,10 +1337,30 @@
         "country": "IN"
     },
     {
-        "name": "All Time Movies",
-        "id": "AllTimeMovies.in",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
-        "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+        "name": "B4U Movies",
+        "id": "B4UMovies.in",
+        "logo": "https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Goldmines 2",
+        "id": "Goldmines2.in",
+        "logo": "",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "NH BollyGold",
+        "id": "NHBollyGold.in",
+        "logo": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
+        "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
         "categories": [
             "movies"
         ],
@@ -1378,17 +1418,6 @@
         "country": "DE"
     },
     {
-        "name": "Mission Impossible",
-        "id": "MissionImpossible.de",
-        "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Star Channel",
         "id": "StarChannel.cl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
@@ -1418,6 +1447,16 @@
             "movies"
         ],
         "country": "SX"
+    },
+    {
+        "name": "Itage TV",
+        "id": "ItageTV.ng",
+        "logo": "https://i.imgur.com/FP1aUPw.jpg",
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "NG"
     },
     {
         "name": "Cinema One",
@@ -2037,16 +2076,6 @@
         "country": "US"
     },
     {
-        "name": "Cine Terror",
-        "id": "CineTerror.us",
-        "logo": "https://i.imgur.com/I5XxyLI.png",
-        "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Spotlight",
         "id": "PlutoTVSpotlight.us",
         "logo": "https://i.imgur.com/UmuJkVB.png",
@@ -2057,42 +2086,10 @@
         "country": "US"
     },
     {
-        "name": "Star Trek: Voyager",
-        "id": "StarTrekVoyager.us",
-        "logo": "https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png",
-        "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "50 Cent Action",
-        "id": "50CentAction.us",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
-        "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "80s Rewind",
         "id": "80sRewind.us",
         "logo": "https://i.imgur.com/nkEeYfI.png",
         "url": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Adrenalina Pura TV",
-        "id": "AdrenalinaPuraTV.us",
-        "logo": "https://i.imgur.com/Pvid2iH.png",
-        "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8",
         "categories": [
             "movies"
         ],
@@ -2109,46 +2106,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Cine Classicos",
-        "id": "PlutoTVCineClassicos.us",
-        "logo": "https://i.imgur.com/N3UYHFS.png",
-        "url": "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Cine Crime",
-        "id": "PlutoTVCineCrime.us",
-        "logo": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Cine Drama",
-        "id": "PlutoTVCineDrama.us",
-        "logo": "https://i.imgur.com/AQBtheU.png",
-        "url": "https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Cine Estelar",
-        "id": "PlutoTVCineEstelar.us",
-        "logo": "https://i.imgur.com/v3BO4nW.png",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Cine Romance",
         "id": "PlutoTVCineRomance.us",
         "logo": "https://i.imgur.com/WXMD53u.png",
@@ -2159,43 +2116,74 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Cine Suspenso",
-        "id": "PlutoTVCineSuspenso.us",
-        "logo": "https://i.imgur.com/GnUmEZn.png",
-        "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8",
+        "name": "70s Cinema",
+        "id": "70sCinema.us",
+        "logo": "https://i.imgur.com/mgXeEE4.png",
+        "url": "https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Estrellas de Accion",
-        "id": "PlutoTVEstrellasdeAccion.us",
-        "logo": "https://i.imgur.com/GVOYX4L.png",
-        "url": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8",
+        "name": "Classic Movies Channel",
+        "id": "ClassicMoviesChannel.us",
+        "logo": "https://i.imgur.com/pQJxov2.png",
+        "url": "https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Nuestro Cine",
-        "id": "PlutoTVNuestroCine.us",
-        "logo": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Wild Wild West",
-        "id": "TheWildWildWest.us",
-        "logo": "https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8",
+        "name": "Classic Movie Westerns",
+        "id": "ClassicMovieWesterns.us",
+        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
         "categories": [
             "movies",
             "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Cult Films",
+        "id": "PlutoTVCultFilms.us",
+        "logo": "https://i.imgur.com/xoaIAus.png",
+        "url": "https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Drama",
+        "id": "PlutoTVDrama.us",
+        "logo": "https://i.imgur.com/PvhbHTZ.png",
+        "url": "https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Sci-Fi",
+        "id": "PlutoTVSciFi.us",
+        "logo": "https://i.imgur.com/vSzd5m7.png",
+        "url": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8",
+        "categories": [
+            "series",
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Westerns",
+        "id": "PlutoTVWesterns.us",
+        "logo": "https://i.imgur.com/biepi4A.png",
+        "url": "https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "US"
     },
@@ -2416,16 +2404,6 @@
         "id": "CanalPlusCinemas.fr",
         "logo": "https://i.imgur.com/fvPoNEa.jpeg",
         "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Cine+ Frisson",
-        "id": "CinePlusFrisson.fr",
-        "logo": "https://i.imgur.com/MwFtbnR.jpeg",
-        "url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -2933,27 +2911,6 @@
             "series"
         ],
         "country": "SG"
-    },
-    {
-        "name": "Pluto TV Paranormal",
-        "id": "PlutoTVParanormal.se",
-        "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Sci-Fi",
-        "id": "PlutoTVSciFi.se",
-        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
-        "categories": [
-            "series",
-            "movies"
-        ],
-        "country": "SE"
     },
     {
         "name": "MCI Television",

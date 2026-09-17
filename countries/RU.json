@@ -3008,12 +3008,42 @@
         "country": "RU"
     },
     {
-        "name": "SONGTV Russia",
-        "id": "SONGTVRussia.ru",
-        "logo": "https://i.imgur.com/nM7LbmV.png",
-        "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+        "name": "Channel One CIS",
+        "id": "ChannelOneCIS.ru",
+        "logo": "https://i.imgur.com/RUSX0rX.png",
+        "url": "https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv",
         "categories": [
-            "music"
+            "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Friday! International",
+        "id": "FridayInternational.ru",
+        "logo": "https://i.imgur.com/N2z3EZC.png",
+        "url": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Moy mir",
+        "id": "Moymir.ru",
+        "logo": "https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png",
+        "url": "https://moymir.ru/hls/onair.m3u8",
+        "categories": [
+            "shop"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Rybalka i okhota",
+        "id": "Rybalkaiokhota.ru",
+        "logo": "https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png",
+        "url": "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv",
+        "categories": [
+            "outdoor"
         ],
         "country": "RU"
     }

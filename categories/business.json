@@ -30,6 +30,16 @@
         "country": "RO"
     },
     {
+        "name": "Bloomberg HT",
+        "id": "BloombergHT.tr",
+        "logo": "https://i.imgur.com/bmkXfIE.png",
+        "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Atameken Business",
         "id": "AtamekenBusiness.kz",
         "logo": "https://i.imgur.com/CfRvm8i.png",
@@ -146,6 +156,16 @@
         "url": "https://feeds.intoday.in/bttv/itgd.m3u8",
         "categories": [
             "news",
+            "business"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "News Capital Market",
+        "id": "NewsCapitalMarket.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png",
+        "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
+        "categories": [
             "business"
         ],
         "country": "IN"
@@ -328,6 +348,16 @@
         "id": "CNBC.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
         "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
+        "categories": [
+            "business"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Bloomberg TV",
+        "id": "BloombergTV.us",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
         "categories": [
             "business"
         ],
