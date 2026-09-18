@@ -511,13 +511,39 @@
         "country": "BO"
     },
     {
-        "name": "Palenque TV",
-        "id": "PalenqueTV.bo",
-        "logo": "https://i.imgur.com/wAIBvaO.png",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "name": "As Contenidos",
+        "id": "AsContenidos.bo",
+        "logo": "https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png",
+        "url": "https://master.tucableip.com/ascontenido/index.m3u8",
         "categories": [
             "general"
         ],
+        "country": "BO"
+    },
+    {
+        "name": "SPC Canal 15",
+        "id": "SPCCanal15.bo",
+        "logo": "https://i.imgur.com/8GzjELt.jpeg",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Univalle Television",
+        "id": "UnivalleTelevision.bo",
+        "logo": "https://i.imgur.com/qgrWDIs.png",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "Vos TV",
+        "id": "VosTV.bo",
+        "logo": "https://i.imgur.com/Cm1Xjeq.png",
+        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
+        "categories": [],
         "country": "BO"
     }
 ]

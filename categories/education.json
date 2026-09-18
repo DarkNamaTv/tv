@@ -839,16 +839,6 @@
         "country": "US"
     },
     {
-        "name": "Monroe Community Media Education Channel",
-        "id": "MonroeCommunityMediaEducationChannel.us",
-        "logo": "https://i.imgur.com/gS4x0uX.png",
-        "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Natick Education Channel",
         "id": "NatickEducationChannel.us",
         "logo": "https://i.imgur.com/VKU9qwy.png",
@@ -920,10 +910,20 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Misterios",
-        "id": "PlutoTVMisterios.us",
-        "logo": "https://i.imgur.com/gwxX1Y3.png",
-        "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
+        "name": "Pluto TV Natureza",
+        "id": "PlutoTVNatureza.us",
+        "logo": "https://i.imgur.com/RuyQQ6M.png",
+        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Paisagens por Stingray",
+        "id": "PlutoTVPaisagensporStingray.us",
+        "logo": "https://i.imgur.com/6kElzw7.png",
+        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
         "categories": [
             "education"
         ],
@@ -1303,20 +1303,20 @@
         "country": "MX"
     },
     {
-        "name": "ILCE Canal 15 Summa Saberes",
-        "id": "ILCECanal15SummaSaberes.mx",
-        "logo": "https://i.imgur.com/r7czgOc.png",
-        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
         "categories": [
             "education"
         ],
         "country": "MX"
     },
     {
-        "name": "Tele UV",
-        "id": "TeleUV.mx",
-        "logo": "https://i.imgur.com/8MdUH69.jpeg",
-        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+        "name": "Unison TV",
+        "id": "UnisonTV.mx",
+        "logo": "https://i.imgur.com/7ixWRId.png",
+        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
         "categories": [
             "education"
         ],
