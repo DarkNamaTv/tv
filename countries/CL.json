@@ -865,14 +865,6 @@
         "country": "CL"
     },
     {
-        "name": "Vision TV",
-        "id": "VisionTV.cl",
-        "logo": "https://i.imgur.com/mTesx1h.png",
-        "url": "https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "AE Radio TV",
         "id": "AERadioTV.cl",
         "logo": "https://i.imgur.com/425dj2i.jpeg",
@@ -1760,16 +1752,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Frecuencia Uno",
-        "id": "RadioFrecuenciaUno.cl",
-        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
-        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "TV Chile",
         "id": "TVChile.cl",
         "logo": "https://i.imgur.com/oYFto0V.png",
@@ -1839,16 +1821,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Nuble",
         "id": "RadioNuble.cl",
         "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
@@ -1865,6 +1837,26 @@
         "url": "https://v4.tustreaming.cl/sannicolastv/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Melinkana TV",
+        "id": "LaMelinkanaTV.cl",
+        "logo": "https://i.imgur.com/I0nzI1y.png",
+        "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "CL"
     }

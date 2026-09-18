@@ -130,16 +130,6 @@
         "country": "SV"
     },
     {
-        "name": "Canal 4",
-        "id": "Canal4.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png",
-        "url": "http://45.5.118.188:8000/play/a00j/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "Canal 6",
         "id": "Canal6.sv",
         "logo": "https://i.imgur.com/M4muPLK.png",
@@ -200,20 +190,20 @@
         "country": "SV"
     },
     {
-        "name": "SolTV",
-        "id": "SolTV.sv",
-        "logo": "https://i.imgur.com/jaBxxpt.png",
-        "url": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "JFV TV",
         "id": "JFVTV.sv",
         "logo": "https://i.imgur.com/SrmI6nU.jpeg",
         "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "TV Getsemani",
+        "id": "TVGetsemani.sv",
+        "logo": "https://i.imgur.com/C9SJCcE.jpg",
+        "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
         "categories": [
             "religious"
         ],

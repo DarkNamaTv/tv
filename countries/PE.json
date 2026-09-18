@@ -868,16 +868,6 @@
         "country": "PE"
     },
     {
-        "name": "Uchu TV",
-        "id": "UchuTV.pe",
-        "logo": "https://i.imgur.com/xYGkUR9.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Latina Noticias 24/7",
         "id": "LatinaNoticias247.pe",
         "logo": "https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png",
@@ -894,36 +884,6 @@
         "url": "https://live.obslivestream.com/mastertv/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "NZK Television",
-        "id": "NZKTelevision.pe",
-        "logo": "https://i.imgur.com/IqsB6VR.jpeg",
-        "url": "https://eu1.servers10.com:8081/8258/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Amazonica TV",
-        "id": "AmazonicaTV.pe",
-        "logo": "https://i.imgur.com/22ebHAX.jpeg",
-        "url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Metropolitana del Cuzco",
-        "id": "MetropolitanadelCuzco.pe",
-        "logo": "https://i.imgur.com/0B04qgM.png",
-        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "PE"
     },
@@ -996,10 +956,46 @@
         "country": "PE"
     },
     {
-        "name": "Kora TV",
-        "id": "KoraTV.pe",
-        "logo": "https://i.imgur.com/ahBYv4x.png",
-        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+        "name": "Agro TV",
+        "id": "AgroTV.pe",
+        "logo": "https://i.imgur.com/1uLGa3w.png",
+        "url": "https://play.agenciastreaming.com:8081/agrotv/index.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Radio Tropical",
+        "id": "RadioTropical.pe",
+        "logo": "https://i.imgur.com/TBPVOBI.png",
+        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Senal Peru TV",
+        "id": "SenalPeruTV.pe",
+        "logo": "https://i.imgur.com/1q0R6R9.png",
+        "url": "https://livestream.perucast.com/hls/stream.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Solar Television",
+        "id": "SolarTelevision.pe",
+        "logo": "https://i.imgur.com/ufnWpUf.png",
+        "url": "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "TV Kaliente",
+        "id": "TVKaliente.pe",
+        "logo": "https://i.imgur.com/MFQpLuQ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
         "categories": [
             "entertainment"
         ],

@@ -211,6 +211,16 @@
         "country": "DO"
     },
     {
+        "name": "Chinola TV",
+        "id": "ChinolaTV.do",
+        "logo": "https://i.imgur.com/ybud4dI.png",
+        "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Balapan",
         "id": "Balapan.kz",
         "logo": "https://i.imgur.com/2o5T0gi.png",
@@ -629,16 +639,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cartoon",
-        "id": "ZBCartoon.in",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Bolajon",
         "id": "Bolajon.uz",
         "logo": "https://i.imgur.com/s7o0ifu.png",
@@ -704,6 +704,16 @@
         "id": "DisneyChannel.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "url": "https://cdn.telecloud.tv/CH4019/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Nick Jr. Club",
+        "id": "NickJrClub.de",
+        "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
+        "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
         "categories": [
             "kids"
         ],
@@ -1206,10 +1216,10 @@
         "country": "US"
     },
     {
-        "name": "Nickelodeon en espanol",
-        "id": "Nickelodeonenespanol.us",
-        "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+        "name": "Nickelodeon Clasico",
+        "id": "NickelodeonClasico.us",
+        "logo": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png",
+        "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
         "categories": [
             "kids"
         ],
@@ -1396,6 +1406,16 @@
         "id": "Nickelodeon.hr",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
         "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "HR"
+    },
+    {
+        "name": "Nick Jr.",
+        "id": "NickJr.hr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+        "url": "http://176.61.157.250/NickJr/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -1775,6 +1795,26 @@
         "id": "Zoom.il",
         "logo": "https://i.imgur.com/KnBzNtA.png",
         "url": "http://stream.mcquack.net/377/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IL"
+    },
+    {
+        "name": "Disney Channel",
+        "id": "DisneyChannel.il",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IL"
+    },
+    {
+        "name": "Nick Jr.",
+        "id": "NickJr.il",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "url": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8",
         "categories": [
             "kids"
         ],

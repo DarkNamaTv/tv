@@ -1,5 +1,16 @@
 [
     {
+        "name": "Bollywood Film",
+        "id": "BollywoodFilm.ro",
+        "logo": "https://i.imgur.com/bEMUpHZ.png",
+        "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+        "categories": [
+            "movies",
+            "classic"
+        ],
+        "country": "RO"
+    },
+    {
         "name": "Retro",
         "id": "Retro.ru",
         "logo": "https://i.imgur.com/p21co1w.png",
@@ -267,17 +278,6 @@
         "country": "US"
     },
     {
-        "name": "Timeless TV",
-        "id": "TimelessTV.us",
-        "logo": "https://i.imgur.com/bjcpeVH.png",
-        "url": "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8",
-        "categories": [
-            "classic",
-            "shop"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Mainstreet",
         "id": "TVSMainstreet.us",
         "logo": "https://i.imgur.com/N9nQpnP.png",
@@ -298,30 +298,10 @@
         "country": "US"
     },
     {
-        "name": "Beverly Hillbillies",
-        "id": "BeverlyHillbillies.us",
-        "logo": "https://i.imgur.com/OV9hT93.png",
-        "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Classic TV Crime Drama",
-        "id": "ClassicTVCrimeDrama.us",
-        "logo": "https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Western TV",
-        "id": "WesternTV.us",
-        "logo": "https://i.imgur.com/nNy9oTx.png",
-        "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
+        "name": "Classic TV Drama",
+        "id": "ClassicTVDrama.us",
+        "logo": "https://i.imgur.com/XHQxv0x.png",
+        "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
         "categories": [
             "classic"
         ],
@@ -336,6 +316,17 @@
             "classic"
         ],
         "country": "CN"
+    },
+    {
+        "name": "The Wild Wild West",
+        "id": "TheWildWildWest.se",
+        "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
+        "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
     },
     {
         "name": "Cinevault Westerns (540p) [Geo-blocked]",

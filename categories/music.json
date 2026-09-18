@@ -70,16 +70,6 @@
         "country": "GR"
     },
     {
-        "name": "NRG 91",
-        "id": "NRG91.gr",
-        "logo": "https://i.imgur.com/1Zl1OJ5.png",
-        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "EU Music",
         "id": "EUMusic.ua",
         "logo": "https://i.imgur.com/fJdvyrG.png",
@@ -355,6 +345,36 @@
         "id": "RadioRomania3Net.ro",
         "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
         "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Mooz Dance",
+        "id": "MoozDance.ro",
+        "logo": "https://i.imgur.com/aX70RD2.png",
+        "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Mooz Hits",
+        "id": "MoozHits.ro",
+        "logo": "https://i.imgur.com/GwATd3Y.png",
+        "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Mooz Ro!",
+        "id": "MoozRo.ro",
+        "logo": "https://i.imgur.com/Ft24x5T.png",
+        "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
         "categories": [
             "music"
         ],
@@ -983,6 +1003,26 @@
         "country": "RU"
     },
     {
+        "name": "BRIDGE Fresh",
+        "id": "BRIDGEFresh.ru",
+        "logo": "https://i.imgur.com/IkUhaiG.png",
+        "url": "http://str2.iptvhd.ru:8080/Bridge_TV_HD/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "MusicBox Gold",
+        "id": "MusicBoxGold.ru",
+        "logo": "https://i.imgur.com/3arWh0k.png",
+        "url": "http://str2.iptvhd.ru:8080/360TuneBox/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "TikTok Radio Brasil",
         "id": "TikTokRadioBrasil.br",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
@@ -1223,17 +1263,6 @@
         "country": "IN"
     },
     {
-        "name": "Andy Haryana",
-        "id": "AndyHaryana.in",
-        "logo": "https://i.imgur.com/rmCBD3e.png",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
-        "categories": [
-            "culture",
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Balle Balle",
         "id": "BalleBalle.in",
         "logo": "https://i.imgur.com/oxkkWH5.png",
@@ -1308,16 +1337,6 @@
         "id": "Dhamaal.in",
         "logo": "https://i.imgur.com/J6D56EF.png",
         "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1514,6 +1533,16 @@
         "country": "PA"
     },
     {
+        "name": "Fabulosa Estereo 100.5 FM",
+        "id": "FabulosaEstereo1005FM.pa",
+        "logo": "https://i.imgur.com/YFmzkOp.png",
+        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
         "name": "Radio Moldova Muzical",
         "id": "RadioMoldovaMuzical.md",
         "logo": "https://i.imgur.com/ZFHWst4.png",
@@ -1562,16 +1591,6 @@
             "music"
         ],
         "country": "MD"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "E40",
@@ -1877,20 +1896,20 @@
         "country": "PE"
     },
     {
-        "name": "Metropolitana del Cuzco",
-        "id": "MetropolitanadelCuzco.pe",
-        "logo": "https://i.imgur.com/0B04qgM.png",
-        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "name": "Turbo Mix Radio TV",
+        "id": "TurboMixRadioTV.pe",
+        "logo": "https://i.imgur.com/AsdBQa3.png",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
         "categories": [
             "music"
         ],
         "country": "PE"
     },
     {
-        "name": "Turbo Mix Radio TV",
-        "id": "TurboMixRadioTV.pe",
-        "logo": "https://i.imgur.com/AsdBQa3.png",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+        "name": "Radio Tropical",
+        "id": "RadioTropical.pe",
+        "logo": "https://i.imgur.com/TBPVOBI.png",
+        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "categories": [
             "music"
         ],
@@ -3138,16 +3157,6 @@
         "country": "US"
     },
     {
-        "name": "La Que Buena Atlanta",
-        "id": "LaQueBuenaAtlanta.us",
-        "logo": "https://iili.io/JysD2a4.png",
-        "url": "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Metaleitor TV",
         "id": "MetaleitorTV.us",
         "logo": "https://new.opencaster.com/uploads/logos/logo_14_1752798826.png",
@@ -3172,6 +3181,16 @@
         "id": "VideoMixTV.us",
         "logo": "https://i.imgur.com/nyLrIPP.png",
         "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Karaoke por Stingray",
+        "id": "PlutoTVKaraokeporStingray.us",
+        "logo": "https://i.imgur.com/rWpLepJ.png",
+        "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
         "categories": [
             "music"
         ],
@@ -3223,6 +3242,16 @@
         "id": "BTATV.ve",
         "logo": "https://i.imgur.com/vygOosC.png",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "KandelaTV",
+        "id": "KandelaTV.ve",
+        "logo": "https://i.imgur.com/cCFxyIp.jpg",
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
         "categories": [
             "music"
         ],
@@ -3285,16 +3314,6 @@
         "id": "EskaTV.pl",
         "logo": "https://i.imgur.com/N0eH0Cg.png",
         "url": "https://lowa8026-cmyk.github.io/PL/eskatv.php.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "BTB Music",
-        "id": "BTBMusic.pl",
-        "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-        "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
         "categories": [
             "music"
         ],
@@ -4602,16 +4621,6 @@
         "country": "EC"
     },
     {
-        "name": "Vos y TV",
-        "id": "VosyTV.ec",
-        "logo": "https://i.imgur.com/294FDCB.png",
-        "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Couleur 3",
         "id": "Couleur3.ch",
         "logo": "https://i.imgur.com/VOIwYYd.png",
@@ -5289,16 +5298,6 @@
         "id": "StingrayRememberthe80s.ca",
         "logo": "https://i.imgur.com/duwc8E8.png",
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Stingray DJAZZ",
-        "id": "StingrayDJAZZ.ca",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-        "url": "https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8",
         "categories": [
             "music"
         ],

@@ -714,20 +714,20 @@
         "country": "DO"
     },
     {
-        "name": "Television del Este",
-        "id": "TelevisiondelEste.do",
-        "logo": "https://i.imgur.com/mmjbcGr.png",
-        "url": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
+        "name": "Carivision",
+        "id": "Carivision.do",
+        "logo": "https://i.imgur.com/XjGb2UM.png",
+        "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
         "categories": [
             "news"
         ],
         "country": "DO"
     },
     {
-        "name": "Carivision",
-        "id": "Carivision.do",
-        "logo": "https://i.imgur.com/XjGb2UM.png",
-        "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
+        "name": "Linieros TV",
+        "id": "LinierosTV.do",
+        "logo": "https://i.imgur.com/bLutjkf.png",
+        "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8",
         "categories": [
             "news"
         ],
@@ -772,26 +772,6 @@
             "news"
         ],
         "country": "MV"
-    },
-    {
-        "name": "Baraka Television",
-        "id": "BarakaTelevision.cd",
-        "logo": "https://i.imgur.com/IKXddHN.png",
-        "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CD"
-    },
-    {
-        "name": "Le Monde en 24h",
-        "id": "LeMondeen24h.cd",
-        "logo": "https://i.imgur.com/2igwi7g.png",
-        "url": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CD"
     },
     {
         "name": "Krik-TV",
@@ -1095,19 +1075,6 @@
             "general",
             "news",
             "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Paraense",
-        "id": "TVParaense.br",
-        "logo": "https://duckduckgo.com/i/e408ea02.png",
-        "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
-        "categories": [
-            "general",
-            "family",
-            "entertainment",
-            "news"
         ],
         "country": "BR"
     },
@@ -2868,16 +2835,6 @@
         "country": "IN"
     },
     {
-        "name": "VTV News",
-        "id": "VTVNews.in",
-        "logo": "https://i.imgur.com/Ni8pZLF.png",
-        "url": "https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "HNN 24x7",
         "id": "HNN24x7.in",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
@@ -3288,16 +3245,6 @@
         "country": "IN"
     },
     {
-        "name": "Power TV",
-        "id": "PowerTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540",
-        "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Prudent Media",
         "id": "PrudentMedia.in",
         "logo": "https://i.imgur.com/DG0x4UD.png",
@@ -3549,6 +3496,26 @@
         "country": "IN"
     },
     {
+        "name": "MKN Marathi",
+        "id": "MKNMarathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540",
+        "url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Nagaland TV",
+        "id": "NagalandTV.in",
+        "logo": "https://i.imgur.com/EBEIpPo.png",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -3575,17 +3542,6 @@
         "logo": "https://i.imgur.com/Ul4IIfX.png",
         "url": "https://realitatealive.md/tv/rlive.m3u8",
         "categories": [
-            "news"
-        ],
-        "country": "MD"
-    },
-    {
-        "name": "PRO TV Chisinau",
-        "id": "PROTVChisinau.md",
-        "logo": "https://i.imgur.com/X5PYRxF.png",
-        "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
-        "categories": [
-            "general",
             "news"
         ],
         "country": "MD"
@@ -3635,16 +3591,6 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4345,16 +4291,6 @@
         "country": "HN"
     },
     {
-        "name": "Maya TV",
-        "id": "MayaTV.hn",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
-        "url": "https://media.streambrothers.com:19360/8036/8036.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Al Najah News",
         "id": "AlNajahNews.ps",
         "logo": "https://i.imgur.com/c2bwn4G.png",
@@ -4369,16 +4305,6 @@
         "id": "MaanTV.ps",
         "logo": "https://i.imgur.com/hRFa03k.png",
         "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PS"
-    },
-    {
-        "name": "Palestine Today",
-        "id": "PalestineToday.ps",
-        "logo": "https://i.imgur.com/BS8XXug.png",
-        "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5124,26 +5050,6 @@
         "country": "US"
     },
     {
-        "name": "News12+ Connecticut",
-        "id": "News12PlusConnecticut.us",
-        "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
-        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "News12+ Hudson Valley",
-        "id": "News12PlusHudsonValley.us",
-        "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
-        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "News12+ New Jersey",
         "id": "News12PlusNewJersey.us",
         "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
@@ -5168,6 +5074,46 @@
         "id": "News12Westchester.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CBS News Detroit",
+        "id": "CBSNewsDetroit.us",
+        "logo": "https://i.imgur.com/cMels2Y.png",
+        "url": "https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CBS News Pittsburgh",
+        "id": "CBSNewsPittsburgh.us",
+        "logo": "https://i.imgur.com/Un9IrUh.png",
+        "url": "https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12 Bronx",
+        "id": "News12Bronx.us",
+        "logo": "https://i.imgur.com/d6xQiaf.png",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12 Conneticut",
+        "id": "News12Conneticut.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
         "categories": [
             "news"
         ],
@@ -5882,6 +5828,16 @@
         "country": "KR"
     },
     {
+        "name": "Gugbang TV",
+        "id": "GugbangTV.kr",
+        "logo": "https://i.imgur.com/f1tz5fg.png",
+        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "KR"
+    },
+    {
         "name": "Espace TV",
         "id": "EspaceTV.gn",
         "logo": "https://i.imgur.com/R5tbzFI.png",
@@ -6263,16 +6219,6 @@
         "country": "IT"
     },
     {
-        "name": "Haiti News Channel",
-        "id": "HaitiNewsChannel.ht",
-        "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
-        "url": "https://haititivi.com/website/haitinews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "HT"
-    },
-    {
         "name": "Eagle News",
         "id": "EagleNews.mn",
         "logo": "https://i.imgur.com/2oqXpve.jpg",
@@ -6359,16 +6305,6 @@
         "id": "RedTVLebanon.lb",
         "logo": "https://i.imgur.com/bWwY885.png",
         "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "Palestine Al Yawm",
-        "id": "PalestineAlYawm.lb",
-        "logo": "https://i.imgur.com/n8dSgx4.png",
-        "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
         "categories": [
             "news"
         ],
@@ -6769,16 +6705,6 @@
         "country": "IL"
     },
     {
-        "name": "Makan 33",
-        "id": "Makan33.il",
-        "logo": "https://i.imgur.com/RVtQTed.png",
-        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IL"
-    },
-    {
         "name": "Monaco Info",
         "id": "MonacoInfo.mc",
         "logo": "https://i.imgur.com/dIrKYH7.png",
@@ -6959,16 +6885,6 @@
         "country": "IR"
     },
     {
-        "name": "Mihan TV",
-        "id": "MihanTV.ir",
-        "logo": "https://i.imgur.com/XEMsM7w.png",
-        "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "Al Alam",
         "id": "AlAlam.ir",
         "logo": "https://i.imgur.com/Zdi31dy.png",
@@ -7026,6 +6942,16 @@
         "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
         "categories": [
             "general",
+            "news"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Milenio Television",
+        "id": "MilenioTelevision.mx",
+        "logo": "https://i.imgur.com/TG1T5Oh.png",
+        "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
+        "categories": [
             "news"
         ],
         "country": "MX"
@@ -7238,16 +7164,6 @@
         "id": "Noticiero90Minutos.co",
         "logo": "https://i.imgur.com/ThaRRCN.png",
         "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Canal PyC",
-        "id": "CanalPyC.co",
-        "logo": "https://i.imgur.com/3qxBDhV.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
         "categories": [
             "news"
         ],

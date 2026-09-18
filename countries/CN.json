@@ -549,16 +549,6 @@
         "country": "CN"
     },
     {
-        "name": "CCTV-5+",
-        "id": "CCTV5Plus.cn",
-        "logo": "https://i.imgur.com/OK8mdJV.png",
-        "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CN"
-    },
-    {
         "name": "CCTV-11",
         "id": "CCTV11.cn",
         "logo": "https://i.imgur.com/CjOWx7L.png",
@@ -675,6 +665,24 @@
         "categories": [
             "general",
             "travel"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CCTV-8K",
+        "id": "CCTV8K.cn",
+        "logo": "https://i.imgur.com/fxVPMJF.png",
+        "url": "http://198.204.240.250:82/live/cctv8k.m3u8",
+        "categories": [],
+        "country": "CN"
+    },
+    {
+        "name": "CND Film Middle School Channel",
+        "id": "CNDFilmMiddleSchoolChannel.cn",
+        "logo": "https://i.imgur.com/4uG8HsQ.png",
+        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "CN"
     }
