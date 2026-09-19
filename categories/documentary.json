@@ -193,6 +193,16 @@
         "country": "DO"
     },
     {
+        "name": "RL PRO TV",
+        "id": "RLPROTV.cd",
+        "logo": "https://i.imgur.com/PIBtCEN.jpeg",
+        "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "Nano",
         "id": "Nano.ru",
         "logo": "https://i.imgur.com/dYj3XDa.png",
@@ -400,7 +410,7 @@
         "name": "Safari TV",
         "id": "SafariTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540",
-        "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+        "url": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
         "categories": [
             "documentary"
         ],
@@ -517,6 +527,26 @@
             "documentary"
         ],
         "country": "DE"
+    },
+    {
+        "name": "Pluto TV History",
+        "id": "PlutoTVHistory.de",
+        "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
     },
     {
         "name": "Dvojka",
@@ -773,16 +803,6 @@
         "country": "US"
     },
     {
-        "name": "Detetives Medicos",
-        "id": "DetetivesMedicos.us",
-        "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Forensic Files",
         "id": "ForensicFiles.us",
         "logo": "https://i.imgur.com/V5vvuLK.png",
@@ -813,17 +833,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Naturaleza",
-        "id": "PlutoTVNaturaleza.us",
-        "logo": "https://i.imgur.com/vUHAWAJ.png",
-        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
-        "categories": [
-            "documentary",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Paranormal",
         "id": "PlutoTVParanormal.us",
         "logo": "https://i.imgur.com/ApN6nfw.png",
@@ -838,6 +847,16 @@
         "id": "SpikePlutoTV.us",
         "logo": "https://i.imgur.com/woY8Ecb.png",
         "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Archivos Forenses",
+        "id": "ArchivosForenses.us",
+        "logo": "https://i.imgur.com/Pxrl9Ug.png",
+        "url": "https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8",
         "categories": [
             "documentary"
         ],
@@ -861,17 +880,6 @@
         "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
         "categories": [
             "documentary"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "BTB Info",
-        "id": "BTBInfo.pl",
-        "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
-        "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
-        "categories": [
-            "documentary",
-            "news"
         ],
         "country": "PL"
     },
@@ -933,6 +941,16 @@
         "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
         "categories": [
             "culture",
+            "documentary"
+        ],
+        "country": "HR"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.hr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+        "categories": [
             "documentary"
         ],
         "country": "HR"
@@ -1146,16 +1164,6 @@
         "id": "ViasatNature.se",
         "logo": "https://i.imgur.com/ousRqqD.png",
         "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Alien Invasion",
-        "id": "PlutoTVAlienInvasion.se",
-        "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8",
         "categories": [
             "documentary"
         ],

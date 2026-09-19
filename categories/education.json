@@ -597,18 +597,6 @@
         "country": "BO"
     },
     {
-        "name": "UMSA TVU LP",
-        "id": "UMSATVULP.bo",
-        "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
-        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "news",
-            "culture",
-            "education"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "UMSA TVU Internacional",
         "id": "UMSATVUInternacional.bo",
         "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
@@ -894,36 +882,6 @@
         "id": "StLuciePublicSchools.us",
         "logo": "https://i.imgur.com/wnB0fWG.png",
         "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "HCTV Educational Access Channel",
-        "id": "HCTVEducationalAccessChannel.us",
-        "logo": "https://i.imgur.com/bVbpgiD.png",
-        "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Natureza",
-        "id": "PlutoTVNatureza.us",
-        "logo": "https://i.imgur.com/RuyQQ6M.png",
-        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Paisagens por Stingray",
-        "id": "PlutoTVPaisagensporStingray.us",
-        "logo": "https://i.imgur.com/6kElzw7.png",
-        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
         "categories": [
             "education"
         ],
@@ -1231,6 +1189,16 @@
         "country": "ID"
     },
     {
+        "name": "Rinjani TV",
+        "id": "RinjaniTV.id",
+        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Kan Educational",
         "id": "KanEducational.il",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
@@ -1297,26 +1265,6 @@
         "id": "TVUG.mx",
         "logo": "https://i.imgur.com/pxkDpTU.jpeg",
         "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Tele UV",
-        "id": "TeleUV.mx",
-        "logo": "https://i.imgur.com/8MdUH69.jpeg",
-        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Unison TV",
-        "id": "UnisonTV.mx",
-        "logo": "https://i.imgur.com/7ixWRId.png",
-        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
         "categories": [
             "education"
         ],

@@ -1138,16 +1138,6 @@
         "country": "CL"
     },
     {
-        "name": "Decima TV",
-        "id": "DecimaTV.cl",
-        "logo": "https://i.imgur.com/eu8hDDc.png",
-        "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "EPA! TV",
         "id": "EPATV.cl",
         "logo": "https://cdn.m3u.cl/logo/1649_EPA__TV.png",
@@ -1682,16 +1672,6 @@
         "country": "CL"
     },
     {
-        "name": "TeleCauquenes",
-        "id": "TeleCauquenes.cl",
-        "logo": "https://i.imgur.com/cNYDqhp.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Autonoma TV",
         "id": "AutonomaTV.cl",
         "logo": "https://i.imgur.com/kD6badL.png",
@@ -1841,12 +1821,22 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
         ],
         "country": "CL"
     }
