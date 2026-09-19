@@ -291,16 +291,6 @@
         "country": "TR"
     },
     {
-        "name": "CDN Deportes",
-        "id": "CDNDeportes.do",
-        "logo": "https://i.imgur.com/yU5LqTL.png",
-        "url": "https://hls.tvabierta.net/hls/036.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Colimdo TV",
         "id": "ColimdoTV.do",
         "logo": "https://i.imgur.com/ZeUgLCa.png",
@@ -821,6 +811,16 @@
         "country": "AR"
     },
     {
+        "name": "TyC Sports USA",
+        "id": "TyCSportsUSA.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+        "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Arena Sport 1",
         "id": "ArenaSport1.sk",
         "logo": "https://i.imgur.com/2qf67zW.png",
@@ -903,7 +903,7 @@
     {
         "name": "BEK Sports",
         "id": "BEKSports.us",
-        "logo": "https://i.imgur.com/6w1Wj3j.png",
+        "logo": "https://cdn.tvpassport.com/image/station/100x100/beksports.png",
         "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
         "categories": [
             "sports"
@@ -954,7 +954,7 @@
     {
         "name": "beIN SPORTS XTRA",
         "id": "beINSPORTSXTRA.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Cheddar_2019.png",
+        "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
         "url": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
         "categories": [
             "sports"
@@ -964,7 +964,7 @@
     {
         "name": "beIN SPORTS XTRA en Espanol",
         "id": "beINSPORTSXTRAenEspanol.us",
-        "logo": "https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F8d937196-4b88-40b4-a2d7-dbcd37b6da72-1677062937.637887.256x256.jpg&w=256&q=75",
+        "logo": "https://i.imgur.com/V562tpO.png",
         "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
         "categories": [
             "sports"
@@ -1244,7 +1244,7 @@
     {
         "name": "REV'N Action",
         "id": "REVNAction.us",
-        "logo": "https://i.imgur.com/aMKtA68.png",
+        "logo": "https://i.imgur.com/xsm8mMd.png",
         "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8",
         "categories": [
             "auto",
@@ -1429,17 +1429,6 @@
         "country": "US"
     },
     {
-        "name": "Monster Jam",
-        "id": "MonsterJam.us",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
-        "categories": [
-            "sports",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
         "name": "PBR RidePass",
         "id": "PBRRidePass.us",
         "logo": "https://i.imgur.com/gUxH97E.png",
@@ -1480,10 +1469,30 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Esportes",
-        "id": "PlutoTVEsportes.us",
-        "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
-        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "name": "Golf Channel Latin America",
+        "id": "GolfChannelLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
+        "url": "http://143.14.178.35/TCM-HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Competition",
+        "id": "PlutoTVCompetition.us",
+        "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PokerGo",
+        "id": "PokerGo.us",
+        "logo": "https://i.imgur.com/1603HED.png",
+        "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
         "categories": [
             "sports"
         ],
@@ -2145,6 +2154,16 @@
         "id": "PKSports.pk",
         "logo": "https://i.imgur.com/qtbSnrY.png",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "PTV Sports",
+        "id": "PTVSports.pk",
+        "logo": "https://i.imgur.com/CPm6GHA.png",
+        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
         "categories": [
             "sports"
         ],

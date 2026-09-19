@@ -161,17 +161,6 @@
         "country": "MM"
     },
     {
-        "name": "MRTV Farmer",
-        "id": "MRTVFarmer.mm",
-        "logo": "https://i.imgur.com/f4PWvrW.jpg",
-        "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
-        "categories": [
-            "documentary",
-            "lifestyle"
-        ],
-        "country": "MM"
-    },
-    {
         "name": "GZT",
         "id": "GZT.tr",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
@@ -539,14 +528,15 @@
         "country": "DE"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "name": "Pluto TV Science",
+        "id": "PlutoTVScience.de",
+        "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
         "categories": [
+            "science",
             "documentary"
         ],
-        "country": "CL"
+        "country": "DE"
     },
     {
         "name": "Dvojka",
@@ -853,11 +843,12 @@
         "country": "US"
     },
     {
-        "name": "Archivos Forenses",
-        "id": "ArchivosForenses.us",
-        "logo": "https://i.imgur.com/Pxrl9Ug.png",
-        "url": "https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8",
+        "name": "Pluto TV Turbo",
+        "id": "PlutoTVTurbo.us",
+        "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
         "categories": [
+            "auto",
             "documentary"
         ],
         "country": "US"
@@ -880,6 +871,17 @@
         "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
         "categories": [
             "documentary"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "BTB Info",
+        "id": "BTBInfo.pl",
+        "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+        "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "categories": [
+            "documentary",
+            "news"
         ],
         "country": "PL"
     },

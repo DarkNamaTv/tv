@@ -621,6 +621,18 @@
         "country": "BO"
     },
     {
+        "name": "UMSA TVU LP",
+        "id": "UMSATVULP.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
+        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news",
+            "culture",
+            "education"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Campus TV",
         "id": "CampusTV.hn",
         "logo": "https://i.imgur.com/E1TmADM.png",
@@ -882,6 +894,26 @@
         "id": "StLuciePublicSchools.us",
         "logo": "https://i.imgur.com/wnB0fWG.png",
         "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Natureza",
+        "id": "PlutoTVNatureza.us",
+        "logo": "https://i.imgur.com/RuyQQ6M.png",
+        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Paisagens por Stingray",
+        "id": "PlutoTVPaisagensporStingray.us",
+        "logo": "https://i.imgur.com/6kElzw7.png",
+        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
         "categories": [
             "education"
         ],
@@ -1184,16 +1216,6 @@
         "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
         "categories": [
             "culture",
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
             "education"
         ],
         "country": "ID"

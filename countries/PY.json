@@ -199,16 +199,6 @@
         "country": "PY"
     },
     {
-        "name": "Paravision",
-        "id": "Paravision.py",
-        "logo": "https://i.imgur.com/yd9Dw2G.png",
-        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Unicanal",
         "id": "Unicanal.py",
         "logo": "https://i.imgur.com/cgTD2TW.png",
@@ -440,16 +430,6 @@
         "country": "PY"
     },
     {
-        "name": "TV Camara",
-        "id": "TVCamara.py",
-        "logo": "https://i.imgur.com/Mfypr0t.png",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "categories": [
-            "legislative"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Canal 5 TV Max",
         "id": "Canal5TVMax.py",
         "logo": "https://i.imgur.com/6oihaDM.png",
@@ -554,6 +534,54 @@
         "id": "OviedoTV.py",
         "logo": "https://i.imgur.com/6OlfgSQ.png",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Dismar Radio TV",
+        "id": "DismarRadioTV.py",
+        "logo": "https://i.imgur.com/KOuxdMD.png",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Oasis TV",
+        "id": "OasisTV.py",
+        "logo": "https://i.imgur.com/u9umNKp.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Trece",
+        "id": "Trece.py",
+        "logo": "https://i.imgur.com/cgIv5QK.png",
+        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "UniRadio TV",
+        "id": "UniRadioTV.py",
+        "logo": "https://i.imgur.com/Co3YrU0.png",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "categories": [],
+        "country": "PY"
+    },
+    {
+        "name": "Villa Elisa Radio TV",
+        "id": "VillaElisaRadioTV.py",
+        "logo": "https://i.imgur.com/ryzCsvy.jpg",
+        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "categories": [
             "general"
         ],
