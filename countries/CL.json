@@ -228,16 +228,6 @@
         "country": "CL"
     },
     {
-        "name": "Tevex",
-        "id": "Tevex.cl",
-        "logo": "https://i.imgur.com/FnInQRd.png",
-        "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
-        "categories": [
-            "business"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Mi Radio TV",
         "id": "MiRadioTV.cl",
         "logo": "https://i.imgur.com/XEpLWJw.png",
@@ -827,14 +817,6 @@
         "country": "CL"
     },
     {
-        "name": "Tendencias Prime",
-        "id": "TendenciasPrime.cl",
-        "logo": "https://i.imgur.com/nDWW4m7.png",
-        "url": "https://v4.tustreaming.cl/tendenciastv/index.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Radio Zona 90.3",
         "id": "RadioZona903.cl",
         "logo": "https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png",
@@ -1222,14 +1204,6 @@
         "country": "CL"
     },
     {
-        "name": "RTC Television",
-        "id": "RTCTelevision.cl",
-        "logo": "https://i.imgur.com/w91IBj7.png",
-        "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Radio UC",
         "id": "RadioUC.cl",
         "logo": "https://cdn.m3u.cl/logo/1467_Radio_UC.png",
@@ -1287,14 +1261,6 @@
         "categories": [
             "general"
         ],
-        "country": "CL"
-    },
-    {
-        "name": "Vision Plus TV",
-        "id": "VisionPlusTV.cl",
-        "logo": "https://i.imgur.com/mpNcG5F.png",
-        "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
-        "categories": [],
         "country": "CL"
     },
     {
@@ -1496,32 +1462,12 @@
         "country": "CL"
     },
     {
-        "name": "ADA TV",
-        "id": "ADATV.cl",
-        "logo": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
-        "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Estacion Limache TV",
         "id": "EstacionLimacheTV.cl",
         "logo": "https://i.imgur.com/YAADx7P.png",
         "url": "https://v4.tustreaming.cl/limachemovil/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "La Granja TV",
-        "id": "LaGranjaTV.cl",
-        "logo": "https://i.imgur.com/90luGab.png",
-        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "CL"
     },
@@ -1591,16 +1537,6 @@
         "logo": "https://i.imgur.com/NVLJBzy.png",
         "url": "https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "Chocolate FM",
-        "id": "ChocolateFM.cl",
-        "logo": "https://cdn.m3u.cl/logo/382_ChocolateFM.png",
-        "url": "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
         "country": "CL"
     },
     {
@@ -1787,6 +1723,46 @@
         "url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Autonoma TV",
+        "id": "AutonomaTV.cl",
+        "logo": "https://i.imgur.com/kD6badL.png",
+        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Decima TV",
+        "id": "DecimaTV.cl",
+        "logo": "https://i.imgur.com/eu8hDDc.png",
+        "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CL"
     }

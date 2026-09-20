@@ -461,26 +461,6 @@
         "country": "RU"
     },
     {
-        "name": "Sportivnyy",
-        "id": "Sportivnyy.ru",
-        "logo": "https://i.imgur.com/ujS6mMo.png",
-        "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "TV 2 Sport",
-        "id": "TV2Sport.dk",
-        "logo": "https://i.imgur.com/76Zzs5R.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DK"
-    },
-    {
         "name": "Arryadia",
         "id": "Arryadia.ma",
         "logo": "https://i.imgur.com/XjzK3gZ.png",
@@ -781,6 +761,16 @@
         "country": "DE"
     },
     {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.de",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "Teletrak TV",
         "id": "TeletrakTV.cl",
         "logo": "https://i.imgur.com/NoJvlig.png",
@@ -901,16 +891,6 @@
         "country": "BO"
     },
     {
-        "name": "FUTV",
-        "id": "FUTV.cr",
-        "logo": "https://i.imgur.com/f8BkLql.png",
-        "url": "http://190.61.90.17:40000/play/a03v/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Deportes TVC",
         "id": "DeportesTVC.hn",
         "logo": "https://i.imgur.com/Y1t8xkL.png",
@@ -984,7 +964,7 @@
     {
         "name": "Fubo Sports Network",
         "id": "FuboSportsNetwork.us",
-        "logo": "https://i.imgur.com/Bpj37CX.png",
+        "logo": "https://i.imgur.com/qFNRJLb.png",
         "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
         "categories": [
             "sports"
@@ -1389,16 +1369,6 @@
         "country": "US"
     },
     {
-        "name": "PFL MMA",
-        "id": "PFLMMA.us",
-        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Snooker 900",
         "id": "PlutoTVSnooker900.us",
         "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
@@ -1440,10 +1410,110 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Esportes",
-        "id": "PlutoTVEsportes.us",
-        "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
-        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "name": "Bellator MMA",
+        "id": "BellatorMMA.us",
+        "logo": "https://i.imgur.com/VBKoLHk.png",
+        "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Competition",
+        "id": "PlutoTVCompetition.us",
+        "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Deportes",
+        "id": "PlutoTVDeportes.us",
+        "logo": "https://i.imgur.com/0pDy6f4.png",
+        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV E-Sports",
+        "id": "PlutoTVESports.us",
+        "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Bowling Network",
+        "id": "TVSBowlingNetwork.us",
+        "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Boxing",
+        "id": "TVSBoxing.us",
+        "logo": "https://i.imgur.com/30ZoF75.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Classic Sports",
+        "id": "TVSClassicSports.us",
+        "logo": "https://i.imgur.com/auR0Mi6.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Sports",
+        "id": "TVSSports.us",
+        "logo": "https://i.imgur.com/Lwwq62E.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Sports Bureau",
+        "id": "TVSSportsBureau.us",
+        "logo": "",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Turbo",
+        "id": "TVSTurbo.us",
+        "logo": "https://i.imgur.com/7zYIbU1.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Women Sports",
+        "id": "TVSWomenSports.us",
+        "logo": "https://i.imgur.com/8hC4PfF.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1494,16 +1564,6 @@
         "id": "PolsatSportPremium1.pl",
         "logo": "https://i.imgur.com/hy1SKE0.png",
         "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVP Sport",
-        "id": "TVPSport.pl",
-        "logo": "https://i.imgur.com/JUZDOCO.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1615,26 +1675,6 @@
         "country": "ES"
     },
     {
-        "name": "Deportes por Movistar Plus+",
-        "id": "DeportesporMovistarPlusPlus.es",
-        "logo": "",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Liga de Campeones por Movistar Plus+",
-        "id": "LigadeCampeonesporMovistarPlusPlus.es",
-        "logo": "",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Equidia",
         "id": "Equidia.fr",
         "logo": "https://i.imgur.com/QPpbRcZ.png",
@@ -1661,16 +1701,6 @@
         "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
         "categories": [
             "news",
-            "sports"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "RMC Sport 1",
-        "id": "RMCSport1.fr",
-        "logo": "https://i.imgur.com/NsFTG7u.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
-        "categories": [
             "sports"
         ],
         "country": "FR"
@@ -1871,26 +1901,6 @@
         "id": "InterTV.it",
         "logo": "https://i.imgur.com/FUTqh2L.png",
         "url": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Sky Sport F1",
-        "id": "SkySportF1.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Zona DAZN",
-        "id": "ZonaDAZN.it",
-        "logo": "https://i.imgur.com/Jop3Vip.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -2166,16 +2176,6 @@
         "id": "SetantaSports2Eurasia.ie",
         "logo": "https://i.imgur.com/ouHunnK.png",
         "url": "http://stream.mcquack.net/235/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IE"
-    },
-    {
-        "name": "Premier Sports 2",
-        "id": "PremierSports2.ie",
-        "logo": "https://i.imgur.com/Fx1n84p.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8",
         "categories": [
             "sports"
         ],

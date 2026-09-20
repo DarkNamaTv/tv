@@ -573,7 +573,7 @@
     {
         "name": "Court TV",
         "id": "CourtTV.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
+        "logo": "https://i.imgur.com/jOKA735.png",
         "url": "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
         "categories": [
             "documentary"
@@ -865,6 +865,26 @@
         "country": "US"
     },
     {
+        "name": "Forensic Files",
+        "id": "ForensicFiles.us",
+        "logo": "https://i.imgur.com/V5vvuLK.png",
+        "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Negocio Fechado",
+        "id": "PlutoTVNegocioFechado.us",
+        "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Karbala Documentary",
         "id": "KarbalaDocumentary.iq",
         "logo": "https://www.karbala-tv.iq/documentary/static/img/logo.png",
@@ -882,6 +902,17 @@
         "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
         "categories": [
             "documentary"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "BTB Info",
+        "id": "BTBInfo.pl",
+        "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+        "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "categories": [
+            "documentary",
+            "news"
         ],
         "country": "PL"
     },
@@ -917,22 +948,22 @@
         "country": "ES"
     },
     {
-        "name": "Historia Y Vida",
-        "id": "HistoriaYVida.es",
-        "logo": "https://i.imgur.com/3lbh2X6.png",
-        "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "HRT 3",
         "id": "HRT3.hr",
         "logo": "https://i.imgur.com/4OrOJRx.png",
         "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
         "categories": [
             "culture",
+            "documentary"
+        ],
+        "country": "HR"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.hr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+        "categories": [
             "documentary"
         ],
         "country": "HR"

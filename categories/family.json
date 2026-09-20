@@ -31,6 +31,19 @@
         "country": "RU"
     },
     {
+        "name": "TV Paraense",
+        "id": "TVParaense.br",
+        "logo": "https://duckduckgo.com/i/e408ea02.png",
+        "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
+        "categories": [
+            "general",
+            "family",
+            "entertainment",
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Sevimli TV",
         "id": "SevimliTV.uz",
         "logo": "https://i.imgur.com/iMwzRlr.png",
@@ -181,6 +194,16 @@
         "id": "HallmarkChannel.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
         "url": "http://41.205.93.154/HALLMARK/index.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Family Channel",
+        "id": "TVSFamilyChannel.us",
+        "logo": "https://i.imgur.com/Y3EV3DL.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
         "categories": [
             "family"
         ],
