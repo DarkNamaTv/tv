@@ -661,14 +661,6 @@
         "country": "FR"
     },
     {
-        "name": "ViaMatele",
-        "id": "ViaMatele.fr",
-        "logo": "https://i.imgur.com/XVCV9rj.png",
-        "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
-        "categories": [],
-        "country": "FR"
-    },
-    {
         "name": "TV7 Colmar",
         "id": "TV7Colmar.fr",
         "logo": "https://i.imgur.com/kSdGi43.png",
@@ -810,21 +802,21 @@
         "country": "FR"
     },
     {
-        "name": "M6",
-        "id": "M6.fr",
-        "logo": "https://i.imgur.com/7GVp3fW.png",
-        "url": "http://99.27.51.147:8080/M6/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "Syfy",
         "id": "Syfy.fr",
         "logo": "https://i.imgur.com/gUOXdjv.png",
         "url": "http://99.27.51.147:8080/SYFY/index.m3u8",
         "categories": [],
+        "country": "FR"
+    },
+    {
+        "name": "Euronews Spanish",
+        "id": "EuronewsSpanish.fr",
+        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "FR"
     }
 ]

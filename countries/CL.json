@@ -1078,16 +1078,6 @@
         "country": "CL"
     },
     {
-        "name": "TNE",
-        "id": "TNE.cl",
-        "logo": "https://i.imgur.com/8QbvXva.png",
-        "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Universal",
         "id": "RadioUniversal.cl",
         "logo": "https://cdn.m3u.cl/logo/390_Radio_Universal.png",
@@ -1622,16 +1612,6 @@
         "country": "CL"
     },
     {
-        "name": "Autonoma TV",
-        "id": "AutonomaTV.cl",
-        "logo": "https://i.imgur.com/kD6badL.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Ciudadano Radio",
         "id": "CiudadanoRadio.cl",
         "logo": "https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png",
@@ -1761,32 +1741,52 @@
         "country": "CL"
     },
     {
-        "name": "Decima TV",
-        "id": "DecimaTV.cl",
-        "logo": "https://i.imgur.com/eu8hDDc.png",
-        "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "TeleCauquenes",
         "id": "TeleCauquenes.cl",
         "logo": "https://i.imgur.com/cNYDqhp.png",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Odisea TV",
+        "id": "OdiseaTV.cl",
+        "logo": "https://i.imgur.com/8SCnoiZ.png",
+        "url": "https://v2.tustreaming.cl/odiseatv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Nuble",
+        "id": "RadioNuble.cl",
+        "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
+        "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Sabor TV",
+        "id": "SaborTV.cl",
+        "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
+        "url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "CL"
     }
