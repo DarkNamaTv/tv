@@ -217,17 +217,6 @@
         "country": "BR"
     },
     {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Canal FDR",
         "id": "CanalFDR.br",
         "logo": "https://i.imgur.com/7SE4CkE.png",
@@ -485,16 +474,6 @@
         "country": "TH"
     },
     {
-        "name": "ETV",
-        "id": "ETV.th",
-        "logo": "https://i.imgur.com/HTnQGcs.png",
-        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "TH"
-    },
-    {
         "name": "TV Maya",
         "id": "TVMaya.gt",
         "logo": "https://i.imgur.com/BGFa4OO.png",
@@ -695,7 +674,7 @@
     {
         "name": "PBS Kids",
         "id": "PBSKids.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png",
+        "logo": "https://i.imgur.com/fg8c9WK.png",
         "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
         "categories": [
             "education",
@@ -791,7 +770,7 @@
     {
         "name": "PBS",
         "id": "PBS.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",
+        "logo": "https://i.imgur.com/O1zzAvh.png",
         "url": "https://pbs.lls.cdn.pbs.org/pst/index.m3u8",
         "categories": [
             "education"
@@ -930,10 +909,10 @@
         "country": "US"
     },
     {
-        "name": "Pronto-socorro: Historias De Emergencia",
-        "id": "ProntosocorroHistoriasDeEmergencia.us",
-        "logo": "https://i.imgur.com/0PkyJ3U.png",
-        "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
+        "name": "Pluto TV Vida Real",
+        "id": "PlutoTVVidaReal.us",
+        "logo": "https://i.imgur.com/dRbBbxP.png",
+        "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
         "categories": [
             "education"
         ],
@@ -1178,6 +1157,27 @@
         "country": "CN"
     },
     {
+        "name": "CCTV-17",
+        "id": "CCTV17.cn",
+        "logo": "https://i.imgur.com/jSQURxS.png",
+        "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+        "categories": [
+            "outdoor",
+            "education"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CCTV-7",
+        "id": "CCTV7.cn",
+        "logo": "https://i.imgur.com/CKcPMQC.png",
+        "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "CN"
+    },
+    {
         "name": "English Club TV",
         "id": "EnglishClubTV.uk",
         "logo": "https://i.imgur.com/9FMvaRK.png",
@@ -1215,16 +1215,6 @@
         "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
         "categories": [
             "culture",
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
             "education"
         ],
         "country": "ID"
@@ -1302,10 +1292,32 @@
         "country": "MX"
     },
     {
-        "name": "ILCE Canal 15 Summa Saberes",
-        "id": "ILCECanal15SummaSaberes.mx",
-        "logo": "https://i.imgur.com/r7czgOc.png",
-        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "UAA TV",
+        "id": "UAATV.mx",
+        "logo": "https://i.imgur.com/brCSiGh.png",
+        "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "public"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Unison TV",
+        "id": "UnisonTV.mx",
+        "logo": "https://i.imgur.com/7ixWRId.png",
+        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
         "categories": [
             "education"
         ],

@@ -107,6 +107,17 @@
         "country": "TR"
     },
     {
+        "name": "TRT Genc",
+        "id": "TRTGenc.tr",
+        "logo": "https://i.imgur.com/fCHQYWS.png",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "general",
+            "culture"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Canal 17 RTVD",
         "id": "Canal17RTVD.do",
         "logo": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
@@ -208,17 +219,6 @@
         "country": "BR"
     },
     {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV UFOP",
         "id": "TVUFOP.br",
         "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
@@ -267,17 +267,6 @@
         "id": "SanskarTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143713_ld_h15_aa.png?lock=720x540",
         "url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
-        "categories": [
-            "religious",
-            "culture"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "JTBS Classic",
-        "id": "JTBSClassic.in",
-        "logo": "https://jtbsclassic.dpdns.org/logo.png",
-        "url": "https://jtbsclassic.dpdns.org/live.m3u8",
         "categories": [
             "religious",
             "culture"
@@ -409,6 +398,16 @@
         "country": "CL"
     },
     {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Afro Magic Channel",
         "id": "AfroMagicChannel.ci",
         "logo": "https://i.imgur.com/yQzXErU.png",
@@ -478,16 +477,6 @@
         "categories": [
             "general",
             "family",
-            "culture"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Senal U",
-        "id": "SenalU.ar",
-        "logo": "https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png",
-        "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
-        "categories": [
             "culture"
         ],
         "country": "AR"
@@ -705,16 +694,6 @@
         "country": "TM"
     },
     {
-        "name": "Balchi TV",
-        "id": "BalchiTV.aw",
-        "logo": "https://i.imgur.com/XlCaZvF.png",
-        "url": "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "AW"
-    },
-    {
         "name": "Tra Vinh TV",
         "id": "TraVinhTV.vn",
         "logo": "https://i.imgur.com/F12VdKO.png",
@@ -750,6 +729,16 @@
             "entertainment"
         ],
         "country": "VN"
+    },
+    {
+        "name": "Imai TV",
+        "id": "ImaiTV.lk",
+        "logo": "https://i.imgur.com/9tODclu.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "LK"
     },
     {
         "name": "Hamaika Telebista",
@@ -918,16 +907,6 @@
         "country": "NL"
     },
     {
-        "name": "Kemet TV",
-        "id": "KemetTV.cm",
-        "logo": "https://i.imgur.com/NZ0YqOb.jpeg",
-        "url": "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "Ciracu TV",
         "id": "CiracuTV.ec",
         "logo": "https://i.imgur.com/mkf2TJ6.png",
@@ -962,6 +941,16 @@
         "id": "LanzhouCultureTourismChannel.cn",
         "logo": "https://www.tvchinese.net/uploads/tv/lanzhou.jpg",
         "url": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CCTV-8",
+        "id": "CCTV8.cn",
+        "logo": "https://i.imgur.com/GyHaZ8X.png",
+        "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
         "categories": [
             "culture"
         ],
@@ -1071,6 +1060,18 @@
         "categories": [
             "culture",
             "entertainment"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "UAA TV",
+        "id": "UAATV.mx",
+        "logo": "https://i.imgur.com/brCSiGh.png",
+        "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "public"
         ],
         "country": "MX"
     },
@@ -1192,6 +1193,16 @@
         "id": "EETTV.ca",
         "logo": "https://i.imgur.com/rntSEDZ.png",
         "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "C Malayalam TV",
+        "id": "CMalayalamTV.ca",
+        "logo": "https://i.imgur.com/rpg0bQA.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
         "categories": [
             "culture"
         ],

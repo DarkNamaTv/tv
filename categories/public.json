@@ -209,17 +209,6 @@
         "country": "ES"
     },
     {
-        "name": "24 Horas Canarias",
-        "id": "24HorasCanarias.es",
-        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-        "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
-        "categories": [
-            "news",
-            "public"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "24 Horas Catalunya",
         "id": "24HorasCatalunya.es",
         "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
@@ -241,5 +230,17 @@
             "general"
         ],
         "country": "NL"
+    },
+    {
+        "name": "UAA TV",
+        "id": "UAATV.mx",
+        "logo": "https://i.imgur.com/brCSiGh.png",
+        "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "public"
+        ],
+        "country": "MX"
     }
 ]

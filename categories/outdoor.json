@@ -40,16 +40,6 @@
         "country": "BG"
     },
     {
-        "name": "ARDB TV",
-        "id": "ARDBTV.kh",
-        "logo": "https://i.imgur.com/yOncWla.png",
-        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "KH"
-    },
-    {
         "name": "Ohotnik i rybolov",
         "id": "Ohotnikirybolov.ru",
         "logo": "https://i.imgur.com/Bj1jI7F.png",
@@ -274,7 +264,7 @@
     {
         "name": "Outdoor America",
         "id": "OutdoorAmerica.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+        "logo": "https://i.imgur.com/UKfimFD.png",
         "url": "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8",
         "categories": [
             "outdoor"
@@ -337,18 +327,8 @@
     {
         "name": "Outside TV",
         "id": "OutsideTV.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/960px-HSN_logo.svg.png",
+        "logo": "https://i.imgur.com/0UMmG41.png",
         "url": "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Backcountry",
-        "id": "PlutoTVBackcountry.us",
-        "logo": "https://i.imgur.com/KnlQzs7.png",
-        "url": "https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8",
         "categories": [
             "outdoor"
         ],
@@ -361,16 +341,6 @@
         "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
         "categories": [
             "documentary",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Spike Outdoors",
-        "id": "SpikeOutdoors.us",
-        "logo": "https://i.imgur.com/cdCD2A2.png",
-        "url": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
-        "categories": [
             "outdoor"
         ],
         "country": "US"
@@ -517,6 +487,17 @@
         "country": "CH"
     },
     {
+        "name": "CCTV-17",
+        "id": "CCTV17.cn",
+        "logo": "https://i.imgur.com/jSQURxS.png",
+        "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+        "categories": [
+            "outdoor",
+            "education"
+        ],
+        "country": "CN"
+    },
+    {
         "name": "Horse & Country TV",
         "id": "HorseCountryTV.uk",
         "logo": "https://i.imgur.com/1x6zYZr.png",
@@ -541,16 +522,6 @@
         "id": "ElMundodelCampo.co",
         "logo": "https://i.imgur.com/xG2apUG.jpeg",
         "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "UMC TV",
-        "id": "UMCTV.co",
-        "logo": "https://i.imgur.com/YQUK4wO.png",
-        "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
         "categories": [
             "outdoor"
         ],
