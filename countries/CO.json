@@ -362,16 +362,6 @@
         "country": "CO"
     },
     {
-        "name": "Nexo TV",
-        "id": "NexoTV.co",
-        "logo": "https://i.imgur.com/tkEFZWo.png",
-        "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal Capital",
         "id": "CanalCapital.co",
         "logo": "https://i.imgur.com/zAYtbYi.png",
@@ -472,16 +462,6 @@
         "country": "CO"
     },
     {
-        "name": "Vive TV",
-        "id": "ViveTV.co",
-        "logo": "https://i.imgur.com/25CFHpB.png",
-        "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "ANC Television",
         "id": "ANCTelevision.co",
         "logo": "https://i.imgur.com/xjTU14t.jpg",
@@ -559,16 +539,6 @@
         "url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Emisora Comunitaria 104.1 FM",
-        "id": "EmisoraComunitaria1041FM.co",
-        "logo": "https://i.imgur.com/SQ79Wsb.png",
-        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CO"
     },
@@ -715,26 +685,6 @@
         "country": "CO"
     },
     {
-        "name": "Canal Nets",
-        "id": "CanalNets.co",
-        "logo": "https://i.imgur.com/edaAexc.png",
-        "url": "https://video.ejeserver.com/live/nets.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Canal Calima TV",
-        "id": "CanalCalimaTV.co",
-        "logo": "https://i.imgur.com/6YxtyUR.jpeg",
-        "url": "https://movil.ejeserver.com/live/calimatv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "NSTV",
         "id": "NSTV.co",
         "logo": "https://i.imgur.com/ES6xFAv.png",
@@ -855,12 +805,32 @@
         "country": "CO"
     },
     {
-        "name": "TeleQuindio",
-        "id": "TeleQuindio.co",
-        "logo": "https://i.imgur.com/bJWj5ja.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+        "name": "CNC Tulua",
+        "id": "CNCTulua.co",
+        "logo": "https://i.imgur.com/NCzpcqm.png",
+        "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Tele Mocoa Canal 10",
+        "id": "TeleMocoaCanal10.co",
+        "logo": "https://i.imgur.com/XHtpEfu.png",
+        "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TVGracia",
+        "id": "TVGracia.co",
+        "logo": "https://i.imgur.com/tMl4ISO.png",
+        "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "CO"
     }

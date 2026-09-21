@@ -1221,10 +1221,38 @@
         "country": "AR"
     },
     {
-        "name": "El Nueve",
-        "id": "ElNueve.ar",
-        "logo": "https://i.imgur.com/cJHP7bU.png",
-        "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+        "name": "Canal 79 Villa Maza",
+        "id": "Canal79VillaMaza.ar",
+        "logo": "https://i.imgur.com/HYuSqJy.png",
+        "url": "https://streamconex.com:19360/villamaza/villamaza.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Pulpo TV",
+        "id": "CanalPulpoTV.ar",
+        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Caras TV",
+        "id": "CarasTV.ar",
+        "logo": "https://i.imgur.com/7dl4yQY.jpeg",
+        "url": "http://190.61.90.17:40000/play/a043/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Norte TV",
+        "id": "NorteTV.ar",
+        "logo": "https://i.imgur.com/jTX2vp0.png",
+        "url": "https://ntvcanal7.com.ar:81/dash/stream.mpd",
         "categories": [
             "general"
         ],

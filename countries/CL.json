@@ -1647,16 +1647,6 @@
         "country": "CL"
     },
     {
-        "name": "San Nicolas TV",
-        "id": "SanNicolasTV.cl",
-        "logo": "https://i.imgur.com/z94YCpH.png",
-        "url": "https://v4.tustreaming.cl/sannicolastv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "La Melinkana TV",
         "id": "LaMelinkanaTV.cl",
         "logo": "https://i.imgur.com/I0nzI1y.png",
@@ -1667,42 +1657,12 @@
         "country": "CL"
     },
     {
-        "name": "Arica TV",
-        "id": "AricaTV.cl",
-        "logo": "https://i.imgur.com/I67WOgT.png",
-        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "TeleCauquenes",
         "id": "TeleCauquenes.cl",
         "logo": "https://i.imgur.com/cNYDqhp.png",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Odisea TV",
-        "id": "OdiseaTV.cl",
-        "logo": "https://i.imgur.com/8SCnoiZ.png",
-        "url": "https://v2.tustreaming.cl/odiseatv/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1737,16 +1697,6 @@
         "country": "CL"
     },
     {
-        "name": "Chiloe Red 25",
-        "id": "ChiloeRed25.cl",
-        "logo": "https://i.imgur.com/3tqrImm.png",
-        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Decima TV",
         "id": "DecimaTV.cl",
         "logo": "https://i.imgur.com/eu8hDDc.png",
@@ -1757,13 +1707,79 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "name": "ADA TV",
+        "id": "ADATV.cl",
+        "logo": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
+        "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chocolate FM",
+        "id": "ChocolateFM.cl",
+        "logo": "https://cdn.m3u.cl/logo/382_ChocolateFM.png",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "El Centro TV",
+        "id": "ElCentroTV.cl",
+        "logo": "https://i.imgur.com/2KqGHvA.png",
+        "url": "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Granja TV",
+        "id": "LaGranjaTV.cl",
+        "logo": "https://i.imgur.com/90luGab.png",
+        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Frecuencia Uno",
+        "id": "RadioFrecuenciaUno.cl",
+        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
+        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
         "categories": [
             "general"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "Tendencias Prime",
+        "id": "TendenciasPrime.cl",
+        "logo": "https://i.imgur.com/nDWW4m7.png",
+        "url": "https://v4.tustreaming.cl/tendenciastv/index.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Tevex",
+        "id": "Tevex.cl",
+        "logo": "https://i.imgur.com/FnInQRd.png",
+        "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Vision Plus TV",
+        "id": "VisionPlusTV.cl",
+        "logo": "https://i.imgur.com/mpNcG5F.png",
+        "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]

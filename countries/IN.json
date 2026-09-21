@@ -1532,16 +1532,6 @@
         "country": "IN"
     },
     {
-        "name": "Village TV",
-        "id": "VillageTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
-        "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Joy TV",
         "id": "JoyTV.in",
         "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
@@ -2449,16 +2439,6 @@
         "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Dheeran TV",
-        "id": "DheeranTV.in",
-        "logo": "https://i.imgur.com/jSedjXf.png",
-        "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "IN"
     },
@@ -5674,16 +5654,6 @@
         "country": "IN"
     },
     {
-        "name": "Ananda Barta",
-        "id": "AnandaBarta.in",
-        "logo": "https://i.imgur.com/yWo4RaV.jpeg",
-        "url": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "4 SiDES TV",
         "id": "4SiDESTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
@@ -5818,16 +5788,6 @@
         "id": "KBCNews.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png",
         "url": "https://stream.ottlive.co.in/kbcnews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "KBP Times",
-        "id": "KBPTimes.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KBPTimes.png",
-        "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
         "categories": [
             "news"
         ],
@@ -6158,17 +6118,6 @@
         "country": "IN"
     },
     {
-        "name": "Shemaroo Filmi Gaane",
-        "id": "ShemarooFilmiGaane.in",
-        "logo": "https://i.imgur.com/2yOij1b.png",
-        "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
-        "categories": [
-            "music",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Subin TV",
         "id": "SubinTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
@@ -6309,30 +6258,12 @@
         "country": "IN"
     },
     {
-        "name": "HSTV",
-        "id": "HSTV.in",
-        "logo": "https://ibb.co/Ng5nkX6F",
-        "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-        "categories": [],
-        "country": "IN"
-    },
-    {
         "name": "Oli TV",
         "id": "OliTV.in",
         "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
         "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "OM TV",
-        "id": "OMTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
-        "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "IN"
     },
@@ -6344,6 +6275,54 @@
         "categories": [
             "general"
         ],
+        "country": "IN"
+    },
+    {
+        "name": "Nagaland TV",
+        "id": "NagalandTV.in",
+        "logo": "https://i.imgur.com/EBEIpPo.png",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Public First",
+        "id": "PublicFirst.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Village TV",
+        "id": "VillageTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
+        "url": "https://live.villagetv.net/villagetv/hd/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "VTU",
+        "id": "VTU.in",
+        "logo": "https://i.imgur.com/zMwZRGJ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+        "categories": [],
         "country": "IN"
     }
 ]

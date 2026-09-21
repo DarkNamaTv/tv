@@ -461,6 +461,16 @@
         "country": "RU"
     },
     {
+        "name": "Sportivnyy",
+        "id": "Sportivnyy.ru",
+        "logo": "https://i.imgur.com/ujS6mMo.png",
+        "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Arryadia",
         "id": "Arryadia.ma",
         "logo": "https://i.imgur.com/XjzK3gZ.png",
@@ -889,6 +899,16 @@
             "sports"
         ],
         "country": "BO"
+    },
+    {
+        "name": "FUTV",
+        "id": "FUTV.cr",
+        "logo": "https://i.imgur.com/f8BkLql.png",
+        "url": "http://190.61.90.17:40000/play/a03v/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CR"
     },
     {
         "name": "Deportes TVC",
@@ -1399,17 +1419,6 @@
         "country": "US"
     },
     {
-        "name": "Monster Jam",
-        "id": "MonsterJam.us",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
-        "categories": [
-            "sports",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Bellator MMA",
         "id": "BellatorMMA.us",
         "logo": "https://i.imgur.com/VBKoLHk.png",
@@ -1424,16 +1433,6 @@
         "id": "PlutoTVCompetition.us",
         "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Deportes",
-        "id": "PlutoTVDeportes.us",
-        "logo": "https://i.imgur.com/0pDy6f4.png",
-        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
         "categories": [
             "sports"
         ],
@@ -1514,6 +1513,46 @@
         "id": "TVSWomenSports.us",
         "logo": "https://i.imgur.com/8hC4PfF.png",
         "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBR RidePass",
+        "id": "PBRRidePass.us",
+        "logo": "https://i.imgur.com/gUxH97E.png",
+        "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PFL MMA",
+        "id": "PFLMMA.us",
+        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+        "url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Esportes",
+        "id": "PlutoTVEsportes.us",
+        "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
+        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PokerGo",
+        "id": "PokerGo.us",
+        "logo": "https://i.imgur.com/1603HED.png",
+        "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
         "categories": [
             "sports"
         ],

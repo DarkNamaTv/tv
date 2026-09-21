@@ -714,16 +714,6 @@
         "country": "PE"
     },
     {
-        "name": "TV+ Chincha",
-        "id": "TVPlusChincha.pe",
-        "logo": "https://i.imgur.com/bjQpQsu.jpeg",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Foro TV",
         "id": "ForoTV.pe",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s",
@@ -1014,12 +1004,30 @@
         "country": "PE"
     },
     {
-        "name": "Zeleve TV",
-        "id": "ZeleveTV.pe",
-        "logo": "https://i.imgur.com/CGWaunJ.jpeg",
-        "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
+        "name": "Prattel TV",
+        "id": "PrattelTV.pe",
+        "logo": "https://new.opencaster.com/uploads/logos/logo_244_1761928734.png",
+        "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
         "categories": [
-            "general"
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Teleselva",
+        "id": "Teleselva.pe",
+        "logo": "https://i.imgur.com/cu7hTn8.png",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "TV Kaliente",
+        "id": "TVKaliente.pe",
+        "logo": "https://i.imgur.com/MFQpLuQ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "PE"
     }
