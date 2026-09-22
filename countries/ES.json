@@ -1437,17 +1437,6 @@
         "country": "ES"
     },
     {
-        "name": "Canal 1 Mar Menor Torre Pacheco",
-        "id": "Canal1MarMenorTorrePacheco.es",
-        "logo": "https://i.imgur.com/MQOwCdZ.png",
-        "url": "https://directo.tuwebtv.es/canal1.m3u8",
-        "categories": [
-            "general",
-            "news"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Rakuten TV Nordic Films",
         "id": "RakutenTVNordicFilms.es",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
@@ -1614,14 +1603,6 @@
         "country": "ES"
     },
     {
-        "name": "Canal Donana",
-        "id": "CanalDonana.es",
-        "logo": "https://i.imgur.com/0WrKIxm.png",
-        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "Music TV Granada",
         "id": "MusicTVGranada.es",
         "logo": "https://i.ibb.co/Swd9NP7n/music-tv-granada.png",
@@ -1632,13 +1613,30 @@
         "country": "ES"
     },
     {
-        "name": "TVR",
-        "id": "TVR.es",
-        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
-        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+        "name": "24 Horas Canarias",
+        "id": "24HorasCanarias.es",
+        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+        "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
         "categories": [
-            "general"
+            "news",
+            "public"
         ],
+        "country": "ES"
+    },
+    {
+        "name": "Radio Television Marbella",
+        "id": "RadioTelevisionMarbella.es",
+        "logo": "https://i.imgur.com/o9Ro8TR.png",
+        "url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
+        "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "Tac12",
+        "id": "Tac12.es",
+        "logo": "https://i.imgur.com/XHOVbSu.png",
+        "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8",
+        "categories": [],
         "country": "ES"
     }
 ]

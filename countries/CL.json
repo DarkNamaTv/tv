@@ -1677,16 +1677,6 @@
         "country": "CL"
     },
     {
-        "name": "Autonoma TV",
-        "id": "AutonomaTV.cl",
-        "logo": "https://i.imgur.com/kD6badL.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "ADA TV",
         "id": "ADATV.cl",
         "logo": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
@@ -1763,16 +1753,6 @@
         "country": "CL"
     },
     {
-        "name": "Arica TV",
-        "id": "AricaTV.cl",
-        "logo": "https://i.imgur.com/I67WOgT.png",
-        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Canal Chilote",
         "id": "CanalChilote.cl",
         "logo": "https://i.imgur.com/mdYIKyt.png",
@@ -1799,16 +1779,6 @@
         "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
         "categories": [
             "documentary"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1846,6 +1816,36 @@
         "logo": "https://i.imgur.com/tpI0WQH.png",
         "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
         "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Decima TV",
+        "id": "DecimaTV.cl",
+        "logo": "https://i.imgur.com/eu8hDDc.png",
+        "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ISA TV",
+        "id": "ISATV.cl",
+        "logo": "https://i.imgur.com/24qGdyn.jpeg",
+        "url": "https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Surena TV",
+        "id": "SurenaTV.cl",
+        "logo": "https://i.imgur.com/ZQRb3L3.png",
+        "url": "https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "CL"
     }
 ]

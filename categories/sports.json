@@ -261,16 +261,6 @@
         "country": "CZ"
     },
     {
-        "name": "MRTV Sports",
-        "id": "MRTVSports.mm",
-        "logo": "https://i.imgur.com/cFTR4kC.png",
-        "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MM"
-    },
-    {
         "name": "TJK TV",
         "id": "TJKTV.tr",
         "logo": "https://i.imgur.com/3zHdkYG.png",
@@ -315,6 +305,16 @@
         "id": "ColimdoTV.do",
         "logo": "https://i.imgur.com/ZeUgLCa.png",
         "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Tour Spot TV",
+        "id": "TourSpotTV.do",
+        "logo": "https://imgur.com/khj869k.png",
+        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
         "categories": [
             "sports"
         ],
@@ -631,6 +631,16 @@
         "country": "IN"
     },
     {
+        "name": "Star Sports 2 Telugu",
+        "id": "StarSports2Telugu.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "We Sport TV",
         "id": "WeSportTV.md",
         "logo": "https://i.imgur.com/vJZgpOb.png",
@@ -755,16 +765,6 @@
         "id": "WorldofFreesports.de",
         "logo": "https://i.imgur.com/lta5Mog.png",
         "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.de",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
         "categories": [
             "sports"
         ],
@@ -1389,16 +1389,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV E-Sports",
-        "id": "PlutoTVESports.us",
-        "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Bowling Network",
         "id": "TVSBowlingNetwork.us",
         "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
@@ -1479,10 +1469,30 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Deportes",
-        "id": "PlutoTVDeportes.us",
-        "logo": "https://i.imgur.com/0pDy6f4.png",
-        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "name": "Golazo Network",
+        "id": "GolazoNetwork.us",
+        "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
+        "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.us",
+        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PokerGo",
+        "id": "PokerGo.us",
+        "logo": "https://i.imgur.com/1603HED.png",
+        "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
         "categories": [
             "sports"
         ],
@@ -2181,10 +2191,10 @@
         "country": "SE"
     },
     {
-        "name": "Pluto TV Sport",
-        "id": "PlutoTVSport.se",
-        "logo": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
-        "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.se",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
         "categories": [
             "sports"
         ],

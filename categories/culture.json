@@ -42,16 +42,6 @@
         "country": "UA"
     },
     {
-        "name": "MRTV NRC",
-        "id": "MRTVNRC.mm",
-        "logo": "https://i.imgur.com/5aLFslk.jpg",
-        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MM"
-    },
-    {
         "name": "Woman TV",
         "id": "WomanTV.tr",
         "logo": "https://i.imgur.com/f2zGoV3.png",
@@ -235,6 +225,17 @@
         "id": "TVERS.br",
         "logo": "https://i.imgur.com/MQ6lJpS.png",
         "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Bem Mais TV",
+        "id": "BemMaisTV.br",
+        "logo": "https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg",
+        "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
         "categories": [
             "culture",
             "education"
@@ -466,18 +467,6 @@
         "categories": [
             "culture",
             "news"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Somos Entre Rios",
-        "id": "SomosEntreRios.ar",
-        "logo": "https://files.catbox.moe/ufv5z0.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
-        "categories": [
-            "general",
-            "family",
-            "culture"
         ],
         "country": "AR"
     },

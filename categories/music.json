@@ -371,16 +371,6 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania Antena Satelor",
-        "id": "RadioRomaniaAntenaSatelor.ro",
-        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Tiankov Folk",
         "id": "TiankovFolk.bg",
         "logo": "https://i.imgur.com/VKY4q64.png",
@@ -1033,6 +1023,16 @@
         "country": "RU"
     },
     {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "TikTok Radio Brasil",
         "id": "TikTokRadioBrasil.br",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
@@ -1564,16 +1564,6 @@
         "country": "PA"
     },
     {
-        "name": "Fabulosa Estereo 100.5 FM",
-        "id": "FabulosaEstereo1005FM.pa",
-        "logo": "https://i.imgur.com/YFmzkOp.png",
-        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PA"
-    },
-    {
         "name": "Radio Moldova Muzical",
         "id": "RadioMoldovaMuzical.md",
         "logo": "https://i.imgur.com/ZFHWst4.png",
@@ -1632,16 +1622,6 @@
             "music"
         ],
         "country": "MD"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "E40",
@@ -1725,16 +1705,6 @@
         "country": "PY"
     },
     {
-        "name": "Nande Portetepe TV",
-        "id": "NandePortetepeTV.py",
-        "logo": "https://i.imgur.com/3taT6JK.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Dismar Radio TV",
         "id": "DismarRadioTV.py",
         "logo": "https://i.imgur.com/KOuxdMD.png",
@@ -1750,17 +1720,6 @@
         "logo": "https://i.imgur.com/CaNdkpJ.jpeg",
         "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
         "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "categories": [
-            "entertainment",
             "music"
         ],
         "country": "PY"
@@ -3238,16 +3197,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Shows por Stingray",
-        "id": "PlutoTVShowsporStingray.us",
-        "logo": "https://i.imgur.com/TrG7Y84.png",
-        "url": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Music Network",
         "id": "TVSMusicNetwork.us",
         "logo": "",
@@ -3273,6 +3222,26 @@
         "id": "MTVClassic.us",
         "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Karaoke por Stingray",
+        "id": "PlutoTVKaraokeporStingray.us",
+        "logo": "https://i.imgur.com/rWpLepJ.png",
+        "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo True School Hip-Hop",
+        "id": "VevoTrueSchoolHipHop.us",
+        "logo": "https://i.imgur.com/owUXUih.png",
+        "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
         "categories": [
             "music"
         ],
@@ -3315,16 +3284,6 @@
         "url": "https://cdnbarinas.tvzamora.com/showven/index.m3u8",
         "categories": [
             "culture",
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "BTA TV",
-        "id": "BTATV.ve",
-        "logo": "https://i.imgur.com/vygOosC.png",
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-        "categories": [
             "music"
         ],
         "country": "VE"
@@ -3386,6 +3345,16 @@
         "id": "EskaTV.pl",
         "logo": "https://i.imgur.com/N0eH0Cg.png",
         "url": "https://lowa8026-cmyk.github.io/PL/eskatv.php.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Disco Polo Music",
+        "id": "DiscoPoloMusic.pl",
+        "logo": "https://i.imgur.com/ZZbuTv7.png",
+        "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
         "categories": [
             "music"
         ],
@@ -3839,6 +3808,46 @@
         "country": "FR"
     },
     {
+        "name": "Trace Africa",
+        "id": "TraceAfrica.fr",
+        "logo": "https://i.imgur.com/kPUkoS7.png",
+        "url": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Trace Kitoko",
+        "id": "TraceKitoko.fr",
+        "logo": "https://i.imgur.com/q6vkMrU.png",
+        "url": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Trace Muzika",
+        "id": "TraceMuzika.fr",
+        "logo": "https://i.imgur.com/xsEGIXO.png",
+        "url": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Trace Naija",
+        "id": "TraceNaija.fr",
+        "logo": "https://i.imgur.com/Rguekcp.png",
+        "url": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FR"
+    },
+    {
         "name": "Live99FM",
         "id": "Live99FM.bq",
         "logo": "https://i.imgur.com/U43UrQT.png",
@@ -4250,16 +4259,6 @@
         "country": "MK"
     },
     {
-        "name": "TopEstrada TV",
-        "id": "TopEstradaTV.mk",
-        "logo": "https://i.imgur.com/0Dh1FJZ.png",
-        "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "MK"
-    },
-    {
         "name": "Radio Lola TV",
         "id": "RadioLolaTV.rs",
         "logo": "https://i.imgur.com/41eE8fl.png",
@@ -4551,6 +4550,16 @@
             "music"
         ],
         "country": "LA"
+    },
+    {
+        "name": "Play TV",
+        "id": "PlayTV.cm",
+        "logo": "https://i.imgur.com/1dmBqpf.png",
+        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CM"
     },
     {
         "name": "Metropoli Medios TV",
@@ -5005,16 +5014,6 @@
         "country": "MX"
     },
     {
-        "name": "Mosaique FM",
-        "id": "MosaiqueFM.tn",
-        "logo": "https://i.imgur.com/GDUykah.png",
-        "url": "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR",
-        "categories": [
-            "music"
-        ],
-        "country": "TN"
-    },
-    {
         "name": "Mazzika",
         "id": "Mazzika.eg",
         "logo": "https://i.imgur.com/P7PUHIx.png",
@@ -5340,6 +5339,16 @@
         "id": "StingrayTikTokRadio.ca",
         "logo": "https://www.stingray.com/wp-content/uploads/2024/12/tiktok-radio_logo-new2.svg",
         "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
+        "categories": [
+            "music"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Stingray Naturescape",
+        "id": "StingrayNaturescape.ca",
+        "logo": "https://i.imgur.com/882kd90.png",
+        "url": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
         "categories": [
             "music"
         ],
