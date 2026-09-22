@@ -375,16 +375,6 @@
         "country": "IQ"
     },
     {
-        "name": "Al Iraqia News",
-        "id": "AlIraqiaNews.iq",
-        "logo": "https://i.imgur.com/feQTXeZ.jpg",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Al Iraqia Kurdish",
         "id": "AlIraqiaKurdish.iq",
         "logo": "https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png",
@@ -413,16 +403,6 @@
         "country": "IQ"
     },
     {
-        "name": "Dijlah TV",
-        "id": "DijlahTV.iq",
-        "logo": "https://i.imgur.com/kyzH3G5.png",
-        "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "EmanTv",
         "id": "EmanTv.iq",
         "logo": "https://i.imgur.com/QmgaPSi.png",
@@ -437,6 +417,36 @@
         "id": "AlAimmaTV.iq",
         "logo": "https://alaimma.tv/alaimma-logo.png",
         "url": "https://alaimma.tv/live/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Afarin Baxcha",
+        "id": "AfarinBaxcha.iq",
+        "logo": "https://afarin.tv/images/baxcha.png",
+        "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Afarin TV",
+        "id": "AfarinTV.iq",
+        "logo": "https://i.imgur.com/6MnXD7g.png",
+        "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al-Jawadain TV",
+        "id": "AlJawadainTV.iq",
+        "logo": "https://i.imgur.com/Eo3UYCK.png",
+        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
         "categories": [
             "religious"
         ],

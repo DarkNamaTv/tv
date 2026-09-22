@@ -516,16 +516,6 @@
         "country": "RO"
     },
     {
-        "name": "Hunedoara 1",
-        "id": "Hunedoara1.ro",
-        "logo": "https://i.imgur.com/9bz15ad.png",
-        "url": "https://netstreaming.eu/hd1.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Kiss TV",
         "id": "KissTV.ro",
         "logo": "https://i.imgur.com/NKfVymH.png",
@@ -975,6 +965,26 @@
         "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8",
         "categories": [
             "lifestyle"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Angelus TV",
+        "id": "AngelusTV.ro",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512",
+        "url": "https://video.angelustv.ro/hls/angelustv.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "RO"
     }

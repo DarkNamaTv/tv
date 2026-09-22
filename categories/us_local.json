@@ -380,16 +380,6 @@
         "country": ""
     },
     {
-        "name": "Concord TV (Concord CA) (720p)",
-        "id": "concordtvconcordca720p",
-        "logo": "",
-        "url": "https://concordca.cablecast.tv/live/stream-2/live.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "WPTV News West Palm Beach FL (720p)",
         "id": "wptvnewswestpalmbeachfl720p",
         "logo": "",
@@ -1454,6 +1444,16 @@
         "id": "palmbeachcountytvchannel20palmbeachcountyfl720p",
         "logo": "",
         "url": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AABC TV (480p)",
+        "id": "aabctv480p",
+        "logo": "",
+        "url": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
         "categories": [
             "us_local"
         ],
