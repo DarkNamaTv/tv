@@ -139,16 +139,6 @@
         "country": "PY"
     },
     {
-        "name": "Obedira TV",
-        "id": "ObediraTV.py",
-        "logo": "https://i.imgur.com/fRzOUw5.png",
-        "url": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Republica TV",
         "id": "RepublicaTV.py",
         "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
@@ -507,16 +497,6 @@
         "country": "PY"
     },
     {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "AGR FM TV",
         "id": "AGRFMTV.py",
         "logo": "https://i.imgur.com/tg6EjTU.png",
@@ -548,12 +528,83 @@
         "country": "PY"
     },
     {
-        "name": "Oasis TV",
-        "id": "OasisTV.py",
-        "logo": "https://i.imgur.com/u9umNKp.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "name": "Del Rey TV",
+        "id": "DelReyTV.py",
+        "logo": "https://i.imgur.com/Zjxvg9u.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Occidental TV",
+        "id": "OccidentalTV.py",
+        "logo": "https://i.imgur.com/8IRBA9h.png",
+        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Oviedo TV",
+        "id": "OviedoTV.py",
+        "logo": "https://i.imgur.com/6OlfgSQ.png",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Red Interior TV",
+        "id": "RedInteriorTV.py",
+        "logo": "https://i.imgur.com/z89GLCw.png",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Regional TV Yaguaron",
+        "id": "RegionalTVYaguaron.py",
+        "logo": "https://i.imgur.com/iL5JnSy.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Trece",
+        "id": "Trece.py",
+        "logo": "https://i.imgur.com/cgIv5QK.png",
+        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Unicanal",
+        "id": "Unicanal.py",
+        "logo": "https://i.imgur.com/cgTD2TW.png",
+        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "categories": [
+            "news"
         ],
         "country": "PY"
     }
