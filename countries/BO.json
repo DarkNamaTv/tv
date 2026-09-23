@@ -154,26 +154,6 @@
         "country": "BO"
     },
     {
-        "name": "Canal 56 Quiero TV",
-        "id": "Canal56QuieroTV.bo",
-        "logo": "https://i.imgur.com/l9kDNld.jpeg",
-        "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Radio Mega TV Amazonia",
-        "id": "RadioMegaTVAmazonia.bo",
-        "logo": "https://i.imgur.com/yzSNWZ3.png",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "TV OFF",
         "id": "TVOFF.bo",
         "logo": "https://i.imgur.com/vBe1GgI.png",
@@ -327,18 +307,6 @@
         "country": "BO"
     },
     {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "FAP TV",
         "id": "FAPTV.bo",
         "logo": "https://i.imgur.com/jZ7g58e.png",
@@ -425,10 +393,18 @@
         "country": "BO"
     },
     {
-        "name": "Palenque TV",
-        "id": "PalenqueTV.bo",
-        "logo": "https://i.imgur.com/wAIBvaO.png",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "name": "Gigavision",
+        "id": "Gigavision.bo",
+        "logo": "https://i.imgur.com/fE3BkcT.png",
+        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "TELE 6",
+        "id": "TELE6.bo",
+        "logo": "https://i.imgur.com/p7tt72X.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
         "categories": [
             "general"
         ],

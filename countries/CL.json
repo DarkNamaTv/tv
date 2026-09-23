@@ -1356,36 +1356,6 @@
         "country": "CL"
     },
     {
-        "name": "EnerGeek",
-        "id": "EnerGeek.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "animation"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek FAN",
-        "id": "EnerGeekFAN.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "animation"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek Radio",
-        "id": "EnerGeekRadio.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Maqui TV",
         "id": "MaquiTV.cl",
         "logo": "https://i.imgur.com/U849xvX.png",
@@ -1755,16 +1725,6 @@
         "country": "CL"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "RTC Television",
         "id": "RTCTelevision.cl",
         "logo": "https://i.imgur.com/w91IBj7.png",
@@ -1868,6 +1828,54 @@
         "categories": [
             "music"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "Autonoma TV",
+        "id": "AutonomaTV.cl",
+        "logo": "https://i.imgur.com/kD6badL.png",
+        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Cultura Online",
+        "id": "CulturaOnline.cl",
+        "logo": "https://i.imgur.com/w8td5Lq.png",
+        "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Oli TV",
+        "id": "OliTV.cl",
+        "logo": "https://i.imgur.com/2emMRvf.jpeg",
+        "url": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Rancagua FM",
+        "id": "RadioRancaguaFM.cl",
+        "logo": "https://i.imgur.com/ZzUc6je.png",
+        "url": "https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]

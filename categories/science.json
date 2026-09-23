@@ -1,37 +1,5 @@
 [
     {
-        "name": "Nauka",
-        "id": "Nauka.ua",
-        "logo": "https://i.imgur.com/ClGdZCe.png",
-        "url": "http://stream.mcquack.net/403/index.m3u8",
-        "categories": [
-            "science"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Pervyy Kosmicheskiy",
-        "id": "PervyyKosmicheskiy.ru",
-        "logo": "https://i.imgur.com/N1Ze5IE.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8",
-        "categories": [
-            "science"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "MediBizTV",
-        "id": "MediBizTV.in",
-        "logo": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
-        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
-        "categories": [
-            "science",
-            "education",
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Cosmos TV",
         "id": "CosmosTV.py",
         "logo": "https://i.imgur.com/dAMyExY.jpg",
@@ -54,15 +22,14 @@
         "country": "BO"
     },
     {
-        "name": "Can Tho TV 2",
-        "id": "CanThoTV2.vn",
-        "logo": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png",
-        "url": "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8",
+        "name": "InWonder",
+        "id": "InWonder.nl",
+        "logo": "https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png",
+        "url": "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
         "categories": [
-            "science",
-            "education"
+            "science"
         ],
-        "country": "VN"
+        "country": "NL"
     },
     {
         "name": "Ozone TV",
@@ -75,14 +42,68 @@
         "country": "HU"
     },
     {
-        "name": "InWonder",
-        "id": "InWonder.nl",
-        "logo": "https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png",
-        "url": "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
+        "name": "MediBizTV",
+        "id": "MediBizTV.in",
+        "logo": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
+        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+        "categories": [
+            "science",
+            "education",
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Can Tho TV 2",
+        "id": "CanThoTV2.vn",
+        "logo": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png",
+        "url": "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8",
+        "categories": [
+            "science",
+            "education"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Smithsonian Channel Selects",
+        "id": "SmithsonianChannelSelects.us",
+        "logo": "https://i.imgur.com/Kt5j8Vr.png",
+        "url": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8",
         "categories": [
             "science"
         ],
-        "country": "NL"
+        "country": "US"
+    },
+    {
+        "name": "Nauka",
+        "id": "Nauka.ua",
+        "logo": "https://i.imgur.com/ClGdZCe.png",
+        "url": "http://stream.mcquack.net/403/index.m3u8",
+        "categories": [
+            "science"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "Pervyy Kosmicheskiy",
+        "id": "PervyyKosmicheskiy.ru",
+        "logo": "https://i.imgur.com/N1Ze5IE.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8",
+        "categories": [
+            "science"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "BFM Tech & Co",
+        "id": "BFMTechCo.fr",
+        "logo": "https://i.imgur.com/FQ0FpXV.png",
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE",
+        "categories": [
+            "science",
+            "news"
+        ],
+        "country": "FR"
     },
     {
         "name": "InWonder (1080p)",

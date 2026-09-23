@@ -1,34 +1,26 @@
 [
     {
-        "name": "Telenovisa43",
-        "id": "Telenovisa43.do",
-        "logo": "https://i.imgur.com/iHvf3bR.png",
-        "url": "https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8",
+        "name": "Somos Entre Rios",
+        "id": "SomosEntreRios.ar",
+        "logo": "https://files.catbox.moe/ufv5z0.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
         "categories": [
             "general",
-            "family"
+            "family",
+            "culture"
         ],
-        "country": "DO"
+        "country": "AR"
     },
     {
-        "name": "STS",
-        "id": "STS.ru",
-        "logo": "https://i.imgur.com/ilUzAeb.png",
-        "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+        "name": "Superscreen TV",
+        "id": "SuperscreenTV.ng",
+        "logo": "https://i.imgur.com/uTNmSWE.png",
+        "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
         "categories": [
+            "culture",
             "family"
         ],
-        "country": "RU"
-    },
-    {
-        "name": "STS Love",
-        "id": "STSLove.ru",
-        "logo": "https://i.imgur.com/YBVZoDd.png",
-        "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
-        "categories": [
-            "family"
-        ],
-        "country": "RU"
+        "country": "NG"
     },
     {
         "name": "TV Paraense",
@@ -44,6 +36,36 @@
         "country": "BR"
     },
     {
+        "name": "Active Family",
+        "id": "ActiveFamily.pl",
+        "logo": "https://i.imgur.com/I1wdWAo.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/ActiveFamily.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Mixkurdy",
+        "id": "Mixkurdy.iq",
+        "logo": "https://i.imgur.com/WHeH5i7.png",
+        "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "EmanTv",
+        "id": "EmanTv.iq",
+        "logo": "https://i.imgur.com/QmgaPSi.png",
+        "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "IQ"
+    },
+    {
         "name": "Sevimli TV",
         "id": "SevimliTV.uz",
         "logo": "https://i.imgur.com/iMwzRlr.png",
@@ -54,48 +76,57 @@
         "country": "UZ"
     },
     {
-        "name": "Canal IPe",
-        "id": "CanalIPe.pe",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8",
+        "name": "AVA Family",
+        "id": "AVAFamily.ir",
+        "logo": "",
+        "url": "https://familyhls.avatv.live/hls/stream.m3u8",
         "categories": [
             "family"
         ],
-        "country": "PE"
+        "country": "IR"
     },
     {
-        "name": "RiC",
-        "id": "RiC.de",
-        "logo": "https://i.imgur.com/4wMZ8Em.png",
-        "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "name": "TV Famille",
+        "id": "TVFamille.mq",
+        "logo": "https://i.imgur.com/Kbfihk5.png",
+        "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
         "categories": [
-            "kids",
-            "family"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Superscreen TV",
-        "id": "SuperscreenTV.ng",
-        "logo": "https://i.imgur.com/uTNmSWE.png",
-        "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
-        "categories": [
-            "culture",
-            "family"
-        ],
-        "country": "NG"
-    },
-    {
-        "name": "Somos Entre Rios",
-        "id": "SomosEntreRios.ar",
-        "logo": "https://files.catbox.moe/ufv5z0.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
-        "categories": [
-            "general",
             "family",
-            "culture"
+            "religious"
         ],
-        "country": "AR"
+        "country": "MQ"
+    },
+    {
+        "name": "Green TV",
+        "id": "GreenTV.bd",
+        "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "BD"
+    },
+    {
+        "name": "MCI Television",
+        "id": "MCITelevision.co",
+        "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+        "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+        "categories": [
+            "movies",
+            "family",
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TV Familia",
+        "id": "TVFamilia.ve",
+        "logo": "https://i.imgur.com/A3bU5e7.png",
+        "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "VE"
     },
     {
         "name": "Estrella Games",
@@ -199,44 +230,57 @@
         "country": "US"
     },
     {
-        "name": "TV Familia",
-        "id": "TVFamilia.ve",
-        "logo": "https://i.imgur.com/A3bU5e7.png",
-        "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+        "name": "Canal IPe",
+        "id": "CanalIPe.pe",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8",
         "categories": [
             "family"
         ],
-        "country": "VE"
+        "country": "PE"
     },
     {
-        "name": "Mixkurdy",
-        "id": "Mixkurdy.iq",
-        "logo": "https://i.imgur.com/WHeH5i7.png",
-        "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+        "name": "RiC",
+        "id": "RiC.de",
+        "logo": "https://i.imgur.com/4wMZ8Em.png",
+        "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
         "categories": [
+            "kids",
             "family"
         ],
-        "country": "IQ"
+        "country": "DE"
     },
     {
-        "name": "EmanTv",
-        "id": "EmanTv.iq",
-        "logo": "https://i.imgur.com/QmgaPSi.png",
-        "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
+        "name": "BBC Three/CBBC",
+        "id": "BBCThreeCBBC.uk",
+        "logo": "https://i.imgur.com/CGXC5fp.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
         "categories": [
-            "family"
+            "family",
+            "kids",
+            "animation"
         ],
-        "country": "IQ"
+        "country": "UK"
     },
     {
-        "name": "Active Family",
-        "id": "ActiveFamily.pl",
-        "logo": "https://i.imgur.com/I1wdWAo.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/ActiveFamily.m3u8",
+        "name": "STS",
+        "id": "STS.ru",
+        "logo": "https://i.imgur.com/ilUzAeb.png",
+        "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
         "categories": [
             "family"
         ],
-        "country": "PL"
+        "country": "RU"
+    },
+    {
+        "name": "STS Love",
+        "id": "STSLove.ru",
+        "logo": "https://i.imgur.com/YBVZoDd.png",
+        "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "RU"
     },
     {
         "name": "Rakuten TV Family Movies",
@@ -248,6 +292,17 @@
             "movies"
         ],
         "country": "ES"
+    },
+    {
+        "name": "Telenovisa43",
+        "id": "Telenovisa43.do",
+        "logo": "https://i.imgur.com/iHvf3bR.png",
+        "url": "https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "general",
+            "family"
+        ],
+        "country": "DO"
     },
     {
         "name": "1KZN TV",
@@ -283,40 +338,6 @@
             "general"
         ],
         "country": "ZA"
-    },
-    {
-        "name": "BBC Three/CBBC",
-        "id": "BBCThreeCBBC.uk",
-        "logo": "https://i.imgur.com/CGXC5fp.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
-        "categories": [
-            "family",
-            "kids",
-            "animation"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "AVA Family",
-        "id": "AVAFamily.ir",
-        "logo": "",
-        "url": "https://familyhls.avatv.live/hls/stream.m3u8",
-        "categories": [
-            "family"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "MCI Television",
-        "id": "MCITelevision.co",
-        "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
-        "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
-        "categories": [
-            "movies",
-            "family",
-            "general"
-        ],
-        "country": "CO"
     },
     {
         "name": "The Pet Collective International (720p)",

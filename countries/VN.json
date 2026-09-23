@@ -594,11 +594,33 @@
         "country": "VN"
     },
     {
-        "name": "Can Tho TV 3",
-        "id": "CanThoTV3.vn",
-        "logo": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png",
-        "url": "https://live.canthotv.vn/cs3/tv/chunklist.m3u8",
-        "categories": [],
+        "name": "ON Life",
+        "id": "ONLife.vn",
+        "logo": "https://i.ibb.co/XxtcgQQv/IMG-2513.webp",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "ON Movies",
+        "id": "ONMovies.vn",
+        "logo": "https://i.ibb.co/fdbgvtT8/IMG-2523.webp",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+        "categories": [
+            "movies"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
+        ],
         "country": "VN"
     }
 ]

@@ -372,16 +372,6 @@
         "country": "PE"
     },
     {
-        "name": "Folklore TV",
-        "id": "FolkloreTV.pe",
-        "logo": "https://i.imgur.com/QdOGJes.png",
-        "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Canal 21 Huancayo",
         "id": "Canal21Huancayo.pe",
         "logo": "https://i.imgur.com/Kfdkm06.png",
@@ -1016,12 +1006,40 @@
         "country": "PE"
     },
     {
-        "name": "TV Kaliente",
-        "id": "TVKaliente.pe",
-        "logo": "https://i.imgur.com/MFQpLuQ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Universitaria TV",
+        "id": "UniversitariaTV.pe",
+        "logo": "https://i.imgur.com/OcDimHX.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Vision Sur",
+        "id": "VisionSur.pe",
+        "logo": "https://i.imgur.com/AbZYWEQ.png",
+        "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "PE"
     }

@@ -1,47 +1,5 @@
 [
     {
-        "name": "Bollywood Film",
-        "id": "BollywoodFilm.ro",
-        "logo": "https://i.imgur.com/bEMUpHZ.png",
-        "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
-        "categories": [
-            "movies",
-            "classic"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Retro",
-        "id": "Retro.ru",
-        "logo": "https://i.imgur.com/p21co1w.png",
-        "url": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "AWTV",
-        "id": "AWTV.br",
-        "logo": "https://i.imgur.com/2tdMyef.png",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8",
-        "categories": [
-            "classic",
-            "series"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Zee Classic",
-        "id": "ZeeClassic.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",
-        "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test",
-        "categories": [
-            "classic"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "TVS Retro",
         "id": "TVSRetro.gt",
         "logo": "https://i.imgur.com/jdnHci0.png",
@@ -60,6 +18,83 @@
             "classic"
         ],
         "country": "CL"
+    },
+    {
+        "name": "Becker",
+        "id": "Becker.se",
+        "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
+        "url": "https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Diagnosis Murder",
+        "id": "DiagnosisMurder.se",
+        "logo": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "JAG",
+        "id": "JAG.se",
+        "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "MacGyver",
+        "id": "MacGyver.se",
+        "logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Mission Impossible",
+        "id": "MissionImpossible.se",
+        "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Rawhide",
+        "id": "Rawhide.se",
+        "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+        "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "The Wild Wild West",
+        "id": "TheWildWildWest.se",
+        "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
+        "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
     },
     {
         "name": "LAMIL35 TV",
@@ -83,6 +118,48 @@
             "classic"
         ],
         "country": "AR"
+    },
+    {
+        "name": "AWTV",
+        "id": "AWTV.br",
+        "logo": "https://i.imgur.com/2tdMyef.png",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8",
+        "categories": [
+            "classic",
+            "series"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Zee Classic",
+        "id": "ZeeClassic.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",
+        "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test",
+        "categories": [
+            "classic"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZillarBarta News",
+        "id": "ZillarBartaNews.in",
+        "logo": "https://i.imgur.com/6uestzY.jpeg",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+        "categories": [
+            "news",
+            "classic"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "CCTV-Nostalgia Theater",
+        "id": "CCTVNostalgiaTheater.cn",
+        "logo": "https://i.imgur.com/TVs9PBc.png",
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+        "categories": [
+            "classic"
+        ],
+        "country": "CN"
     },
     {
         "name": "Wanted: Dead or Alive",
@@ -287,14 +364,97 @@
         "country": "US"
     },
     {
-        "name": "CCTV-Nostalgia Theater",
-        "id": "CCTVNostalgiaTheater.cn",
-        "logo": "https://i.imgur.com/TVs9PBc.png",
-        "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+        "name": "Beverly Hillbillies",
+        "id": "BeverlyHillbillies.us",
+        "logo": "https://i.imgur.com/OV9hT93.png",
+        "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
         "categories": [
             "classic"
         ],
-        "country": "CN"
+        "country": "US"
+    },
+    {
+        "name": "Classic TV Drama",
+        "id": "ClassicTVDrama.us",
+        "logo": "https://i.imgur.com/XHQxv0x.png",
+        "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Classic TV: Families",
+        "id": "ClassicTVFamilies.us",
+        "logo": "https://i.imgur.com/llAZ49f.png",
+        "url": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Series Retro",
+        "id": "PlutoTVSeriesRetro.us",
+        "logo": "https://i.imgur.com/UpgGZJ1.png",
+        "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV The Twilight Zone",
+        "id": "PlutoTVTheTwilightZone.us",
+        "logo": "https://i.imgur.com/FiIRQAR.png",
+        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+        "categories": [
+            "classic",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Beverly Hillbillies",
+        "id": "TheBeverlyHillbillies.us",
+        "logo": "https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8",
+        "categories": [
+            "comedy",
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Western TV",
+        "id": "WesternTV.us",
+        "logo": "https://i.imgur.com/nNy9oTx.png",
+        "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Retro",
+        "id": "Retro.ru",
+        "logo": "https://i.imgur.com/p21co1w.png",
+        "url": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Bollywood Film",
+        "id": "BollywoodFilm.ro",
+        "logo": "https://i.imgur.com/bEMUpHZ.png",
+        "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+        "categories": [
+            "movies",
+            "classic"
+        ],
+        "country": "RO"
     },
     {
         "name": "Cinevault Westerns (540p) [Geo-blocked]",
