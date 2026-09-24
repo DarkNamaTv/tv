@@ -1,53 +1,23 @@
 [
     {
-        "name": "Hello Taste",
-        "id": "HelloTaste.ro",
-        "logo": "https://i.imgur.com/TdKO0er.png",
-        "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8",
+        "name": "Gusto TV",
+        "id": "GustoTV.ca",
+        "logo": "https://i.imgur.com/swUX3hQ.png",
+        "url": "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "categories": [
             "cooking"
         ],
-        "country": "RO"
+        "country": "CA"
     },
     {
-        "name": "Kulinar TV",
-        "id": "KulinarTV.ru",
-        "logo": "https://smotret.tv/images/kulinar-tv.webp",
-        "url": "https://api.alpaca.t62a.com/hls/9110/index.m3u8",
+        "name": "El Gourmet",
+        "id": "ElGourmet.ar",
+        "logo": "https://i.imgur.com/ByMyRI9.png",
+        "url": "http://190.93.224.42/EL-GOURMET/index.m3u8",
         "categories": [
             "cooking"
         ],
-        "country": "RU"
-    },
-    {
-        "name": "Eda",
-        "id": "Eda.ru",
-        "logo": "https://i.imgur.com/htmbgOX.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Eda.m3u8",
-        "categories": [
-            "cooking"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Kuhnya",
-        "id": "Kuhnya.ru",
-        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/Kuhnya-mediakit.png",
-        "url": "http://stream.mcquack.net/179/index.m3u8",
-        "categories": [
-            "cooking"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden Recepty Gurmana",
-        "id": "CityEdenReceptyGurmana.ru",
-        "logo": "https://i.imgur.com/wR0pvRc.png",
-        "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
-        "categories": [
-            "cooking"
-        ],
-        "country": "RU"
+        "country": "AR"
     },
     {
         "name": "Chef TV",
@@ -69,16 +39,6 @@
             "lifestyle"
         ],
         "country": "IN"
-    },
-    {
-        "name": "El Gourmet",
-        "id": "ElGourmet.ar",
-        "logo": "https://i.imgur.com/ByMyRI9.png",
-        "url": "http://190.93.224.42/EL-GOURMET/index.m3u8",
-        "categories": [
-            "cooking"
-        ],
-        "country": "AR"
     },
     {
         "name": "Gordon Ramsay's Hell's Kitchen",
@@ -212,26 +172,25 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV KFOOD",
-        "id": "PlutoTVKFOOD.us",
-        "logo": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8",
+        "name": "Tastemade Brasil",
+        "id": "TastemadeBrasil.us",
+        "logo": "https://i.imgur.com/FPy4zF4.png",
+        "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
         "categories": [
-            "cooking",
-            "lifestyle"
+            "cooking"
         ],
         "country": "US"
     },
     {
-        "name": "TV5MONDE Chefs",
-        "id": "TV5MONDEChefs.fr",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
-        "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+        "name": "Pluto TV Cuisine",
+        "id": "PlutoTVCuisine.de",
+        "logo": "https://i.imgur.com/OuAi5ef.png",
+        "url": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8",
         "categories": [
-            "lifestyle",
-            "cooking"
+            "cooking",
+            "lifestyle"
         ],
-        "country": "FR"
+        "country": "DE"
     },
     {
         "name": "Master Chefs Academy TV",
@@ -245,14 +204,44 @@
         "country": "UK"
     },
     {
-        "name": "Food Channel",
-        "id": "FoodChannel.il",
-        "logo": "https://i.imgur.com/mpXPmfw.png",
-        "url": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8",
+        "name": "Kulinar TV",
+        "id": "KulinarTV.ru",
+        "logo": "https://smotret.tv/images/kulinar-tv.webp",
+        "url": "https://api.alpaca.t62a.com/hls/9110/index.m3u8",
         "categories": [
             "cooking"
         ],
-        "country": "IL"
+        "country": "RU"
+    },
+    {
+        "name": "Eda",
+        "id": "Eda.ru",
+        "logo": "https://i.imgur.com/htmbgOX.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Eda.m3u8",
+        "categories": [
+            "cooking"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Kuhnya",
+        "id": "Kuhnya.ru",
+        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/Kuhnya-mediakit.png",
+        "url": "http://stream.mcquack.net/179/index.m3u8",
+        "categories": [
+            "cooking"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden Recepty Gurmana",
+        "id": "CityEdenReceptyGurmana.ru",
+        "logo": "https://i.imgur.com/wR0pvRc.png",
+        "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
+        "categories": [
+            "cooking"
+        ],
+        "country": "RU"
     },
     {
         "name": "Masala TV",
@@ -265,14 +254,46 @@
         "country": "PK"
     },
     {
-        "name": "Gusto TV",
-        "id": "GustoTV.ca",
-        "logo": "https://i.imgur.com/swUX3hQ.png",
-        "url": "https://gusto-xumo.amagi.tv/playlist.m3u8",
+        "name": "Food Channel",
+        "id": "FoodChannel.il",
+        "logo": "https://i.imgur.com/mpXPmfw.png",
+        "url": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8",
         "categories": [
             "cooking"
         ],
-        "country": "CA"
+        "country": "IL"
+    },
+    {
+        "name": "Hello Taste",
+        "id": "HelloTaste.ro",
+        "logo": "https://i.imgur.com/TdKO0er.png",
+        "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8",
+        "categories": [
+            "cooking"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Gambero Rosso Channel",
+        "id": "GamberoRossoChannel.it",
+        "logo": "https://i.imgur.com/x5cwb1q.png",
+        "url": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8",
+        "categories": [
+            "cooking",
+            "lifestyle"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "TV5MONDE Chefs",
+        "id": "TV5MONDEChefs.fr",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+        "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+        "categories": [
+            "lifestyle",
+            "cooking"
+        ],
+        "country": "FR"
     },
     {
         "name": "Gusto TV (1080p)",

@@ -1143,16 +1143,6 @@
         "country": "AR"
     },
     {
-        "name": "Tele Posadas",
-        "id": "TelePosadas.ar",
-        "logo": "https://i.imgur.com/88MVgwX.png",
-        "url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 4 San Juan",
         "id": "Canal4SanJuan.ar",
         "logo": "https://i.imgur.com/MsCnwRA.png",
@@ -1267,16 +1257,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 7 Neuquen",
-        "id": "Canal7Neuquen.ar",
-        "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
-        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Pakapaka",
         "id": "Pakapaka.ar",
         "logo": "https://i.imgur.com/GJbRWwH.png",
@@ -1294,6 +1274,16 @@
         "categories": [
             "animation",
             "kids"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Telefe Buenos Aires",
+        "id": "TelefeBuenosAires.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "AR"
     }

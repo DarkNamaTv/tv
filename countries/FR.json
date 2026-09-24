@@ -662,16 +662,6 @@
         "country": "FR"
     },
     {
-        "name": "FashionTV Asia",
-        "id": "FashionTVAsia.fr",
-        "logo": "https://i.imgur.com/ucTh9tO.png",
-        "url": "http://58.8.186.128:10006/bysid/2616",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "HANDICAP TV",
         "id": "HANDICAPTV.fr",
         "logo": "https://i.imgur.com/vXbAeD0.png",
@@ -770,14 +760,6 @@
         "country": "FR"
     },
     {
-        "name": "ILTV",
-        "id": "ILTV.fr",
-        "logo": "https://i.imgur.com/fVhrJHK.png",
-        "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
-        "categories": [],
-        "country": "FR"
-    },
-    {
         "name": "RMC Sport 1",
         "id": "RMCSport1.fr",
         "logo": "https://i.imgur.com/NsFTG7u.png",
@@ -794,6 +776,36 @@
         "url": "http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Euronews Italian",
+        "id": "EuronewsItalian.fr",
+        "logo": "https://i.imgur.com/8t9mdg9.png",
+        "url": "https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Nickelodeon Junior",
+        "id": "NickelodeonJunior.fr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+        "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "RT France",
+        "id": "RTFrance.fr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+        "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "FR"
     }

@@ -1,196 +1,45 @@
 [
     {
-        "name": "Chemodan TV",
-        "id": "ChemodanTV.ua",
-        "logo": "https://i.imgur.com/1WjGN8u.png",
-        "url": "http://stream.mcquack.net/399/index.m3u8",
+        "name": "Total Crime",
+        "id": "TotalCrime.ca",
+        "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
+        "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Love Pets",
+        "id": "LovePets.ca",
+        "logo": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
+        "url": "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "NatureTime",
+        "id": "NatureTime.ca",
+        "logo": "https://i.imgur.com/72JmyjM.png",
+        "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "UMSA TVU Internacional",
+        "id": "UMSATVUInternacional.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
         "categories": [
             "education",
+            "science",
             "documentary"
         ],
-        "country": "UA"
-    },
-    {
-        "name": "Viasat History",
-        "id": "ViasatHistory.ua",
-        "logo": "https://i.imgur.com/39qZ68J.png",
-        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
-        "categories": [
-            "documentary"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "National Geographic",
-        "id": "NationalGeographic.ro",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "National Geographic Wild",
-        "id": "NationalGeographicWild.ro",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoWildRomania.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Viasat Explore",
-        "id": "ViasatExplore.bg",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
-        "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "BG"
-    },
-    {
-        "name": "Viasat History",
-        "id": "ViasatHistory.bg",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
-        "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "BG"
-    },
-    {
-        "name": "Viasat Nature",
-        "id": "ViasatNature.bg",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
-        "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "BG"
-    },
-    {
-        "name": "CT2",
-        "id": "CT2.cz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
-        "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "History",
-        "id": "History.cz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-        "url": "http://88.212.15.19/live/test_history/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "Spektrum",
-        "id": "Spektrum.cz",
-        "logo": "https://i.imgur.com/F5Uosum.png",
-        "url": "http://88.212.15.19/live/test_spektrum/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "Viasat Explore",
-        "id": "ViasatExplore.cz",
-        "logo": "https://i.imgur.com/DyT5pKB.png",
-        "url": "http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "Viasat History",
-        "id": "ViasatHistory.cz",
-        "logo": "https://i.imgur.com/wRP9XA7.png",
-        "url": "http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "Viasat Nature",
-        "id": "ViasatNature.cz",
-        "logo": "https://i.imgur.com/ousRqqD.png",
-        "url": "http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "National Geographic",
-        "id": "NationalGeographic.cz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "National Geographic Wild",
-        "id": "NationalGeographicWild.cz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "url": "http://88.212.15.29/live/test_ngw/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CZ"
-    },
-    {
-        "name": "MWD Documentary",
-        "id": "MWDDocumentary.mm",
-        "logo": "https://i.imgur.com/4XV7cjU.png",
-        "url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "MM"
-    },
-    {
-        "name": "MRTV Farmer",
-        "id": "MRTVFarmer.mm",
-        "logo": "https://i.imgur.com/f4PWvrW.jpg",
-        "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
-        "categories": [
-            "documentary",
-            "lifestyle"
-        ],
-        "country": "MM"
-    },
-    {
-        "name": "GZT",
-        "id": "GZT.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
-        "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
-        "categories": [
-            "documentary",
-            "series"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Ecovision",
-        "id": "Ecovision.do",
-        "logo": "https://imgur.com/a/pUlIJZX.png",
-        "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "DO"
+        "country": "BO"
     },
     {
         "name": "RL PRO TV",
@@ -203,147 +52,167 @@
         "country": "CD"
     },
     {
-        "name": "Nano",
-        "id": "Nano.ru",
-        "logo": "https://i.imgur.com/dYj3XDa.png",
-        "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
+        "name": "Viasat Explore",
+        "id": "ViasatExplore.se",
+        "logo": "https://i.imgur.com/DyT5pKB.png",
+        "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "SE"
     },
     {
-        "name": "RT Documentary",
-        "id": "RTDocumentary.ru",
-        "logo": "https://i.imgur.com/aeu5zIC.png",
-        "url": "https://streaming.thestream.cyou/live/554.m3u8",
+        "name": "Viasat History",
+        "id": "ViasatHistory.se",
+        "logo": "https://i.imgur.com/wRP9XA7.png",
+        "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "SE"
     },
     {
-        "name": "viju Nature",
-        "id": "vijuNature.ru",
-        "logo": "https://i.imgur.com/8BPZ18l.png",
-        "url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
+        "name": "Viasat Nature",
+        "id": "ViasatNature.se",
+        "logo": "https://i.imgur.com/ousRqqD.png",
+        "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "SE"
     },
     {
-        "name": "Arsenal",
-        "id": "Arsenal.ru",
-        "logo": "https://i.imgur.com/DBpVeb0.png",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/ArsenalHD.m3u8",
+        "name": "Pluto TV True Crime",
+        "id": "PlutoTVTrueCrime.se",
+        "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
         "categories": [
+            "series",
             "documentary"
         ],
-        "country": "RU"
+        "country": "SE"
     },
     {
-        "name": "viju History",
-        "id": "vijuHistory.ru",
-        "logo": "https://i.imgur.com/FqWkeXb.png",
-        "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+        "name": "INWILD",
+        "id": "INWILD.nl",
+        "logo": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
+        "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "NL"
+    },
+    {
+        "name": "DocuBox",
+        "id": "DocuBox.nl",
+        "logo": "https://i.imgur.com/pX4U9OG.png",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "NL"
     },
     {
         "name": "National Geographic",
-        "id": "NationalGeographic.ru",
+        "id": "NationalGeographic.nl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "url": "http://stream.mcquack.net/116/index.m3u8",
+        "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "NL"
     },
     {
-        "name": "Tochka RF",
-        "id": "TochkaRF.ru",
-        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
-        "url": "http://stream.mcquack.net/161/index.m3u8",
+        "name": "Polsat Viasat History",
+        "id": "PolsatViasatHistory.pl",
+        "logo": "https://i.imgur.com/X16UGUf.png",
+        "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "BTB Info",
+        "id": "BTBInfo.pl",
+        "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+        "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "categories": [
             "documentary",
-            "travel"
+            "news"
         ],
-        "country": "RU"
+        "country": "PL"
     },
     {
-        "name": "viju Explore",
-        "id": "vijuExplore.ru",
-        "logo": "https://i.imgur.com/EGIpLPu.png",
-        "url": "http://stream.mcquack.net/239/index.m3u8",
+        "name": "Dvojka",
+        "id": "Dvojka.sk",
+        "logo": "https://i.imgur.com/ft10wQn.png",
+        "url": "http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "SK"
     },
     {
-        "name": "viju+ Planet",
-        "id": "vijuPlusPlanet.ru",
-        "logo": "https://i.imgur.com/9Weqdsk.png",
-        "url": "http://stream.mcquack.net/240/index.m3u8",
+        "name": "Karbala Documentary",
+        "id": "KarbalaDocumentary.iq",
+        "logo": "https://www.karbala-tv.iq/documentary/static/img/logo.png",
+        "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
+        "categories": [
+            "religious",
+            "documentary"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "O'zbekiston Tarixi",
+        "id": "OzbekistonTarixi.uz",
+        "logo": "https://i.imgur.com/iTTd3Ir.png",
+        "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "UZ"
+    },
+    {
+        "name": "History",
+        "id": "History.hu",
+        "logo": "https://i.imgur.com/OWIK7FJ.png",
+        "url": "http://88.212.15.19/live/history_hun/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "HU"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.hu",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "HU"
     },
     {
         "name": "National Geographic Wild",
-        "id": "NationalGeographicWild.ru",
+        "id": "NationalGeographicWild.hu",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
+        "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
+        "country": "HU"
     },
     {
-        "name": "City Eden KinoDok",
-        "id": "CityEdenKinoDok.ru",
-        "logo": "https://i.imgur.com/itRbMX3.png",
-        "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-        "categories": [
-            "documentary",
-            "series"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "History 2",
-        "id": "History2.ru",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
-        "url": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8",
+        "name": "Spektrum",
+        "id": "Spektrum.hu",
+        "logo": "https://i.imgur.com/GmFRQ82.png",
+        "url": "http://88.212.15.19/live/spektrum_hun/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "RU"
-    },
-    {
-        "name": "Tochka.rf",
-        "id": "Tochkarf.ru",
-        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
-        "url": "http://str2.iptvhd.ru:8080/HD_Life/index.m3u8",
-        "categories": [
-            "documentary",
-            "travel"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Top Secret",
-        "id": "TopSecret.ru",
-        "logo": "https://i.imgur.com/HM4xy4G.png",
-        "url": "http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "RU"
+        "country": "HU"
     },
     {
         "name": "History TV18",
@@ -407,6 +276,16 @@
         "country": "IN"
     },
     {
+        "name": "CNA Originals",
+        "id": "CNAOriginals.sg",
+        "logo": "https://i.imgur.com/hlFQTrB.png",
+        "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "SG"
+    },
+    {
         "name": "TV8",
         "id": "TV8.md",
         "logo": "https://i.imgur.com/Rsn4oUh.png",
@@ -418,107 +297,64 @@
         "country": "MD"
     },
     {
-        "name": "O'zbekiston Tarixi",
-        "id": "OzbekistonTarixi.uz",
-        "logo": "https://i.imgur.com/iTTd3Ir.png",
-        "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+        "name": "CGTN Documentary",
+        "id": "CGTNDocumentary.cn",
+        "logo": "https://i.imgur.com/JHv0WxM.png",
+        "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "UZ"
+        "country": "CN"
     },
     {
-        "name": "Dokusat",
-        "id": "Dokusat.de",
-        "logo": "https://i.imgur.com/GadfTwF.png",
-        "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+        "name": "CCTV-9",
+        "id": "CCTV9.cn",
+        "logo": "https://i.imgur.com/3tivvMm.png",
+        "url": "https://xykt-fix.github.io/Y77.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "DE"
+        "country": "CN"
     },
     {
-        "name": "Autentic History",
-        "id": "AutenticHistory.de",
-        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
-        "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+        "name": "CCTV-Weapon & Technology",
+        "id": "CCTVWeaponTechnology.cn",
+        "logo": "https://i.imgur.com/QlF96eS.png",
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
         "categories": [
             "documentary"
         ],
-        "country": "DE"
+        "country": "CN"
     },
     {
-        "name": "Terra Mater WILD",
-        "id": "TerraMaterWILD.de",
-        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
-        "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+        "name": "Viasat Explore",
+        "id": "ViasatExplore.bg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+        "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "DE"
+        "country": "BG"
     },
     {
-        "name": "Adventure Earth",
-        "id": "AdventureEarth.de",
-        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
-        "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "name": "Viasat History",
+        "id": "ViasatHistory.bg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+        "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "DE"
+        "country": "BG"
     },
     {
-        "name": "Curiosity NOW",
-        "id": "CuriosityNOW.de",
-        "logo": "https://i.imgur.com/gJ9eMaG.png",
-        "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+        "name": "Viasat Nature",
+        "id": "ViasatNature.bg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+        "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Science",
-        "id": "PlutoTVScience.de",
-        "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
-        "categories": [
-            "science",
-            "documentary"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Dvojka",
-        "id": "Dvojka.sk",
-        "logo": "https://i.imgur.com/ft10wQn.png",
-        "url": "http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SK"
-    },
-    {
-        "name": "UMSA TVU Internacional",
-        "id": "UMSATVUInternacional.bo",
-        "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
-        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "education",
-            "science",
-            "documentary"
-        ],
-        "country": "BO"
+        "country": "BG"
     },
     {
         "name": "Dateline 24/7",
@@ -753,26 +589,6 @@
         "country": "US"
     },
     {
-        "name": "Detetives Medicos",
-        "id": "DetetivesMedicos.us",
-        "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Animais",
-        "id": "PlutoTVAnimais.us",
-        "logo": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Investigacao",
         "id": "PlutoTVInvestigacao.us",
         "logo": "https://i.imgur.com/JlQq0YJ.png",
@@ -794,47 +610,401 @@
         "country": "US"
     },
     {
-        "name": "Karbala Documentary",
-        "id": "KarbalaDocumentary.iq",
-        "logo": "https://www.karbala-tv.iq/documentary/static/img/logo.png",
-        "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
-        "categories": [
-            "religious",
-            "documentary"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Polsat Viasat History",
-        "id": "PolsatViasatHistory.pl",
-        "logo": "https://i.imgur.com/X16UGUf.png",
-        "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+        "name": "Crime 360",
+        "id": "Crime360.us",
+        "logo": "https://i.imgur.com/IjtaG1m.png",
+        "url": "https://jmp2.uk/plu-6578875614fbe400086e319e.m3u8",
         "categories": [
             "documentary"
         ],
-        "country": "PL"
+        "country": "US"
     },
     {
-        "name": "BTB Info",
-        "id": "BTBInfo.pl",
-        "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
-        "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "name": "Pluto TV Negocio Fechado",
+        "id": "PlutoTVNegocioFechado.us",
+        "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8",
         "categories": [
-            "documentary",
-            "news"
+            "documentary"
         ],
-        "country": "PL"
+        "country": "US"
     },
     {
-        "name": "Al Arabiya Programs",
-        "id": "AlArabiyaPrograms.ae",
-        "logo": "https://i.imgur.com/Hoc3cfO.png",
-        "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+        "name": "Smithsonian Channel Pluto TV",
+        "id": "SmithsonianChannelPlutoTV.us",
+        "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CT2",
+        "id": "CT2.cz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
+        "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "History",
+        "id": "History.cz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+        "url": "http://88.212.15.19/live/test_history/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "Spektrum",
+        "id": "Spektrum.cz",
+        "logo": "https://i.imgur.com/F5Uosum.png",
+        "url": "http://88.212.15.19/live/test_spektrum/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "Viasat Explore",
+        "id": "ViasatExplore.cz",
+        "logo": "https://i.imgur.com/DyT5pKB.png",
+        "url": "http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "Viasat History",
+        "id": "ViasatHistory.cz",
+        "logo": "https://i.imgur.com/wRP9XA7.png",
+        "url": "http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "Viasat Nature",
+        "id": "ViasatNature.cz",
+        "logo": "https://i.imgur.com/ousRqqD.png",
+        "url": "http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.cz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "National Geographic Wild",
+        "id": "NationalGeographicWild.cz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+        "url": "http://88.212.15.29/live/test_ngw/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "MWD Documentary",
+        "id": "MWDDocumentary.mm",
+        "logo": "https://i.imgur.com/4XV7cjU.png",
+        "url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "MM"
+    },
+    {
+        "name": "MRTV Farmer",
+        "id": "MRTVFarmer.mm",
+        "logo": "https://i.imgur.com/f4PWvrW.jpg",
+        "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
         "categories": [
             "documentary",
-            "news"
+            "lifestyle"
         ],
-        "country": "AE"
+        "country": "MM"
+    },
+    {
+        "name": "Chemodan TV",
+        "id": "ChemodanTV.ua",
+        "logo": "https://i.imgur.com/1WjGN8u.png",
+        "url": "http://stream.mcquack.net/399/index.m3u8",
+        "categories": [
+            "education",
+            "documentary"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "Viasat History",
+        "id": "ViasatHistory.ua",
+        "logo": "https://i.imgur.com/39qZ68J.png",
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
+        "categories": [
+            "documentary"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "Dokusat",
+        "id": "Dokusat.de",
+        "logo": "https://i.imgur.com/GadfTwF.png",
+        "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Autentic History",
+        "id": "AutenticHistory.de",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+        "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Terra Mater WILD",
+        "id": "TerraMaterWILD.de",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
+        "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Adventure Earth",
+        "id": "AdventureEarth.de",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+        "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Curiosity NOW",
+        "id": "CuriosityNOW.de",
+        "logo": "https://i.imgur.com/gJ9eMaG.png",
+        "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Science",
+        "id": "PlutoTVScience.de",
+        "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+        "categories": [
+            "science",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Animals",
+        "id": "PlutoTVAnimals.de",
+        "logo": "https://i.imgur.com/N00seOn.png",
+        "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "BBC Earth",
+        "id": "BBCEarth.uk",
+        "logo": "https://i.imgur.com/nGSsUd4.png",
+        "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Nano",
+        "id": "Nano.ru",
+        "logo": "https://i.imgur.com/dYj3XDa.png",
+        "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "RT Documentary",
+        "id": "RTDocumentary.ru",
+        "logo": "https://i.imgur.com/aeu5zIC.png",
+        "url": "https://streaming.thestream.cyou/live/554.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "viju Nature",
+        "id": "vijuNature.ru",
+        "logo": "https://i.imgur.com/8BPZ18l.png",
+        "url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Arsenal",
+        "id": "Arsenal.ru",
+        "logo": "https://i.imgur.com/DBpVeb0.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/ArsenalHD.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "viju History",
+        "id": "vijuHistory.ru",
+        "logo": "https://i.imgur.com/FqWkeXb.png",
+        "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.ru",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://stream.mcquack.net/116/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Tochka RF",
+        "id": "TochkaRF.ru",
+        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
+        "url": "http://stream.mcquack.net/161/index.m3u8",
+        "categories": [
+            "documentary",
+            "travel"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "viju Explore",
+        "id": "vijuExplore.ru",
+        "logo": "https://i.imgur.com/EGIpLPu.png",
+        "url": "http://stream.mcquack.net/239/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "viju+ Planet",
+        "id": "vijuPlusPlanet.ru",
+        "logo": "https://i.imgur.com/9Weqdsk.png",
+        "url": "http://stream.mcquack.net/240/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "National Geographic Wild",
+        "id": "NationalGeographicWild.ru",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+        "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoDok",
+        "id": "CityEdenKinoDok.ru",
+        "logo": "https://i.imgur.com/itRbMX3.png",
+        "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+        "categories": [
+            "documentary",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "History 2",
+        "id": "History2.ru",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+        "url": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Tochka.rf",
+        "id": "Tochkarf.ru",
+        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
+        "url": "http://str2.iptvhd.ru:8080/HD_Life/index.m3u8",
+        "categories": [
+            "documentary",
+            "travel"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Top Secret",
+        "id": "TopSecret.ru",
+        "logo": "https://i.imgur.com/HM4xy4G.png",
+        "url": "http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "WaterBear",
+        "id": "WaterBear.ch",
+        "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+        "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+        "categories": [
+            "documentary",
+            "outdoor"
+        ],
+        "country": "CH"
+    },
+    {
+        "name": "Wedo Big Stories",
+        "id": "WedoBigStories.ch",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png",
+        "url": "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CH"
     },
     {
         "name": "NatureTime",
@@ -857,6 +1027,27 @@
         "country": "ES"
     },
     {
+        "name": "Crimen & Historia",
+        "id": "CrimenHistoria.es",
+        "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "GZT",
+        "id": "GZT.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
+        "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
+        "categories": [
+            "documentary",
+            "series"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "HRT 3",
         "id": "HRT3.hr",
         "logo": "https://i.imgur.com/4OrOJRx.png",
@@ -876,6 +1067,57 @@
             "documentary"
         ],
         "country": "HR"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.mx",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Ecovision",
+        "id": "Ecovision.do",
+        "logo": "https://imgur.com/a/pUlIJZX.png",
+        "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Al Arabiya Programs",
+        "id": "AlArabiyaPrograms.ae",
+        "logo": "https://i.imgur.com/Hoc3cfO.png",
+        "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+        "categories": [
+            "documentary",
+            "news"
+        ],
+        "country": "AE"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.ro",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "National Geographic Wild",
+        "id": "NationalGeographicWild.ro",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoWildRomania.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RO"
     },
     {
         "name": "Francophonie24",
@@ -909,227 +1151,6 @@
             "education"
         ],
         "country": "ZA"
-    },
-    {
-        "name": "History",
-        "id": "History.hu",
-        "logo": "https://i.imgur.com/OWIK7FJ.png",
-        "url": "http://88.212.15.19/live/history_hun/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "HU"
-    },
-    {
-        "name": "National Geographic",
-        "id": "NationalGeographic.hu",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "HU"
-    },
-    {
-        "name": "National Geographic Wild",
-        "id": "NationalGeographicWild.hu",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "HU"
-    },
-    {
-        "name": "Spektrum",
-        "id": "Spektrum.hu",
-        "logo": "https://i.imgur.com/GmFRQ82.png",
-        "url": "http://88.212.15.19/live/spektrum_hun/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "HU"
-    },
-    {
-        "name": "INWILD",
-        "id": "INWILD.nl",
-        "logo": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
-        "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "DocuBox",
-        "id": "DocuBox.nl",
-        "logo": "https://i.imgur.com/pX4U9OG.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "National Geographic",
-        "id": "NationalGeographic.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "WaterBear",
-        "id": "WaterBear.ch",
-        "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
-        "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
-        "categories": [
-            "documentary",
-            "outdoor"
-        ],
-        "country": "CH"
-    },
-    {
-        "name": "Wedo Big Stories",
-        "id": "WedoBigStories.ch",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png",
-        "url": "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CH"
-    },
-    {
-        "name": "CGTN Documentary",
-        "id": "CGTNDocumentary.cn",
-        "logo": "https://i.imgur.com/JHv0WxM.png",
-        "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CN"
-    },
-    {
-        "name": "CCTV-9",
-        "id": "CCTV9.cn",
-        "logo": "https://i.imgur.com/3tivvMm.png",
-        "url": "https://xykt-fix.github.io/Y77.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CN"
-    },
-    {
-        "name": "CCTV-Weapon & Technology",
-        "id": "CCTVWeaponTechnology.cn",
-        "logo": "https://i.imgur.com/QlF96eS.png",
-        "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CN"
-    },
-    {
-        "name": "BBC Earth",
-        "id": "BBCEarth.uk",
-        "logo": "https://i.imgur.com/nGSsUd4.png",
-        "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "National Geographic",
-        "id": "NationalGeographic.mx",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "CNA Originals",
-        "id": "CNAOriginals.sg",
-        "logo": "https://i.imgur.com/hlFQTrB.png",
-        "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SG"
-    },
-    {
-        "name": "Viasat Explore",
-        "id": "ViasatExplore.se",
-        "logo": "https://i.imgur.com/DyT5pKB.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Viasat History",
-        "id": "ViasatHistory.se",
-        "logo": "https://i.imgur.com/wRP9XA7.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Viasat Nature",
-        "id": "ViasatNature.se",
-        "logo": "https://i.imgur.com/ousRqqD.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Space",
-        "id": "PlutoTVSpace.se",
-        "logo": "https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Total Crime",
-        "id": "TotalCrime.ca",
-        "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
-        "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Love Pets",
-        "id": "LovePets.ca",
-        "logo": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
-        "url": "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "NatureTime",
-        "id": "NatureTime.ca",
-        "logo": "https://i.imgur.com/72JmyjM.png",
-        "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CA"
     },
     {
         "name": "Adventure Earth (1080p)",

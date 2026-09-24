@@ -285,16 +285,6 @@
         "country": "PK"
     },
     {
-        "name": "Hum TV",
-        "id": "HumTV.pk",
-        "logo": "https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png",
-        "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "Filmax",
         "id": "Filmax.pk",
         "logo": "https://i.imgur.com/eLmdZ6k.png",
@@ -374,16 +364,6 @@
         "country": "PK"
     },
     {
-        "name": "ARY News",
-        "id": "ARYNews.pk",
-        "logo": "https://i.imgur.com/R4KtTbJ.jpg",
-        "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "King TV",
         "id": "KingTV.pk",
         "logo": "https://i.imgur.com/dujrwRE.png",
@@ -394,12 +374,22 @@
         "country": "PK"
     },
     {
-        "name": "Aik News",
-        "id": "AikNews.pk",
-        "logo": "https://i.imgur.com/svPXoAP.png",
-        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
+        "name": "BS Film",
+        "id": "BSFilm.pk",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
         "categories": [
-            "news"
+            "general"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "PK Sports",
+        "id": "PKSports.pk",
+        "logo": "https://i.imgur.com/qtbSnrY.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "PK"
     }

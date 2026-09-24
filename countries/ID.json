@@ -538,16 +538,6 @@
         "country": "ID"
     },
     {
-        "name": "Padang TV",
-        "id": "PadangTV.id",
-        "logo": "https://i.imgur.com/EL2BfxY.png",
-        "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Astro Blitar TV",
         "id": "AstroBlitarTV.id",
         "logo": "https://i.imgur.com/rORKbGw.png",
@@ -622,26 +612,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",
         "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
         "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV",
-        "id": "SPOTV.id",
-        "logo": "https://i.imgur.com/HaoVsm5.png",
-        "url": "http://58.8.186.128:10006/bysid/2614",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV 2",
-        "id": "SPOTV2.id",
-        "logo": "https://i.imgur.com/YD8fbTH.png",
-        "url": "http://58.8.186.128:10006/bysid/2630",
-        "categories": [
-            "sports"
-        ],
         "country": "ID"
     },
     {
@@ -725,16 +695,6 @@
         "country": "ID"
     },
     {
-        "name": "Sampit TV",
-        "id": "SampitTV.id",
-        "logo": "https://i.imgur.com/8cFJa8G.png",
-        "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Banten TV",
         "id": "BantenTV.id",
         "logo": "https://i.imgur.com/tbtF40p.png",
@@ -761,16 +721,6 @@
         "country": "ID"
     },
     {
-        "name": "Batam TV",
-        "id": "BatamTV.id",
-        "logo": "https://i.imgur.com/lo7YXnW.png",
-        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Jek TV",
         "id": "JekTV.id",
         "logo": "https://i.imgur.com/wh75d1f.png",
@@ -778,52 +728,6 @@
         "categories": [
             "general"
         ],
-        "country": "ID"
-    },
-    {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "MGSTV",
-        "id": "MGSTV.id",
-        "logo": "https://i.imgur.com/MYU7dsZ.png",
-        "url": "https://mgstv.siar.us/live/mgstv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Sangaji TV",
-        "id": "SangajiTV.id",
-        "logo": "https://i.imgur.com/4rTNT8F.png",
-        "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Sriwijaya TV",
-        "id": "SriwijayaTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
-        "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
-        "categories": [],
         "country": "ID"
     },
     {
@@ -835,19 +739,23 @@
         "country": "ID"
     },
     {
-        "name": "Sultra TV",
-        "id": "SultraTV.id",
-        "logo": "https://i.imgur.com/cmpbNJz.png",
-        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
+        "name": "Al Wafa Tarim",
+        "id": "AlWafaTarim.id",
+        "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
+        "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "ID"
     },
     {
-        "name": "TV Mu",
-        "id": "TVMu.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
-        "url": "https://e.siar.us/live/tvmu.m3u8",
-        "categories": [],
+        "name": "Balikpapan TV",
+        "id": "BalikpapanTV.id",
+        "logo": "https://i.imgur.com/P3whqna.png",
+        "url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "ID"
     }
 ]

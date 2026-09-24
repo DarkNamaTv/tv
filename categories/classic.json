@@ -1,24 +1,79 @@
 [
     {
-        "name": "Bollywood Film",
-        "id": "BollywoodFilm.ro",
-        "logo": "https://i.imgur.com/bEMUpHZ.png",
-        "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+        "name": "TVS Retro",
+        "id": "TVSRetro.gt",
+        "logo": "https://i.imgur.com/jdnHci0.png",
+        "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "TVN3",
+        "id": "TVN3.cl",
+        "logo": "https://i.imgur.com/9LEiQPJ.png",
+        "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Mission Impossible",
+        "id": "MissionImpossible.se",
+        "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Happy Days",
+        "id": "HappyDays.se",
+        "logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Rawhide",
+        "id": "Rawhide.se",
+        "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+        "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "LAMIL35 TV",
+        "id": "LAMIL35TV.ar",
+        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+        "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+        "categories": [
+            "classic",
+            "entertainment",
+            "animation"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Xtrema Cine Clasico",
+        "id": "XtremaCineClasico.ar",
+        "logo": "https://i.imgur.com/j91M4Yf.png",
+        "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
         "categories": [
             "movies",
             "classic"
         ],
-        "country": "RO"
-    },
-    {
-        "name": "Retro",
-        "id": "Retro.ru",
-        "logo": "https://i.imgur.com/p21co1w.png",
-        "url": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "RU"
+        "country": "AR"
     },
     {
         "name": "AWTV",
@@ -53,47 +108,14 @@
         "country": "IN"
     },
     {
-        "name": "TVS Retro",
-        "id": "TVSRetro.gt",
-        "logo": "https://i.imgur.com/jdnHci0.png",
-        "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+        "name": "CCTV-Nostalgia Theater",
+        "id": "CCTVNostalgiaTheater.cn",
+        "logo": "https://i.imgur.com/TVs9PBc.png",
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
         "categories": [
             "classic"
         ],
-        "country": "GT"
-    },
-    {
-        "name": "TVN3",
-        "id": "TVN3.cl",
-        "logo": "https://i.imgur.com/9LEiQPJ.png",
-        "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "LAMIL35 TV",
-        "id": "LAMIL35TV.ar",
-        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
-        "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
-        "categories": [
-            "classic",
-            "entertainment",
-            "animation"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Xtrema Cine Clasico",
-        "id": "XtremaCineClasico.ar",
-        "logo": "https://i.imgur.com/j91M4Yf.png",
-        "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
-        "categories": [
-            "movies",
-            "classic"
-        ],
-        "country": "AR"
+        "country": "CN"
     },
     {
         "name": "Wanted: Dead or Alive",
@@ -319,26 +341,6 @@
         "country": "US"
     },
     {
-        "name": "Western TV",
-        "id": "WesternTV.us",
-        "logo": "https://i.imgur.com/nNy9oTx.png",
-        "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Classic TV Crime Drama",
-        "id": "ClassicTVCrimeDrama.us",
-        "logo": "https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
         "name": "MacGyver",
         "id": "MacGyver.us",
         "logo": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
@@ -349,47 +351,36 @@
         "country": "US"
     },
     {
-        "name": "CCTV-Nostalgia Theater",
-        "id": "CCTVNostalgiaTheater.cn",
-        "logo": "https://i.imgur.com/TVs9PBc.png",
-        "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+        "name": "Pluto TV The Twilight Zone",
+        "id": "PlutoTVTheTwilightZone.us",
+        "logo": "https://i.imgur.com/FiIRQAR.png",
+        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
         "categories": [
-            "classic"
+            "classic",
+            "series"
         ],
-        "country": "CN"
+        "country": "US"
     },
     {
-        "name": "Becker",
-        "id": "Becker.se",
-        "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
-        "url": "https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8",
+        "name": "Retro",
+        "id": "Retro.ru",
+        "logo": "https://i.imgur.com/p21co1w.png",
+        "url": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
         "categories": [
-            "series",
             "classic"
         ],
-        "country": "SE"
+        "country": "RU"
     },
     {
-        "name": "Mission Impossible",
-        "id": "MissionImpossible.se",
-        "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8",
+        "name": "Bollywood Film",
+        "id": "BollywoodFilm.ro",
+        "logo": "https://i.imgur.com/bEMUpHZ.png",
+        "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
         "categories": [
-            "series",
+            "movies",
             "classic"
         ],
-        "country": "SE"
-    },
-    {
-        "name": "Happy Days",
-        "id": "HappyDays.se",
-        "logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8",
-        "categories": [
-            "series",
-            "classic"
-        ],
-        "country": "SE"
+        "country": "RO"
     },
     {
         "name": "Cinevault Westerns (540p) [Geo-blocked]",
