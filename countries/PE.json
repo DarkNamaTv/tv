@@ -342,16 +342,6 @@
         "country": "PE"
     },
     {
-        "name": "Neo TV",
-        "id": "NeoTV.pe",
-        "logo": "https://i.imgur.com/bS5JtYX.jpeg",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Qosqo Times",
         "id": "QosqoTimes.pe",
         "logo": "https://i.imgur.com/oWJauwQ.png",
@@ -908,16 +898,6 @@
         "country": "PE"
     },
     {
-        "name": "Millenium 109 FM",
-        "id": "Millenium109FM.pe",
-        "logo": "https://i.imgur.com/sfNL6Bv.png",
-        "url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Antares Television",
         "id": "AntaresTelevision.pe",
         "logo": "https://i.imgur.com/05gwtk2.png",
@@ -1006,16 +986,6 @@
         "country": "PE"
     },
     {
-        "name": "Kora TV",
-        "id": "KoraTV.pe",
-        "logo": "https://i.imgur.com/ahBYv4x.png",
-        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Metropolitana del Cuzco",
         "id": "MetropolitanadelCuzco.pe",
         "logo": "https://i.imgur.com/0B04qgM.png",
@@ -1034,12 +1004,30 @@
         "country": "PE"
     },
     {
-        "name": "Vision Sur",
-        "id": "VisionSur.pe",
-        "logo": "https://i.imgur.com/AbZYWEQ.png",
-        "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
+        "name": "Folklore TV",
+        "id": "FolkloreTV.pe",
+        "logo": "https://i.imgur.com/QdOGJes.png",
+        "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
         "categories": [
-            "general"
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Senal Peru TV",
+        "id": "SenalPeruTV.pe",
+        "logo": "https://i.imgur.com/1q0R6R9.png",
+        "url": "https://livestream.perucast.com/hls/stream.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "TV Kaliente",
+        "id": "TVKaliente.pe",
+        "logo": "https://i.imgur.com/MFQpLuQ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "PE"
     }

@@ -126,16 +126,6 @@
         "country": "BO"
     },
     {
-        "name": "Red America TV",
-        "id": "RedAmericaTV.bo",
-        "logo": "https://i.imgur.com/qYNmeDe.png",
-        "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "PTV",
         "id": "PTV.bo",
         "logo": "https://i.imgur.com/vPvR7dX.png",
@@ -408,6 +398,56 @@
         "categories": [
             "general"
         ],
+        "country": "BO"
+    },
+    {
+        "name": "Canal 56 Quiero TV",
+        "id": "Canal56QuieroTV.bo",
+        "logo": "https://i.imgur.com/l9kDNld.jpeg",
+        "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Palenque TV",
+        "id": "PalenqueTV.bo",
+        "logo": "https://i.imgur.com/wAIBvaO.png",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Radio Mega TV Amazonia",
+        "id": "RadioMegaTVAmazonia.bo",
+        "logo": "https://i.imgur.com/yzSNWZ3.png",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Unifranz",
+        "id": "Unifranz.bo",
+        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "categories": [
+            "education",
+            "entertainment",
+            "news"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Univalle Television",
+        "id": "UnivalleTelevision.bo",
+        "logo": "https://i.imgur.com/qgrWDIs.png",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "categories": [],
         "country": "BO"
     }
 ]

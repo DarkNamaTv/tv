@@ -259,16 +259,6 @@
         "country": "PY"
     },
     {
-        "name": "MiTV",
-        "id": "MiTV.py",
-        "logo": "https://i.imgur.com/sgrEt9z.png",
-        "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Alcance FM PLAY TV",
         "id": "AlcanceFMPLAYTV.py",
         "logo": "https://i.imgur.com/ymcWecA.png",
@@ -580,16 +570,6 @@
         "country": "PY"
     },
     {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Nande Portetepe TV",
         "id": "NandePortetepeTV.py",
         "logo": "https://i.imgur.com/3taT6JK.jpeg",
@@ -600,13 +580,22 @@
         "country": "PY"
     },
     {
-        "name": "Oasis TV",
-        "id": "OasisTV.py",
-        "logo": "https://i.imgur.com/u9umNKp.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "categories": [
-            "entertainment"
+            "entertainment",
+            "music"
         ],
+        "country": "PY"
+    },
+    {
+        "name": "UniRadio TV",
+        "id": "UniRadioTV.py",
+        "logo": "https://i.imgur.com/Co3YrU0.png",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "categories": [],
         "country": "PY"
     }
 ]

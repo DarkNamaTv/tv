@@ -1,15 +1,5 @@
 [
     {
-        "name": "FunBox UHD",
-        "id": "FunBoxUHD.nl",
-        "logo": "https://i.imgur.com/9FJct9o.png",
-        "url": "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8",
-        "categories": [
-            "relax"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "Better Life Nature Channel",
         "id": "BetterLifeNatureChannel.us",
         "logo": "https://i.imgur.com/D8Vuw6I.png",
@@ -41,28 +31,6 @@
         "country": "US"
     },
     {
-        "name": "Space Live powered by sen",
-        "id": "SpaceLivepoweredbysen.uk",
-        "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
-        "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
-        "categories": [
-            "relax",
-            "travel"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "10 Bold",
-        "id": "10Bold.au",
-        "logo": "https://i.imgur.com/2xglh33.png",
-        "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
-        "categories": [
-            "lifestyle",
-            "relax"
-        ],
-        "country": "AU"
-    },
-    {
         "name": "MyZen TV",
         "id": "MyZenTV.fr",
         "logo": "https://i.imgur.com/fIi8o0C.png",
@@ -84,5 +52,37 @@
             "education"
         ],
         "country": "ZA"
+    },
+    {
+        "name": "10 Bold",
+        "id": "10Bold.au",
+        "logo": "https://i.imgur.com/2xglh33.png",
+        "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+        "categories": [
+            "lifestyle",
+            "relax"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "FunBox UHD",
+        "id": "FunBoxUHD.nl",
+        "logo": "https://i.imgur.com/9FJct9o.png",
+        "url": "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8",
+        "categories": [
+            "relax"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Space Live powered by sen",
+        "id": "SpaceLivepoweredbysen.uk",
+        "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+        "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
+        "categories": [
+            "relax",
+            "travel"
+        ],
+        "country": "UK"
     }
 ]
