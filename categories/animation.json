@@ -31,17 +31,6 @@
         "country": "SE"
     },
     {
-        "name": "South Park",
-        "id": "SouthPark.se",
-        "logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-        "url": "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "SE"
-    },
-    {
         "name": "South Park: Kyle Collection",
         "id": "SouthParkKyleCollection.se",
         "logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
@@ -68,17 +57,6 @@
         "id": "DisneyJrLatinAmerica.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
         "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Disney Channel Latin America",
-        "id": "DisneyChannelLatinAmerica.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
         "categories": [
             "animation",
             "kids"
@@ -131,10 +109,31 @@
         "country": "BR"
     },
     {
+        "name": "Geekdot",
+        "id": "Geekdot.br",
+        "logo": "https://i.imgur.com/jML1u4O.png",
+        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Cartoon Classics",
         "id": "CartoonClassics.pl",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
         "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Pixel TV",
+        "id": "PixelTV.pl",
+        "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
+        "url": "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8",
         "categories": [
             "animation",
             "kids"
@@ -364,17 +363,6 @@
         "country": "US"
     },
     {
-        "name": "Comedy Central South Park",
-        "id": "ComedyCentralSouthPark.us",
-        "logo": "https://i.imgur.com/7GKO6Fp.png",
-        "url": "https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
         "name": "South Park",
         "id": "SouthPark.us",
         "logo": "https://i.imgur.com/qA3KsTh.png",
@@ -451,16 +439,6 @@
         "country": "US"
     },
     {
-        "name": "Crunchyroll",
-        "id": "Crunchyroll.us",
-        "logo": "https://i.imgur.com/2FlIQUO.png",
-        "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Las Tortugas Ninja",
         "id": "LasTortugasNinja.us",
         "logo": "https://i.imgur.com/urJdNc9.png",
@@ -514,10 +492,52 @@
         "country": "US"
     },
     {
-        "name": "South Park",
-        "id": "SouthPark.de",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "name": "Naruto Shippuden",
+        "id": "NarutoShippuden.us",
+        "logo": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Anime Acao",
+        "id": "PlutoTVAnimeAcao.us",
+        "logo": "https://i.imgur.com/d8PpfB3.png",
+        "url": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Colecao Stan",
+        "id": "SouthParkColecaoStan.us",
+        "logo": "https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Coleccion Stan",
+        "id": "SouthParkColeccionStan.us",
+        "logo": "https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df72db18036500081a8292.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Kyle Collection",
+        "id": "SouthParkKyleCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
         "categories": [
             "animation",
             "comedy"
@@ -525,10 +545,21 @@
         "country": "DE"
     },
     {
-        "name": "South Park: Kyle Collection",
-        "id": "SouthParkKyleCollection.de",
-        "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+        "name": "Pluto TV Retro Toons",
+        "id": "PlutoTVRetroToons.de",
+        "logo": "https://i.imgur.com/YUQL0ki.png",
+        "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kenny Collection",
+        "id": "SouthParkKennyCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
         "categories": [
             "animation",
             "comedy"
@@ -591,6 +622,17 @@
             "kids"
         ],
         "country": "RU"
+    },
+    {
+        "name": "Spacetoon Turkey",
+        "id": "SpacetoonTurkey.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png",
+        "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "TR"
     },
     {
         "name": "GikTVMX",

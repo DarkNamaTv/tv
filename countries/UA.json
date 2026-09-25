@@ -561,64 +561,6 @@
         "country": "UA"
     },
     {
-        "name": "Kvartal TV",
-        "id": "KvartalTV.ua",
-        "logo": "https://i.imgur.com/6ZYWizP.png",
-        "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "1+1 Marafon",
-        "id": "1Plus1Marafon.ua",
-        "logo": "https://i.imgur.com/smQKa2G.png",
-        "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "36.6 TV",
-        "id": "366TV.ua",
-        "logo": "https://i.imgur.com/sC0K5BZ.png",
-        "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Dacha",
-        "id": "Dacha.ua",
-        "logo": "https://i.imgur.com/xq6p9BZ.png",
-        "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
-        "categories": [],
-        "country": "UA"
-    },
-    {
-        "name": "DIM",
-        "id": "DIM.ua",
-        "logo": "https://i.imgur.com/3cjaXIF.png",
-        "url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "FilmUA Live",
-        "id": "FilmUALive.ua",
-        "logo": "https://i.imgur.com/kizTBgS.png",
-        "url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "Happy Radio TV",
         "id": "HappyRadioTV.ua",
         "logo": "https://i.imgur.com/PAw36qJ.png",
@@ -626,14 +568,6 @@
         "categories": [
             "music"
         ],
-        "country": "UA"
-    },
-    {
-        "name": "Kus-Kus",
-        "id": "KusKus.ua",
-        "logo": "https://i.imgur.com/4a4qX0P.png",
-        "url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8",
-        "categories": [],
         "country": "UA"
     },
     {
@@ -1383,17 +1317,6 @@
         "country": "UA"
     },
     {
-        "name": "FilmUADrama",
-        "id": "FilmUADrama.ua",
-        "logo": "https://i.imgur.com/Hnwsh5d.png",
-        "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "Konkurent Ukraine",
         "id": "KonkurentUkraine.ua",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_%282025%29.png",
@@ -1544,16 +1467,6 @@
         "country": "UA"
     },
     {
-        "name": "Setanta Sports+ Ukraine",
-        "id": "SetantaSportsPlusUkraine.ua",
-        "logo": "https://i.imgur.com/gHAP4p0.png",
-        "url": "http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "U Travel",
         "id": "UTravel.ua",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png",
@@ -1580,6 +1493,26 @@
         "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "DIM",
+        "id": "DIM.ua",
+        "logo": "https://i.imgur.com/3cjaXIF.png",
+        "url": "http://stream.mcquack.net/383/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "ITV",
+        "id": "ITV.ua",
+        "logo": "https://i.imgur.com/NZdT9yJ.png",
+        "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "UA"
     }

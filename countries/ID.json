@@ -390,16 +390,6 @@
         "country": "ID"
     },
     {
-        "name": "MQTV",
-        "id": "MQTV.id",
-        "logo": "https://i.imgur.com/d8dQo6E.png",
-        "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "TV 9 Nusantara",
         "id": "TV9Nusantara.id",
         "logo": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
@@ -512,14 +502,6 @@
         "country": "ID"
     },
     {
-        "name": "BRTV",
-        "id": "BRTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
-        "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Ahsan TV",
         "id": "AhsanTV.id",
         "logo": "https://i.imgur.com/dZdUbYd.png",
@@ -538,16 +520,6 @@
         "country": "ID"
     },
     {
-        "name": "Astro Blitar TV",
-        "id": "AstroBlitarTV.id",
-        "logo": "https://i.imgur.com/rORKbGw.png",
-        "url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Suara Surabaya Visual Radio",
         "id": "SuaraSurabayaVisualRadio.id",
         "logo": "https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg",
@@ -555,18 +527,6 @@
         "categories": [
             "news",
             "interactive"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
         ],
         "country": "ID"
     },
@@ -607,14 +567,6 @@
         "country": "ID"
     },
     {
-        "name": "Atambua TV",
-        "id": "AtambuaTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",
-        "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Duta TV",
         "id": "DutaTV.id",
         "logo": "https://i.imgur.com/B4JW54M.png",
@@ -629,24 +581,6 @@
         "id": "RRINet.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png",
         "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Kilisuci TV",
-        "id": "KilisuciTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
-        "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "TV Tabalong",
-        "id": "TVTabalong.id",
-        "logo": "https://i.imgur.com/2YhDH98.png",
-        "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
         "categories": [],
         "country": "ID"
     },
@@ -684,32 +618,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
         "url": "https://www.streaming.radartv.co.id/hls/test.m3u8",
         "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Puja TV Aceh",
-        "id": "PujaTVAceh.id",
-        "logo": "https://i.imgur.com/0TqABCL.png",
-        "url": "https://pujatv.siar.us/live/pujatv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Banten TV",
-        "id": "BantenTV.id",
-        "logo": "https://i.imgur.com/tbtF40p.png",
-        "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Bungo TV",
-        "id": "BungoTV.id",
-        "logo": "https://i.imgur.com/OrCrtDA.png",
-        "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "ID"
     },
     {
@@ -756,6 +664,42 @@
         "categories": [
             "general"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "MGSTV",
+        "id": "MGSTV.id",
+        "logo": "https://i.imgur.com/MYU7dsZ.png",
+        "url": "https://mgstv.siar.us/live/mgstv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Padang TV",
+        "id": "PadangTV.id",
+        "logo": "https://i.imgur.com/EL2BfxY.png",
+        "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Radar Tasikmalaya TV",
+        "id": "RadarTasikmalayaTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",
+        "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sangaji TV",
+        "id": "SangajiTV.id",
+        "logo": "https://i.imgur.com/4rTNT8F.png",
+        "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]

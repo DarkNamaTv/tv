@@ -501,6 +501,16 @@
         "country": "TZ"
     },
     {
+        "name": "IBN TV Africa",
+        "id": "IBNTVAfrica.tz",
+        "logo": "https://i.imgur.com/eKy2ocd.png",
+        "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "TZ"
+    },
+    {
         "name": "KSTV Uganda",
         "id": "KSTVUganda.ug",
         "logo": "https://i.imgur.com/MMPzPSl.png",
@@ -802,16 +812,6 @@
         "country": "ID"
     },
     {
-        "name": "MQTV",
-        "id": "MQTV.id",
-        "logo": "https://i.imgur.com/d8dQo6E.png",
-        "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "I Am Channel",
         "id": "IAmChannel.id",
         "logo": "https://i.imgur.com/Gg6OcGT.png",
@@ -827,18 +827,6 @@
         "logo": "https://i.imgur.com/dZdUbYd.png",
         "url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
         "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
             "religious"
         ],
         "country": "ID"
@@ -1000,6 +988,16 @@
         "url": "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8",
         "categories": [
             "general",
+            "religious"
+        ],
+        "country": "NG"
+    },
+    {
+        "name": "LoveWorld Persia",
+        "id": "LoveWorldPersia.ng",
+        "logo": "https://i.imgur.com/Vd2xPxh.png",
+        "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+        "categories": [
             "religious"
         ],
         "country": "NG"
@@ -1419,30 +1417,10 @@
         "country": "IQ"
     },
     {
-        "name": "Al-Jawadain TV",
-        "id": "AlJawadainTV.iq",
-        "logo": "https://i.imgur.com/Eo3UYCK.png",
-        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Apostol TV",
         "id": "ApostolTV.hu",
         "logo": "https://i.imgur.com/C43Cc9N.png",
         "url": "https://live.apostoltv.hu/live/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "HU"
-    },
-    {
-        "name": "EWTN/Bonum TV",
-        "id": "EWTNBonumTV.hu",
-        "logo": "https://i.imgur.com/LdsRz2E.png",
-        "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -2231,16 +2209,6 @@
         "country": "IN"
     },
     {
-        "name": "OM TV",
-        "id": "OMTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
-        "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Anand TV",
         "id": "AnandTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
@@ -2325,16 +2293,6 @@
         "id": "WiseHumanTv.ir",
         "logo": "https://i.imgur.com/BT7EtfB.png",
         "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "Assirat TV",
-        "id": "AssiratTV.ir",
-        "logo": "https://i.imgur.com/ps4Gtj0.png",
-        "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2676,6 +2634,16 @@
         "id": "NoursatEnglish.lb",
         "logo": "https://i.imgur.com/RC5Kw82.png",
         "url": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "Al-Iman TV",
+        "id": "AlImanTV.lb",
+        "logo": "https://i.imgur.com/4WKQppG.png",
+        "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3034,16 +3002,6 @@
         "country": "CO"
     },
     {
-        "name": "Cristovision",
-        "id": "Cristovision.co",
-        "logo": "https://i.imgur.com/XIhCUY9.png",
-        "url": "http://186.148.196.82:8001/play/a0c3",
-        "categories": [
-            "religious"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Ando TV",
         "id": "AndoTV.cn",
         "logo": "https://i.imgur.com/EpTsFVu.png",
@@ -3188,6 +3146,16 @@
         "id": "LGDTelevision.ve",
         "logo": "https://i.imgur.com/a9E0DTY.jpeg",
         "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Audaz TV",
+        "id": "AudazTV.ve",
+        "logo": "https://i.imgur.com/QtCgtZq.jpg",
+        "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4333,6 +4301,16 @@
         "country": "US"
     },
     {
+        "name": "Mission TV",
+        "id": "MissionTV.us",
+        "logo": "https://i.imgur.com/Hb38BNo.png",
+        "url": "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
         "name": "TV Mana Mocambique",
         "id": "TVManaMocambique.mz",
         "logo": "https://i.imgur.com/R5YrV5s.png",
@@ -5345,16 +5323,6 @@
         "id": "FamiliaVisionHD.pr",
         "logo": "https://i.imgur.com/uqTH7m5.jpg",
         "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
-        "name": "Triunfo 96.9 FM",
-        "id": "Triunfo969FM.pr",
-        "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
-        "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
         "categories": [
             "religious"
         ],

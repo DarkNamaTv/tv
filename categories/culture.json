@@ -277,16 +277,6 @@
         "country": "CL"
     },
     {
-        "name": "Suyai TV",
-        "id": "SuyaiTV.cl",
-        "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
-        "url": "https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Bali TV",
         "id": "BaliTV.id",
         "logo": "https://i.imgur.com/uH1Szme.png",
@@ -348,6 +338,21 @@
             "general",
             "family",
             "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
@@ -450,6 +455,17 @@
         "id": "BemMaisTV.br",
         "logo": "https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg",
         "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
         "categories": [
             "culture",
             "education"
@@ -1044,16 +1060,6 @@
         "country": "ES"
     },
     {
-        "name": "Imai TV",
-        "id": "ImaiTV.lk",
-        "logo": "https://i.imgur.com/9tODclu.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "LK"
-    },
-    {
         "name": "Woman TV",
         "id": "WomanTV.tr",
         "logo": "https://i.imgur.com/f2zGoV3.png",
@@ -1104,17 +1110,6 @@
         "logo": "https://i.imgur.com/9EruWIQ.png",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
         "categories": [
-            "culture"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "TRT Genc",
-        "id": "TRTGenc.tr",
-        "logo": "https://i.imgur.com/fCHQYWS.png",
-        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "general",
             "culture"
         ],
         "country": "TR"

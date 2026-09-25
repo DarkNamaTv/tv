@@ -512,16 +512,6 @@
         "country": "GR"
     },
     {
-        "name": "Start TV",
-        "id": "StartTV.gr",
-        "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
-        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Epiloges TV",
         "id": "EpilogesTV.gr",
         "logo": "https://i.imgur.com/3S4P7ob.png",
@@ -542,21 +532,29 @@
         "country": "GR"
     },
     {
-        "name": "Lepanto TV",
-        "id": "LepantoTV.gr",
-        "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
-        "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Ecclesia TV",
         "id": "EcclesiaTV.gr",
         "logo": "https://i.imgur.com/QQSSMZx.png",
         "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
         "categories": [],
+        "country": "GR"
+    },
+    {
+        "name": "Faros TV2",
+        "id": "FarosTV2.gr",
+        "logo": "https://i.imgur.com/7xtz1Jo.png",
+        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+        "categories": [],
+        "country": "GR"
+    },
+    {
+        "name": "NRG 91",
+        "id": "NRG91.gr",
+        "logo": "https://i.imgur.com/1Zl1OJ5.png",
+        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+        "categories": [
+            "music"
+        ],
         "country": "GR"
     }
 ]

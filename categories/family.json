@@ -190,16 +190,6 @@
         "country": "US"
     },
     {
-        "name": "Freeform",
-        "id": "Freeform.us",
-        "logo": "https://i.ibb.co/qYtLJt8Q/IMG-2280.png",
-        "url": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8",
-        "categories": [
-            "family"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Showtime Family Zone",
         "id": "ShowtimeFamilyZone.us",
         "logo": "https://i.imgur.com/qwJUawJ.png",
@@ -224,6 +214,16 @@
         "id": "HallmarkChannel.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
         "url": "http://4.30.180.36:8420/hallmark/index.m3u8?token=test",
+        "categories": [
+            "family"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Freeform",
+        "id": "Freeform.us",
+        "logo": "https://i.ibb.co/qYtLJt8Q/IMG-2280.png",
+        "url": "http://4.30.180.36:8420/freeform/index.m3u8?token=test",
         "categories": [
             "family"
         ],
@@ -292,17 +292,6 @@
             "movies"
         ],
         "country": "ES"
-    },
-    {
-        "name": "Telenovisa43",
-        "id": "Telenovisa43.do",
-        "logo": "https://i.imgur.com/iHvf3bR.png",
-        "url": "https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general",
-            "family"
-        ],
-        "country": "DO"
     },
     {
         "name": "1KZN TV",
