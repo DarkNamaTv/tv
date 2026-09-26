@@ -421,14 +421,6 @@
         "country": "CR"
     },
     {
-        "name": "BestClasicosTV",
-        "id": "BestClasicosTV.cr",
-        "logo": "https://i.imgur.com/a/BRb8AVL.png",
-        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
-        "categories": [],
-        "country": "CR"
-    },
-    {
         "name": "La Potente Radio TV",
         "id": "LaPotenteRadioTV.cr",
         "logo": "https://i.imgur.com/ti5Fg5D.png",
@@ -505,6 +497,16 @@
         "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Antena Seis TV",
+        "id": "AntenaSeisTV.cr",
+        "logo": "https://i.imgur.com/9Nh2mo9.png",
+        "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CR"
     }

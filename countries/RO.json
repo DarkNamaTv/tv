@@ -899,16 +899,6 @@
         "country": "RO"
     },
     {
-        "name": "Nova TV Brasov",
-        "id": "NovaTVBrasov.ro",
-        "logo": "https://i.imgur.com/33Vn0Ij.png",
-        "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Digi Sport 3",
         "id": "DigiSport3.ro",
         "logo": "https://i.imgur.com/T1ci5UK.png",
@@ -1003,6 +993,16 @@
         "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
         "categories": [
             "comedy"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "MISA TV",
+        "id": "MISATV.ro",
+        "logo": "https://i.imgur.com/2RxQNm6.png",
+        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "RO"
     }

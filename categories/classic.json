@@ -1,15 +1,5 @@
 [
     {
-        "name": "TVS Retro",
-        "id": "TVSRetro.gt",
-        "logo": "https://i.imgur.com/jdnHci0.png",
-        "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "TVN3",
         "id": "TVN3.cl",
         "logo": "https://i.imgur.com/9LEiQPJ.png",
@@ -20,10 +10,21 @@
         "country": "CL"
     },
     {
-        "name": "Matlock",
-        "id": "Matlock.se",
-        "logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8",
+        "name": "JAG",
+        "id": "JAG.se",
+        "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
+        "categories": [
+            "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "The Wild Wild West",
+        "id": "TheWildWildWest.se",
+        "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
+        "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
         "categories": [
             "series",
             "classic"
@@ -319,16 +320,6 @@
         "country": "US"
     },
     {
-        "name": "Classic TV Crime Drama",
-        "id": "ClassicTVCrimeDrama.us",
-        "logo": "https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8",
-        "categories": [
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Classic TV Drama",
         "id": "ClassicTVDrama.us",
         "logo": "https://i.imgur.com/XHQxv0x.png",
@@ -349,21 +340,40 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV The Twilight Zone",
-        "id": "PlutoTVTheTwilightZone.us",
-        "logo": "https://i.imgur.com/FiIRQAR.png",
-        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
-        "categories": [
-            "classic",
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Western TV",
         "id": "WesternTV.us",
         "logo": "https://i.imgur.com/nNy9oTx.png",
         "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Beverly Hillbillies",
+        "id": "BeverlyHillbillies.us",
+        "logo": "https://i.imgur.com/OV9hT93.png",
+        "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Hogan's Heroes",
+        "id": "HogansHeroes.us",
+        "logo": "https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png",
+        "url": "https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MacGyver",
+        "id": "MacGyver.us",
+        "logo": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
         "categories": [
             "classic"
         ],

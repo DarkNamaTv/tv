@@ -768,20 +768,20 @@
         "country": "VN"
     },
     {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "AS3 Sport TV",
         "id": "AS3SportTV.ve",
         "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
         "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Meridiano TV",
-        "id": "MeridianoTV.ve",
-        "logo": "https://i.imgur.com/I6gsUqD.png",
-        "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1376,17 +1376,6 @@
         "country": "US"
     },
     {
-        "name": "Monster Jam",
-        "id": "MonsterJam.us",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
-        "categories": [
-            "sports",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Competition",
         "id": "PlutoTVCompetition.us",
         "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
@@ -1401,6 +1390,26 @@
         "id": "PlutoTVEsportes.us",
         "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
         "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Golf Channel Latin America",
+        "id": "GolfChannelLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
+        "url": "http://143.14.178.35/TCM-HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PokerGo",
+        "id": "PokerGo.us",
+        "logo": "https://i.imgur.com/1603HED.png",
+        "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
         "categories": [
             "sports"
         ],
@@ -1471,6 +1480,16 @@
         "id": "Eurosport4KCzechia.cz",
         "logo": "https://i.imgur.com/0o3zjC7.png",
         "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "Sporty TV",
+        "id": "SportyTV.cz",
+        "logo": "https://i.imgur.com/Wz5bQKx.jpeg",
+        "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1557,36 +1576,6 @@
         "country": "UA"
     },
     {
-        "name": "Sport 1",
-        "id": "Sport1.ua",
-        "logo": "https://i.imgur.com/Zjb8awW.png",
-        "url": "http://stream.mcquack.net/391/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Sport 2",
-        "id": "Sport2.ua",
-        "logo": "https://i.imgur.com/vk0j1mY.png",
-        "url": "http://stream.mcquack.net/392/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Sport 3",
-        "id": "Sport3.ua",
-        "logo": "https://i.imgur.com/qkvavfH.png",
-        "url": "http://stream.mcquack.net/393/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "Sport 4",
         "id": "Sport4.ua",
         "logo": "https://i.imgur.com/xW6oGIx.png",
@@ -1607,40 +1596,10 @@
         "country": "UA"
     },
     {
-        "name": "DiviSport",
-        "id": "DiviSport.ua",
-        "logo": "https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png",
-        "url": "http://stream.mcquack.net/457/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "Dynamo Kyiv TV",
         "id": "DynamoKyivTV.ua",
         "logo": "https://i.imgur.com/ymxmyyG.png",
         "url": "http://stream.mcquack.net/396/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Maincast Cybersport",
-        "id": "MaincastCybersport.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
-        "url": "http://stream.mcquack.net/487/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Maincast Sport",
-        "id": "MaincastSport.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
-        "url": "http://stream.mcquack.net/490/index.m3u8",
         "categories": [
             "sports"
         ],

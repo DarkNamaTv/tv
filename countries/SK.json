@@ -288,5 +288,35 @@
         "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
         "categories": [],
         "country": "SK"
+    },
+    {
+        "name": "NZTV",
+        "id": "NZTV.sk",
+        "logo": "https://i.imgur.com/jGZlnzT.png",
+        "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Regio TV",
+        "id": "RegioTV.sk",
+        "logo": "https://i.imgur.com/WlF6tlZ.png",
+        "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Zapadoslovenska TV",
+        "id": "ZapadoslovenskaTV.sk",
+        "logo": "https://i.imgur.com/D72Y1IB.png",
+        "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SK"
     }
 ]
