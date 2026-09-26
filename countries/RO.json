@@ -772,16 +772,6 @@
         "country": "RO"
     },
     {
-        "name": "MISA TV",
-        "id": "MISATV.ro",
-        "logo": "https://i.imgur.com/2RxQNm6.png",
-        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Radio Romania 3Net",
         "id": "RadioRomania3Net.ro",
         "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
@@ -987,16 +977,6 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania Antena Satelor",
-        "id": "RadioRomaniaAntenaSatelor.ro",
-        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Antena Monden",
         "id": "AntenaMonden.ro",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
@@ -1013,6 +993,16 @@
         "url": "https://netstreaming.eu/hd1.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Comedy Play",
+        "id": "ComedyPlay.ro",
+        "logo": "https://i.imgur.com/6kAeVOk.png",
+        "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
+        "categories": [
+            "comedy"
         ],
         "country": "RO"
     }

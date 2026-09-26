@@ -52,6 +52,16 @@
         "country": "CD"
     },
     {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Viasat Explore",
         "id": "ViasatExplore.se",
         "logo": "https://i.imgur.com/DyT5pKB.png",
@@ -644,21 +654,71 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Science",
-        "id": "PlutoTVScience.us",
-        "logo": "https://i.imgur.com/uhunRoU.png",
-        "url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8",
+        "name": "Teen Mom",
+        "id": "TeenMom.us",
+        "logo": "https://i.imgur.com/8o3ClCV.png",
+        "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
         "categories": [
-            "science",
             "documentary"
         ],
         "country": "US"
     },
     {
-        "name": "Teen Mom",
-        "id": "TeenMom.us",
-        "logo": "https://i.imgur.com/8o3ClCV.png",
-        "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
+        "name": "Forensic Files",
+        "id": "ForensicFiles.us",
+        "logo": "https://i.imgur.com/V5vvuLK.png",
+        "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Investigacao",
+        "id": "PlutoTVInvestigacao.us",
+        "logo": "https://i.imgur.com/JlQq0YJ.png",
+        "url": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Paranormal",
+        "id": "PlutoTVParanormal.us",
+        "logo": "https://i.imgur.com/ApN6nfw.png",
+        "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Turbo",
+        "id": "PlutoTVTurbo.us",
+        "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
+        "categories": [
+            "auto",
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Smithsonian Channel Pluto TV",
+        "id": "SmithsonianChannelPlutoTV.us",
+        "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Spike Pluto TV",
+        "id": "SpikePlutoTV.us",
+        "logo": "https://i.imgur.com/woY8Ecb.png",
+        "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
         "categories": [
             "documentary"
         ],
@@ -878,12 +938,22 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV True Crime",
-        "id": "PlutoTVTrueCrime.de",
-        "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
+        "name": "Pluto TV Animals",
+        "id": "PlutoTVAnimals.de",
+        "logo": "https://i.imgur.com/N00seOn.png",
+        "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
         "categories": [
-            "series",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Food",
+        "id": "PlutoTVFood.de",
+        "logo": "https://i.imgur.com/HTLo1GG.png",
+        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
+        "categories": [
+            "cooking",
             "documentary"
         ],
         "country": "DE"
@@ -1011,37 +1081,6 @@
         "country": "RU"
     },
     {
-        "name": "History 2",
-        "id": "History2.ru",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
-        "url": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Tochka.rf",
-        "id": "Tochkarf.ru",
-        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
-        "url": "http://str2.iptvhd.ru:8080/HD_Life/index.m3u8",
-        "categories": [
-            "documentary",
-            "travel"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Top Secret",
-        "id": "TopSecret.ru",
-        "logo": "https://i.imgur.com/HM4xy4G.png",
-        "url": "http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "WaterBear",
         "id": "WaterBear.ch",
         "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
@@ -1087,16 +1126,6 @@
         "id": "CrimenHistoria.es",
         "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Storie Criminali",
-        "id": "StorieCriminali.es",
-        "logo": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8",
         "categories": [
             "documentary"
         ],

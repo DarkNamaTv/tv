@@ -166,16 +166,6 @@
         "country": "EC"
     },
     {
-        "name": "UNIANDES TV",
-        "id": "UNIANDESTV.ec",
-        "logo": "https://i.imgur.com/1rluyB7.png",
-        "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Antena Uno Radiovideo",
         "id": "AntenaUnoRadiovideo.ec",
         "logo": "https://i.imgur.com/PCN6iZJ.png",
@@ -496,6 +486,16 @@
         "id": "PuruwaTV.ec",
         "logo": "https://i.imgur.com/CYldC2R.png",
         "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "Hechos Ecuador",
+        "id": "HechosEcuador.ec",
+        "logo": "https://i.imgur.com/koMQZNX.png",
+        "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
         "categories": [
             "general"
         ],

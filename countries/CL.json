@@ -1521,16 +1521,6 @@
         "country": "CL"
     },
     {
-        "name": "La Clave",
-        "id": "LaClave.cl",
-        "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
-        "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Contivision",
         "id": "Contivision.cl",
         "logo": "https://i.imgur.com/Lz2OlKf.png",
@@ -1547,26 +1537,6 @@
         "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "TeleCauquenes",
-        "id": "TeleCauquenes.cl",
-        "logo": "https://i.imgur.com/cNYDqhp.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Nuble",
-        "id": "RadioNuble.cl",
-        "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
-        "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1617,16 +1587,6 @@
         "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Frecuencia Uno",
-        "id": "RadioFrecuenciaUno.cl",
-        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
-        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1843,16 +1803,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Tendencias Prime",
         "id": "TendenciasPrime.cl",
         "logo": "https://i.imgur.com/nDWW4m7.png",
@@ -1868,6 +1818,34 @@
         "categories": [
             "general"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Odisea TV",
+        "id": "OdiseaTV.cl",
+        "logo": "https://i.imgur.com/8SCnoiZ.png",
+        "url": "https://v2.tustreaming.cl/odiseatv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "T-Vinet",
+        "id": "TVinet.cl",
+        "logo": "https://i.imgur.com/KisHIpA.png",
+        "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]
