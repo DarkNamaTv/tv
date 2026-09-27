@@ -51,6 +51,27 @@
         "country": "CA"
     },
     {
+        "name": "New Channel",
+        "id": "NewChannel.ca",
+        "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
+        "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8",
+        "categories": [
+            "music",
+            "kids"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "New Channel Pop!",
+        "id": "NewChannelPop.ca",
+        "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
+        "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "Sat7 Kids",
         "id": "sat7kids.ug",
         "logo": "",
@@ -118,6 +139,36 @@
         "id": "iCarly.se",
         "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Tegnefilm",
+        "id": "PlutoTVTegnefilm.se",
+        "logo": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+        "url": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Ungdomsserier",
+        "id": "PlutoTVUngdomsserier.se",
+        "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+        "url": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Totally Turtles",
+        "id": "TotallyTurtles.se",
+        "logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
         "categories": [
             "kids"
         ],
@@ -304,6 +355,17 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
         "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
         "categories": [
+            "kids"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Pixel TV",
+        "id": "PixelTV.pl",
+        "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
+        "url": "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8",
+        "categories": [
+            "animation",
             "kids"
         ],
         "country": "PL"
@@ -588,6 +650,16 @@
         "id": "Sonic.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg",
         "url": "http://202.70.146.135:8000/play/a02t/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Cartoon",
+        "id": "ZBCartoon.in",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
         "categories": [
             "kids"
         ],
@@ -1160,16 +1232,6 @@
         "country": "US"
     },
     {
-        "name": "Oggy e as Baratas Tontas",
-        "id": "OggyeasBaratasTontas.us",
-        "logo": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Kids Club",
         "id": "PlutoTVKidsClub.us",
         "logo": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
@@ -1190,40 +1252,10 @@
         "country": "US"
     },
     {
-        "name": "Turma da Monica",
-        "id": "TurmadaMonica.us",
-        "logo": "https://i.imgur.com/nrvPPrW.png",
-        "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Bob Esponja Calca Quadrada",
-        "id": "BobEsponjaCalcaQuadrada.us",
-        "logo": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Bob Esponja Pantalones Cuadrados",
         "id": "BobEsponjaPantalonesCuadrados.us",
         "logo": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png",
         "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Forever Kids",
-        "id": "ForeverKids.us",
-        "logo": "https://i.imgur.com/deeQqYZ.png",
-        "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
         "categories": [
             "kids"
         ],
@@ -1280,27 +1312,6 @@
         "country": "US"
     },
     {
-        "name": "Garfield and Friends",
-        "id": "GarfieldandFriends.us",
-        "logo": "https://i.imgur.com/evzfe9C.png",
-        "url": "https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Inazuma Eleven",
-        "id": "InazumaEleven.us",
-        "logo": "https://i.imgur.com/pLv0T3D.png",
-        "url": "https://jmp2.uk/plu-612375086abc84000738fc03.m3u8",
-        "categories": [
-            "series",
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Kids Movie Club",
         "id": "KidsMovieClub.us",
         "logo": "https://i.imgur.com/avFk0Tt.png",
@@ -1322,10 +1333,71 @@
         "country": "US"
     },
     {
-        "name": "Super! SpongeBob",
-        "id": "SuperSpongeBob.us",
-        "logo": "https://i.imgur.com/65wxNn4.png",
-        "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
+        "name": "90's Kids",
+        "id": "90sKids.us",
+        "logo": "https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",
+        "url": "https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nickelodeon Classico",
+        "id": "NickelodeonClassico.us",
+        "logo": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png",
+        "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nickelodeon Pluto TV",
+        "id": "NickelodeonPlutoTV.us",
+        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nick Jr. Pluto TV",
+        "id": "NickJrPlutoTV.us",
+        "logo": "https://i.imgur.com/8DAe8wr.png",
+        "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "O Reino Infantil",
+        "id": "OReinoInfantil.us",
+        "logo": "https://i.imgur.com/qoVxc13.png",
+        "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Super! iCarly",
+        "id": "SuperiCarly.us",
+        "logo": "https://i.imgur.com/IWcQfF2.png",
+        "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Super! Pop",
+        "id": "SuperPop.us",
+        "logo": "https://i.imgur.com/2FfREQE.png",
+        "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
         "categories": [
             "kids"
         ],
@@ -1462,16 +1534,6 @@
         "country": "UA"
     },
     {
-        "name": "Cine+ Kids",
-        "id": "CinePlusKids.ua",
-        "logo": "https://i.imgur.com/lmfc2u4.png",
-        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
-        "categories": [
-            "kids"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "KiKA",
         "id": "KiKA.de",
         "logo": "https://i.imgur.com/vZdNp5S.png",
@@ -1554,10 +1616,30 @@
         "country": "DE"
     },
     {
-        "name": "Bob Esponja",
-        "id": "BobEsponja.de",
-        "logo": "https://i.imgur.com/nmZ2nId.png",
-        "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8",
+        "name": "Nick Jr. Club",
+        "id": "NickJrClub.de",
+        "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
+        "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Kids Club",
+        "id": "PlutoTVKidsClub.de",
+        "logo": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
+        "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Teen",
+        "id": "PlutoTVTeen.de",
+        "logo": "https://i.imgur.com/lNJ5p5e.png",
+        "url": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8",
         "categories": [
             "kids"
         ],
@@ -2034,6 +2116,16 @@
         "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
         "categories": [
             "animation",
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
             "kids"
         ],
         "country": "TR"

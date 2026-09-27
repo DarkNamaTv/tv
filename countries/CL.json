@@ -1302,14 +1302,6 @@
         "country": "CL"
     },
     {
-        "name": "Atacama TV",
-        "id": "AtacamaTV.cl",
-        "logo": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
-        "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Pichilemu TV",
         "id": "PichilemuTV.cl",
         "logo": "https://i.imgur.com/eaJVCwM.png",
@@ -1382,16 +1374,6 @@
         "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
         "categories": [
             "outdoor"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Fantasia TV",
-        "id": "RadioFantasiaTV.cl",
-        "logo": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
-        "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1829,16 +1811,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Nuble",
         "id": "RadioNuble.cl",
         "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
@@ -1853,6 +1825,66 @@
         "id": "TeleCauquenes.cl",
         "logo": "https://i.imgur.com/cNYDqhp.png",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Canal 13",
+        "id": "Canal13.cl",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
+        "url": "https://xyktmobile00.s.gy/PPV908_TRECE_CHILE",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Canal CHV Noticias",
+        "id": "CanalCHVNoticias.cl",
+        "logo": "https://i.imgur.com/sx8Aaxr.png",
+        "url": "https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Granja TV",
+        "id": "LaGranjaTV.cl",
+        "logo": "https://i.imgur.com/90luGab.png",
+        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Frecuencia Uno",
+        "id": "RadioFrecuenciaUno.cl",
+        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
+        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Turno",
+        "id": "Turno.cl",
+        "logo": "https://i.imgur.com/XuSeHBt.png",
+        "url": "https://redirector.dps.live/hls/turno/playlist.m3u8",
         "categories": [
             "news"
         ],

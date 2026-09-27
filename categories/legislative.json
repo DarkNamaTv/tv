@@ -560,14 +560,34 @@
         "country": "US"
     },
     {
-        "name": "Hluttaw S & D",
-        "id": "HluttawSD.mm",
-        "logo": "https://i.imgur.com/Gffq8ks.png",
-        "url": "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8",
+        "name": "CT-N Court Feed",
+        "id": "CTNCourtFeed.us",
+        "logo": "https://i.imgur.com/pb0TFQt.jpeg",
+        "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
         "categories": [
             "legislative"
         ],
-        "country": "MM"
+        "country": "US"
+    },
+    {
+        "name": "CT-N Live Stream 2",
+        "id": "CTNLiveStream2.us",
+        "logo": "https://i.imgur.com/pb0TFQt.jpeg",
+        "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CT-N TV Conneticut",
+        "id": "CTNTVConneticut.us",
+        "logo": "https://i.imgur.com/pb0TFQt.jpg",
+        "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "US"
     },
     {
         "name": "Parliament TV",

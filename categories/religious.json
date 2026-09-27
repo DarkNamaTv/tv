@@ -481,16 +481,6 @@
         "country": "TZ"
     },
     {
-        "name": "Mahaasin TV",
-        "id": "MahaasinTV.tz",
-        "logo": "https://i.imgur.com/wdfdKvC.png",
-        "url": "https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "TZ"
-    },
-    {
         "name": "IBN TV Africa",
         "id": "IBNTVAfrica.tz",
         "logo": "https://i.imgur.com/eKy2ocd.png",
@@ -515,26 +505,6 @@
         "id": "ArkTV.ug",
         "logo": "https://i.imgur.com/yCHNZXD.png",
         "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Alpha Digital",
-        "id": "AlphaDigital.ug",
-        "logo": "https://i.imgur.com/sLt242H.png",
-        "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Dream TV",
-        "id": "DreamTV.ug",
-        "logo": "https://i.imgur.com/XRUDhqQ.png",
-        "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
         "categories": [
             "religious"
         ],
@@ -868,16 +838,6 @@
         "id": "CanalOrbe21.ar",
         "logo": "https://i.imgur.com/USD6Wn8.png",
         "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 6 Viento Recio",
-        "id": "Canal6VientoRecio.ar",
-        "logo": "https://i.imgur.com/liyTNzK.png",
-        "url": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -1419,10 +1379,10 @@
         "country": "IQ"
     },
     {
-        "name": "Al-Jawadain TV",
-        "id": "AlJawadainTV.iq",
-        "logo": "https://i.imgur.com/Eo3UYCK.png",
-        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "name": "Al-Aimma TV",
+        "id": "AlAimmaTV.iq",
+        "logo": "https://alaimma.tv/alaimma-logo.png",
+        "url": "https://alaimma.tv/live/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -2251,6 +2211,16 @@
         "country": "IN"
     },
     {
+        "name": "Anand TV",
+        "id": "AnandTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
+        "url": "https://live.legitpro.co.in/anandtv/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Divya Darshan TV",
         "id": "DivyaDarshanTV.np",
         "logo": "https://i.imgur.com/EwDQ12F.png",
@@ -2442,16 +2412,6 @@
         "country": "CR"
     },
     {
-        "name": "Luz Naciente TV",
-        "id": "LuzNacienteTV.cr",
-        "logo": "https://i.imgur.com/GC2lubh.png",
-        "url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Ch4Teen Documentary",
         "id": "Ch4TeenDocumentary.kw",
         "logo": "https://i.imgur.com/pHpFGeg.png",
@@ -2486,6 +2446,16 @@
         "id": "TeleLouange.ht",
         "logo": "https://i.imgur.com/DjnMUuL.png",
         "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "HT"
+    },
+    {
+        "name": "Radio Tele 4VEH",
+        "id": "RadioTele4VEH.ht",
+        "logo": "https://i.imgur.com/AnOjqaS.png",
+        "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2682,16 +2652,6 @@
         "country": "SV"
     },
     {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "TV Getsemani",
         "id": "TVGetsemani.sv",
         "logo": "https://i.imgur.com/C9SJCcE.jpg",
@@ -2712,10 +2672,10 @@
         "country": "SV"
     },
     {
-        "name": "TVCa",
-        "id": "TVCa.sv",
-        "logo": "https://i.imgur.com/uPWWtCA.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+        "name": "TV CRET",
+        "id": "TVCRET.sv",
+        "logo": "https://i.imgur.com/ChonoKb.png",
+        "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
         "categories": [
             "religious"
         ],
@@ -4283,6 +4243,16 @@
         "country": "US"
     },
     {
+        "name": "Faith TV",
+        "id": "FaithTV.us",
+        "logo": "https://i.imgur.com/lUBnKK1.png",
+        "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
         "name": "TV Mana Mocambique",
         "id": "TVManaMocambique.mz",
         "logo": "https://i.imgur.com/R5YrV5s.png",
@@ -4763,6 +4733,16 @@
         "country": "UK"
     },
     {
+        "name": "Faith UK",
+        "id": "FaithUK.uk",
+        "logo": "https://i.imgur.com/mn8I2wt.png",
+        "url": "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "UK"
+    },
+    {
         "name": "3ABN Russia",
         "id": "3ABNRussia.ru",
         "logo": "https://i.imgur.com/4fhBbam.png",
@@ -4932,16 +4912,6 @@
         "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
         "categories": [
             "kids",
-            "religious"
-        ],
-        "country": "PK"
-    },
-    {
-        "name": "God Stands TV",
-        "id": "GodStandsTV.pk",
-        "logo": "https://i.imgur.com/EO6cYUI.png",
-        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
-        "categories": [
             "religious"
         ],
         "country": "PK"
@@ -5545,16 +5515,6 @@
         "id": "AngelusTV.ro",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512",
         "url": "https://video.angelustv.ro/hls/angelustv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "MISA TV",
-        "id": "MISATV.ro",
-        "logo": "https://i.imgur.com/2RxQNm6.png",
-        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
         "categories": [
             "religious"
         ],

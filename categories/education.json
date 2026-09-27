@@ -191,6 +191,16 @@
         "country": "ID"
     },
     {
+        "name": "Rinjani TV",
+        "id": "RinjaniTV.id",
+        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "TV Universidad",
         "id": "TVUniversidad.ar",
         "logo": "https://i.imgur.com/0MXsQ25.png",
@@ -932,16 +942,6 @@
         "country": "US"
     },
     {
-        "name": "Pronto-socorro: Historias De Emergencia",
-        "id": "ProntosocorroHistoriasDeEmergencia.us",
-        "logo": "https://i.imgur.com/0PkyJ3U.png",
-        "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Paisagens por Stingray",
         "id": "PlutoTVPaisagensporStingray.us",
         "logo": "https://i.imgur.com/6kElzw7.png",
@@ -956,6 +956,16 @@
         "id": "PlutoTVVidaReal.us",
         "logo": "https://i.imgur.com/dRbBbxP.png",
         "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Natureza",
+        "id": "PlutoTVNatureza.us",
+        "logo": "https://i.imgur.com/RuyQQ6M.png",
+        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
         "categories": [
             "education"
         ],
@@ -1067,16 +1077,6 @@
         "id": "NRWision.de",
         "logo": "https://i.imgur.com/RkF2Kmx.png",
         "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Curiosity Channel",
-        "id": "CuriosityChannel.de",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
-        "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
         "categories": [
             "education"
         ],
@@ -1298,16 +1298,6 @@
             "education",
             "culture",
             "public"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Unison TV",
-        "id": "UnisonTV.mx",
-        "logo": "https://i.imgur.com/7ixWRId.png",
-        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
-        "categories": [
-            "education"
         ],
         "country": "MX"
     },
