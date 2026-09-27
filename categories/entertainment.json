@@ -30,16 +30,6 @@
         "country": "CA"
     },
     {
-        "name": "Sooriyan TV",
-        "id": "SooriyanTV.ca",
-        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "5AAB TV",
         "id": "5AABTV.ca",
         "logo": "https://i.imgur.com/jrGrfof.png",
@@ -125,6 +115,16 @@
         "id": "MiTV.py",
         "logo": "https://i.imgur.com/sgrEt9z.png",
         "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Oasis TV",
+        "id": "OasisTV.py",
+        "logo": "https://i.imgur.com/u9umNKp.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -436,6 +436,16 @@
         "country": "EC"
     },
     {
+        "name": "Gaviota TV",
+        "id": "GaviotaTV.ec",
+        "logo": "https://i.imgur.com/1vlZA6O.png",
+        "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "EC"
+    },
+    {
         "name": "13E",
         "id": "13E.cl",
         "logo": "https://i.imgur.com/utI1tJV.png",
@@ -557,30 +567,10 @@
         "country": "CL"
     },
     {
-        "name": "Best of MTV",
-        "id": "BestofMTV.se",
-        "logo": "https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png",
-        "url": "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
         "name": "MTV Catfish",
         "id": "MTVCatfish.se",
         "logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
         "url": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "MTV Dating",
-        "id": "MTVDating.se",
-        "logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
-        "url": "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -597,60 +587,10 @@
         "country": "SE"
     },
     {
-        "name": "Camp Kulinaris",
-        "id": "CampKulinaris.se",
-        "logo": "https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Geordie Shore",
-        "id": "GeordieShore.se",
-        "logo": "https://images.pluto.tv/channels/6442512cee6a2f0008d3351f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Jersey Shore",
-        "id": "JerseyShore.se",
-        "logo": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "MTV Ex On The Beach",
-        "id": "MTVExOnTheBeach.se",
-        "logo": "https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "MTV Teen Mom",
-        "id": "MTVTeenMom.se",
-        "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-        "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "MTV The Hills",
-        "id": "MTVTheHills.se",
-        "logo": "https://i.imgur.com/s1Rlj2a.png",
-        "url": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
+        "name": "Are You The One?",
+        "id": "AreYouTheOne.se",
+        "logo": "https://i.imgur.com/cIt8UWE.png",
+        "url": "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -714,18 +654,6 @@
         "url": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "LAMIL35 TV",
-        "id": "LAMIL35TV.ar",
-        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
-        "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
-        "categories": [
-            "classic",
-            "entertainment",
-            "animation"
         ],
         "country": "AR"
     },
@@ -2165,6 +2093,26 @@
         "country": "IN"
     },
     {
+        "name": "Aamar Bangla",
+        "id": "AamarBangla.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Oli TV",
+        "id": "OliTV.in",
+        "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
+        "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "TV Today Janakpur",
         "id": "TVTodayJanakpur.np",
         "logo": "https://i.imgur.com/5fZF69m.png",
@@ -2591,6 +2539,26 @@
         "id": "CanalWomtv.co",
         "logo": "https://i.imgur.com/Nr4muMP.jpeg",
         "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Canal 14 Codazzi",
+        "id": "Canal14Codazzi.co",
+        "logo": "https://i.imgur.com/wNSUMhJ.png",
+        "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Canal Nets",
+        "id": "CanalNets.co",
+        "logo": "https://i.imgur.com/edaAexc.png",
+        "url": "https://video.ejeserver.com/live/nets.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3679,50 +3647,10 @@
         "country": "US"
     },
     {
-        "name": "MTV Catfish",
-        "id": "MTVCatfish.us",
-        "logo": "https://i.imgur.com/y29cMbx.png",
-        "url": "https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Drag",
-        "id": "MTVDrag.us",
-        "logo": "https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Ridiculousness",
-        "id": "MTVRidiculousness.us",
-        "logo": "https://i.imgur.com/GIKkbjT.png",
-        "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Bondi Rescue",
         "id": "BondiRescue.us",
         "logo": "https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-66166989635c7500084105a2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Live Music",
-        "id": "LiveMusic.us",
-        "logo": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3739,50 +3667,10 @@
         "country": "US"
     },
     {
-        "name": "MTV Shore",
-        "id": "MTVShore.us",
-        "logo": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Heartland",
         "id": "Heartland.us",
         "logo": "https://i.imgur.com/djCq2Z5.png",
         "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV en Espanol",
-        "id": "MTVenEspanol.us",
-        "logo": "https://i.imgur.com/vQWWfyW.png",
-        "url": "https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CSI: NY en espanol",
-        "id": "CSINYenespanol.us",
-        "logo": "https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png",
-        "url": "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "DCC: Making the Team",
-        "id": "DCCMakingtheTeam.us",
-        "logo": "https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3799,26 +3687,6 @@
         "country": "US"
     },
     {
-        "name": "MTV Pluto TV",
-        "id": "MTVPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
-        "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Reality",
-        "id": "MTVReality.us",
-        "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "The Price Is Right",
         "id": "ThePriceIsRight.us",
         "logo": "https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png",
@@ -3829,30 +3697,10 @@
         "country": "US"
     },
     {
-        "name": "Y'a que la verite qui compte",
-        "id": "Yaquelaveritequicompte.us",
-        "logo": "https://i.imgur.com/MDHN2Vc.png",
-        "url": "https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CSI: Miami en espanol",
-        "id": "CSIMiamienespanol.us",
-        "logo": "https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png",
-        "url": "https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Retro",
-        "id": "PlutoTVRetro.us",
-        "logo": "https://i.imgur.com/wztO3GM.png",
-        "url": "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8",
+        "name": "Pluto TV Canal UOL",
+        "id": "PlutoTVCanalUOL.us",
+        "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3943,16 +3791,6 @@
         "id": "LaTele.pe",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
         "url": "http://190.93.224.42/LA-TELE/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Movistar Plus",
-        "id": "MovistarPlus.pe",
-        "logo": "https://i.imgur.com/yGQGDoi.png",
-        "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -4130,6 +3968,16 @@
         "country": "UA"
     },
     {
+        "name": "Quiz TV",
+        "id": "QuizTV.ua",
+        "logo": "https://i.imgur.com/I0ZE0M4.png",
+        "url": "http://stream.mcquack.net/397/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "Nos Isla TV",
         "id": "NosIslaTV.aw",
         "logo": "https://i.imgur.com/sH7ZkPx.png",
@@ -4220,16 +4068,6 @@
         "country": "DE"
     },
     {
-        "name": "Judge Judy",
-        "id": "JudgeJudy.de",
-        "logo": "https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Pluto TV Inside",
         "id": "PlutoTVInside.de",
         "logo": "https://i.imgur.com/Tb4GNml.png",
@@ -4244,36 +4082,6 @@
         "id": "TeenMom.de",
         "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Geordie Shore",
-        "id": "GeordieShore.de",
-        "logo": "https://i.imgur.com/WOkqDRi.png",
-        "url": "https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "MTV CLASSICS",
-        "id": "MTVCLASSICS.de",
-        "logo": "https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Gore & Slasher",
-        "id": "PlutoTVGoreSlasher.de",
-        "logo": "https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -5228,6 +5036,26 @@
         "country": "DO"
     },
     {
+        "name": "JARABACOA TV",
+        "id": "JARABACOATV.do",
+        "logo": "https://imgur.com/m9WCrlw.jpg",
+        "url": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Pula TV",
+        "id": "PulaTV.do",
+        "logo": "https://i.imgur.com/8gSLJ2f.png",
+        "url": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "MBC Persia",
         "id": "MBCPersia.ae",
         "logo": "https://i.imgur.com/4FXiyjn.png",
@@ -5312,26 +5140,6 @@
         "id": "TF1.fr",
         "logo": "https://i.imgur.com/QxHt9NC.png",
         "url": "http://151.80.18.177:86/TF1_HD/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "SciFi",
-        "id": "SciFi.fr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
-        "url": "http://41.205.93.154/SYFY/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "M6",
-        "id": "M6.fr",
-        "logo": "https://i.imgur.com/7GVp3fW.png",
-        "url": "http://99.27.51.147:8080/M6/index.m3u8",
         "categories": [
             "entertainment"
         ],
