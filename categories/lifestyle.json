@@ -463,16 +463,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Cozinha",
-        "id": "PlutoTVCozinha.us",
-        "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TV Paprika",
         "id": "TVPaprika.cz",
         "logo": "https://i.imgur.com/NSabYyT.png",
@@ -482,17 +472,6 @@
             "travel"
         ],
         "country": "CZ"
-    },
-    {
-        "name": "MRTV Farmer",
-        "id": "MRTVFarmer.mm",
-        "logo": "https://i.imgur.com/f4PWvrW.jpg",
-        "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
-        "categories": [
-            "documentary",
-            "lifestyle"
-        ],
-        "country": "MM"
     },
     {
         "name": "HGTV",
@@ -560,6 +539,17 @@
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
         "categories": [
+            "lifestyle"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Cuisine",
+        "id": "PlutoTVCuisine.de",
+        "logo": "https://i.imgur.com/OuAi5ef.png",
+        "url": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8",
+        "categories": [
+            "cooking",
             "lifestyle"
         ],
         "country": "DE"
@@ -729,17 +719,6 @@
         "country": "RO"
     },
     {
-        "name": "Gambero Rosso Channel",
-        "id": "GamberoRossoChannel.it",
-        "logo": "https://i.imgur.com/x5cwb1q.png",
-        "url": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8",
-        "categories": [
-            "cooking",
-            "lifestyle"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "FashionTV Secrets",
         "id": "FashionTVSecrets.fr",
         "logo": "https://i.ibb.co/fVGJyCC8/w512.png",
@@ -775,6 +754,16 @@
         "id": "HANDICAPTV.fr",
         "logo": "https://i.imgur.com/vXbAeD0.png",
         "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "FashionTV Asia",
+        "id": "FashionTVAsia.fr",
+        "logo": "https://i.imgur.com/ucTh9tO.png",
+        "url": "http://58.8.186.128:10006/bysid/2616",
         "categories": [
             "lifestyle"
         ],

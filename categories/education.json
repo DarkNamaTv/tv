@@ -191,16 +191,6 @@
         "country": "ID"
     },
     {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "TV Universidad",
         "id": "TVUniversidad.ar",
         "logo": "https://i.imgur.com/0MXsQ25.png",
@@ -333,6 +323,17 @@
         "categories": [
             "culture",
             "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Unisul TV",
+        "id": "UnisulTV.br",
+        "logo": "https://i.imgur.com/N0TvAFz.png",
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+        "categories": [
+            "education",
+            "culture"
         ],
         "country": "BR"
     },
@@ -579,26 +580,6 @@
             "education"
         ],
         "country": "TH"
-    },
-    {
-        "name": "ETV",
-        "id": "ETV.th",
-        "logo": "https://i.imgur.com/HTnQGcs.png",
-        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "Ryongnamsan Television",
-        "id": "RyongnamsanTelevision.kp",
-        "logo": "https://i.imgur.com/1BHJjY4.png",
-        "url": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "KP"
     },
     {
         "name": "Manas TV",
@@ -932,16 +913,6 @@
         "country": "US"
     },
     {
-        "name": "O Encantador de Caes",
-        "id": "OEncantadordeCaes.us",
-        "logo": "https://i.imgur.com/sQn6vvh.png",
-        "url": "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Misterios",
         "id": "PlutoTVMisterios.us",
         "logo": "https://i.imgur.com/gwxX1Y3.png",
@@ -966,6 +937,16 @@
         "id": "PlutoTVPaisagensporStingray.us",
         "logo": "https://i.imgur.com/6kElzw7.png",
         "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Vida Real",
+        "id": "PlutoTVVidaReal.us",
+        "logo": "https://i.imgur.com/dRbBbxP.png",
+        "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
         "categories": [
             "education"
         ],
@@ -1316,6 +1297,36 @@
         "id": "XHUNESTDT.mx",
         "logo": "https://i.imgur.com/LbZkdca.png",
         "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "ILCE Canal 15 Summa Saberes",
+        "id": "ILCECanal15SummaSaberes.mx",
+        "logo": "https://i.imgur.com/r7czgOc.png",
+        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Unison TV",
+        "id": "UnisonTV.mx",
+        "logo": "https://i.imgur.com/7ixWRId.png",
+        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
         "categories": [
             "education"
         ],

@@ -899,16 +899,6 @@
         "country": "CL"
     },
     {
-        "name": "Caracola TV",
-        "id": "CaracolaTV.cl",
-        "logo": "https://i.imgur.com/QGvfqug.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Via Libre",
         "id": "RadioViaLibre.cl",
         "logo": "https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png",
@@ -1052,16 +1042,6 @@
         "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
         "categories": [
             "culture"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Panoramica",
-        "id": "RadioPanoramica.cl",
-        "logo": "https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png",
-        "url": "https://v2.tustreaming.cl/alingeproducciones/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1585,16 +1565,6 @@
         "country": "CL"
     },
     {
-        "name": "Cultura Online",
-        "id": "CulturaOnline.cl",
-        "logo": "https://i.imgur.com/w8td5Lq.png",
-        "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Oli TV",
         "id": "OliTV.cl",
         "logo": "https://i.imgur.com/2emMRvf.jpeg",
@@ -1631,16 +1601,6 @@
         "country": "CL"
     },
     {
-        "name": "Autonoma TV",
-        "id": "AutonomaTV.cl",
-        "logo": "https://i.imgur.com/kD6badL.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Odisea TV",
         "id": "OdiseaTV.cl",
         "logo": "https://i.imgur.com/8SCnoiZ.png",
@@ -1648,14 +1608,6 @@
         "categories": [
             "general"
         ],
-        "country": "CL"
-    },
-    {
-        "name": "T-Vinet",
-        "id": "TVinet.cl",
-        "logo": "https://i.imgur.com/KisHIpA.png",
-        "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
-        "categories": [],
         "country": "CL"
     },
     {
@@ -1749,16 +1701,6 @@
         "country": "CL"
     },
     {
-        "name": "Arica TV",
-        "id": "AricaTV.cl",
-        "logo": "https://i.imgur.com/I67WOgT.png",
-        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Polar TV",
         "id": "PolarTV.cl",
         "logo": "https://i.imgur.com/4exfvPt.png",
@@ -1786,6 +1728,90 @@
         "categories": [
             "general"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "Atacama TV",
+        "id": "AtacamaTV.cl",
+        "logo": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
+        "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Canal 30 Loncomilla",
+        "id": "Canal30Loncomilla.cl",
+        "logo": "https://i.imgur.com/dgUHqrQ.png",
+        "url": "https://v1.tustreaming.cl/canal30loncomilla/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Ciudadano Radio",
+        "id": "CiudadanoRadio.cl",
+        "logo": "https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png",
+        "url": "https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Estacion TV",
+        "id": "EstacionTV.cl",
+        "logo": "https://i.imgur.com/eICyrPP.png",
+        "url": "https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Patagonia Radio TV",
+        "id": "PatagoniaRadioTV.cl",
+        "logo": "https://i.imgur.com/oFuWBZO.png",
+        "url": "https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Frecuencia Uno",
+        "id": "RadioFrecuenciaUno.cl",
+        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
+        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "TV UCT",
+        "id": "TVUCT.cl",
+        "logo": "https://i.imgur.com/tpI0WQH.png",
+        "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]

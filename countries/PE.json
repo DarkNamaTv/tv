@@ -654,16 +654,6 @@
         "country": "PE"
     },
     {
-        "name": "Radio Rumba TV",
-        "id": "RadioRumbaTV.pe",
-        "logo": "https://i.imgur.com/BYcxI03.png",
-        "url": "https://tv.sistemasandinos.org/rumbatv/video.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "CVN TV",
         "id": "CVNTV.pe",
         "logo": "https://i.imgur.com/QF5VUcy.png",
@@ -936,16 +926,6 @@
         "country": "PE"
     },
     {
-        "name": "TV Kaliente",
-        "id": "TVKaliente.pe",
-        "logo": "https://i.imgur.com/MFQpLuQ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "TV+ Chincha",
         "id": "TVPlusChincha.pe",
         "logo": "https://i.imgur.com/bjQpQsu.jpeg",
@@ -960,6 +940,74 @@
         "id": "Unitel.pe",
         "logo": "https://i.imgur.com/F0PWpyc.png",
         "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Genios TV",
+        "id": "GeniosTV.pe",
+        "logo": "https://i.imgur.com/iH2Lx6E.png",
+        "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Master TV",
+        "id": "MasterTV.pe",
+        "logo": "https://i.imgur.com/K2ZimRv.png",
+        "url": "https://live.obslivestream.com/mastertv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Top TV",
+        "id": "TopTV.pe",
+        "logo": "https://i.imgur.com/tiNvihZ.png",
+        "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Ucayalina de Television",
+        "id": "UcayalinadeTelevision.pe",
+        "logo": "https://i.imgur.com/jBhfcqy.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Zeleve TV",
+        "id": "ZeleveTV.pe",
+        "logo": "https://i.imgur.com/CGWaunJ.jpeg",
+        "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
         "categories": [
             "general"
         ],

@@ -946,14 +946,6 @@
         "country": "TR"
     },
     {
-        "name": "Bric ve Satranc TV",
-        "id": "BricveSatrancTV.tr",
-        "logo": "https://i.imgur.com/TXDV1ty.png",
-        "url": "http://139.162.182.79/live/test/index.m3u8",
-        "categories": [],
-        "country": "TR"
-    },
-    {
         "name": "Ekoturk",
         "id": "Ekoturk.tr",
         "logo": "https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65",
@@ -1107,6 +1099,27 @@
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
             "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Kanal 33",
+        "id": "Kanal33.tr",
+        "logo": "https://i.imgur.com/5WYaoFZ.png",
+        "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Genc",
+        "id": "TRTGenc.tr",
+        "logo": "https://i.imgur.com/fCHQYWS.png",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "general",
+            "culture"
         ],
         "country": "TR"
     }
