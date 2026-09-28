@@ -410,14 +410,6 @@
         "country": "PE"
     },
     {
-        "name": "Ucayalina de Television",
-        "id": "UcayalinadeTelevision.pe",
-        "logo": "https://i.imgur.com/jBhfcqy.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "ATV Sur",
         "id": "ATVSur.pe",
         "logo": "https://i.imgur.com/LnyVa5H.png",
@@ -634,16 +626,6 @@
         "country": "PE"
     },
     {
-        "name": "Top TV",
-        "id": "TopTV.pe",
-        "logo": "https://i.imgur.com/tiNvihZ.png",
-        "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Radio Master",
         "id": "RadioMaster.pe",
         "logo": "https://i.imgur.com/AUoxyzP.png",
@@ -698,16 +680,6 @@
         "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Master TV",
-        "id": "MasterTV.pe",
-        "logo": "https://i.imgur.com/K2ZimRv.png",
-        "url": "https://live.obslivestream.com/mastertv/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "PE"
     },
@@ -884,16 +856,6 @@
         "country": "PE"
     },
     {
-        "name": "Genios TV",
-        "id": "GeniosTV.pe",
-        "logo": "https://i.imgur.com/iH2Lx6E.png",
-        "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Lider TV",
         "id": "LiderTV.pe",
         "logo": "https://i.imgur.com/naZXUdR.jpeg",
@@ -908,16 +870,6 @@
         "id": "AmazonicaTV.pe",
         "logo": "https://i.imgur.com/22ebHAX.jpeg",
         "url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "TV MAR",
-        "id": "TVMAR.pe",
-        "logo": "https://i.imgur.com/VXvbNjT.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -944,10 +896,70 @@
         "country": "PE"
     },
     {
-        "name": "Zeleve TV",
-        "id": "ZeleveTV.pe",
-        "logo": "https://i.imgur.com/CGWaunJ.jpeg",
-        "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
+        "name": "Arpegio TV",
+        "id": "ArpegioTV.pe",
+        "logo": "https://i.imgur.com/mxnKK1a.png",
+        "url": "https://vdo.oyotunserver.com/arpegio/video.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Canal N",
+        "id": "CanalN.pe",
+        "logo": "https://i.imgur.com/Xytvw3J.png",
+        "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Movistar Plus",
+        "id": "MovistarPlus.pe",
+        "logo": "https://i.imgur.com/yGQGDoi.png",
+        "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "ONDA DIGITAL",
+        "id": "ONDADIGITAL.pe",
+        "logo": "https://i.imgur.com/3R2emx7.jpg",
+        "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV Kaliente",
+        "id": "TVKaliente.pe",
+        "logo": "https://i.imgur.com/MFQpLuQ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV+ Chincha",
+        "id": "TVPlusChincha.pe",
+        "logo": "https://i.imgur.com/bjQpQsu.jpeg",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Unitel",
+        "id": "Unitel.pe",
+        "logo": "https://i.imgur.com/F0PWpyc.png",
+        "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
         "categories": [
             "general"
         ],

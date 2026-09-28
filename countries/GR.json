@@ -285,16 +285,6 @@
         "country": "GR"
     },
     {
-        "name": "Astra TV",
-        "id": "AstraTV.gr",
-        "logo": "https://i.imgur.com/oYRPfZm.png",
-        "url": "https://server.gointernet.gr/live/livestream.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Nea TV",
         "id": "NeaTV.gr",
         "logo": "https://i.imgur.com/nvNW8G7.png",
@@ -332,14 +322,6 @@
         "categories": [
             "music"
         ],
-        "country": "GR"
-    },
-    {
-        "name": "Samiaki TV",
-        "id": "SamiakiTV.gr",
-        "logo": "https://i.imgur.com/9Pf1we6.png",
-        "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
-        "categories": [],
         "country": "GR"
     },
     {
@@ -556,6 +538,26 @@
         "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "Alpha TV",
+        "id": "AlphaTV.gr",
+        "logo": "https://i.imgur.com/6twzd38.png",
+        "url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "TRT",
+        "id": "TRT.gr",
+        "logo": "https://i.imgur.com/g0jPOcC.png",
+        "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "GR"
     }

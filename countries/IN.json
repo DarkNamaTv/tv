@@ -4145,27 +4145,6 @@
         "country": "IN"
     },
     {
-        "name": "ETV Bal Bharat",
-        "id": "ETVBalBharat.in",
-        "logo": "https://i.imgur.com/zsTxPV9.png",
-        "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Super Hungama",
-        "id": "SuperHungama.in",
-        "logo": "https://plain-apac-prod-public.komododecks.com/202609/07/lNjbGo0Rcgz3vhfoyTN7/image.png",
-        "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "HNN 24x7",
         "id": "HNN24x7.in",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
@@ -5864,16 +5843,6 @@
         "country": "IN"
     },
     {
-        "name": "Network 10",
-        "id": "Network10.in",
-        "logo": "https://i.imgur.com/xkWfruI.png",
-        "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Only Bharat",
         "id": "OnlyBharat.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AMV_NETWORK/images/LOGO_HD/image.png",
@@ -6262,12 +6231,22 @@
         "country": "IN"
     },
     {
-        "name": "Pradesh24 Gujarati",
-        "id": "Pradesh24Gujarati.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
-        "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+        "name": "Harvest USA",
+        "id": "HarvestUSA.in",
+        "logo": "",
+        "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
         "categories": [
-            "news"
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Steelbird Music",
+        "id": "SteelbirdMusic.in",
+        "logo": "https://i.imgur.com/Egijzx3.png",
+        "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "IN"
     }

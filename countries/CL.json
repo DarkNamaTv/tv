@@ -1400,16 +1400,6 @@
         "country": "CL"
     },
     {
-        "name": "TV Chile",
-        "id": "TVChile.cl",
-        "logo": "https://i.imgur.com/oYFto0V.png",
-        "url": "https://xyktmobile00.s.gy/093_TV_CHILE",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "RTV Nuble",
         "id": "RTVNuble.cl",
         "logo": "https://i.imgur.com/BDKgDZG.png",
@@ -1527,31 +1517,11 @@
         "country": "CL"
     },
     {
-        "name": "Chiloe Red 25",
-        "id": "ChiloeRed25.cl",
-        "logo": "https://i.imgur.com/3tqrImm.png",
-        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "RTC Television",
         "id": "RTCTelevision.cl",
         "logo": "https://i.imgur.com/w91IBj7.png",
         "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "TNE",
-        "id": "TNE.cl",
-        "logo": "https://i.imgur.com/8QbvXva.png",
-        "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
         "country": "CL"
     },
     {
@@ -1640,36 +1610,6 @@
         "logo": "https://i.imgur.com/ZzUc6je.png",
         "url": "https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek",
-        "id": "EnerGeek.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "animation"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek FAN",
-        "id": "EnerGeekFAN.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "animation"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek Radio",
-        "id": "EnerGeekRadio.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "music"
-        ],
         "country": "CL"
     },
     {
@@ -1799,20 +1739,50 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "name": "Radio Fantasia TV",
+        "id": "RadioFantasiaTV.cl",
+        "logo": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
+        "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
         "categories": [
             "general"
         ],
         "country": "CL"
     },
     {
-        "name": "Radio Fantasia TV",
-        "id": "RadioFantasiaTV.cl",
-        "logo": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
-        "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Polar TV",
+        "id": "PolarTV.cl",
+        "logo": "https://i.imgur.com/4exfvPt.png",
+        "url": "https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "San Nicolas TV",
+        "id": "SanNicolasTV.cl",
+        "logo": "https://i.imgur.com/z94YCpH.png",
+        "url": "https://v4.tustreaming.cl/sannicolastv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "TV Chile",
+        "id": "TVChile.cl",
+        "logo": "https://i.imgur.com/oYFto0V.png",
+        "url": "http://168.196.127.137:6001/play/a03n/index.m3u8",
         "categories": [
             "general"
         ],

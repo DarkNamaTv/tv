@@ -735,16 +735,6 @@
         "country": "CO"
     },
     {
-        "name": "Emisora Comunitaria 104.1 FM",
-        "id": "EmisoraComunitaria1041FM.co",
-        "logo": "https://i.imgur.com/SQ79Wsb.png",
-        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal 8 TV+",
         "id": "Canal8TVPlus.co",
         "logo": "https://i.imgur.com/peOIG1F.png",
@@ -855,16 +845,6 @@
         "country": "CO"
     },
     {
-        "name": "Canal CHD",
-        "id": "CanalCHD.co",
-        "logo": "https://i.imgur.com/cNv1MPs.jpeg",
-        "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Caracol HD2",
         "id": "CaracolHD2.co",
         "logo": "https://i.imgur.com/Fww94l9.png",
@@ -875,22 +855,52 @@
         "country": "CO"
     },
     {
-        "name": "Canal 14 Codazzi",
-        "id": "Canal14Codazzi.co",
-        "logo": "https://i.imgur.com/wNSUMhJ.png",
-        "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal Nets",
         "id": "CanalNets.co",
         "logo": "https://i.imgur.com/edaAexc.png",
         "url": "https://video.ejeserver.com/live/nets.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Nexo TV",
+        "id": "NexoTV.co",
+        "logo": "https://i.imgur.com/tkEFZWo.png",
+        "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Noticias RCN",
+        "id": "NoticiasRCN.co",
+        "logo": "https://i.imgur.com/FMX4QCM.png",
+        "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TeleNostalgia",
+        "id": "TeleNostalgia.co",
+        "logo": "https://i.imgur.com/WZeMZNy.png",
+        "url": "http://38.134.250.110:8000/play/a01q/index.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TVAgro",
+        "id": "TVAgro.co",
+        "logo": "https://i.imgur.com/9nzY7Ch.png",
+        "url": "http://168.228.44.241:9999/play/a04n/index.m3u8",
+        "categories": [
+            "outdoor"
         ],
         "country": "CO"
     }

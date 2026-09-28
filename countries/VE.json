@@ -200,16 +200,6 @@
         "country": "VE"
     },
     {
-        "name": "TRT",
-        "id": "TRT.ve",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
-        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "PromarTV",
         "id": "PromarTV.ve",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
@@ -420,12 +410,73 @@
         "country": "VE"
     },
     {
-        "name": "TVS",
-        "id": "TVS.ve",
-        "logo": "https://i.imgur.com/J8ztiAN.png",
-        "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+        "name": "ANTV",
+        "id": "ANTV.ve",
+        "logo": "https://i.imgur.com/Qm88HT0.png",
+        "url": "http://181.78.8.199:8000/play/a0fo/index.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Grande TV",
+        "id": "GrandeTV.ve",
+        "logo": "https://i.imgur.com/jxCirrP.png",
+        "url": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Portuguesa Television",
+        "id": "PortuguesaTelevision.ve",
+        "logo": "https://i.imgur.com/jHUSfGz.png",
+        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "ShowVen TV",
+        "id": "ShowVenTV.ve",
+        "logo": "https://i.imgur.com/AJIN8Dc.png",
+        "url": "https://cdnbarinas.tvzamora.com/showven/index.m3u8",
+        "categories": [
+            "culture",
+            "music"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Sun Channel",
+        "id": "SunChannel.ve",
+        "logo": "https://i.imgur.com/B26qL3e.png",
+        "url": "http://168.196.127.137:6001/play/a06p/index.m3u8",
+        "categories": [
+            "travel"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Televen",
+        "id": "Televen.ve",
+        "logo": "https://i.imgur.com/cxvkUvK.png",
+        "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Ve Plus",
+        "id": "VePlus.ve",
+        "logo": "https://i.imgur.com/uc3zqcP.png",
+        "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "VE"
     }
