@@ -1621,16 +1621,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Nuble",
-        "id": "RadioNuble.cl",
-        "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
-        "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "TeleCauquenes",
         "id": "TeleCauquenes.cl",
         "logo": "https://i.imgur.com/cNYDqhp.png",
@@ -1787,16 +1777,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Frecuencia Uno",
         "id": "RadioFrecuenciaUno.cl",
         "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
@@ -1812,6 +1792,44 @@
         "logo": "https://i.imgur.com/tpI0WQH.png",
         "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
         "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "24 Horas",
+        "id": "24Horas.cl",
+        "logo": "https://i.imgur.com/CEE9zPe.png",
+        "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Arica TV",
+        "id": "AricaTV.cl",
+        "logo": "https://i.imgur.com/I67WOgT.png",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Campo Abierto TV",
+        "id": "CampoAbiertoTV.cl",
+        "logo": "https://i.imgur.com/KL6pgaL.png",
+        "url": "https://v2.tustreaming.cl/catvlive/index.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "TNE",
+        "id": "TNE.cl",
+        "logo": "https://i.imgur.com/8QbvXva.png",
+        "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "CL"
     }
 ]

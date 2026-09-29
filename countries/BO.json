@@ -256,16 +256,6 @@
         "country": "BO"
     },
     {
-        "name": "Radio Clasica TV",
-        "id": "RadioClasicaTV.bo",
-        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
-        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Vos TV",
         "id": "VosTV.bo",
         "logo": "https://i.imgur.com/Cm1Xjeq.png",
@@ -310,18 +300,6 @@
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
         ],
         "country": "BO"
     },
@@ -405,16 +383,6 @@
         "country": "BO"
     },
     {
-        "name": "Imperial TV",
-        "id": "ImperialTV.bo",
-        "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Red TV Shop",
         "id": "RedTVShop.bo",
         "logo": "https://i.imgur.com/I7yB176.png",
@@ -440,6 +408,34 @@
         "logo": "",
         "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
         "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "Palenque TV",
+        "id": "PalenqueTV.bo",
+        "logo": "https://i.imgur.com/wAIBvaO.png",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Univalle Television",
+        "id": "UnivalleTelevision.bo",
+        "logo": "https://i.imgur.com/qgrWDIs.png",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "VTV Canal 17",
+        "id": "VTVCanal17.bo",
+        "logo": "https://i.imgur.com/TUhFzql.png",
+        "url": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "BO"
     }
 ]

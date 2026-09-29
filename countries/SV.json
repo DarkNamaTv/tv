@@ -180,26 +180,6 @@
         "country": "SV"
     },
     {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "SolTV",
-        "id": "SolTV.sv",
-        "logo": "https://i.imgur.com/jaBxxpt.png",
-        "url": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "TVCa",
         "id": "TVCa.sv",
         "logo": "https://i.imgur.com/uPWWtCA.png",
@@ -220,12 +200,32 @@
         "country": "SV"
     },
     {
-        "name": "Canal TRV",
-        "id": "CanalTRV.sv",
-        "logo": "https://i.imgur.com/g5QKQ2E.png",
-        "url": "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8",
+        "name": "Canal 9 La Union",
+        "id": "Canal9LaUnion.sv",
+        "logo": "https://i.imgur.com/rdeUErb.png",
+        "url": "http://45.167.2.101:8000/play/a0r5/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "Elim TV",
+        "id": "ElimTV.sv",
+        "logo": "https://i.imgur.com/payIg0N.png",
+        "url": "http://38.252.238.18:8000/play/a01k/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "Mizpa TV",
+        "id": "MizpaTV.sv",
+        "logo": "https://i.imgur.com/4FPaLYo.jpeg",
+        "url": "http://45.167.2.101:8000/play/a0r7/index.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "SV"
     }
