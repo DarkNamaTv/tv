@@ -87,6 +87,18 @@
         "country": "BO"
     },
     {
+        "name": "Unifranz",
+        "id": "Unifranz.bo",
+        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "categories": [
+            "education",
+            "entertainment",
+            "news"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Edutainment TV",
         "id": "EdutainmentTV.mn",
         "logo": "https://i.imgur.com/0m8t3vh.png",
@@ -122,6 +134,16 @@
         "id": "EducaTV.ec",
         "logo": "https://i.imgur.com/lY9Bx2u.png",
         "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "UNIANDES TV",
+        "id": "UNIANDESTV.ec",
+        "logo": "https://i.imgur.com/1rluyB7.png",
+        "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
         "categories": [
             "education"
         ],
@@ -174,6 +196,16 @@
         "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
         "categories": [
             "culture",
+            "education"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Rinjani TV",
+        "id": "RinjaniTV.id",
+        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+        "categories": [
             "education"
         ],
         "country": "ID"
@@ -570,16 +602,6 @@
         "country": "TH"
     },
     {
-        "name": "ETV",
-        "id": "ETV.th",
-        "logo": "https://i.imgur.com/HTnQGcs.png",
-        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "TH"
-    },
-    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -911,56 +933,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Misterios",
-        "id": "PlutoTVMisterios.us",
-        "logo": "https://i.imgur.com/gwxX1Y3.png",
-        "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Paisagens por Stingray",
-        "id": "PlutoTVPaisagensporStingray.us",
-        "logo": "https://i.imgur.com/6kElzw7.png",
-        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Vida Real",
-        "id": "PlutoTVVidaReal.us",
-        "logo": "https://i.imgur.com/dRbBbxP.png",
-        "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "O Encantador de Caes",
-        "id": "OEncantadordeCaes.us",
-        "logo": "https://i.imgur.com/sQn6vvh.png",
-        "url": "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pronto-socorro: Historias De Emergencia",
-        "id": "ProntosocorroHistoriasDeEmergencia.us",
-        "logo": "https://i.imgur.com/0PkyJ3U.png",
-        "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Palestine Edu",
         "id": "PalestineEdu.ps",
         "logo": "https://i.imgur.com/AwVHXyC.png",
@@ -1076,16 +1048,6 @@
         "id": "NRWision.de",
         "logo": "https://i.imgur.com/RkF2Kmx.png",
         "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Curiosity Channel",
-        "id": "CuriosityChannel.de",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
-        "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
         "categories": [
             "education"
         ],
@@ -1321,10 +1283,10 @@
         "country": "MX"
     },
     {
-        "name": "ILCE Canal 15 Summa Saberes",
-        "id": "ILCECanal15SummaSaberes.mx",
-        "logo": "https://i.imgur.com/r7czgOc.png",
-        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "name": "TV UG",
+        "id": "TVUG.mx",
+        "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+        "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
         "categories": [
             "education"
         ],

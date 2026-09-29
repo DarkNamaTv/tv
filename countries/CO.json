@@ -292,26 +292,6 @@
         "country": "CO"
     },
     {
-        "name": "NTN24",
-        "id": "NTN24.co",
-        "logo": "https://i.imgur.com/UoKmSAP.png",
-        "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Nuestra Tele Internacional",
-        "id": "NuestraTeleInternacional.co",
-        "logo": "https://i.imgur.com/JoGQqmP.png",
-        "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Noticiero 90 Minutos",
         "id": "Noticiero90Minutos.co",
         "logo": "https://i.imgur.com/ThaRRCN.png",
@@ -613,26 +593,6 @@
         "country": "CO"
     },
     {
-        "name": "NSTV",
-        "id": "NSTV.co",
-        "logo": "https://i.imgur.com/ES6xFAv.png",
-        "url": "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Rumba TV",
-        "id": "RumbaTV.co",
-        "logo": "https://i.imgur.com/WtVpWwI.png",
-        "url": "http://186.148.196.100:8000/play/a02h",
-        "categories": [
-            "music"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal Mas Television",
         "id": "CanalMasTelevision.co",
         "logo": "https://i.imgur.com/ODMa27W.jpg",
@@ -773,16 +733,6 @@
         "country": "CO"
     },
     {
-        "name": "Canal Womtv",
-        "id": "CanalWomtv.co",
-        "logo": "https://i.imgur.com/Nr4muMP.jpeg",
-        "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "TV3 La Plata",
         "id": "TV3LaPlata.co",
         "logo": "https://i.imgur.com/uRMq5HC.jpeg",
@@ -819,16 +769,6 @@
         "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "TeleNostalgia",
-        "id": "TeleNostalgia.co",
-        "logo": "https://i.imgur.com/WZeMZNy.png",
-        "url": "http://38.134.250.110:8000/play/a01q/index.m3u8",
-        "categories": [
-            "classic"
         ],
         "country": "CO"
     },
@@ -905,16 +845,6 @@
         "country": "CO"
     },
     {
-        "name": "Noticias RCN",
-        "id": "NoticiasRCN.co",
-        "logo": "https://i.imgur.com/FMX4QCM.png",
-        "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Soona TV",
         "id": "SoonaTV.co",
         "logo": "https://i.imgur.com/Pk8zzTL.jpeg",
@@ -952,6 +882,36 @@
         "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Emisora Comunitaria 104.1 FM",
+        "id": "EmisoraComunitaria1041FM.co",
+        "logo": "https://i.imgur.com/SQ79Wsb.png",
+        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Nuestra Tele Internacional",
+        "id": "NuestraTeleInternacional.co",
+        "logo": "https://i.imgur.com/JoGQqmP.png",
+        "url": "http://190.60.55.141:9083/play/a0hg/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TeleQuindio",
+        "id": "TeleQuindio.co",
+        "logo": "https://i.imgur.com/bJWj5ja.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CO"
     }

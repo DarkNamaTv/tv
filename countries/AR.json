@@ -875,16 +875,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal Pulpo TV",
-        "id": "CanalPulpoTV.ar",
-        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
-        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Caras TV",
         "id": "CarasTV.ar",
         "logo": "https://i.imgur.com/7dl4yQY.jpeg",
@@ -901,16 +891,6 @@
         "url": "https://ntvcanal7.com.ar:81/dash/stream.mpd",
         "categories": [
             "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Radio Yguazu TV",
-        "id": "RadioYguazuTV.ar",
-        "logo": "https://i.imgur.com/kVi0ICm.png",
-        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "AR"
     },
@@ -1091,14 +1071,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 79 Villa Maza",
-        "id": "Canal79VillaMaza.ar",
-        "logo": "https://i.imgur.com/HYuSqJy.png",
-        "url": "https://streamconex.com:19360/villamaza/villamaza.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Canal 7 Jujuy",
         "id": "Canal7Jujuy.ar",
         "logo": "https://i.imgur.com/K0jk8p4.png",
@@ -1252,6 +1224,56 @@
         "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 2 NexTV Rafaela",
+        "id": "Canal2NexTVRafaela.ar",
+        "logo": "https://i.imgur.com/hgj3CaR.jpeg",
+        "url": "https://edge.enhdtv.com/nexthd/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 79 Puan",
+        "id": "Canal79Puan.ar",
+        "logo": "https://i.imgur.com/HYuSqJy.png",
+        "url": "https://streamconex.com:19360/puan/puan.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Corrientes TV",
+        "id": "CorrientesTV.ar",
+        "logo": "https://i.imgur.com/7PBkvRp.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Somos Entre Rios",
+        "id": "SomosEntreRios.ar",
+        "logo": "https://files.catbox.moe/ufv5z0.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+        "categories": [
+            "general",
+            "family",
+            "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Telefe Buenos Aires",
+        "id": "TelefeBuenosAires.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "AR"
     }
