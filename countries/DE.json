@@ -1231,32 +1231,6 @@
         "country": "DE"
     },
     {
-        "name": "kabel eins Doku",
-        "id": "kabeleinsDoku.de",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
-        "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
-        "categories": [
-            "documentary"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "ProSieben Maxx",
-        "id": "ProSiebenMaxx.de",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
-        "url": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass",
-        "categories": [],
-        "country": "DE"
-    },
-    {
-        "name": "ZDFneo",
-        "id": "ZDFneo.de",
-        "logo": "https://i.imgur.com/1JIIGgL.png",
-        "url": "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass",
-        "categories": [],
-        "country": "DE"
-    },
-    {
         "name": "rbb Fernsehen",
         "id": "rbbFernsehen.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
@@ -1270,6 +1244,37 @@
         "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
         "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
         "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "Parlamentsfernsehen 1",
+        "id": "Parlamentsfernsehen1.de",
+        "logo": "https://i.imgur.com/mksEgwx.png",
+        "url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Cult Films",
+        "id": "PlutoTVCultFilms.de",
+        "logo": "https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Sitcoms",
+        "id": "PlutoTVSitcoms.de",
+        "logo": "https://i.imgur.com/YzrUL8P.png",
+        "url": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8",
+        "categories": [
+            "series",
+            "comedy"
+        ],
         "country": "DE"
     }
 ]

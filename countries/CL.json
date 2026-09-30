@@ -432,16 +432,6 @@
         "country": "CL"
     },
     {
-        "name": "Pudahuel TV",
-        "id": "PudahuelTV.cl",
-        "logo": "https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png",
-        "url": "https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Duna",
         "id": "RadioDuna.cl",
         "logo": "https://cdn.m3u.cl/logo/427_Radio_Duna.png",
@@ -1763,30 +1753,50 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Nuble",
-        "id": "RadioNuble.cl",
-        "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
-        "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio Panoramica",
         "id": "RadioPanoramica.cl",
         "logo": "https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png",
         "url": "https://v2.tustreaming.cl/alingeproducciones/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Polar TV",
+        "id": "PolarTV.cl",
+        "logo": "https://i.imgur.com/4exfvPt.png",
+        "url": "https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Frecuencia Uno",
+        "id": "RadioFrecuenciaUno.cl",
+        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
+        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Zona Play TV",
+        "id": "ZonaPlayTV.cl",
+        "logo": "https://i.imgur.com/GewcpHv.png",
+        "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Zona Sur TV",
+        "id": "ZonaSurTV.cl",
+        "logo": "https://i.imgur.com/b1OtwDg.png",
+        "url": "http://170.79.235.133:8002/play/a063/index.m3u8",
         "categories": [
             "general"
         ],

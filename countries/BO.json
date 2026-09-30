@@ -423,16 +423,6 @@
         "country": "BO"
     },
     {
-        "name": "Imperial TV",
-        "id": "ImperialTV.bo",
-        "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Radio Clasica TV",
         "id": "RadioClasicaTV.bo",
         "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
@@ -462,6 +452,24 @@
             "entertainment",
             "news"
         ],
+        "country": "BO"
+    },
+    {
+        "name": "Alegria TV",
+        "id": "AlegriaTV.bo",
+        "logo": "https://i.imgur.com/MIBZ2pZ.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Univalle Television",
+        "id": "UnivalleTelevision.bo",
+        "logo": "https://i.imgur.com/qgrWDIs.png",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "categories": [],
         "country": "BO"
     }
 ]
