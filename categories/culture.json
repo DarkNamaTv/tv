@@ -91,16 +91,6 @@
         "country": "CA"
     },
     {
-        "name": "RTB 3",
-        "id": "RTB3.bf",
-        "logo": "https://i.imgur.com/OFZm8ic.png",
-        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "BF"
-    },
-    {
         "name": "StoryChannel TV",
         "id": "StoryChannelTV.ma",
         "logo": "https://i.imgur.com/ZBV6xph.png",
@@ -143,6 +133,16 @@
             "culture"
         ],
         "country": "MN"
+    },
+    {
+        "name": "Ev-tele",
+        "id": "Evtele.cg",
+        "logo": "https://i.imgur.com/iBlXl2T.png",
+        "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CG"
     },
     {
         "name": "UCL",
@@ -305,22 +305,20 @@
         "country": "AR"
     },
     {
-        "name": "Somos Entre Rios",
-        "id": "SomosEntreRios.ar",
-        "logo": "https://files.catbox.moe/ufv5z0.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+        "name": "Encuentro",
+        "id": "Encuentro.ar",
+        "logo": "https://i.imgur.com/uBBZR1X.png",
+        "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
         "categories": [
-            "general",
-            "family",
             "culture"
         ],
         "country": "AR"
     },
     {
-        "name": "Encuentro",
-        "id": "Encuentro.ar",
-        "logo": "https://i.imgur.com/uBBZR1X.png",
-        "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
+        "name": "Senal U",
+        "id": "SenalU.ar",
+        "logo": "https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png",
+        "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
         "categories": [
             "culture"
         ],
@@ -908,6 +906,16 @@
         "country": "UA"
     },
     {
+        "name": "ATR",
+        "id": "ATR.ua",
+        "logo": "https://i.imgur.com/lRJAXC7.png",
+        "url": "http://stream.mcquack.net/244/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "Balchi TV",
         "id": "BalchiTV.aw",
         "logo": "https://i.imgur.com/XlCaZvF.png",
@@ -1031,6 +1039,16 @@
         "country": "ES"
     },
     {
+        "name": "Imai TV",
+        "id": "ImaiTV.lk",
+        "logo": "https://i.imgur.com/9tODclu.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "LK"
+    },
+    {
         "name": "Woman TV",
         "id": "WomanTV.tr",
         "logo": "https://i.imgur.com/f2zGoV3.png",
@@ -1081,6 +1099,17 @@
         "logo": "https://i.imgur.com/9EruWIQ.png",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
         "categories": [
+            "culture"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Genc",
+        "id": "TRTGenc.tr",
+        "logo": "https://i.imgur.com/fCHQYWS.png",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "general",
             "culture"
         ],
         "country": "TR"
@@ -1161,26 +1190,6 @@
             "public"
         ],
         "country": "MX"
-    },
-    {
-        "name": "El Sonorense",
-        "id": "ElSonorense.mx",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Canal 17 RTVD",
-        "id": "Canal17RTVD.do",
-        "logo": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
-        "url": "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "DO"
     },
     {
         "name": "Guaymate TV",

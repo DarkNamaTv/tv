@@ -524,16 +524,6 @@
         "country": "HU"
     },
     {
-        "name": "Star Sports 2 Hindi",
-        "id": "StarSports2Hindi.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg",
-        "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Sports Select 2",
         "id": "StarSportsSelect2.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg",
@@ -598,6 +588,16 @@
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
         "url": "https://cdn.pishow.tv/ott/live/13/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 2 Telugu",
+        "id": "StarSports2Telugu.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg",
+        "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1396,16 +1396,6 @@
         "country": "US"
     },
     {
-        "name": "Bellator MMA",
-        "id": "BellatorMMA.us",
-        "logo": "https://i.imgur.com/VBKoLHk.png",
-        "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "DSports 2",
         "id": "DSports2.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
@@ -1416,51 +1406,40 @@
         "country": "US"
     },
     {
-        "name": "Golazo Network",
-        "id": "GolazoNetwork.us",
-        "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
-        "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Monster Jam",
-        "id": "MonsterJam.us",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
-        "categories": [
-            "sports",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "PBR RidePass",
-        "id": "PBRRidePass.us",
-        "logo": "https://i.imgur.com/gUxH97E.png",
-        "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "PFL MMA",
-        "id": "PFLMMA.us",
-        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "PokerGo",
         "id": "PokerGo.us",
         "logo": "https://i.imgur.com/1603HED.png",
         "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Deportes",
+        "id": "PlutoTVDeportes.us",
+        "logo": "https://i.imgur.com/0pDy6f4.png",
+        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV E-Sports",
+        "id": "PlutoTVESports.us",
+        "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.us",
+        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
         "categories": [
             "sports"
         ],
@@ -1545,16 +1524,6 @@
             "sports"
         ],
         "country": "CZ"
-    },
-    {
-        "name": "MRTV Sports",
-        "id": "MRTVSports.mm",
-        "logo": "https://i.imgur.com/cFTR4kC.png",
-        "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MM"
     },
     {
         "name": "Ovacion TV",
@@ -1711,6 +1680,16 @@
         "id": "WorldofFreesports.de",
         "logo": "https://i.imgur.com/lta5Mog.png",
         "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.de",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
         "categories": [
             "sports"
         ],
@@ -1917,6 +1896,26 @@
         "country": "AU"
     },
     {
+        "name": "Sky Racing 1",
+        "id": "SkyRacing1.au",
+        "logo": "https://i.imgur.com/Hf0EiaW.png",
+        "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "Sky Racing 2",
+        "id": "SkyRacing2.au",
+        "logo": "https://i.imgur.com/TxQvFnQ.png",
+        "url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AU"
+    },
+    {
         "name": "Teledeporte",
         "id": "Teledeporte.es",
         "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
@@ -2112,16 +2111,6 @@
         "id": "TourSpotTV.do",
         "logo": "https://imgur.com/khj869k.png",
         "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "CDN Deportes",
-        "id": "CDNDeportes.do",
-        "logo": "https://i.imgur.com/yU5LqTL.png",
-        "url": "https://hls.tvabierta.net/hls/036.m3u8",
         "categories": [
             "sports"
         ],

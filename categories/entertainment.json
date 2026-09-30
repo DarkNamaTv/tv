@@ -131,20 +131,20 @@
         "country": "PY"
     },
     {
+        "name": "Oasis TV",
+        "id": "OasisTV.py",
+        "logo": "https://i.imgur.com/u9umNKp.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Maxivision TV",
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GT"
-    },
-    {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -567,6 +567,46 @@
         "country": "CL"
     },
     {
+        "name": "Are You The One?",
+        "id": "AreYouTheOne.se",
+        "logo": "https://i.imgur.com/cIt8UWE.png",
+        "url": "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Jersey Shore Family Vacation",
+        "id": "JerseyShoreFamilyVacation.se",
+        "logo": "https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "MTV Catfish",
+        "id": "MTVCatfish.se",
+        "logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
+        "url": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "MTV Dating",
+        "id": "MTVDating.se",
+        "logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
+        "url": "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "SE"
+    },
+    {
         "name": "TV3 Life",
         "id": "TV3Life.lv",
         "logo": "https://i.imgur.com/Tm8hj45.png",
@@ -663,6 +703,16 @@
         "country": "AR"
     },
     {
+        "name": "Radio Yguazu TV",
+        "id": "RadioYguazuTV.ar",
+        "logo": "https://i.imgur.com/kVi0ICm.png",
+        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Salto 1",
         "id": "Salto1.nl",
         "logo": "https://i.imgur.com/hyubvS5.png",
@@ -722,6 +772,16 @@
             "entertainment"
         ],
         "country": "NL"
+    },
+    {
+        "name": "Kingsview TV",
+        "id": "KingsviewTV.ng",
+        "logo": "https://i.imgur.com/py1XOXX.png",
+        "url": "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "NG"
     },
     {
         "name": "Loading",
@@ -2104,6 +2164,17 @@
         "country": "NP"
     },
     {
+        "name": "Ray TV HD",
+        "id": "RayTVHD.np",
+        "logo": "https://i.imgur.com/QIkgiEn.png",
+        "url": "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+        "categories": [
+            "entertainment",
+            "general"
+        ],
+        "country": "NP"
+    },
+    {
         "name": "247 Box TV",
         "id": "247BoxTV.ir",
         "logo": "https://i.imgur.com/t5AUthL.png",
@@ -2524,6 +2595,16 @@
         "country": "CO"
     },
     {
+        "name": "Canal Womtv",
+        "id": "CanalWomtv.co",
+        "logo": "https://i.imgur.com/Nr4muMP.jpeg",
+        "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CO"
+    },
+    {
         "name": "Radio Moldova Tineret",
         "id": "RadioMoldovaTineret.md",
         "logo": "https://i.imgur.com/h2oZuyc.png",
@@ -2686,16 +2767,6 @@
         "country": "VE"
     },
     {
-        "name": "AbejalesTV",
-        "id": "AbejalesTV.ve",
-        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800",
-        "url": "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Ve Plus",
         "id": "VePlus.ve",
         "logo": "https://i.imgur.com/uc3zqcP.png",
@@ -2720,6 +2791,16 @@
         "id": "LaTeleTuya.ve",
         "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
         "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Nortena Tv",
+        "id": "NortenaTv.ve",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3586,30 +3667,10 @@
         "country": "US"
     },
     {
-        "name": "Heartland",
-        "id": "Heartland.us",
-        "logo": "https://i.imgur.com/djCq2Z5.png",
-        "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "MTV Latin America",
         "id": "MTVLatinAmerica.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
         "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Price Is Right",
-        "id": "ThePriceIsRight.us",
-        "logo": "https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3626,26 +3687,6 @@
         "country": "US"
     },
     {
-        "name": "Big Brother",
-        "id": "BigBrother.us",
-        "logo": "https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Dating Disasters",
-        "id": "DatingDisasters.us",
-        "logo": "https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Lifetime Asia",
         "id": "LifetimeAsia.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
@@ -3656,130 +3697,50 @@
         "country": "US"
     },
     {
-        "name": "America's Next Top Model",
-        "id": "AmericasNextTopModel.us",
-        "logo": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
-        "url": "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8",
+        "name": "FX Latin America",
+        "id": "FXLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+        "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "US"
     },
     {
-        "name": "Best of Dr Phil",
-        "id": "BestofDrPhil.us",
-        "logo": "https://i.imgur.com/Jj0wTFQ.png",
-        "url": "https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8",
+        "name": "MTV Catfish",
+        "id": "MTVCatfish.us",
+        "logo": "https://i.imgur.com/y29cMbx.png",
+        "url": "https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "US"
     },
     {
-        "name": "DCC: Making the Team",
-        "id": "DCCMakingtheTeam.us",
-        "logo": "https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8",
+        "name": "MTV Con Mi Ex",
+        "id": "MTVConMiEx.us",
+        "logo": "https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "US"
     },
     {
-        "name": "More TV Drama",
-        "id": "MoreTVDrama.us",
-        "logo": "https://i.imgur.com/Tw3rTxP.png",
-        "url": "https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8",
+        "name": "MTV Drag",
+        "id": "MTVDrag.us",
+        "logo": "https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "US"
     },
     {
-        "name": "MTV Pluto TV",
-        "id": "MTVPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
-        "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pasiones Latin America",
-        "id": "PasionesLatinAmerica.us",
-        "logo": "https://i.imgur.com/VGnbWjO.png",
-        "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Game Shows",
-        "id": "PlutoTVGameShows.us",
-        "logo": "https://i.imgur.com/JXZEg2e.png",
-        "url": "https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Reality",
-        "id": "PlutoTVReality.us",
-        "logo": "https://i.imgur.com/OvN7FCv.png",
-        "url": "https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Tough Jobs",
-        "id": "ToughJobs.us",
-        "logo": "https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "BET Pluto TV",
-        "id": "BETPlutoTV.us",
-        "logo": "https://i.imgur.com/Kq9WKZg.png",
-        "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Hot Bench",
-        "id": "HotBench.us",
-        "logo": "https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png",
-        "url": "https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Live Music",
-        "id": "LiveMusic.us",
-        "logo": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Logo Pluto TV",
-        "id": "LogoPlutoTV.us",
-        "logo": "https://i.imgur.com/GtNgJ28.png",
-        "url": "https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8",
+        "name": "MTV Jovens e Maes",
+        "id": "MTVJovenseMaes.us",
+        "logo": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3906,10 +3867,10 @@
         "country": "PE"
     },
     {
-        "name": "TV Kaliente",
-        "id": "TVKaliente.pe",
-        "logo": "https://i.imgur.com/MFQpLuQ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -4161,6 +4122,16 @@
         "id": "Nitro.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
         "url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "MTV CLASSICS",
+        "id": "MTVCLASSICS.de",
+        "logo": "https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -4739,6 +4710,16 @@
         "country": "ES"
     },
     {
+        "name": "Ciudades del Ocio TV",
+        "id": "CiudadesdelOcioTV.es",
+        "logo": "https://i.imgur.com/CTQgqsM.png",
+        "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "ES"
+    },
+    {
         "name": "Reality Channel",
         "id": "RealityChannel.il",
         "logo": "https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png",
@@ -5079,16 +5060,6 @@
         "id": "BonchesLatinosTV.do",
         "logo": "https://i.imgur.com/Kp8x0NS.png",
         "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Alegre TV RD",
-        "id": "AlegreTVRD.do",
-        "logo": "https://i.imgur.com/O6USO8r.png",
-        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
         "categories": [
             "entertainment"
         ],

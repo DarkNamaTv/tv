@@ -52,6 +52,16 @@
         "country": "CD"
     },
     {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Viasat Explore",
         "id": "ViasatExplore.se",
         "logo": "https://i.imgur.com/DyT5pKB.png",
@@ -76,6 +86,16 @@
         "id": "ViasatNature.se",
         "logo": "https://i.imgur.com/ousRqqD.png",
         "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Space",
+        "id": "PlutoTVSpace.se",
+        "logo": "https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8",
         "categories": [
             "documentary"
         ],
@@ -573,36 +593,6 @@
         "country": "US"
     },
     {
-        "name": "History",
-        "id": "History.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-        "url": "http://107.167.16.138/history/index.m3u8?token=test",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Teen Mom",
-        "id": "TeenMom.us",
-        "logo": "https://i.imgur.com/8o3ClCV.png",
-        "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Forensic Files",
-        "id": "ForensicFiles.us",
-        "logo": "https://i.imgur.com/V5vvuLK.png",
-        "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Paranormal",
         "id": "PlutoTVParanormal.us",
         "logo": "https://i.imgur.com/ApN6nfw.png",
@@ -627,6 +617,37 @@
         "id": "DetetivesMedicos.us",
         "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "History",
+        "id": "History.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+        "url": "http://212.5.144.156:8080/history/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Naturaleza",
+        "id": "PlutoTVNaturaleza.us",
+        "logo": "https://i.imgur.com/vUHAWAJ.png",
+        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+        "categories": [
+            "documentary",
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Negocio Fechado",
+        "id": "PlutoTVNegocioFechado.us",
+        "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8",
         "categories": [
             "documentary"
         ],
@@ -790,6 +811,17 @@
         "logo": "https://i.imgur.com/gJ9eMaG.png",
         "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
         "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Food",
+        "id": "PlutoTVFood.de",
+        "logo": "https://i.imgur.com/HTLo1GG.png",
+        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
+        "categories": [
+            "cooking",
             "documentary"
         ],
         "country": "DE"
