@@ -445,16 +445,6 @@
         "country": "FR"
     },
     {
-        "name": "TF1",
-        "id": "TF1.fr",
-        "logo": "https://i.imgur.com/QxHt9NC.png",
-        "url": "http://151.80.18.177:86/TF1_HD/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "Trace Ivoire",
         "id": "TraceIvoire.fr",
         "logo": "https://i.imgur.com/W2l3rVx.png",
@@ -539,16 +529,6 @@
         "url": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Canal+ Cinemas",
-        "id": "CanalPlusCinemas.fr",
-        "logo": "https://i.imgur.com/fvPoNEa.jpeg",
-        "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-        "categories": [
-            "movies"
         ],
         "country": "FR"
     },
@@ -769,6 +749,26 @@
         "logo": "https://i.imgur.com/XVCV9rj.png",
         "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
         "categories": [],
+        "country": "FR"
+    },
+    {
+        "name": "Euronews Spanish",
+        "id": "EuronewsSpanish.fr",
+        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "M6",
+        "id": "M6.fr",
+        "logo": "https://i.imgur.com/7GVp3fW.png",
+        "url": "http://99.27.51.147:8080/M6/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
         "country": "FR"
     }
 ]

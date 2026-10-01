@@ -753,16 +753,6 @@
         "country": "DE"
     },
     {
-        "name": "TVRUS+",
-        "id": "TVRUSPlus.de",
-        "logo": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
-        "url": "http://83.228.75.166:8000/play/a0aq",
-        "categories": [
-            "series"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Cira TV",
         "id": "CiraTV.de",
         "logo": "https://i.imgur.com/YFnmSLW.png",
@@ -1003,16 +993,6 @@
         "country": "DE"
     },
     {
-        "name": "OF-TV Offenbach",
-        "id": "OFTVOffenbach.de",
-        "logo": "https://i.imgur.com/WAcxCJr.png",
-        "url": "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "iSTUFF",
         "id": "iSTUFF.de",
         "logo": "https://i.imgur.com/1V3UXVb.jpg",
@@ -1239,14 +1219,6 @@
         "country": "DE"
     },
     {
-        "name": "labor14",
-        "id": "labor14.de",
-        "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
-        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
         "name": "Parlamentsfernsehen 1",
         "id": "Parlamentsfernsehen1.de",
         "logo": "https://i.imgur.com/mksEgwx.png",
@@ -1267,33 +1239,53 @@
         "country": "DE"
     },
     {
-        "name": "Auction Hunters",
-        "id": "AuctionHunters.de",
-        "logo": "https://i.imgur.com/4SPOVN7.png",
-        "url": "https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8",
+        "name": "Pluto TV Film",
+        "id": "PlutoTVFilm.de",
+        "logo": "https://images.pluto.tv/channels/65158fe20371a8000868809a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8",
         "categories": [
-            "entertainment"
+            "movies"
         ],
         "country": "DE"
     },
     {
-        "name": "Pluto TV Classic TV",
-        "id": "PlutoTVClassicTV.de",
-        "logo": "https://i.imgur.com/hGdXRMd.png",
-        "url": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
+        "name": "Pluto TV Film Commedia",
+        "id": "PlutoTVFilmCommedia.de",
+        "logo": "https://i.imgur.com/ADNrqKM.png",
+        "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8",
         "categories": [
-            "classic"
+            "movies"
         ],
         "country": "DE"
     },
     {
-        "name": "South Park: Kyle Collection",
-        "id": "SouthParkKyleCollection.de",
-        "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+        "name": "Pluto TV Motor",
+        "id": "PlutoTVMotor.de",
+        "logo": "https://i.imgur.com/LSrfnpB.png",
+        "url": "https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8",
         "categories": [
-            "animation",
-            "comedy"
+            "auto"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Star Trek",
+        "id": "PlutoTVStarTrek.de",
+        "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "SpongeBob Schwammkopf",
+        "id": "SpongeBobSchwammkopf.de",
+        "logo": "https://i.imgur.com/NIsgNvI.png",
+        "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
+        "categories": [
+            "kids"
         ],
         "country": "DE"
     }

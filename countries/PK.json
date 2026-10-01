@@ -255,16 +255,6 @@
         "country": "PK"
     },
     {
-        "name": "Such TV",
-        "id": "SuchTV.pk",
-        "logo": "https://i.imgur.com/yYMh3JJ.png",
-        "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "Masala TV",
         "id": "MasalaTV.pk",
         "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
@@ -386,11 +376,43 @@
         "country": "PK"
     },
     {
-        "name": "Zindagi TV",
-        "id": "ZindagiTV.pk",
-        "logo": "https://i.imgur.com/XBHvR5J.png",
-        "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
-        "categories": [],
+        "name": "Aaj Entertainment",
+        "id": "AajEntertainment.pk",
+        "logo": "https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png",
+        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "BS Film",
+        "id": "BSFilm.pk",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Express Entertainment",
+        "id": "ExpressEntertainment.pk",
+        "logo": "https://i.imgur.com/rgHbb8W.png",
+        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Sky News Urdu",
+        "id": "SkyNewsUrdu.pk",
+        "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "PK"
     }
 ]

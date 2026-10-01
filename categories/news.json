@@ -90,16 +90,6 @@
         "country": "CA"
     },
     {
-        "name": "Hamdard TV",
-        "id": "HamdardTV.ca",
-        "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
-        "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Probashi TV News",
         "id": "ProbashiTVNews.ca",
         "logo": "https://i.imgur.com/7oTsfQ4.png",
@@ -274,6 +264,16 @@
         "id": "Unicanal.py",
         "logo": "https://i.imgur.com/cgTD2TW.png",
         "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -729,6 +729,18 @@
         "country": "ID"
     },
     {
+        "name": "Lingkar TV",
+        "id": "LingkarTV.id",
+        "logo": "https://lingkartv.com/assets/img/logo-square.png",
+        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+        "categories": [
+            "news",
+            "music",
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Canal TDC",
         "id": "CanalTDC.ar",
         "logo": "https://i.imgur.com/nPG38B2.png",
@@ -975,19 +987,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Paraense",
-        "id": "TVParaense.br",
-        "logo": "https://duckduckgo.com/i/e408ea02.png",
-        "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
-        "categories": [
-            "general",
-            "family",
-            "entertainment",
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Natal",
         "id": "TVNatal.br",
         "logo": "https://i.imgur.com/wqQmQml.png",
@@ -1014,16 +1013,6 @@
         "id": "TVSimCachoeiro.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
         "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "BR8 TV",
-        "id": "BR8TV.br",
-        "logo": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -1216,6 +1205,16 @@
         "id": "AlSharqiyaNews.iq",
         "logo": "https://i.imgur.com/PeAcXB9.png",
         "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al Iraqia News",
+        "id": "AlIraqiaNews.iq",
+        "logo": "https://i.imgur.com/feQTXeZ.jpg",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
         "categories": [
             "news"
         ],
@@ -3649,16 +3648,6 @@
         "country": "IN"
     },
     {
-        "name": "IN 24 News",
-        "id": "IN24News.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
-        "url": "http://51.75.127.199:3141/in24news/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "India 24x7",
         "id": "India24x7.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India24x7.png",
@@ -3759,20 +3748,40 @@
         "country": "IN"
     },
     {
+        "name": "24Hrs TV",
+        "id": "24HrsTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png",
+        "url": "http://51.75.127.199:3141/24hrstv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "BBC News Hindi",
+        "id": "BBCNewsHindi.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Hindi.png",
+        "url": "http://51.75.127.199:3141/bbcnewshindi/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Pradesh24 Gujarati",
+        "id": "Pradesh24Gujarati.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
+        "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Espace TV",
         "id": "EspaceTV.gn",
         "logo": "https://i.imgur.com/R5tbzFI.png",
         "url": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GN"
-    },
-    {
-        "name": "Afrik Info TV",
-        "id": "AfrikInfoTV.gn",
-        "logo": "https://i.imgur.com/hz2LOD8.jpeg",
-        "url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
         "categories": [
             "news"
         ],
@@ -5355,26 +5364,6 @@
         "country": "US"
     },
     {
-        "name": "News12+ New Jersey",
-        "id": "News12PlusNewJersey.us",
-        "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "News12 Hudson Valley",
-        "id": "News12HudsonValley.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "America's Voice News",
         "id": "AmericasVoiceNews.us",
         "logo": "https://i.imgur.com/C4w0eYC.png",
@@ -5399,6 +5388,16 @@
         "id": "News12PlusNewYork.us",
         "logo": "https://i.ibb.co/tThKYM09/news12plus-NYC.jpg",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12+ Hudson Valley",
+        "id": "News12PlusHudsonValley.us",
+        "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8",
         "categories": [
             "news"
         ],
@@ -5433,16 +5432,6 @@
             "news"
         ],
         "country": "CZ"
-    },
-    {
-        "name": "DVB TV",
-        "id": "DVBTV.mm",
-        "logo": "https://i.imgur.com/VdezHOv.png",
-        "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "MM"
     },
     {
         "name": "MRTV News",
@@ -6232,20 +6221,20 @@
         "country": "PK"
     },
     {
-        "name": "Such TV",
-        "id": "SuchTV.pk",
-        "logo": "https://i.imgur.com/yYMh3JJ.png",
-        "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+        "name": "7 News",
+        "id": "7News.pk",
+        "logo": "https://i.imgur.com/PTl92P5.png",
+        "url": "https://sscsott.com/7news/live/index.m3u8",
         "categories": [
             "news"
         ],
         "country": "PK"
     },
     {
-        "name": "7 News",
-        "id": "7News.pk",
-        "logo": "https://i.imgur.com/PTl92P5.png",
-        "url": "https://sscsott.com/7news/live/index.m3u8",
+        "name": "Sky News Urdu",
+        "id": "SkyNewsUrdu.pk",
+        "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -6492,16 +6481,6 @@
         "id": "i24NEWSFrench.il",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
         "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IL"
-    },
-    {
-        "name": "Makan 33",
-        "id": "Makan33.il",
-        "logo": "https://i.imgur.com/RVtQTed.png",
-        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -7021,16 +7000,6 @@
         "country": "RO"
     },
     {
-        "name": "Observator News",
-        "id": "ObservatorNews.ro",
-        "logo": "https://i.imgur.com/f6xEIAr.png",
-        "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Dotto TV",
         "id": "DottoTV.ro",
         "logo": "https://i.imgur.com/pfs882Z.png",
@@ -7317,6 +7286,16 @@
         "id": "RTFrance.fr",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
         "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Euronews Spanish",
+        "id": "EuronewsSpanish.fr",
+        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
         "categories": [
             "news"
         ],

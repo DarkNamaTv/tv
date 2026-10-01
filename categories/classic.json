@@ -31,12 +31,23 @@
         "country": "SE"
     },
     {
-        "name": "JAG",
-        "id": "JAG.se",
-        "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
+        "name": "MacGyver",
+        "id": "MacGyver.se",
+        "logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8",
         "categories": [
             "series",
+            "classic"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Danske klassikere",
+        "id": "PlutoTVDanskeklassikere.se",
+        "logo": "https://images.pluto.tv/channels/67d2b814fe36d6e7b1d2318a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8",
+        "categories": [
+            "movies",
             "classic"
         ],
         "country": "SE"
@@ -319,17 +330,6 @@
         "country": "US"
     },
     {
-        "name": "I Love Lucy",
-        "id": "ILoveLucy.us",
-        "logo": "https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8",
-        "categories": [
-            "comedy",
-            "classic"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Series Retro",
         "id": "PlutoTVSeriesRetro.us",
         "logo": "https://i.imgur.com/UpgGZJ1.png",
@@ -340,14 +340,35 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Classic TV",
-        "id": "PlutoTVClassicTV.de",
-        "logo": "https://i.imgur.com/hGdXRMd.png",
-        "url": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
+        "name": "MacGyver",
+        "id": "MacGyver.us",
+        "logo": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
         "categories": [
             "classic"
         ],
-        "country": "DE"
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV The Twilight Zone",
+        "id": "PlutoTVTheTwilightZone.us",
+        "logo": "https://i.imgur.com/FiIRQAR.png",
+        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+        "categories": [
+            "classic",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Western TV",
+        "id": "WesternTV.us",
+        "logo": "https://i.imgur.com/nNy9oTx.png",
+        "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
     },
     {
         "name": "Retro",

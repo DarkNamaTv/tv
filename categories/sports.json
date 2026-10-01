@@ -242,6 +242,57 @@
         "country": "SE"
     },
     {
+        "name": "Brondby TV",
+        "id": "BrondbyTV.se",
+        "logo": "https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png",
+        "url": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "FCK Lovinderne",
+        "id": "FCKLovinderne.se",
+        "logo": "https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png",
+        "url": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Fishing",
+        "id": "PlutoTVFishing.se",
+        "logo": "https://i.imgur.com/ZaHOk8j.png",
+        "url": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
+        "categories": [
+            "sports",
+            "outdoor"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Handbold Highlights",
+        "id": "PlutoTVHandboldHighlights.se",
+        "logo": "https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",
+        "url": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Handbold Live",
+        "id": "PlutoTVHandboldLive.se",
+        "logo": "https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png",
+        "url": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SE"
+    },
+    {
         "name": "Arena",
         "id": "Arena.id",
         "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/a6a7392cdcfff7c5324b503d0eb3b35b.png",
@@ -614,20 +665,20 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 2",
-        "id": "StarSports2.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",
-        "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
+        "name": "Star Sports Khel",
+        "id": "StarSportsKhel.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg",
+        "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
         "categories": [
             "sports"
         ],
         "country": "IN"
     },
     {
-        "name": "Star Sports Khel",
-        "id": "StarSportsKhel.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg",
-        "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
+        "name": "Unite8 Sports 2",
+        "id": "Unite8Sports2.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=720x540",
+        "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -682,36 +733,6 @@
             "sports"
         ],
         "country": "KP"
-    },
-    {
-        "name": "Arena Sport Premium M1",
-        "id": "ArenaSportPremiumM1.mk",
-        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png",
-        "url": "https://racitonsen.s.gy/AM1P",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
-    },
-    {
-        "name": "Arena Sport Premium M2",
-        "id": "ArenaSportPremiumM2.mk",
-        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png",
-        "url": "https://racitonsen.s.gy/AM2P",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
-    },
-    {
-        "name": "Arena Sport Premium M3",
-        "id": "ArenaSportPremiumM3.mk",
-        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png",
-        "url": "https://racitonsen.s.gy/AM3P",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
     },
     {
         "name": "Premier Sports",
@@ -874,6 +895,16 @@
             "travel",
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },
@@ -1456,10 +1487,20 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Deportes",
-        "id": "PlutoTVDeportes.us",
-        "logo": "https://i.imgur.com/0pDy6f4.png",
-        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "name": "Pluto TV Competition",
+        "id": "PlutoTVCompetition.us",
+        "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.us",
+        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
         "categories": [
             "sports"
         ],

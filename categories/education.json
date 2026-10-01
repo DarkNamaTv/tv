@@ -180,6 +180,16 @@
         "country": "CL"
     },
     {
+        "name": "UTalca TV",
+        "id": "UTalcaTV.cl",
+        "logo": "https://i.imgur.com/2AK61FQ.png",
+        "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "The Indonesia Channel",
         "id": "TheIndonesiaChannel.id",
         "logo": "https://i.imgur.com/jAAPgpV.png",
@@ -191,20 +201,20 @@
         "country": "ID"
     },
     {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "TV Universidad",
         "id": "TVUniversidad.ar",
         "logo": "https://i.imgur.com/0MXsQ25.png",
         "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Universidad",
+        "id": "CanalUniversidad.ar",
+        "logo": "https://files.catbox.moe/n1b27y.png",
+        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
         "categories": [
             "education"
         ],
@@ -592,16 +602,6 @@
         "country": "TH"
     },
     {
-        "name": "ETV",
-        "id": "ETV.th",
-        "logo": "https://i.imgur.com/HTnQGcs.png",
-        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "TH"
-    },
-    {
         "name": "Ryongnamsan Television",
         "id": "RyongnamsanTelevision.kp",
         "logo": "https://i.imgur.com/1BHJjY4.png",
@@ -943,16 +943,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Natureza",
-        "id": "PlutoTVNatureza.us",
-        "logo": "https://i.imgur.com/RuyQQ6M.png",
-        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Misterios",
         "id": "PlutoTVMisterios.us",
         "logo": "https://i.imgur.com/gwxX1Y3.png",
@@ -963,10 +953,10 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Vida Real",
-        "id": "PlutoTVVidaReal.us",
-        "logo": "https://i.imgur.com/dRbBbxP.png",
-        "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
+        "name": "Pluto TV Paisagens por Stingray",
+        "id": "PlutoTVPaisagensporStingray.us",
+        "logo": "https://i.imgur.com/6kElzw7.png",
+        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
         "categories": [
             "education"
         ],
@@ -1327,6 +1317,36 @@
         "id": "ILCECanal15SummaSaberes.mx",
         "logo": "https://i.imgur.com/r7czgOc.png",
         "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Unison TV",
+        "id": "UnisonTV.mx",
+        "logo": "https://i.imgur.com/7ixWRId.png",
+        "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "XHUNES-TDT",
+        "id": "XHUNESTDT.mx",
+        "logo": "https://i.imgur.com/LbZkdca.png",
+        "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
         "categories": [
             "education"
         ],

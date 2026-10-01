@@ -145,6 +145,16 @@
         "country": "MN"
     },
     {
+        "name": "Ev-tele",
+        "id": "Evtele.cg",
+        "logo": "https://i.imgur.com/iBlXl2T.png",
+        "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CG"
+    },
+    {
         "name": "UCL",
         "id": "UCL.uy",
         "logo": "https://i.imgur.com/BzQphbw.png",
@@ -221,16 +231,6 @@
         "id": "HolvoetTV.cl",
         "logo": "https://i.imgur.com/9JKRO3R.png",
         "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Verso TV",
-        "id": "VersoTV.cl",
-        "logo": "https://i.imgur.com/zdv4IF8.png",
-        "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
         "categories": [
             "culture"
         ],
@@ -580,6 +580,17 @@
         "country": "IN"
     },
     {
+        "name": "Andy Haryana",
+        "id": "AndyHaryana.in",
+        "logo": "https://i.imgur.com/rmCBD3e.png",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
+        "categories": [
+            "culture",
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Costa Rica Channel",
         "id": "CostaRicaChannel.cr",
         "logo": "https://i.imgur.com/N4pFVVF.png",
@@ -831,18 +842,6 @@
         "url": "https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8",
         "categories": [
             "culture"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MBC America",
-        "id": "MBCAmerica.us",
-        "logo": "https://i.imgur.com/RRc23ra.png",
-        "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music"
         ],
         "country": "US"
     },
@@ -1105,16 +1104,6 @@
         "country": "TR"
     },
     {
-        "name": "Luys TV",
-        "id": "LuysTV.tr",
-        "logo": "https://i.imgur.com/9EruWIQ.png",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "TRT Genc",
         "id": "TRTGenc.tr",
         "logo": "https://i.imgur.com/fCHQYWS.png",
@@ -1199,6 +1188,16 @@
             "education",
             "culture",
             "public"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "El Sonorense",
+        "id": "ElSonorense.mx",
+        "logo": "https://i.imgur.com/aKvPd4g.jpg",
+        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+        "categories": [
+            "culture"
         ],
         "country": "MX"
     },
