@@ -2847,16 +2847,6 @@
         "country": "RU"
     },
     {
-        "name": "Duma TV",
-        "id": "DumaTV.ru",
-        "logo": "https://i.imgur.com/JvlO3PU.png",
-        "url": "https://dumatv.iptv2022.com/playlist.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Novorossiya TV",
         "id": "NovorossiyaTV.ru",
         "logo": "https://i.imgur.com/ijmf0bV.png",
@@ -3063,6 +3053,34 @@
         "logo": "https://i.imgur.com/TZiBQDK.png",
         "url": "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv",
         "categories": [],
+        "country": "RU"
+    },
+    {
+        "name": "Gorodskoy telekanal",
+        "id": "Gorodskoytelekanal.ru",
+        "logo": "https://i.imgur.com/zMNJfoV.png",
+        "url": "https://gtk.tv/hls/gtyar.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Rus",
+        "id": "Rus.ru",
+        "logo": "https://i.imgur.com/KuL21f9.png",
+        "url": "http://31.148.5.241/kanal_21/index.m3u8",
+        "categories": [],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
         "country": "RU"
     }
 ]

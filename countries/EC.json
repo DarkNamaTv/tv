@@ -512,22 +512,22 @@
         "country": "EC"
     },
     {
-        "name": "Planeta Channel",
-        "id": "PlanetaChannel.ec",
-        "logo": "https://i.imgur.com/XyBKaXI.png",
-        "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Hechos Ecuador",
         "id": "HechosEcuador.ec",
         "logo": "https://i.imgur.com/koMQZNX.png",
         "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "RTU",
+        "id": "RTU.ec",
+        "logo": "https://i.imgur.com/1OWvMP4.png",
+        "url": "http://45.224.97.181:9999/RTU/index.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "EC"
     }

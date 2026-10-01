@@ -20,28 +20,6 @@
         "country": "CL"
     },
     {
-        "name": "Becker",
-        "id": "Becker.se",
-        "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
-        "url": "https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8",
-        "categories": [
-            "series",
-            "classic"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Matlock",
-        "id": "Matlock.se",
-        "logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8",
-        "categories": [
-            "series",
-            "classic"
-        ],
-        "country": "SE"
-    },
-    {
         "name": "Mission Impossible",
         "id": "MissionImpossible.se",
         "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
@@ -53,10 +31,10 @@
         "country": "SE"
     },
     {
-        "name": "Rawhide",
-        "id": "Rawhide.se",
-        "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
-        "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
+        "name": "JAG",
+        "id": "JAG.se",
+        "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
         "categories": [
             "series",
             "classic"
@@ -71,6 +49,18 @@
         "categories": [
             "movies",
             "classic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "LAMIL35 TV",
+        "id": "LAMIL35TV.ar",
+        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+        "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
+        "categories": [
+            "classic",
+            "entertainment",
+            "animation"
         ],
         "country": "AR"
     },
@@ -92,6 +82,16 @@
         "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
         "categories": [
             "news",
+            "classic"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Classic",
+        "id": "ZeeClassic.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",
+        "url": "http://51.75.127.199:3141/zeeclassic/index.m3u8",
+        "categories": [
             "classic"
         ],
         "country": "IN"
@@ -319,25 +319,35 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV The Twilight Zone",
-        "id": "PlutoTVTheTwilightZone.us",
-        "logo": "https://i.imgur.com/FiIRQAR.png",
-        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+        "name": "I Love Lucy",
+        "id": "ILoveLucy.us",
+        "logo": "https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8",
         "categories": [
-            "classic",
-            "series"
+            "comedy",
+            "classic"
         ],
         "country": "US"
     },
     {
-        "name": "MacGyver",
-        "id": "MacGyver.us",
-        "logo": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
+        "name": "Pluto TV Series Retro",
+        "id": "PlutoTVSeriesRetro.us",
+        "logo": "https://i.imgur.com/UpgGZJ1.png",
+        "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8",
         "categories": [
             "classic"
         ],
         "country": "US"
+    },
+    {
+        "name": "Pluto TV Classic TV",
+        "id": "PlutoTVClassicTV.de",
+        "logo": "https://i.imgur.com/hGdXRMd.png",
+        "url": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "DE"
     },
     {
         "name": "Retro",

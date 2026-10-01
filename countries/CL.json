@@ -64,14 +64,6 @@
         "country": "CL"
     },
     {
-        "name": "CampusTV",
-        "id": "CampusTV.cl",
-        "logo": "https://i.imgur.com/LvzLg33.png",
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "UTV",
         "id": "UTV.cl",
         "logo": "https://i.imgur.com/ZJNSpfZ.png",
@@ -1292,16 +1284,6 @@
         "country": "CL"
     },
     {
-        "name": "UTalca TV",
-        "id": "UTalcaTV.cl",
-        "logo": "https://i.imgur.com/2AK61FQ.png",
-        "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Alternativa TV",
         "id": "AlternativaTV.cl",
         "logo": "https://i.imgur.com/KCrSbgv.png",
@@ -1581,16 +1563,6 @@
         "country": "CL"
     },
     {
-        "name": "TeleCauquenes",
-        "id": "TeleCauquenes.cl",
-        "logo": "https://i.imgur.com/cNYDqhp.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Canal 13",
         "id": "Canal13.cl",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
@@ -1783,22 +1755,52 @@
         "country": "CL"
     },
     {
-        "name": "Arica TV",
-        "id": "AricaTV.cl",
-        "logo": "https://i.imgur.com/I67WOgT.png",
-        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "ClickTV Chile",
         "id": "ClickTVChile.cl",
         "logo": "https://i.imgur.com/H0XNbMS.png",
         "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
         "categories": [
             "documentary"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Autonoma TV",
+        "id": "AutonomaTV.cl",
+        "logo": "https://i.imgur.com/kD6badL.png",
+        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Caracola TV",
+        "id": "CaracolaTV.cl",
+        "logo": "https://i.imgur.com/QGvfqug.png",
+        "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Cultura Online",
+        "id": "CulturaOnline.cl",
+        "logo": "https://i.imgur.com/w8td5Lq.png",
+        "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio UNIACC",
+        "id": "RadioUNIACC.cl",
+        "logo": "https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png",
+        "url": "https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CL"
     }

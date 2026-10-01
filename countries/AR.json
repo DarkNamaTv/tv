@@ -394,16 +394,6 @@
         "country": "AR"
     },
     {
-        "name": "Bravo TV",
-        "id": "BravoTV.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
-        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 79 Mar del Plata",
         "id": "Canal79MardelPlata.ar",
         "logo": "https://files.catbox.moe/bt6ltn.jpg",
@@ -1013,16 +1003,6 @@
         "country": "AR"
     },
     {
-        "name": "El Nueve",
-        "id": "ElNueve.ar",
-        "logo": "https://i.imgur.com/cJHP7bU.png",
-        "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 7 Jujuy",
         "id": "Canal7Jujuy.ar",
         "logo": "https://i.imgur.com/K0jk8p4.png",
@@ -1196,52 +1176,12 @@
         "country": "AR"
     },
     {
-        "name": "Cine.Ar",
-        "id": "CineAr.ar",
-        "logo": "https://i.imgur.com/Iozv4tT.png",
-        "url": "http://181.209.105.115:2525/play/cinear/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Cronica TV",
-        "id": "CronicaTV.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",
-        "url": "http://181.209.105.115:2525/play/cronica/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "DeporTV",
-        "id": "DeporTV.ar",
-        "logo": "https://i.imgur.com/THk9ARS.png",
-        "url": "http://181.209.105.115:2525/play/deportv/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Encuentro",
         "id": "Encuentro.ar",
         "logo": "https://i.imgur.com/uBBZR1X.png",
         "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
         "categories": [
             "culture"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "TN",
-        "id": "TN.ar",
-        "logo": "https://i.imgur.com/vFwPhPS.png",
-        "url": "http://181.209.105.115:2525/play/tn/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "AR"
     },
@@ -1280,6 +1220,50 @@
         "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
         "categories": [
             "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 2 Mar del Plata",
+        "id": "Canal2MardelPlata.ar",
+        "logo": "https://i.imgur.com/wlKFPBW.jpeg",
+        "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "LAMIL35 TV",
+        "id": "LAMIL35TV.ar",
+        "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+        "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
+        "categories": [
+            "classic",
+            "entertainment",
+            "animation"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Somos Entre Rios",
+        "id": "SomosEntreRios.ar",
+        "logo": "https://files.catbox.moe/ufv5z0.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+        "categories": [
+            "general",
+            "family",
+            "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Telefe",
+        "id": "Telefe.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+        "url": "http://45.173.231.22:8000/play/a053/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "AR"
     }
