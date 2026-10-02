@@ -92,16 +92,6 @@
         "country": "SE"
     },
     {
-        "name": "Pluto TV Alien Invasion",
-        "id": "PlutoTVAlienInvasion.se",
-        "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "SE"
-    },
-    {
         "name": "Pluto TV Space",
         "id": "PlutoTVSpace.se",
         "logo": "https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png",
@@ -613,12 +603,21 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Turbo",
-        "id": "PlutoTVTurbo.us",
-        "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
+        "name": "History",
+        "id": "History.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+        "url": "http://212.5.144.156:8080/history/index.m3u8",
         "categories": [
-            "auto",
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Teen Mom",
+        "id": "TeenMom.us",
+        "logo": "https://i.imgur.com/8o3ClCV.png",
+        "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
+        "categories": [
             "documentary"
         ],
         "country": "US"
@@ -781,27 +780,6 @@
         "logo": "https://i.imgur.com/gJ9eMaG.png",
         "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
         "categories": [
-            "documentary"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Animals",
-        "id": "PlutoTVAnimals.de",
-        "logo": "https://i.imgur.com/N00seOn.png",
-        "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Food",
-        "id": "PlutoTVFood.de",
-        "logo": "https://i.imgur.com/HTLo1GG.png",
-        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
-        "categories": [
-            "cooking",
             "documentary"
         ],
         "country": "DE"
@@ -976,6 +954,16 @@
         "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
         "categories": [
             "culture",
+            "documentary"
+        ],
+        "country": "HR"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.hr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+        "categories": [
             "documentary"
         ],
         "country": "HR"

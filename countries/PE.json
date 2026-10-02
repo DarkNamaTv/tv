@@ -954,16 +954,6 @@
         "country": "PE"
     },
     {
-        "name": "TV MAR",
-        "id": "TVMAR.pe",
-        "logo": "https://i.imgur.com/VXvbNjT.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Andes Television",
         "id": "AndesTelevision.pe",
         "logo": "https://i.imgur.com/CsW4Op8.png",
@@ -1014,12 +1004,32 @@
         "country": "PE"
     },
     {
-        "name": "TV Kaliente",
-        "id": "TVKaliente.pe",
-        "logo": "https://i.imgur.com/MFQpLuQ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "name": "Intuitiva TV",
+        "id": "IntuitivaTV.pe",
+        "logo": "https://i.imgur.com/zcehR4M.png",
+        "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Vision",
+        "id": "Vision.pe",
+        "logo": "https://i.imgur.com/gyuoNZk.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "PE"
     }
