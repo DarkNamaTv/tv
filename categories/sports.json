@@ -445,6 +445,16 @@
         "country": "BR"
     },
     {
+        "name": "SporTV 3",
+        "id": "SporTV3.br",
+        "logo": "https://i.imgur.com/mWOR8pi.png",
+        "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "RACER International",
         "id": "RACERInternational.pl",
         "logo": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
@@ -685,6 +695,16 @@
         "country": "IN"
     },
     {
+        "name": "Star Sports 2",
+        "id": "StarSports2.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",
+        "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "T Sports 7",
         "id": "TSports7.th",
         "logo": "https://i.imgur.com/KyI0s5n.png",
@@ -895,16 +915,6 @@
             "travel",
             "sports",
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "VSBet HD",
-        "id": "VSBetHD.vn",
-        "logo": "https://i.imgur.com/sMhL2Nl.png",
-        "url": "https://live05.meung.app/live/16226575.m3u8",
-        "categories": [
-            "sports"
         ],
         "country": "VN"
     },
@@ -1447,16 +1457,6 @@
         "country": "US"
     },
     {
-        "name": "Golf Channel Latin America",
-        "id": "GolfChannelLatinAmerica.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
-        "url": "http://143.14.178.35/TCM-HD/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Fox Sports 1",
         "id": "FoxSports1.us",
         "logo": "https://i.imgur.com/O9BapV9.png",
@@ -1487,20 +1487,10 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Competition",
-        "id": "PlutoTVCompetition.us",
-        "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.us",
-        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
-        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+        "name": "Golf Channel Latin America",
+        "id": "GolfChannelLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
+        "url": "http://38.252.238.18:8000/play/a01i/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1657,6 +1647,16 @@
         "country": "PE"
     },
     {
+        "name": "SBS Golf",
+        "id": "SBSGolf.kr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png",
+        "url": "https://xyktmobile00.s.gy/PPV922_GOLF_TV",
+        "categories": [
+            "sports"
+        ],
+        "country": "KR"
+    },
+    {
         "name": "Suspilne. Sport",
         "id": "SuspilneSport.ua",
         "logo": "https://i.imgur.com/16IhU0M.png",
@@ -1751,16 +1751,6 @@
         "id": "Sport3.ua",
         "logo": "https://i.imgur.com/qkvavfH.png",
         "url": "http://stream.mcquack.net/393/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Maincast Cybersport",
-        "id": "MaincastCybersport.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
-        "url": "http://stream.mcquack.net/487/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1977,16 +1967,6 @@
         "country": "AU"
     },
     {
-        "name": "Sky Racing 1",
-        "id": "SkyRacing1.au",
-        "logo": "https://i.imgur.com/Hf0EiaW.png",
-        "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "AU"
-    },
-    {
         "name": "Sky Racing 2",
         "id": "SkyRacing2.au",
         "logo": "https://i.imgur.com/TxQvFnQ.png",
@@ -2067,10 +2047,21 @@
         "country": "IL"
     },
     {
+        "name": "Prime",
+        "id": "Prime.sy",
+        "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+        "url": "https://cdn.bestream.io/prime/prime.m3u8",
+        "categories": [
+            "general",
+            "sports"
+        ],
+        "country": "SY"
+    },
+    {
         "name": "Talent TV",
         "id": "TalentTV.lk",
         "logo": "https://talenttv.lk/logo-footer.png",
-        "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
+        "url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -2414,6 +2405,26 @@
         "id": "RMCSport1.fr",
         "logo": "https://i.imgur.com/NsFTG7u.png",
         "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Canal+ Sport",
+        "id": "CanalPlusSport.fr",
+        "logo": "https://i.imgur.com/EOXnU15.png",
+        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Golf +",
+        "id": "GolfPlus.fr",
+        "logo": "https://i.imgur.com/WHnddkg.png",
+        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
         "categories": [
             "sports"
         ],

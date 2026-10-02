@@ -937,16 +937,6 @@
         "country": "RO"
     },
     {
-        "name": "Hunedoara 1",
-        "id": "Hunedoara1.ro",
-        "logo": "https://i.imgur.com/9bz15ad.png",
-        "url": "https://netstreaming.eu/hd1.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Comedy Play",
         "id": "ComedyPlay.ro",
         "logo": "https://i.imgur.com/6kAeVOk.png",
@@ -1085,13 +1075,59 @@
         "country": "RO"
     },
     {
-        "name": "MISA TV",
-        "id": "MISATV.ro",
-        "logo": "https://i.imgur.com/2RxQNm6.png",
-        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+        "name": "Euronews Romania",
+        "id": "EuronewsRomania.ro",
+        "logo": "https://i.imgur.com/jUOVUXt.png",
+        "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
         "categories": [
-            "religious"
+            "news"
         ],
+        "country": "RO"
+    },
+    {
+        "name": "Favorit TV",
+        "id": "FavoritTV.ro",
+        "logo": "https://i.imgur.com/sTy4FHs.png",
+        "url": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "History",
+        "id": "History.ro",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+        "url": "https://dokagents.site/live/history/mono.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Party Mix",
+        "id": "PartyMix.ro",
+        "logo": "https://i.imgur.com/leF8AGo.png",
+        "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "PRO TV International",
+        "id": "PROTVInternational.ro",
+        "logo": "https://i.imgur.com/vfr1ZYw.png",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0",
+        "categories": [],
+        "country": "RO"
+    },
+    {
+        "name": "Taraf TV",
+        "id": "TarafTV.ro",
+        "logo": "https://i.imgur.com/0iuwjbK.png",
+        "url": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8",
+        "categories": [],
         "country": "RO"
     }
 ]

@@ -838,24 +838,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Cidade Verde Cuiaba",
-        "id": "TVCidadeVerdeCuiaba.br",
-        "logo": "https://i.imgur.com/e67h04h.png",
-        "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "Rede Gospel",
-        "id": "RedeGospel.br",
-        "logo": "https://i.imgur.com/mttSwgO.png",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "COM Brasil",
         "id": "COMBrasil.br",
         "logo": "https://i.imgur.com/GrjGwKM.png",
@@ -1202,14 +1184,6 @@
         "country": "BR"
     },
     {
-        "name": "SIC TV",
-        "id": "SICTV.br",
-        "logo": "https://i.imgur.com/mHxQyB2.png",
-        "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "Nova Era TV",
         "id": "NovaEraTV.br",
         "logo": "https://i.imgur.com/IK3F9Uq.png",
@@ -1434,14 +1408,6 @@
         "country": "BR"
     },
     {
-        "name": "Amazon Sat",
-        "id": "AmazonSat.br",
-        "logo": "https://i.imgur.com/7rjCS5i.png",
-        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "AWTV",
         "id": "AWTV.br",
         "logo": "https://i.imgur.com/2tdMyef.png",
@@ -1469,17 +1435,6 @@
         "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
         ],
         "country": "BR"
     },
@@ -1612,22 +1567,52 @@
         "country": "BR"
     },
     {
-        "name": "Cultura Para",
-        "id": "CulturaPara.br",
-        "logo": "https://i.imgur.com/5jPEI5c.png",
-        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Arapuan",
         "id": "TVArapuan.br",
         "logo": "https://i.imgur.com/3395A2h.png",
         "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Rede Gospel",
+        "id": "RedeGospel.br",
+        "logo": "https://i.imgur.com/mttSwgO.png",
+        "url": "http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "SporTV 3",
+        "id": "SporTV3.br",
+        "logo": "https://i.imgur.com/mWOR8pi.png",
+        "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Telecine Action",
+        "id": "TelecineAction.br",
+        "logo": "https://i.imgur.com/BHYWG0h.png",
+        "url": "http://46.151.196.223:14326/",
+        "categories": [
+            "movies"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Vicosa",
+        "id": "TVVicosa.br",
+        "logo": "https://i.imgur.com/TZF55f9.png",
+        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "BR"
     }

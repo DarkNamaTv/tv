@@ -218,16 +218,6 @@
         "country": "FR"
     },
     {
-        "name": "Cannes Lerins TV",
-        "id": "CannesLerinsTV.fr",
-        "logo": "https://i.imgur.com/atlgnum.png",
-        "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "Generations TV",
         "id": "GenerationsTV.fr",
         "logo": "https://i.imgur.com/NgBrDMe.png",
@@ -752,22 +742,52 @@
         "country": "FR"
     },
     {
-        "name": "Euronews Spanish",
-        "id": "EuronewsSpanish.fr",
-        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
-        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+        "name": "Canal+ Cinemas",
+        "id": "CanalPlusCinemas.fr",
+        "logo": "https://i.imgur.com/fvPoNEa.jpeg",
+        "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
         "categories": [
-            "news"
+            "movies"
         ],
         "country": "FR"
     },
     {
-        "name": "M6",
-        "id": "M6.fr",
-        "logo": "https://i.imgur.com/7GVp3fW.png",
-        "url": "http://99.27.51.147:8080/M6/index.m3u8",
+        "name": "Canal+ Sport",
+        "id": "CanalPlusSport.fr",
+        "logo": "https://i.imgur.com/EOXnU15.png",
+        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
         "categories": [
-            "entertainment"
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Golf +",
+        "id": "GolfPlus.fr",
+        "logo": "https://i.imgur.com/WHnddkg.png",
+        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "MCM Pop",
+        "id": "MCMPop.fr",
+        "logo": "https://i.imgur.com/j31lBL7.png",
+        "url": "http://193.254.245.162/MCM/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Paris Premiere",
+        "id": "ParisPremiere.fr",
+        "logo": "https://i.imgur.com/ily4bEm.png",
+        "url": "http://193.254.245.162/PARIS-PREMIERE/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "FR"
     }

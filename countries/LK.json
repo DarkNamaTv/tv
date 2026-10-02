@@ -1,15 +1,5 @@
 [
     {
-        "name": "Talent TV",
-        "id": "TalentTV.lk",
-        "logo": "https://talenttv.lk/logo-footer.png",
-        "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "LK"
-    },
-    {
         "name": "Verbum TV",
         "id": "VerbumTV.lk",
         "logo": "https://i.imgur.com/YEKEaB4.png",
@@ -58,6 +48,16 @@
         "url": "https://live.jayatv.lk/hls/stream.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "LK"
+    },
+    {
+        "name": "Talent TV",
+        "id": "TalentTV.lk",
+        "logo": "https://talenttv.lk/logo-footer.png",
+        "url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "LK"
     }

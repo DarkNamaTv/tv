@@ -957,16 +957,6 @@
         "country": "TR"
     },
     {
-        "name": "MTurk TV",
-        "id": "MTurkTV.tr",
-        "logo": "https://i.imgur.com/xj1gvrq.png",
-        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Kay TV",
         "id": "KayTV.tr",
         "logo": "https://i.imgur.com/MymuDJ1.png",
@@ -1092,22 +1082,21 @@
         "country": "TR"
     },
     {
-        "name": "TRT Genc",
-        "id": "TRTGenc.tr",
-        "logo": "https://i.imgur.com/fCHQYWS.png",
-        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "general",
-            "culture"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "ATV Avrupa",
         "id": "ATVAvrupa.tr",
         "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png",
         "url": "https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8",
         "categories": [],
+        "country": "TR"
+    },
+    {
+        "name": "Luys TV",
+        "id": "LuysTV.tr",
+        "logo": "https://i.imgur.com/9EruWIQ.png",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
         "country": "TR"
     }
 ]

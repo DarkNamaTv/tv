@@ -257,6 +257,16 @@
         "country": "CL"
     },
     {
+        "name": "Verso TV",
+        "id": "VersoTV.cl",
+        "logo": "https://i.imgur.com/zdv4IF8.png",
+        "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Bali TV",
         "id": "BaliTV.id",
         "logo": "https://i.imgur.com/uH1Szme.png",
@@ -459,17 +469,6 @@
         "categories": [
             "culture",
             "education"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
         ],
         "country": "BR"
     },
@@ -866,6 +865,18 @@
         "country": "US"
     },
     {
+        "name": "MBC America",
+        "id": "MBCAmerica.us",
+        "logo": "https://i.imgur.com/RRc23ra.png",
+        "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music"
+        ],
+        "country": "US"
+    },
+    {
         "name": "MRTV NRC",
         "id": "MRTVNRC.mm",
         "logo": "https://i.imgur.com/5aLFslk.jpg",
@@ -910,16 +921,6 @@
         "id": "SuspilneKultura.ua",
         "logo": "https://i.imgur.com/hHMJV8e.png",
         "url": "http://stream.mcquack.net/435/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "ATR",
-        "id": "ATR.ua",
-        "logo": "https://i.imgur.com/lRJAXC7.png",
-        "url": "http://stream.mcquack.net/244/index.m3u8",
         "categories": [
             "culture"
         ],
@@ -1104,12 +1105,11 @@
         "country": "TR"
     },
     {
-        "name": "TRT Genc",
-        "id": "TRTGenc.tr",
-        "logo": "https://i.imgur.com/fCHQYWS.png",
-        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "name": "Luys TV",
+        "id": "LuysTV.tr",
+        "logo": "https://i.imgur.com/9EruWIQ.png",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
         "categories": [
-            "general",
             "culture"
         ],
         "country": "TR"

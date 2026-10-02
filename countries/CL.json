@@ -575,14 +575,6 @@
         "country": "CL"
     },
     {
-        "name": "Rocco TV",
-        "id": "RoccoTV.cl",
-        "logo": "https://i.imgur.com/QFzCKRa.png",
-        "url": "https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "T13 En Vivo",
         "id": "T13EnVivo.cl",
         "logo": "https://i.imgur.com/2Vlkl2x.png",
@@ -1785,26 +1777,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Nuble",
-        "id": "RadioNuble.cl",
-        "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
-        "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "T-Vinet",
         "id": "TVinet.cl",
         "logo": "https://i.imgur.com/KisHIpA.png",
@@ -1819,6 +1791,36 @@
         "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
         "categories": [
             "education"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "TeleCauquenes",
+        "id": "TeleCauquenes.cl",
+        "logo": "https://i.imgur.com/cNYDqhp.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Verso TV",
+        "id": "VersoTV.cl",
+        "logo": "https://i.imgur.com/zdv4IF8.png",
+        "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Zona Play TV",
+        "id": "ZonaPlayTV.cl",
+        "logo": "https://i.imgur.com/GewcpHv.png",
+        "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "CL"
     }
