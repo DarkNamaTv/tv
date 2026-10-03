@@ -101,16 +101,6 @@
         "country": "MM"
     },
     {
-        "name": "Hluttaw S & D",
-        "id": "HluttawSD.mm",
-        "logo": "https://i.imgur.com/Gffq8ks.png",
-        "url": "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "MM"
-    },
-    {
         "name": "MRTV",
         "id": "MRTV.mm",
         "logo": "https://i.imgur.com/uyv7oJH.png",
@@ -127,6 +117,16 @@
         "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "MM"
+    },
+    {
+        "name": "DVB TV",
+        "id": "DVBTV.mm",
+        "logo": "https://i.imgur.com/VdezHOv.png",
+        "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "MM"
     }

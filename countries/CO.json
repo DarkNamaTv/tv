@@ -513,16 +513,6 @@
         "country": "CO"
     },
     {
-        "name": "CNC Pereira",
-        "id": "CNCPereira.co",
-        "logo": "https://i.imgur.com/5vJ0aXH.png",
-        "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "MasMusica FM",
         "id": "MasMusicaFM.co",
         "logo": "https://i.imgur.com/tCg7owd.png",
@@ -647,16 +637,6 @@
         "id": "Cablenoticias.co",
         "logo": "https://i.imgur.com/FfhOGR9.png",
         "url": "http://181.78.211.244:8005/play/a09u/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Canal PyC",
-        "id": "CanalPyC.co",
-        "logo": "https://i.imgur.com/3qxBDhV.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -876,16 +856,6 @@
         "country": "CO"
     },
     {
-        "name": "Soona TV",
-        "id": "SoonaTV.co",
-        "logo": "https://i.imgur.com/Pk8zzTL.jpeg",
-        "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Tele Mocoa Canal 10",
         "id": "TeleMocoaCanal10.co",
         "logo": "https://i.imgur.com/XHtpEfu.png",
@@ -896,12 +866,32 @@
         "country": "CO"
     },
     {
-        "name": "Canal Nets",
-        "id": "CanalNets.co",
-        "logo": "https://i.imgur.com/edaAexc.png",
-        "url": "https://video.ejeserver.com/live/nets.m3u8",
+        "name": "CNC Bugavision",
+        "id": "CNCBugavision.co",
+        "logo": "https://i.imgur.com/zJAwnvd.png",
+        "url": "https://video.ejeserver.com/live/cncbuga.m3u8",
         "categories": [
-            "entertainment"
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Noticiero 90 Minutos",
+        "id": "Noticiero90Minutos.co",
+        "logo": "https://i.imgur.com/ThaRRCN.png",
+        "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TV3 La Plata",
+        "id": "TV3LaPlata.co",
+        "logo": "https://i.imgur.com/uRMq5HC.jpeg",
+        "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CO"
     }

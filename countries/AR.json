@@ -576,14 +576,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 3 Las Heras",
-        "id": "Canal3LasHeras.ar",
-        "logo": "https://i.imgur.com/bd2afET.png",
-        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Cadena103.TV",
         "id": "Cadena103TV.ar",
         "logo": "https://i.imgur.com/vBsry35.png",
@@ -1054,16 +1046,6 @@
         "country": "AR"
     },
     {
-        "name": "Bayres TV",
-        "id": "BayresTV.ar",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
-        "url": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "NG Federal",
         "id": "NGFederal.ar",
         "logo": "https://i.imgur.com/lJCIqYn.png",
@@ -1264,6 +1246,42 @@
         "id": "Telesol.ar",
         "logo": "https://i.imgur.com/79sTxtP.png",
         "url": "https://cdn1.tvlin.net/open/telesol/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 5 Santa Fe",
+        "id": "Canal5SantaFe.ar",
+        "logo": "https://i.imgur.com/WX0esjQ.png",
+        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Pulpo TV",
+        "id": "CanalPulpoTV.ar",
+        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Telefe Buenos Aires",
+        "id": "TelefeBuenosAires.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Telefe Salta",
+        "id": "TelefeSalta.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
+        "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
         "categories": [],
         "country": "AR"
     }
