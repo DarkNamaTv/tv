@@ -634,6 +634,16 @@
         "country": "IN"
     },
     {
+        "name": "Star Sports 1",
+        "id": "StarSports1.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h.jpg",
+        "url": "http://51.75.127.199:3141/starsports1/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "T Sports 7",
         "id": "TSports7.th",
         "logo": "https://i.imgur.com/KyI0s5n.png",
@@ -682,6 +692,36 @@
             "sports"
         ],
         "country": "KP"
+    },
+    {
+        "name": "Arena Sport Premium M1",
+        "id": "ArenaSportPremiumM1.mk",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png",
+        "url": "https://racitonsen.s.gy/AM1P",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Arena Sport Premium M2",
+        "id": "ArenaSportPremiumM2.mk",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png",
+        "url": "https://racitonsen.s.gy/AM2P",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Arena Sport Premium M3",
+        "id": "ArenaSportPremiumM3.mk",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png",
+        "url": "https://racitonsen.s.gy/AM3P",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
     },
     {
         "name": "Premier Sports",
@@ -844,6 +884,16 @@
             "travel",
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },
@@ -1426,26 +1476,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Deportes",
-        "id": "PlutoTVDeportes.us",
-        "logo": "https://i.imgur.com/0pDy6f4.png",
-        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Esportes",
-        "id": "PlutoTVEsportes.us",
-        "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
-        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "F1 Channel",
         "id": "F1Channel.ie",
         "logo": "https://i.imgur.com/cjXzWsI.png",
@@ -1716,16 +1746,6 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.de",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "FIFA+",
         "id": "FIFAPlus.uk",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
@@ -1886,30 +1906,10 @@
         "country": "RU"
     },
     {
-        "name": "Sportivnyy",
-        "id": "Sportivnyy.ru",
-        "logo": "https://i.imgur.com/ujS6mMo.png",
-        "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "M Sports",
         "id": "MSports.pk",
         "logo": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
         "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "PK"
-    },
-    {
-        "name": "PK Sports",
-        "id": "PKSports.pk",
-        "logo": "https://i.imgur.com/qtbSnrY.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
         "categories": [
             "sports"
         ],
@@ -2221,7 +2221,7 @@
     {
         "name": "Prima Sport 5",
         "id": "PrimaSport5.ro",
-        "logo": "",
+        "logo": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
         "url": "https://dokagents.site/live/pr5/mono.m3u8",
         "categories": [
             "sports"

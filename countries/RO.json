@@ -437,16 +437,6 @@
         "country": "RO"
     },
     {
-        "name": "Qub TV",
-        "id": "QubTV.ro",
-        "logo": "https://i.imgur.com/GvyF2Wh.png",
-        "url": "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "TVPlus Suceava",
         "id": "TVPlusSuceava.ro",
         "logo": "https://i.imgur.com/f4fzoLe.png",
@@ -997,7 +987,7 @@
     {
         "name": "Prima Sport 5",
         "id": "PrimaSport5.ro",
-        "logo": "",
+        "logo": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
         "url": "https://dokagents.site/live/pr5/mono.m3u8",
         "categories": [
             "sports"
@@ -1055,16 +1045,6 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania Antena Satelor",
-        "id": "RadioRomaniaAntenaSatelor.ro",
-        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Euronews Romania",
         "id": "EuronewsRomania.ro",
         "logo": "https://i.imgur.com/jUOVUXt.png",
@@ -1118,6 +1098,16 @@
         "logo": "https://i.imgur.com/0iuwjbK.png",
         "url": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8",
         "categories": [],
+        "country": "RO"
+    },
+    {
+        "name": "MISA TV",
+        "id": "MISATV.ro",
+        "logo": "https://i.imgur.com/2RxQNm6.png",
+        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "RO"
     }
 ]

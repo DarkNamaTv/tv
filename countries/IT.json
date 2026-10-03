@@ -1471,14 +1471,6 @@
         "country": "IT"
     },
     {
-        "name": "Visual Radio",
-        "id": "VisualRadio.it",
-        "logo": "https://i.imgur.com/ah14ah0.png",
-        "url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8",
-        "categories": [],
-        "country": "IT"
-    },
-    {
         "name": "TeleSanDomenico",
         "id": "TeleSanDomenico.it",
         "logo": "https://i.imgur.com/l52v9uv.png",
@@ -1607,6 +1599,36 @@
         "logo": "https://i.imgur.com/2OXQpZM.png",
         "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
         "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Etna Espresso Channel",
+        "id": "EtnaEspressoChannel.it",
+        "logo": "https://i.imgur.com/lSI5QgV.png",
+        "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Nick Jr.",
+        "id": "NickJr.it",
+        "logo": "https://i.imgur.com/6p3eFgf.png",
+        "url": "http://102.129.186.182:81/nick/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Quarto Canale Flegreo",
+        "id": "QuartoCanaleFlegreo.it",
+        "logo": "https://i.imgur.com/XfNSWp0.png",
+        "url": "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "IT"
     }
 ]

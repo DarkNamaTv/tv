@@ -352,14 +352,6 @@
         "country": "NL"
     },
     {
-        "name": "XON",
-        "id": "XON.nl",
-        "logo": "https://i.imgur.com/xEUHgMj.png",
-        "url": "https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8",
-        "categories": [],
-        "country": "NL"
-    },
-    {
         "name": "Omroep Tilburg",
         "id": "OmroepTilburg.nl",
         "logo": "https://i.imgur.com/rhazkU7.png",
@@ -384,26 +376,6 @@
         "url": "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "HTR TV",
-        "id": "HTRTV.nl",
-        "logo": "https://i.imgur.com/IlwVHX0.png",
-        "url": "https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "XITE",
-        "id": "XITE.nl",
-        "logo": "https://i.imgur.com/jxuwGRi.png",
-        "url": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "NL"
     },
@@ -446,30 +418,10 @@
         "country": "NL"
     },
     {
-        "name": "LINQ TV",
-        "id": "LINQTV.nl",
-        "logo": "https://i.imgur.com/0DgP3vu.png",
-        "url": "https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "Lansingerland TV",
         "id": "LansingerlandTV.nl",
         "logo": "https://i.imgur.com/1r7IZ7Q.png",
         "url": "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "ML5 TV",
-        "id": "ML5TV.nl",
-        "logo": "https://i.imgur.com/knjHdei.png",
-        "url": "https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -504,16 +456,6 @@
         "country": "NL"
     },
     {
-        "name": "Ideaal TV",
-        "id": "IdeaalTV.nl",
-        "logo": "https://i.imgur.com/JLYQFoX.png",
-        "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "Dit is Helmond",
         "id": "DitisHelmond.nl",
         "logo": "https://i.imgur.com/fGAaBAs.png",
@@ -528,16 +470,6 @@
         "id": "OPENRotterdamTV.nl",
         "logo": "https://i.imgur.com/nWahRAb.png",
         "url": "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "Omroep Meierijstad",
-        "id": "OmroepMeierijstad.nl",
-        "logo": "https://i.imgur.com/sYzh01C.png",
-        "url": "https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1403,6 +1335,26 @@
         "id": "StreekstadCentral.nl",
         "logo": "https://i.imgur.com/9gM6rPb.png",
         "url": "https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "RTV Parkstad",
+        "id": "RTVParkstad.nl",
+        "logo": "https://i.imgur.com/zsTuF9y.png",
+        "url": "https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "SOL2",
+        "id": "SOL2.nl",
+        "logo": "https://i.imgur.com/VEbhJRA.png",
+        "url": "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8",
         "categories": [
             "general"
         ],

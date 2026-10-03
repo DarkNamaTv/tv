@@ -440,16 +440,6 @@
         "country": "PE"
     },
     {
-        "name": "Huacho Peru TV",
-        "id": "HuachoPeruTV.pe",
-        "logo": "https://i.imgur.com/PevmfqK.png",
-        "url": "https://tv.huachotv.com/stream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "FuegoTV",
         "id": "FuegoTV.pe",
         "logo": "https://i.imgur.com/1LuNEX4.png",
@@ -699,14 +689,6 @@
         "categories": [
             "music"
         ],
-        "country": "PE"
-    },
-    {
-        "name": "Solar Television",
-        "id": "SolarTelevision.pe",
-        "logo": "https://i.imgur.com/ufnWpUf.png",
-        "url": "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8",
-        "categories": [],
         "country": "PE"
     },
     {
@@ -999,6 +981,56 @@
         "logo": "https://i.imgur.com/1q0R6R9.png",
         "url": "https://livestream.perucast.com/hls/stream.m3u8",
         "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Galactica TV",
+        "id": "GalacticaTV.pe",
+        "logo": "https://i.imgur.com/byL1zCV.jpeg",
+        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Intuitiva TV",
+        "id": "IntuitivaTV.pe",
+        "logo": "https://i.imgur.com/zcehR4M.png",
+        "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV MAR",
+        "id": "TVMAR.pe",
+        "logo": "https://i.imgur.com/VXvbNjT.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "PE"
     }
 ]

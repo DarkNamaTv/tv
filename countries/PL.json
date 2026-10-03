@@ -201,30 +201,6 @@
         "country": "PL"
     },
     {
-        "name": "TVP2",
-        "id": "TVP2.pl",
-        "logo": "https://i.imgur.com/XxCc32B.png",
-        "url": "https://lowa8026-cmyk.github.io/tvpvod/399698.m3u8",
-        "categories": [],
-        "country": "PL"
-    },
-    {
-        "name": "TVP Historia",
-        "id": "TVPHistoria.pl",
-        "logo": "https://i.imgur.com/Bc4QZiy.png",
-        "url": "https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8",
-        "categories": [],
-        "country": "PL"
-    },
-    {
-        "name": "TVP Polonia",
-        "id": "TVPPolonia.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png",
-        "url": "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
-        "categories": [],
-        "country": "PL"
-    },
-    {
         "name": "TV Torun",
         "id": "TVTorun.pl",
         "logo": "https://i.imgur.com/ZJ0yDWI.png",
@@ -358,14 +334,6 @@
         "categories": [
             "general"
         ],
-        "country": "PL"
-    },
-    {
-        "name": "W Polsce PL",
-        "id": "WPolscePL.pl",
-        "logo": "https://i.imgur.com/HQ8UyhL.png",
-        "url": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
-        "categories": [],
         "country": "PL"
     },
     {
@@ -565,54 +533,10 @@
         "country": "PL"
     },
     {
-        "name": "Eska TV",
-        "id": "EskaTV.pl",
-        "logo": "https://i.imgur.com/N0eH0Cg.png",
-        "url": "https://lowa8026-cmyk.github.io/PL/eskatv.php.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "Puls 2",
         "id": "Puls2.pl",
         "logo": "https://i.imgur.com/EOnzPiZ.png",
         "url": "https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
-        "categories": [],
-        "country": "PL"
-    },
-    {
-        "name": "Telewizja Narew",
-        "id": "TelewizjaNarew.pl",
-        "logo": "https://i.imgur.com/RevNbUo.png",
-        "url": "https://lowa8026-cmyk.github.io/PL/TVNAREW.php.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVP1",
-        "id": "TVP1.pl",
-        "logo": "https://i.imgur.com/ewpSjBs.png",
-        "url": "https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8",
-        "categories": [],
-        "country": "PL"
-    },
-    {
-        "name": "TV Puls",
-        "id": "TVPuls.pl",
-        "logo": "https://i.imgur.com/gXA7pai.png",
-        "url": "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8",
-        "categories": [],
-        "country": "PL"
-    },
-    {
-        "name": "WP TV",
-        "id": "WPTV.pl",
-        "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
-        "url": "https://lowa8026-cmyk.github.io/PL/WPHD.php.m3u8",
         "categories": [],
         "country": "PL"
     },
@@ -659,16 +583,6 @@
         "id": "TelewizjaRelax.pl",
         "logo": "https://i.imgur.com/dejnH0O.png",
         "url": "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "Telewizja Luban",
-        "id": "TelewizjaLuban.pl",
-        "logo": "https://i.imgur.com/t2BGp0G.jpeg",
-        "url": "http://stream.herissons.cloud/hls/tvluban.m3u8",
         "categories": [
             "general"
         ],
@@ -949,6 +863,48 @@
         "id": "TVC.pl",
         "logo": "https://i.imgur.com/1Wmib2f.png",
         "url": "http://57.128.231.171:8080/214/index.m3u8",
+        "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "4 Fun TV",
+        "id": "4FunTV.pl",
+        "logo": "https://i.imgur.com/rI1wo2l.png",
+        "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "TVP Polonia",
+        "id": "TVPPolonia.pl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png",
+        "url": "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
+        "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "TV Puls",
+        "id": "TVPuls.pl",
+        "logo": "https://i.imgur.com/gXA7pai.png",
+        "url": "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
+        "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "Twoja.TV",
+        "id": "TwojaTV.pl",
+        "logo": "https://i.ibb.co/vxntQD60/twojatv-hd-online.png",
+        "url": "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8",
+        "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "W Polsce PL",
+        "id": "WPolscePL.pl",
+        "logo": "https://i.imgur.com/HQ8UyhL.png",
+        "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
         "categories": [],
         "country": "PL"
     }
