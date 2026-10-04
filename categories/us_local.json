@@ -890,26 +890,6 @@
         "country": ""
     },
     {
-        "name": "Atlanta Channel (720p)",
-        "id": "atlantachannel720p",
-        "logo": "",
-        "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NOTV New Orleans TV (720p)",
-        "id": "notvneworleanstv720p",
-        "logo": "",
-        "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "UCTV University of California (720p) [Not 24/7]",
         "id": "uctvuniversityofcalifornia720pnot247",
         "logo": "",
@@ -1230,16 +1210,6 @@
         "country": ""
     },
     {
-        "name": "Geb Tv (KBPX LD5) (1080p)",
-        "id": "gebtvkbpxld51080p",
-        "logo": "",
-        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "WCOT 13 (Tallahassee FL) (720p)",
         "id": "wcot13tallahasseefl720p",
         "logo": "",
@@ -1364,6 +1334,26 @@
         "id": "pascotvpascocountyfl480p",
         "logo": "",
         "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AABC TV (480p)",
+        "id": "aabctv480p",
+        "logo": "",
+        "url": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cox Meriden Public Access Channel 15 (Meriden CT) (720p)",
+        "id": "coxmeridenpublicaccesschannel15meridenct720p",
+        "logo": "",
+        "url": "http://applevalley.coxctv.com/live-1/live/live.m3u8",
         "categories": [
             "us_local"
         ],

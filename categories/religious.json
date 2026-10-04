@@ -90,6 +90,16 @@
         "country": "CA"
     },
     {
+        "name": "IIPC TV",
+        "id": "IIPCTV.ca",
+        "logo": "https://i.imgur.com/mIih39Y.png",
+        "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "Al-Sahat TV",
         "id": "AlSahatTV.ye",
         "logo": "https://i.imgur.com/UVndAta.png",
@@ -110,6 +120,16 @@
         "country": "GH"
     },
     {
+        "name": "MOGPA TV",
+        "id": "MOGPATV.gh",
+        "logo": "https://i.imgur.com/34PmVAq.png",
+        "url": "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GH"
+    },
+    {
         "name": "RCC TV",
         "id": "RCCTV.py",
         "logo": "https://i.imgur.com/qdjBnRl.png",
@@ -124,27 +144,6 @@
         "id": "NandejaraNeeTV.py",
         "logo": "https://i.imgur.com/VFxuBdL.jpg",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
-        "categories": [
-            "religious"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Caritas TV",
-        "id": "CaritasTV.py",
-        "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
-        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
-        "categories": [
-            "religious",
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Radio TV El Arca del Pacto",
-        "id": "RadioTVElArcadelPacto.py",
-        "logo": "https://i.imgur.com/Oq0i3Rb.png",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "categories": [
             "religious"
         ],
@@ -676,16 +675,6 @@
         "id": "RadioArmoniaTV.cl",
         "logo": "https://i.imgur.com/puWBnP3.png",
         "url": "https://v2.tustreaming.cl/armoniamovil/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio El Sembrador",
-        "id": "RadioElSembrador.cl",
-        "logo": "https://i.imgur.com/gBpMAc3.png",
-        "url": "https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -1356,27 +1345,6 @@
         "country": "IQ"
     },
     {
-        "name": "Alquran",
-        "id": "Alquran.iq",
-        "logo": "https://i.imgur.com/lqVwrAF.png",
-        "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Karbala Documentary",
-        "id": "KarbalaDocumentary.iq",
-        "logo": "https://www.karbala-tv.iq/documentary/static/img/logo.png",
-        "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
-        "categories": [
-            "religious",
-            "documentary"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Ishtar TV",
         "id": "IshtarTV.iq",
         "logo": "https://i.imgur.com/qzApokm.png",
@@ -1399,10 +1367,10 @@
         "country": "IQ"
     },
     {
-        "name": "Al-Jawadain TV",
-        "id": "AlJawadainTV.iq",
-        "logo": "https://i.imgur.com/Eo3UYCK.png",
-        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "name": "Imam Hussein TV 6",
+        "id": "ImamHusseinTV6.iq",
+        "logo": "https://i.imgur.com/lqhU0PY.png",
+        "url": "http://live.imamhossaintv.com/live/ih6.m3u8",
         "categories": [
             "religious"
         ],
@@ -2261,26 +2229,6 @@
         "country": "IN"
     },
     {
-        "name": "OM TV",
-        "id": "OMTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
-        "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Swastik TV",
-        "id": "SwastikTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png",
-        "url": "https://server.playontv.in/swastiktv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Tulja Bhavani",
         "id": "TuljaBhavani.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tulja_Bhavani.png",
@@ -2766,16 +2714,6 @@
         "id": "MizpaTV.sv",
         "logo": "https://i.imgur.com/4FPaLYo.jpeg",
         "url": "http://45.167.2.101:8000/play/a0r7/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4903,16 +4841,6 @@
         "country": "RU"
     },
     {
-        "name": "Soyuz",
-        "id": "Soyuz.ru",
-        "logo": "https://i.imgur.com/w3OewHc.png",
-        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Huzur TV",
         "id": "HuzurTV.ru",
         "logo": "https://i.imgur.com/Abg1fct.png",
@@ -4958,17 +4886,6 @@
         "logo": "https://i.imgur.com/34RINpb.png",
         "url": "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=is_mLq_kjPYLsOJ4qj85tw&e=2070278263&scheme=https",
         "categories": [
-            "religious"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Muz Soyuz",
-        "id": "MuzSoyuz.ru",
-        "logo": "https://i.imgur.com/Puk1Bhx.png",
-        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
-        "categories": [
-            "music",
             "religious"
         ],
         "country": "RU"

@@ -417,16 +417,6 @@
         "country": "RO"
     },
     {
-        "name": "Boom TV",
-        "id": "BoomTV.ro",
-        "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
-        "url": "https://tvboom.ro/live-tv/live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Impact TV",
         "id": "ImpactTV.ro",
         "logo": "https://tvimpact.ro/impact-logo.png",
@@ -1014,17 +1004,6 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania Targu Mures",
-        "id": "RadioRomaniaTarguMures.ro",
-        "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
-        "url": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8",
-        "categories": [
-            "general",
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Nova TV Brasov",
         "id": "NovaTVBrasov.ro",
         "logo": "https://i.imgur.com/33Vn0Ij.png",
@@ -1107,6 +1086,56 @@
         "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "H!t Music Channel",
+        "id": "HtMusicChannel.ro",
+        "logo": "https://i.imgur.com/sqC2hqV.png",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Hunedoara 1",
+        "id": "Hunedoara1.ro",
+        "logo": "https://i.imgur.com/9bz15ad.png",
+        "url": "https://netstreaming.eu/hd1.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Music Channel",
+        "id": "MusicChannel.ro",
+        "logo": "https://i.imgur.com/nadVCxM.png",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Super TV",
+        "id": "SuperTV.ro",
+        "logo": "https://i.imgur.com/pzxUE0O.png",
+        "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "RO"
     }

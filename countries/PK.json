@@ -346,26 +346,6 @@
         "country": "PK"
     },
     {
-        "name": "Aaj Entertainment",
-        "id": "AajEntertainment.pk",
-        "logo": "https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PK"
-    },
-    {
-        "name": "Express Entertainment",
-        "id": "ExpressEntertainment.pk",
-        "logo": "https://i.imgur.com/rgHbb8W.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "Such TV",
         "id": "SuchTV.pk",
         "logo": "https://i.imgur.com/yYMh3JJ.png",
@@ -391,6 +371,36 @@
         "logo": "https://i.imgur.com/XBHvR5J.png",
         "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
         "categories": [],
+        "country": "PK"
+    },
+    {
+        "name": "BS Film",
+        "id": "BSFilm.pk",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "BSTV",
+        "id": "BSTV.pk",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "PK Sports",
+        "id": "PKSports.pk",
+        "logo": "https://i.imgur.com/qtbSnrY.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
         "country": "PK"
     }
 ]

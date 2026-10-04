@@ -1087,16 +1087,6 @@
         "country": "MX"
     },
     {
-        "name": "California Medios TV",
-        "id": "CaliforniaMediosTV.mx",
-        "logo": "https://i.imgur.com/IDvpRNI.png",
-        "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Canal 10 Durango",
         "id": "Canal10Durango.mx",
         "logo": "https://i.imgur.com/H34quHQ.png",
@@ -1110,6 +1100,44 @@
         "logo": "https://i.imgur.com/XkpDSmO.png",
         "url": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",
         "categories": [],
+        "country": "MX"
+    },
+    {
+        "name": "Bandamax",
+        "id": "Bandamax.mx",
+        "logo": "https://i.imgur.com/4DfnOTA.png",
+        "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Golden Edge",
+        "id": "GoldenEdge.mx",
+        "logo": "https://i.imgur.com/SlSbcp3.png",
+        "url": "http://168.196.127.137:6001/play/a09p/index.m3u8",
+        "categories": [],
+        "country": "MX"
+    },
+    {
+        "name": "ILCE Canal 15 Summa Saberes",
+        "id": "ILCECanal15SummaSaberes.mx",
+        "logo": "https://i.imgur.com/r7czgOc.png",
+        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tlnovelas Mexico",
+        "id": "TlnovelasMexico.mx",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",
+        "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+        "categories": [
+            "series"
+        ],
         "country": "MX"
     }
 ]
