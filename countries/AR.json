@@ -1218,16 +1218,6 @@
         "country": "AR"
     },
     {
-        "name": "Telefe Buenos Aires",
-        "id": "TelefeBuenosAires.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Telefe Salta",
         "id": "TelefeSalta.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
@@ -1272,14 +1262,22 @@
         "country": "AR"
     },
     {
-        "name": "Somos Entre Rios",
-        "id": "SomosEntreRios.ar",
-        "logo": "https://files.catbox.moe/ufv5z0.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+        "name": "Canal Pulpo TV",
+        "id": "CanalPulpoTV.ar",
+        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
         "categories": [
-            "general",
-            "family",
-            "culture"
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "El Nueve",
+        "id": "ElNueve.ar",
+        "logo": "https://i.imgur.com/cJHP7bU.png",
+        "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "AR"
     }

@@ -1315,16 +1315,6 @@
         "country": "CL"
     },
     {
-        "name": "La Melinkana TV",
-        "id": "LaMelinkanaTV.cl",
-        "logo": "https://i.imgur.com/I0nzI1y.png",
-        "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Sabor TV",
         "id": "SaborTV.cl",
         "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
@@ -1355,16 +1345,6 @@
         "country": "CL"
     },
     {
-        "name": "El Centro TV",
-        "id": "ElCentroTV.cl",
-        "logo": "https://i.imgur.com/2KqGHvA.png",
-        "url": "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Tevex",
         "id": "Tevex.cl",
         "logo": "https://i.imgur.com/FnInQRd.png",
@@ -1379,14 +1359,6 @@
         "id": "VisionPlusTV.cl",
         "logo": "https://i.imgur.com/mpNcG5F.png",
         "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "RTC Television",
-        "id": "RTCTelevision.cl",
-        "logo": "https://i.imgur.com/w91IBj7.png",
-        "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
         "categories": [],
         "country": "CL"
     },
@@ -1454,16 +1426,6 @@
         "logo": "https://i.imgur.com/nDWW4m7.png",
         "url": "https://v4.tustreaming.cl/tendenciastv/index.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "Odisea TV",
-        "id": "OdiseaTV.cl",
-        "logo": "https://i.imgur.com/8SCnoiZ.png",
-        "url": "https://v2.tustreaming.cl/odiseatv/index.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "CL"
     },
     {
@@ -1633,16 +1595,6 @@
         "country": "CL"
     },
     {
-        "name": "Zona Sur TV",
-        "id": "ZonaSurTV.cl",
-        "logo": "https://i.imgur.com/b1OtwDg.png",
-        "url": "http://170.79.235.133:8002/play/a063/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "ClickTV Chile",
         "id": "ClickTVChile.cl",
         "logo": "https://i.imgur.com/H0XNbMS.png",
@@ -1759,16 +1711,6 @@
         "country": "CL"
     },
     {
-        "name": "Oli TV",
-        "id": "OliTV.cl",
-        "logo": "https://i.imgur.com/2emMRvf.jpeg",
-        "url": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Campo Abierto TV",
         "id": "CampoAbiertoTV.cl",
         "logo": "https://i.imgur.com/KL6pgaL.png",
@@ -1820,6 +1762,26 @@
         "logo": "https://i.imgur.com/QFzCKRa.png",
         "url": "https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8",
         "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Canal Chilote",
+        "id": "CanalChilote.cl",
+        "logo": "https://i.imgur.com/mdYIKyt.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "CL"
     }
 ]

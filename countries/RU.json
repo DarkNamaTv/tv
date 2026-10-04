@@ -2975,16 +2975,6 @@
         "country": "RU"
     },
     {
-        "name": "Gorodskoy telekanal",
-        "id": "Gorodskoytelekanal.ru",
-        "logo": "https://i.imgur.com/zMNJfoV.png",
-        "url": "https://gtk.tv/hls/gtyar.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Rus",
         "id": "Rus.ru",
         "logo": "https://i.imgur.com/KuL21f9.png",
@@ -3023,16 +3013,6 @@
         "country": "RU"
     },
     {
-        "name": "6 TV Gorlovka",
-        "id": "6TVGorlovka.ru",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png",
-        "url": "http://91.214.48.158:4022/udp/224.2.2.4:10000",
-        "categories": [
-            "general"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Novorossiya TV",
         "id": "NovorossiyaTV.ru",
         "logo": "https://i.imgur.com/ijmf0bV.png",
@@ -3053,22 +3033,43 @@
         "country": "RU"
     },
     {
-        "name": "Shanson TV",
-        "id": "ShansonTV.ru",
-        "logo": "https://i.imgur.com/Fk4sd8t.png",
-        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Sportivnyy",
         "id": "Sportivnyy.ru",
         "logo": "https://i.imgur.com/ujS6mMo.png",
         "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Afontovo",
+        "id": "Afontovo.ru",
+        "logo": "https://i.imgur.com/StFfPaI.png",
+        "url": "https://stream.afontovo.ru/hd.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Muz Soyuz",
+        "id": "MuzSoyuz.ru",
+        "logo": "https://i.imgur.com/Puk1Bhx.png",
+        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+        "categories": [
+            "music",
+            "religious"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Soyuz",
+        "id": "Soyuz.ru",
+        "logo": "https://i.imgur.com/w3OewHc.png",
+        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "RU"
     }

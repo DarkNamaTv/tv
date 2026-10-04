@@ -136,14 +136,6 @@
         "country": "PE"
     },
     {
-        "name": "Controversia TV",
-        "id": "ControversiaTV.pe",
-        "logo": "https://i.imgur.com/X7cPyP2.png",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "Exitosa TV",
         "id": "ExitosaTV.pe",
         "logo": "https://i.imgur.com/pu0BSB7.png",
@@ -840,16 +832,6 @@
         "country": "PE"
     },
     {
-        "name": "Genios TV",
-        "id": "GeniosTV.pe",
-        "logo": "https://i.imgur.com/iH2Lx6E.png",
-        "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Master TV",
         "id": "MasterTV.pe",
         "logo": "https://i.imgur.com/K2ZimRv.png",
@@ -1010,6 +992,54 @@
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV MAR",
+        "id": "TVMAR.pe",
+        "logo": "https://i.imgur.com/VXvbNjT.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV+ Chincha",
+        "id": "TVPlusChincha.pe",
+        "logo": "https://i.imgur.com/bjQpQsu.jpeg",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Ucayalina de Television",
+        "id": "UcayalinadeTelevision.pe",
+        "logo": "https://i.imgur.com/jBhfcqy.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Zeleve TV",
+        "id": "ZeleveTV.pe",
+        "logo": "https://i.imgur.com/CGWaunJ.jpeg",
+        "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "PE"
     }

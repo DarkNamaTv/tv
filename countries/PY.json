@@ -268,16 +268,6 @@
         "country": "PY"
     },
     {
-        "name": "America Paraguay",
-        "id": "AmericaParaguay.py",
-        "logo": "https://i.imgur.com/rCEu3fM.png",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Radio Colmenar 92.5 FM",
         "id": "RadioColmenar925FM.py",
         "logo": "https://i.imgur.com/LniNLO1.jpeg",
@@ -294,16 +284,6 @@
         "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
         "categories": [
             "general"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Suceso TV",
-        "id": "SucesoTV.py",
-        "logo": "https://i.imgur.com/BwRNes1.png",
-        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "PY"
     },
@@ -348,50 +328,10 @@
         "country": "PY"
     },
     {
-        "name": "Del Rey TV",
-        "id": "DelReyTV.py",
-        "logo": "https://i.imgur.com/Zjxvg9u.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Occidental TV",
-        "id": "OccidentalTV.py",
-        "logo": "https://i.imgur.com/8IRBA9h.png",
-        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Trece",
         "id": "Trece.py",
         "logo": "https://i.imgur.com/cgIv5QK.png",
         "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Alcance FM PLAY TV",
-        "id": "AlcanceFMPLAYTV.py",
-        "logo": "https://i.imgur.com/ymcWecA.png",
-        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Canal 8 C&C Producciones",
-        "id": "Canal8CCProducciones.py",
-        "logo": "https://i.imgur.com/SVj5fjg.jpg",
-        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "categories": [
             "general"
         ],
@@ -415,26 +355,6 @@
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Productiva TV",
-        "id": "ProductivaTV.py",
-        "logo": "https://i.imgur.com/KXHK7UP.png",
-        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Radio San Cristobal 88.7 FM",
-        "id": "RadioSanCristobal887FM.py",
-        "logo": "https://i.imgur.com/zaJhBdj.png",
-        "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "PY"
     },
@@ -463,6 +383,94 @@
         "id": "CADTV.py",
         "logo": "https://i.imgur.com/lafmmRa.jpeg",
         "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Canal 5 TV Max",
+        "id": "Canal5TVMax.py",
+        "logo": "https://i.imgur.com/6oihaDM.png",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Dismar Radio TV",
+        "id": "DismarRadioTV.py",
+        "logo": "https://i.imgur.com/KOuxdMD.png",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Oasis TV",
+        "id": "OasisTV.py",
+        "logo": "https://i.imgur.com/u9umNKp.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Radio TV El Arca del Pacto",
+        "id": "RadioTVElArcadelPacto.py",
+        "logo": "https://i.imgur.com/Oq0i3Rb.png",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Red Digital",
+        "id": "RedDigital.py",
+        "logo": "https://i.imgur.com/3jj0MQP.jpg",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Regional TV Yaguaron",
+        "id": "RegionalTVYaguaron.py",
+        "logo": "https://i.imgur.com/iL5JnSy.jpeg",
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Unicanal",
+        "id": "Unicanal.py",
+        "logo": "https://i.imgur.com/cgTD2TW.png",
+        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "UniRadio TV",
+        "id": "UniRadioTV.py",
+        "logo": "https://i.imgur.com/Co3YrU0.png",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "categories": [],
+        "country": "PY"
+    },
+    {
+        "name": "Villa Elisa Radio TV",
+        "id": "VillaElisaRadioTV.py",
+        "logo": "https://i.imgur.com/ryzCsvy.jpg",
+        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "categories": [
             "general"
         ],

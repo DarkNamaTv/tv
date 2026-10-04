@@ -242,30 +242,20 @@
         "country": "SE"
     },
     {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.se",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SE"
+    },
+    {
         "name": "Arena",
         "id": "Arena.id",
         "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/a6a7392cdcfff7c5324b503d0eb3b35b.png",
         "url": "https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV",
-        "id": "SPOTV.id",
-        "logo": "https://i.imgur.com/HaoVsm5.png",
-        "url": "http://58.8.186.128:10006/bysid/2614",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV 2",
-        "id": "SPOTV2.id",
-        "logo": "https://i.imgur.com/YD8fbTH.png",
-        "url": "http://58.8.186.128:10006/bysid/2630",
         "categories": [
             "sports"
         ],
@@ -454,6 +444,16 @@
         "country": "SK"
     },
     {
+        "name": "Al Iraqia Sport",
+        "id": "AlIraqiaSport.iq",
+        "logo": "https://i.imgur.com/DrrlxTO.png",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IQ"
+    },
+    {
         "name": "Sport",
         "id": "Sport.uz",
         "logo": "https://i.imgur.com/2WJE9CM.png",
@@ -624,20 +624,20 @@
         "country": "IN"
     },
     {
+        "name": "Sony Sports Ten 4",
+        "id": "SonySportsTen4.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png",
+        "url": "https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "T Sports 7",
         "id": "TSports7.th",
         "logo": "https://i.imgur.com/KyI0s5n.png",
         "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "True Tennis",
-        "id": "TrueTennis.th",
-        "logo": "https://i.imgur.com/Zu72OYA.png",
-        "url": "http://58.8.186.128:10004/bysid/2418",
         "categories": [
             "sports"
         ],
@@ -672,6 +672,26 @@
             "sports"
         ],
         "country": "KP"
+    },
+    {
+        "name": "Arena Sport Premium M1",
+        "id": "ArenaSportPremiumM1.mk",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png",
+        "url": "https://racitonsen.s.gy/AM1P",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Arena Sport Premium M3",
+        "id": "ArenaSportPremiumM3.mk",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png",
+        "url": "https://racitonsen.s.gy/AM3P",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
     },
     {
         "name": "Premier Sports",
@@ -834,6 +854,16 @@
             "travel",
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },
@@ -1416,6 +1446,57 @@
         "country": "US"
     },
     {
+        "name": "Monster Jam",
+        "id": "MonsterJam.us",
+        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
+        "categories": [
+            "sports",
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PFL MMA",
+        "id": "PFLMMA.us",
+        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+        "url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Deportes",
+        "id": "PlutoTVDeportes.us",
+        "logo": "https://i.imgur.com/0pDy6f4.png",
+        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV E-Sports",
+        "id": "PlutoTVESports.us",
+        "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.us",
+        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
         "name": "F1 Channel",
         "id": "F1Channel.ie",
         "logo": "https://i.imgur.com/cjXzWsI.png",
@@ -1680,6 +1761,16 @@
         "id": "WorldofFreesports.de",
         "logo": "https://i.imgur.com/lta5Mog.png",
         "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.de",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
         "categories": [
             "sports"
         ],
@@ -2102,6 +2193,16 @@
         "id": "ColimdoTV.do",
         "logo": "https://i.imgur.com/ZeUgLCa.png",
         "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "CDN Deportes",
+        "id": "CDNDeportes.do",
+        "logo": "https://i.imgur.com/yU5LqTL.png",
+        "url": "https://hls.tvabierta.net/hls/036.m3u8",
         "categories": [
             "sports"
         ],
