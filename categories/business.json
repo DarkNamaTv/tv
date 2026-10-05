@@ -1,15 +1,5 @@
 [
     {
-        "name": "Atameken Business",
-        "id": "AtamekenBusiness.kz",
-        "logo": "https://i.imgur.com/CfRvm8i.png",
-        "url": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv",
-        "categories": [
-            "business"
-        ],
-        "country": "KZ"
-    },
-    {
         "name": "Canal Pro",
         "id": "CanalPro.py",
         "logo": "https://i.imgur.com/ah8n7jL.png",
@@ -332,6 +322,16 @@
         "id": "CNBC.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
         "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
+        "categories": [
+            "business"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Bloomberg TV",
+        "id": "BloombergTV.us",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
         "categories": [
             "business"
         ],

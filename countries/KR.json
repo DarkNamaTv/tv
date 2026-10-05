@@ -488,5 +488,45 @@
             "general"
         ],
         "country": "KR"
+    },
+    {
+        "name": "Gugbang TV",
+        "id": "GugbangTV.kr",
+        "logo": "https://i.imgur.com/f1tz5fg.png",
+        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLAJ-DTV",
+        "id": "HLAJDTV.kr",
+        "logo": "https://i.imgur.com/JM4rxGU.png",
+        "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLDP-DTV",
+        "id": "HLDPDTV.kr",
+        "logo": "https://i.imgur.com/BBCoqIf.png",
+        "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "TV Chosun",
+        "id": "TVChosun.kr",
+        "logo": "https://i.imgur.com/62EwaCG.png",
+        "url": "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
     }
 ]

@@ -2393,14 +2393,6 @@
         "country": "RU"
     },
     {
-        "name": "Big Planet",
-        "id": "BigPlanet.ru",
-        "logo": "https://i.imgur.com/wyuqWTR.png",
-        "url": "https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv",
-        "categories": [],
-        "country": "RU"
-    },
-    {
         "name": "Bober",
         "id": "Bober.ru",
         "logo": "https://i.imgur.com/clWWhB8.png",
@@ -2429,62 +2421,12 @@
         "country": "RU"
     },
     {
-        "name": "Extreme Sports Channel",
-        "id": "ExtremeSportsChannel.ru",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
-        "url": "https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "FON Music",
         "id": "FONMusic.ru",
         "logo": "https://i.imgur.com/tXABQDE.png",
         "url": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Match! Planeta",
-        "id": "MatchPlaneta.ru",
-        "logo": "https://i.imgur.com/vhyMb9D.png",
-        "url": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "National Geographic Wild",
-        "id": "NationalGeographicWild.ru",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
-        "categories": [
-            "documentary"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "START World",
-        "id": "STARTWorld.ru",
-        "logo": "https://i.imgur.com/TXtY5eM.png",
-        "url": "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv",
-        "categories": [
-            "movies"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "TNT4 International",
-        "id": "TNT4International.ru",
-        "logo": "https://i.imgur.com/gBokU5i.png",
-        "url": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv",
-        "categories": [
-            "entertainment"
         ],
         "country": "RU"
     },
@@ -3070,6 +3012,16 @@
         "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "RU"
     }
