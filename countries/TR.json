@@ -665,16 +665,6 @@
         "country": "TR"
     },
     {
-        "name": "Cine 1",
-        "id": "Cine1.tr",
-        "logo": "",
-        "url": "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Konya Olay TV",
         "id": "KonyaOlayTV.tr",
         "logo": "https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",
@@ -1087,6 +1077,28 @@
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
             "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Spacetoon Turkey",
+        "id": "SpacetoonTurkey.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png",
+        "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Genc",
+        "id": "TRTGenc.tr",
+        "logo": "https://i.imgur.com/fCHQYWS.png",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "general",
+            "culture"
         ],
         "country": "TR"
     }

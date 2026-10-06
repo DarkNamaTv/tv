@@ -20,16 +20,6 @@
         "country": "KZ"
     },
     {
-        "name": "Balapan International",
-        "id": "BalapanInternational.kz",
-        "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
-        "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "KZ"
-    },
-    {
         "name": "Knowledge Network",
         "id": "KnowledgeNetwork.ca",
         "logo": "https://i.imgur.com/VfofmZZ.png",
@@ -90,6 +80,16 @@
             "kids"
         ],
         "country": "UG"
+    },
+    {
+        "name": "ORF Kids",
+        "id": "ORFKids.at",
+        "logo": "https://i.imgur.com/Zxuah2b.png",
+        "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
+        "categories": [
+            "kids"
+        ],
+        "country": "AT"
     },
     {
         "name": "Sat 7 Kids",
@@ -175,22 +175,22 @@
         "country": "AR"
     },
     {
-        "name": "Plim Plim",
-        "id": "PlimPlim.ar",
-        "logo": "https://i.imgur.com/MYc8srh.png",
-        "url": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Pakapaka",
         "id": "Pakapaka.ar",
         "logo": "https://i.imgur.com/GJbRWwH.png",
         "url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
         "categories": [
+            "kids"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Plim Plim",
+        "id": "PlimPlim.ar",
+        "logo": "https://i.imgur.com/MYc8srh.png",
+        "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
+        "categories": [
+            "animation",
             "kids"
         ],
         "country": "AR"
@@ -288,20 +288,20 @@
         "country": "PL"
     },
     {
-        "name": "CBeebies",
-        "id": "CBeebies.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
-        "url": "https://xyktmobile00.s.gy/ticketview/49092",
+        "name": "Disney Junior",
+        "id": "DisneyJunior.pl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "url": "http://57.128.231.171:8080/277/index.m3u8",
         "categories": [
             "kids"
         ],
         "country": "PL"
     },
     {
-        "name": "Disney Junior",
-        "id": "DisneyJunior.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "url": "http://57.128.231.171:8080/277/index.m3u8",
+        "name": "CBeebies",
+        "id": "CBeebies.pl",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+        "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -1137,22 +1137,21 @@
         "country": "US"
     },
     {
-        "name": "Nickelodeon en espanol",
-        "id": "Nickelodeonenespanol.us",
-        "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+        "name": "Super! iCarly",
+        "id": "SuperiCarly.us",
+        "logo": "https://i.imgur.com/IWcQfF2.png",
+        "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
         "categories": [
             "kids"
         ],
         "country": "US"
     },
     {
-        "name": "Nickelodeon Pluto TV",
-        "id": "NickelodeonPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+        "name": "Super! SpongeBob",
+        "id": "SuperSpongeBob.us",
+        "logo": "https://i.imgur.com/65wxNn4.png",
+        "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
         "categories": [
-            "animation",
             "kids"
         ],
         "country": "US"
@@ -1818,6 +1817,17 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Spacetoon Turkey",
+        "id": "SpacetoonTurkey.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png",
+        "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+        "categories": [
+            "animation",
             "kids"
         ],
         "country": "TR"

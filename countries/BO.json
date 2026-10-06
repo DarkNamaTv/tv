@@ -384,14 +384,6 @@
         "country": "BO"
     },
     {
-        "name": "Univalle Television",
-        "id": "UnivalleTelevision.bo",
-        "logo": "https://i.imgur.com/qgrWDIs.png",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
-        "categories": [],
-        "country": "BO"
-    },
-    {
         "name": "Radio Clasica TV",
         "id": "RadioClasicaTV.bo",
         "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
@@ -419,6 +411,47 @@
         "categories": [
             "general"
         ],
+        "country": "BO"
+    },
+    {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Imperial TV",
+        "id": "ImperialTV.bo",
+        "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Red Rubi",
+        "id": "RedRubi.bo",
+        "logo": "https://i.imgur.com/Y4KOypc.jpeg",
+        "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Vos TV",
+        "id": "VosTV.bo",
+        "logo": "https://i.imgur.com/Cm1Xjeq.png",
+        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
+        "categories": [],
         "country": "BO"
     }
 ]

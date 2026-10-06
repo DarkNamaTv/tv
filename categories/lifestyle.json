@@ -10,6 +10,19 @@
         "country": "MC"
     },
     {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "13P",
         "id": "13P.cl",
         "logo": "https://i.imgur.com/R6D228s.png",
@@ -149,16 +162,6 @@
         "id": "KappaTV.in",
         "logo": "https://i.imgur.com/e9qTjgB.png",
         "url": "https://cdn.pishow.tv/ott/live/1123/master.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Fashion India",
-        "id": "FashionIndia.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Fashion_India.png",
-        "url": "http://51.75.127.199:3141/fashionindia/index.m3u8",
         "categories": [
             "lifestyle"
         ],
@@ -706,16 +709,6 @@
         "country": "RO"
     },
     {
-        "name": "Class TV Moda",
-        "id": "ClassTVModa.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png",
-        "url": "https://racitonsen.s.gy/CLASS_TV_MODA",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "FashionTV Secrets",
         "id": "FashionTVSecrets.fr",
         "logo": "https://i.ibb.co/fVGJyCC8/w512.png",
@@ -751,16 +744,6 @@
         "id": "HANDICAPTV.fr",
         "logo": "https://i.imgur.com/vXbAeD0.png",
         "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "FashionTV Asia",
-        "id": "FashionTVAsia.fr",
-        "logo": "https://i.imgur.com/ucTh9tO.png",
-        "url": "http://58.8.186.128:10006/bysid/2616",
         "categories": [
             "lifestyle"
         ],

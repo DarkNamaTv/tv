@@ -310,16 +310,6 @@
         "country": "BR"
     },
     {
-        "name": "AXN",
-        "id": "AXN.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-        "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Telecine Action",
         "id": "TelecineAction.br",
         "logo": "https://i.imgur.com/BHYWG0h.png",
@@ -404,16 +394,6 @@
         "id": "KinoPolska.pl",
         "logo": "https://i.imgur.com/lbl8K23.png",
         "url": "http://57.128.231.171:8080/238/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "FILMBOX+ Action",
-        "id": "FILMBOXPlusAction.pl",
-        "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png",
-        "url": "https://racitonsen.s.gy/FB_ACTION_PL",
         "categories": [
             "movies"
         ],
@@ -1021,16 +1001,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Movies",
-        "id": "StarMovies.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/starmovies/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Movies Select",
         "id": "StarMoviesSelect.in",
         "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",
@@ -1171,16 +1141,6 @@
         "country": "IN"
     },
     {
-        "name": "Jalsha Movies",
-        "id": "JalshaMovies.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg",
-        "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Movies Now",
         "id": "MoviesNow.in",
         "logo": "https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540",
@@ -1249,56 +1209,6 @@
             "movies"
         ],
         "country": "IR"
-    },
-    {
-        "name": "True Film 1",
-        "id": "TrueFilm1.th",
-        "logo": "https://i.imgur.com/z9XvYLe.png",
-        "url": "http://58.8.186.128:10004/bysid/2415",
-        "categories": [
-            "movies"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "True Film 2",
-        "id": "TrueFilm2.th",
-        "logo": "https://i.imgur.com/4K1HbOB.png",
-        "url": "http://58.8.186.128:10004/bysid/2432",
-        "categories": [
-            "movies"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "True Film Asia",
-        "id": "TrueFilmAsia.th",
-        "logo": "https://i.imgur.com/Ci872im.png",
-        "url": "http://58.8.186.128:10004/bysid/2416",
-        "categories": [
-            "movies"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "True Movie Hits",
-        "id": "TrueMovieHits.th",
-        "logo": "https://i.imgur.com/65kk1R3.png",
-        "url": "http://58.8.186.128:10003/bysid/2325",
-        "categories": [
-            "movies"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "True Thai Film",
-        "id": "TrueThaiFilm.th",
-        "logo": "https://i.imgur.com/MfLY3LF.png",
-        "url": "http://58.8.186.128:10003/bysid/2326",
-        "categories": [
-            "movies"
-        ],
-        "country": "TH"
     },
     {
         "name": "Armenia Premium",
@@ -1480,16 +1390,6 @@
         "id": "CCTVTheFirstTheater.cn",
         "logo": "https://i.imgur.com/eFxD3hq.png",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
-        "categories": [
-            "movies"
-        ],
-        "country": "CN"
-    },
-    {
-        "name": "CND Film Middle School Channel",
-        "id": "CNDFilmMiddleSchoolChannel.cn",
-        "logo": "https://i.imgur.com/4uG8HsQ.png",
-        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
         "categories": [
             "movies"
         ],
@@ -2060,12 +1960,13 @@
         "country": "US"
     },
     {
-        "name": "Paramount Movie Channel",
-        "id": "ParamountMovieChannel.us",
-        "logo": "https://i.imgur.com/sj5h9bl.png",
-        "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
+        "name": "Classic Movie Westerns",
+        "id": "ClassicMovieWesterns.us",
+        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
         "categories": [
-            "movies"
+            "movies",
+            "series"
         ],
         "country": "US"
     },
@@ -2310,6 +2211,17 @@
         "url": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Star Trek",
+        "id": "PlutoTVStarTrek.de",
+        "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
+        "categories": [
+            "movies",
+            "series"
         ],
         "country": "DE"
     },
@@ -2826,16 +2738,6 @@
         "country": "RU"
     },
     {
-        "name": "Filmax",
-        "id": "Filmax.pk",
-        "logo": "https://i.imgur.com/eLmdZ6k.png",
-        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "MyTime Movie Network",
         "id": "MyTimeMovieNetwork.es",
         "logo": "https://i.imgur.com/pw4NZK1.png",
@@ -3017,16 +2919,6 @@
         "country": "MX"
     },
     {
-        "name": "CineLatino",
-        "id": "CineLatino.mx",
-        "logo": "https://i.imgur.com/2V0R0xT.png",
-        "url": "https://xyktmobile00.s.gy/PPV905_CINE_LATINO",
-        "categories": [
-            "movies"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "De Pelicula Plus",
         "id": "DePeliculaPlus.mx",
         "logo": "https://i.imgur.com/MMhSmDK.png",
@@ -3051,6 +2943,16 @@
         "id": "ClaroCinema.mx",
         "logo": "https://i.imgur.com/SOLGQxQ.jpg",
         "url": "http://158.172.217.18:8000/play/a00d/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "CineLatino",
+        "id": "CineLatino.mx",
+        "logo": "https://i.imgur.com/2V0R0xT.png",
+        "url": "http://200.115.120.1:8000/play/ca129/index.m3u8",
         "categories": [
             "movies"
         ],

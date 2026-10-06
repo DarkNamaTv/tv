@@ -252,40 +252,10 @@
         "country": "ID"
     },
     {
-        "name": "SPOTV",
-        "id": "SPOTV.id",
-        "logo": "https://i.imgur.com/HaoVsm5.png",
-        "url": "http://58.8.186.128:10006/bysid/2614",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "SPOTV 2",
-        "id": "SPOTV2.id",
-        "logo": "https://i.imgur.com/YD8fbTH.png",
-        "url": "http://58.8.186.128:10006/bysid/2630",
-        "categories": [
-            "sports"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "TyC Sports",
         "id": "TyCSports.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal Showsport",
-        "id": "CanalShowsport.ar",
-        "logo": "https://i.imgur.com/0L9tW3Z.png",
-        "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
         "categories": [
             "sports"
         ],
@@ -438,16 +408,6 @@
         "id": "ExtremeSportsChannelPolska.pl",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
         "url": "http://57.128.231.171:8080/262/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "Polsat Sport Premium 2",
-        "id": "PolsatSportPremium2.pl",
-        "logo": "https://i.imgur.com/myyWeXY.png",
-        "url": "https://racitonsen.s.gy/PSP2_SHD",
         "categories": [
             "sports"
         ],
@@ -714,26 +674,6 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 5",
-        "id": "SonySportsTen5.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 3",
-        "id": "StarSports3.in",
-        "logo": "https://i.imgur.com/dbp2Mig.png",
-        "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Sports Select 1",
         "id": "StarSportsSelect1.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h.jpg",
@@ -754,20 +694,20 @@
         "country": "IN"
     },
     {
+        "name": "Star Sports Khel",
+        "id": "StarSportsKhel.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg",
+        "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "T Sports 7",
         "id": "TSports7.th",
         "logo": "https://i.imgur.com/KyI0s5n.png",
         "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "True Tennis",
-        "id": "TrueTennis.th",
-        "logo": "https://i.imgur.com/Zu72OYA.png",
-        "url": "http://58.8.186.128:10004/bysid/2418",
         "categories": [
             "sports"
         ],
@@ -802,36 +742,6 @@
             "sports"
         ],
         "country": "KP"
-    },
-    {
-        "name": "Arena Sport Premium M1",
-        "id": "ArenaSportPremiumM1.mk",
-        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png",
-        "url": "https://racitonsen.s.gy/AM1P",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
-    },
-    {
-        "name": "Arena Sport Premium M3",
-        "id": "ArenaSportPremiumM3.mk",
-        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png",
-        "url": "https://racitonsen.s.gy/AM3P",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
-    },
-    {
-        "name": "Arena Sport Premium M2",
-        "id": "ArenaSportPremiumM2.mk",
-        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png",
-        "url": "https://racitonsen.s.gy/AM2P",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
     },
     {
         "name": "Futbol",
@@ -1580,16 +1490,6 @@
         "id": "GolfChannelLatinAmerica.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
         "url": "http://38.252.238.18:8000/play/a01i/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Bellator MMA",
-        "id": "BellatorMMA.us",
-        "logo": "https://i.imgur.com/VBKoLHk.png",
-        "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
         "categories": [
             "sports"
         ],
@@ -2524,26 +2424,6 @@
         "id": "RMCSport1.fr",
         "logo": "https://i.imgur.com/NsFTG7u.png",
         "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Canal+ Sport",
-        "id": "CanalPlusSport.fr",
-        "logo": "https://i.imgur.com/EOXnU15.png",
-        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Golf +",
-        "id": "GolfPlus.fr",
-        "logo": "https://i.imgur.com/WHnddkg.png",
-        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
         "categories": [
             "sports"
         ],

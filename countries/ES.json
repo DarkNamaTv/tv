@@ -1496,16 +1496,6 @@
         "country": "ES"
     },
     {
-        "name": "Antena 3 Internacional",
-        "id": "Antena3Internacional.es",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
-        "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Onda 15 TV",
         "id": "Onda15TV.es",
         "logo": "https://i.imgur.com/mUrZz9O.png",
@@ -1637,6 +1627,55 @@
         "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
         "url": "http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0",
         "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "Antena 3 Internacional",
+        "id": "Antena3Internacional.es",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
+        "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Canal Donana",
+        "id": "CanalDonana.es",
+        "logo": "https://i.imgur.com/0WrKIxm.png",
+        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "La 2 Catalunya",
+        "id": "La2Catalunya.es",
+        "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
+        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+        "categories": [
+            "general",
+            "public"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Lancelot TV",
+        "id": "LancelotTV.es",
+        "logo": "https://i.imgur.com/RlzVIJP.png",
+        "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "TVR",
+        "id": "TVR.es",
+        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
+        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "ES"
     }
 ]
