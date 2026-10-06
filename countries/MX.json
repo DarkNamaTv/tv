@@ -789,16 +789,6 @@
         "country": "MX"
     },
     {
-        "name": "SIPSE TVCUN 8.1",
-        "id": "SIPSETVCUN81.mx",
-        "logo": "https://i.imgur.com/uiTgClU.png",
-        "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Sistema Michoacano de TV",
         "id": "SistemaMichoacanodeTV.mx",
         "logo": "https://i.imgur.com/7MXF4Fd.png",
@@ -1057,14 +1047,6 @@
         "country": "MX"
     },
     {
-        "name": "Canal 10 Durango",
-        "id": "Canal10Durango.mx",
-        "logo": "https://i.imgur.com/H34quHQ.png",
-        "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
-        "categories": [],
-        "country": "MX"
-    },
-    {
         "name": "Tele Yucatan",
         "id": "TeleYucatan.mx",
         "logo": "https://i.imgur.com/XkpDSmO.png",
@@ -1091,16 +1073,6 @@
         "country": "MX"
     },
     {
-        "name": "ILCE Canal 15 Summa Saberes",
-        "id": "ILCECanal15SummaSaberes.mx",
-        "logo": "https://i.imgur.com/r7czgOc.png",
-        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Tlnovelas Mexico",
         "id": "TlnovelasMexico.mx",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",
@@ -1111,10 +1083,30 @@
         "country": "MX"
     },
     {
-        "name": "Imagen TV",
-        "id": "ImagenTV.mx",
-        "logo": "https://i.imgur.com/lKrRvtS.png",
-        "url": "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8",
+        "name": "15TV",
+        "id": "15TV.mx",
+        "logo": "https://i.imgur.com/CZ8LKmA.png",
+        "url": "https://servilive.com:3380/live/v3n6thy7glive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Antena TV",
+        "id": "AntenaTV.mx",
+        "logo": "https://i.imgur.com/1sAgSME.png",
+        "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Las Estrellas",
+        "id": "LasEstrellas.mx",
+        "logo": "https://i.imgur.com/g5ShxZ7.png",
+        "url": "http://45.189.151.7:8000/play/a07s",
         "categories": [
             "general"
         ],

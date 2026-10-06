@@ -1595,16 +1595,6 @@
         "country": "CL"
     },
     {
-        "name": "Caracola TV",
-        "id": "CaracolaTV.cl",
-        "logo": "https://i.imgur.com/QGvfqug.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Cultura Online",
         "id": "CulturaOnline.cl",
         "logo": "https://i.imgur.com/w8td5Lq.png",
@@ -1699,14 +1689,6 @@
         "country": "CL"
     },
     {
-        "name": "Canal Survision Alerce",
-        "id": "CanalSurvisionAlerce.cl",
-        "logo": "https://i.imgur.com/FknQYSp.png",
-        "url": "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "ISA TV",
         "id": "ISATV.cl",
         "logo": "https://i.imgur.com/24qGdyn.jpeg",
@@ -1779,6 +1761,100 @@
         "id": "RTCTelevision.cl",
         "logo": "https://i.imgur.com/w91IBj7.png",
         "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "AM Canal",
+        "id": "AMCanal.cl",
+        "logo": "https://i.imgur.com/wfi9NXL.png",
+        "url": "https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ChileVision",
+        "id": "ChileVision.cl",
+        "logo": "https://i.imgur.com/PRijvR0.png",
+        "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Red",
+        "id": "LaRed.cl",
+        "logo": "https://i.imgur.com/nJOVM6e.png",
+        "url": "https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Maray TV",
+        "id": "MarayTV.cl",
+        "logo": "https://i.imgur.com/YinMA8c.png",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Mega 2",
+        "id": "Mega2.cl",
+        "logo": "https://i.imgur.com/c1ME00r.png",
+        "url": "http://15.204.246.24:8080/Mega2HD/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Meganoticias Ahora",
+        "id": "MeganoticiasAhora.cl",
+        "logo": "https://i.imgur.com/JCVEqTc.png",
+        "url": "http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio El Sembrador",
+        "id": "RadioElSembrador.cl",
+        "logo": "https://i.imgur.com/gBpMAc3.png",
+        "url": "https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "TV Senado",
+        "id": "TVSenado.cl",
+        "logo": "https://i.imgur.com/CNUZ6ig.png",
+        "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "TV UCT",
+        "id": "TVUCT.cl",
+        "logo": "https://i.imgur.com/tpI0WQH.png",
+        "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Via X",
+        "id": "ViaX.cl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",
+        "url": "http://45.170.130.224:8000/play/a025/index.m3u8",
         "categories": [],
         "country": "CL"
     }

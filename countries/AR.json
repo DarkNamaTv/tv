@@ -279,16 +279,6 @@
         "country": "AR"
     },
     {
-        "name": "Eco TV",
-        "id": "EcoTV.ar",
-        "logo": "https://i.imgur.com/V2ldYVd.jpg",
-        "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 2 Gualeguay",
         "id": "Canal2Gualeguay.ar",
         "logo": "https://i.imgur.com/TOlncyp.png",
@@ -622,16 +612,6 @@
         "country": "AR"
     },
     {
-        "name": "Litus TV",
-        "id": "LitusTV.ar",
-        "logo": "https://i.imgur.com/QIGSf4L.png",
-        "url": "https://edge.enhdtv.com/litustv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Santa Fe Canal",
         "id": "SantaFeCanal.ar",
         "logo": "https://i.imgur.com/C1mY5X4.png",
@@ -812,14 +792,6 @@
         "categories": [
             "general"
         ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 4 San Juan",
-        "id": "Canal4SanJuan.ar",
-        "logo": "https://i.imgur.com/MsCnwRA.png",
-        "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-        "categories": [],
         "country": "AR"
     },
     {
@@ -1112,18 +1084,6 @@
         "country": "AR"
     },
     {
-        "name": "LAMIL35 TV",
-        "id": "LAMIL35TV.ar",
-        "logo": "https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg",
-        "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
-        "categories": [
-            "classic",
-            "entertainment",
-            "animation"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Telefe",
         "id": "Telefe.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
@@ -1270,6 +1230,86 @@
             "general",
             "family",
             "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 7 Neuquen",
+        "id": "Canal7Neuquen.ar",
+        "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Corrientes TV",
+        "id": "CorrientesTV.ar",
+        "logo": "https://i.imgur.com/7PBkvRp.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Cronica TV",
+        "id": "CronicaTV.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",
+        "url": "http://190.128.214.97:64333/play/a010/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "El Nueve",
+        "id": "ElNueve.ar",
+        "logo": "https://i.imgur.com/cJHP7bU.png",
+        "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Encuentro",
+        "id": "Encuentro.ar",
+        "logo": "https://i.imgur.com/uBBZR1X.png",
+        "url": "http://190.128.214.97:64333/play/a014/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "MusicTop",
+        "id": "MusicTop.ar",
+        "logo": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
+        "url": "http://190.128.214.97:64333/play/a06o/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Pakapaka",
+        "id": "Pakapaka.ar",
+        "logo": "https://i.imgur.com/GJbRWwH.png",
+        "url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Radio Yguazu TV",
+        "id": "RadioYguazuTV.ar",
+        "logo": "https://i.imgur.com/kVi0ICm.png",
+        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "AR"
     }

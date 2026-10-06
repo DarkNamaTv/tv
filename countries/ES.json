@@ -826,17 +826,6 @@
         "country": "ES"
     },
     {
-        "name": "La 2 Catalunya",
-        "id": "La2Catalunya.es",
-        "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
-        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-        "categories": [
-            "general",
-            "public"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Antena 3",
         "id": "Antena3.es",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg",
@@ -1155,16 +1144,6 @@
         "id": "EmpordaTV.es",
         "logo": "https://i.imgur.com/jc0lUbX.png",
         "url": "https://video3.lhdserver.es/empordatv2/live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Lancelot TV",
-        "id": "LancelotTV.es",
-        "logo": "https://i.imgur.com/RlzVIJP.png",
-        "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
         "categories": [
             "general"
         ],
@@ -1643,13 +1622,21 @@
         "country": "ES"
     },
     {
-        "name": "Crimen & Historia",
-        "id": "CrimenHistoria.es",
-        "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8",
+        "name": "Canal 7 TeleValencia",
+        "id": "Canal7TeleValencia.es",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
         "categories": [
-            "documentary"
+            "general"
         ],
+        "country": "ES"
+    },
+    {
+        "name": "TVE Internacional Europe",
+        "id": "TVEInternacionalEurope.es",
+        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+        "url": "http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0",
+        "categories": [],
         "country": "ES"
     }
 ]

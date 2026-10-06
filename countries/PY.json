@@ -40,16 +40,6 @@
         "country": "PY"
     },
     {
-        "name": "RCC TV",
-        "id": "RCCTV.py",
-        "logo": "https://i.imgur.com/qdjBnRl.png",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-        "categories": [
-            "religious"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Invasiva TV",
         "id": "InvasivaTV.py",
         "logo": "https://i.imgur.com/R9E6jEC.png",
@@ -419,16 +409,6 @@
         "country": "PY"
     },
     {
-        "name": "Red Digital",
-        "id": "RedDigital.py",
-        "logo": "https://i.imgur.com/3jj0MQP.jpg",
-        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Regional TV Yaguaron",
         "id": "RegionalTVYaguaron.py",
         "logo": "https://i.imgur.com/iL5JnSy.jpeg",
@@ -553,6 +533,47 @@
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "AGR FM TV",
+        "id": "AGRFMTV.py",
+        "logo": "https://i.imgur.com/tg6EjTU.png",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Alt Media TV",
+        "id": "AltMediaTV.py",
+        "logo": "https://i.imgur.com/YkOgWMc.png",
+        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Caritas TV",
+        "id": "CaritasTV.py",
+        "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+        "categories": [
+            "religious",
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Educanal",
+        "id": "Educanal.py",
+        "logo": "https://i.imgur.com/857OkFf.png",
+        "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
+        "categories": [
+            "education"
         ],
         "country": "PY"
     }

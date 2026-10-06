@@ -252,6 +252,26 @@
         "country": "ID"
     },
     {
+        "name": "SPOTV",
+        "id": "SPOTV.id",
+        "logo": "https://i.imgur.com/HaoVsm5.png",
+        "url": "http://58.8.186.128:10006/bysid/2614",
+        "categories": [
+            "sports"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "SPOTV 2",
+        "id": "SPOTV2.id",
+        "logo": "https://i.imgur.com/YD8fbTH.png",
+        "url": "http://58.8.186.128:10006/bysid/2630",
+        "categories": [
+            "sports"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "TyC Sports",
         "id": "TyCSports.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
@@ -384,6 +404,16 @@
         "country": "BR"
     },
     {
+        "name": "SporTV 2",
+        "id": "SporTV2.br",
+        "logo": "https://i.imgur.com/pBiUnb2.png",
+        "url": "http://195.178.110.110/sportv2/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "RACER International",
         "id": "RACERInternational.pl",
         "logo": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
@@ -414,6 +444,16 @@
         "country": "PL"
     },
     {
+        "name": "Polsat Sport Premium 2",
+        "id": "PolsatSportPremium2.pl",
+        "logo": "https://i.imgur.com/myyWeXY.png",
+        "url": "https://racitonsen.s.gy/PSP2_SHD",
+        "categories": [
+            "sports"
+        ],
+        "country": "PL"
+    },
+    {
         "name": "Arena Sport 1",
         "id": "ArenaSport1.sk",
         "logo": "https://i.imgur.com/2qf67zW.png",
@@ -434,14 +474,84 @@
         "country": "SK"
     },
     {
-        "name": "Al Iraqia Sport",
-        "id": "AlIraqiaSport.iq",
-        "logo": "https://i.imgur.com/DrrlxTO.png",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+        "name": "Canal+ Sport 2 SK",
+        "id": "CanalPlusSport2SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0",
         "categories": [
             "sports"
         ],
-        "country": "IQ"
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 3 SK",
+        "id": "CanalPlusSport3SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 4 SK",
+        "id": "CanalPlusSport4SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/CANAL%2B_SPORT_4.svg/revision/latest?cb=20241028202820",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 5 SK",
+        "id": "CanalPlusSport5SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/CANAL%2B_SPORT_5.svg/revision/latest?cb=20241028202829",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 6 SK",
+        "id": "CanalPlusSport6SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal%2B_Sport_6.svg/revision/latest?cb=20251106141229",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 7 SK",
+        "id": "CanalPlusSport7SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/03/Canal%2B_Sport_7.svg/revision/latest?cb=20251106141245",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 8 SK",
+        "id": "CanalPlusSport8SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/64/Canal%2B_Sport_8.svg/revision/latest?cb=20251106141257",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport SK",
+        "id": "CanalPlusSportSK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
     },
     {
         "name": "Sport",
@@ -514,50 +624,20 @@
         "country": "HU"
     },
     {
+        "name": "Match4",
+        "id": "Match4.hu",
+        "logo": "https://i.imgur.com/hzexBLX.png",
+        "url": "http://141.94.193.53:80/Match4_HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "HU"
+    },
+    {
         "name": "Star Sports Select 2",
         "id": "StarSportsSelect2.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg",
         "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 1",
-        "id": "SonySportsTen1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
-        "url": "https://cloudplay-sonyliv.pages.dev/ten1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 2",
-        "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
-        "url": "https://cloudplay-sonyliv.pages.dev/ten2.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 3 Hindi",
-        "id": "SonySportsTen3Hindi.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-        "url": "https://cloudplay-sonyliv.pages.dev/ten3.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 5",
-        "id": "SonySportsTen5.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
-        "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
         "categories": [
             "sports"
         ],
@@ -584,16 +664,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports Khel",
-        "id": "StarSportsKhel.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg",
-        "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Sports 2",
         "id": "StarSports2.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",
@@ -614,10 +684,70 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 4",
-        "id": "SonySportsTen4.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png",
-        "url": "https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8",
+        "name": "Sony Sports Ten 1",
+        "id": "SonySportsTen1.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 3 Hindi",
+        "id": "SonySportsTen3Hindi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+        "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 5",
+        "id": "SonySportsTen5.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 3",
+        "id": "StarSports3.in",
+        "logo": "https://i.imgur.com/dbp2Mig.png",
+        "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports Select 1",
+        "id": "StarSportsSelect1.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h.jpg",
+        "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Ten Cricket",
+        "id": "TenCricket.in",
+        "logo": "https://i.imgur.com/K5XIFuW.png",
+        "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls",
         "categories": [
             "sports"
         ],
@@ -628,6 +758,16 @@
         "id": "TSports7.th",
         "logo": "https://i.imgur.com/KyI0s5n.png",
         "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "TH"
+    },
+    {
+        "name": "True Tennis",
+        "id": "TrueTennis.th",
+        "logo": "https://i.imgur.com/Zu72OYA.png",
+        "url": "http://58.8.186.128:10004/bysid/2418",
         "categories": [
             "sports"
         ],
@@ -682,6 +822,26 @@
             "sports"
         ],
         "country": "MK"
+    },
+    {
+        "name": "Arena Sport Premium M2",
+        "id": "ArenaSportPremiumM2.mk",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png",
+        "url": "https://racitonsen.s.gy/AM2P",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Futbol",
+        "id": "Futbol.tj",
+        "logo": "https://i.imgur.com/RngmCDn.png",
+        "url": "http://185.121.1.163:8083/FootballHD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "TJ"
     },
     {
         "name": "Premier Sports",
@@ -1426,10 +1586,20 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Esportes",
-        "id": "PlutoTVEsportes.us",
-        "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
-        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "name": "Bellator MMA",
+        "id": "BellatorMMA.us",
+        "logo": "https://i.imgur.com/VBKoLHk.png",
+        "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WWE Network",
+        "id": "WWENetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png",
+        "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
         "categories": [
             "sports"
         ],
@@ -1826,16 +1996,6 @@
         "country": "RU"
     },
     {
-        "name": "Vital Drive",
-        "id": "VitalDrive.ru",
-        "logo": "https://i.imgur.com/XoR9zLh.png",
-        "url": "https://tv.a21network.ru/stream/37909/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Okko Futbol",
         "id": "OkkoFutbol.ru",
         "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png",
@@ -1850,6 +2010,26 @@
         "id": "Sportivnyy.ru",
         "logo": "https://i.imgur.com/ujS6mMo.png",
         "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Match! Planeta",
+        "id": "MatchPlaneta.ru",
+        "logo": "https://i.imgur.com/vhyMb9D.png",
+        "url": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Russian Extreme Ultra",
+        "id": "RussianExtremeUltra.ru",
+        "logo": "https://i.imgur.com/Dk8VbAc.png",
+        "url": "http://46.53.200.153:7777/play/test_krask1/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -2118,6 +2298,16 @@
         "country": "DO"
     },
     {
+        "name": "Tour Spot TV",
+        "id": "TourSpotTV.do",
+        "logo": "https://imgur.com/khj869k.png",
+        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Realitatea Sportiva",
         "id": "RealitateaSportiva.ro",
         "logo": "https://i.imgur.com/BaEyZto.png",
@@ -2183,6 +2373,16 @@
         "id": "PrimaSport5.ro",
         "logo": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
         "url": "https://dokagents.site/live/pr5/mono.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Voyo Sport 1",
+        "id": "VoyoSport1.ro",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0",
         "categories": [
             "sports"
         ],
@@ -2324,6 +2524,26 @@
         "id": "RMCSport1.fr",
         "logo": "https://i.imgur.com/NsFTG7u.png",
         "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Canal+ Sport",
+        "id": "CanalPlusSport.fr",
+        "logo": "https://i.imgur.com/EOXnU15.png",
+        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Golf +",
+        "id": "GolfPlus.fr",
+        "logo": "https://i.imgur.com/WHnddkg.png",
+        "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
         "categories": [
             "sports"
         ],

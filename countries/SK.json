@@ -220,14 +220,6 @@
         "country": "SK"
     },
     {
-        "name": "Senzi",
-        "id": "Senzi.sk",
-        "logo": "https://i.imgur.com/1qJMmBu.png",
-        "url": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
-        "categories": [],
-        "country": "SK"
-    },
-    {
         "name": "Prima Krimi SK",
         "id": "PrimaKrimiSK.sk",
         "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png",
@@ -282,14 +274,6 @@
         "country": "SK"
     },
     {
-        "name": "TV Ruzinov",
-        "id": "TVRuzinov.sk",
-        "logo": "https://i.imgur.com/bUGuntH.png",
-        "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
-        "categories": [],
-        "country": "SK"
-    },
-    {
         "name": "NZTV",
         "id": "NZTV.sk",
         "logo": "https://i.imgur.com/jGZlnzT.png",
@@ -316,6 +300,86 @@
         "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 2 SK",
+        "id": "CanalPlusSport2SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 3 SK",
+        "id": "CanalPlusSport3SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 4 SK",
+        "id": "CanalPlusSport4SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/CANAL%2B_SPORT_4.svg/revision/latest?cb=20241028202820",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 5 SK",
+        "id": "CanalPlusSport5SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/CANAL%2B_SPORT_5.svg/revision/latest?cb=20241028202829",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 6 SK",
+        "id": "CanalPlusSport6SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal%2B_Sport_6.svg/revision/latest?cb=20251106141229",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 7 SK",
+        "id": "CanalPlusSport7SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/03/Canal%2B_Sport_7.svg/revision/latest?cb=20251106141245",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport 8 SK",
+        "id": "CanalPlusSport8SK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/64/Canal%2B_Sport_8.svg/revision/latest?cb=20251106141257",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Canal+ Sport SK",
+        "id": "CanalPlusSportSK.sk",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
         ],
         "country": "SK"
     }

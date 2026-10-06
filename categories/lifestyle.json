@@ -10,19 +10,6 @@
         "country": "MC"
     },
     {
-        "name": "CEACOM TV",
-        "id": "CEACOMTV.bo",
-        "logo": "https://i.imgur.com/hutdRfk.png",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "categories": [
-            "news",
-            "lifestyle",
-            "music",
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "13P",
         "id": "13P.cl",
         "logo": "https://i.imgur.com/R6D228s.png",
@@ -93,6 +80,17 @@
             "lifestyle"
         ],
         "country": "BR"
+    },
+    {
+        "name": "Nuta Gold",
+        "id": "NutaGold.pl",
+        "logo": "https://i.imgur.com/BEs160o.png",
+        "url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
+        "categories": [
+            "lifestyle",
+            "documentary"
+        ],
+        "country": "PL"
     },
     {
         "name": "TV Paprika",
@@ -473,16 +471,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Viagens",
-        "id": "PlutoTVViagens.us",
-        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
-        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TV Paprika",
         "id": "TVPaprika.cz",
         "logo": "https://i.imgur.com/NSabYyT.png",
@@ -718,6 +706,16 @@
         "country": "RO"
     },
     {
+        "name": "Class TV Moda",
+        "id": "ClassTVModa.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png",
+        "url": "https://racitonsen.s.gy/CLASS_TV_MODA",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "FashionTV Secrets",
         "id": "FashionTVSecrets.fr",
         "logo": "https://i.ibb.co/fVGJyCC8/w512.png",
@@ -753,6 +751,16 @@
         "id": "HANDICAPTV.fr",
         "logo": "https://i.imgur.com/vXbAeD0.png",
         "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "FashionTV Asia",
+        "id": "FashionTVAsia.fr",
+        "logo": "https://i.imgur.com/ucTh9tO.png",
+        "url": "http://58.8.186.128:10006/bysid/2616",
         "categories": [
             "lifestyle"
         ],

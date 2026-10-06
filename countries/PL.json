@@ -589,26 +589,6 @@
         "country": "PL"
     },
     {
-        "name": "BTB",
-        "id": "BTB.pl",
-        "logo": "https://i.imgur.com/U8mcRal.png",
-        "url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "BTB 2",
-        "id": "BTB2.pl",
-        "logo": "https://i.imgur.com/C5g0ejM.png",
-        "url": "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "Viasat True Crime",
         "id": "ViasatTrueCrime.pl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Viasat_True_Crime_%2820.05.2026%29.png",
@@ -961,6 +941,145 @@
         "id": "4FunTV.pl",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "4 Fun Dance",
+        "id": "4FunDance.pl",
+        "logo": "https://i.imgur.com/ZEWHe1B.png",
+        "url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Eska Rock TV",
+        "id": "EskaRockTV.pl",
+        "logo": "https://i.imgur.com/o0Fg19Q.png",
+        "url": "http://92.114.85.87:8016/play/a005/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Eska TV",
+        "id": "EskaTV.pl",
+        "logo": "https://i.imgur.com/N0eH0Cg.png",
+        "url": "http://92.114.85.87:8018/play/a00h/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Eska TV Extra",
+        "id": "EskaTVExtra.pl",
+        "logo": "https://i.imgur.com/pZAFshQ.png",
+        "url": "http://92.114.85.87:8016/play/a008/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Fokus TV",
+        "id": "FokusTV.pl",
+        "logo": "https://i.imgur.com/emWWd5k.png",
+        "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Newsmax Polska",
+        "id": "NewsmaxPolska.pl",
+        "logo": "https://i.imgur.com/2NhPCrY.png",
+        "url": "http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0",
+        "categories": [
+            "news"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Nuta Gold",
+        "id": "NutaGold.pl",
+        "logo": "https://i.imgur.com/BEs160o.png",
+        "url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
+        "categories": [
+            "lifestyle",
+            "documentary"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Polsat Music",
+        "id": "PolsatMusic.pl",
+        "logo": "https://i.imgur.com/uXygf1l.png",
+        "url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Polsat Sport Premium 2",
+        "id": "PolsatSportPremium2.pl",
+        "logo": "https://i.imgur.com/myyWeXY.png",
+        "url": "https://racitonsen.s.gy/PSP2_SHD",
+        "categories": [
+            "sports"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Polsat Viasat Explore",
+        "id": "PolsatViasatExplore.pl",
+        "logo": "https://i.imgur.com/gDlqO9h.png",
+        "url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Polsat Viasat Nature",
+        "id": "PolsatViasatNature.pl",
+        "logo": "https://i.imgur.com/TUcM0oS.png",
+        "url": "http://92.114.85.87:8016/play/a004/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Super Polsat",
+        "id": "SuperPolsat.pl",
+        "logo": "https://i.imgur.com/6KXJRHc.png",
+        "url": "http://92.114.85.87:8004/play/a00c/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "TVC Super",
+        "id": "TVCSuper.pl",
+        "logo": "https://radiopolska.pl/files/thumb/32049b3594ccdd5/300",
+        "url": "http://92.114.85.87:8010/play/a00n/index.m3u8",
+        "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "VOX Music TV",
+        "id": "VOXMusicTV.pl",
+        "logo": "https://i.imgur.com/N993msF.png",
+        "url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
         "categories": [
             "music"
         ],

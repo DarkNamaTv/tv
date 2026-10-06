@@ -696,16 +696,6 @@
         "country": "PE"
     },
     {
-        "name": "Antares Television",
-        "id": "AntaresTelevision.pe",
-        "logo": "https://i.imgur.com/05gwtk2.png",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Teleselva",
         "id": "Teleselva.pe",
         "logo": "https://i.imgur.com/cu7hTn8.png",
@@ -960,41 +950,11 @@
         "country": "PE"
     },
     {
-        "name": "TV MAR",
-        "id": "TVMAR.pe",
-        "logo": "https://i.imgur.com/VXvbNjT.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "TV+ Chincha",
-        "id": "TVPlusChincha.pe",
-        "logo": "https://i.imgur.com/bjQpQsu.jpeg",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Ucayalina de Television",
         "id": "UcayalinadeTelevision.pe",
         "logo": "https://i.imgur.com/jBhfcqy.png",
         "url": "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8",
         "categories": [],
-        "country": "PE"
-    },
-    {
-        "name": "Zeleve TV",
-        "id": "ZeleveTV.pe",
-        "logo": "https://i.imgur.com/CGWaunJ.jpeg",
-        "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "PE"
     },
     {
@@ -1008,13 +968,37 @@
         "country": "PE"
     },
     {
-        "name": "TV Kaliente",
-        "id": "TVKaliente.pe",
-        "logo": "https://i.imgur.com/MFQpLuQ.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+        "name": "Amazonica TV",
+        "id": "AmazonicaTV.pe",
+        "logo": "https://i.imgur.com/22ebHAX.jpeg",
+        "url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
         "categories": [
-            "entertainment"
+            "general"
         ],
+        "country": "PE"
+    },
+    {
+        "name": "DeltaTV",
+        "id": "DeltaTV.pe",
+        "logo": "https://i.imgur.com/crttwAR.png",
+        "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Senal Peru TV",
+        "id": "SenalPeruTV.pe",
+        "logo": "https://i.imgur.com/1q0R6R9.png",
+        "url": "https://livestream.perucast.com/hls/stream.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Universitaria TV",
+        "id": "UniversitariaTV.pe",
+        "logo": "https://i.imgur.com/OcDimHX.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8",
+        "categories": [],
         "country": "PE"
     }
 ]

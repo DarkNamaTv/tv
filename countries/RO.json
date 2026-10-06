@@ -1129,5 +1129,63 @@
             "music"
         ],
         "country": "RO"
+    },
+    {
+        "name": "MISA TV",
+        "id": "MISATV.ro",
+        "logo": "https://i.imgur.com/2RxQNm6.png",
+        "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Mooz Love",
+        "id": "MoozLove.ro",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
+        "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Mooz Retro",
+        "id": "MoozRetro.ro",
+        "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
+        "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Nostalgia TV",
+        "id": "NostalgiaTV.ro",
+        "logo": "https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png",
+        "url": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Voyo Sport 1",
+        "id": "VoyoSport1.ro",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "VP TV",
+        "id": "VPTV.ro",
+        "logo": "",
+        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0",
+        "categories": [],
+        "country": "RO"
     }
 ]
