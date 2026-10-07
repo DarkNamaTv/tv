@@ -41,17 +41,6 @@
         "country": "AR"
     },
     {
-        "name": "Paramount Network",
-        "id": "ParamountNetwork.nl",
-        "logo": "https://i.imgur.com/I0JJySN.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8",
-        "categories": [
-            "series",
-            "movies"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "TV Series",
         "id": "TVSeries.br",
         "logo": "https://i.imgur.com/Ff5mj0o.png",
@@ -682,7 +671,7 @@
     {
         "name": "USA Network",
         "id": "USANetwork.us",
-        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
         "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
         "categories": [
             "movies",
@@ -723,10 +712,91 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Fantastic",
-        "id": "PlutoTVFantastic.us",
-        "logo": "https://i.imgur.com/MCu7YTA.png",
-        "url": "https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8",
+        "name": "Classic Movie Westerns",
+        "id": "ClassicMovieWesterns.us",
+        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Cops",
+        "id": "Cops.us",
+        "logo": "https://i.imgur.com/J3XO6V2.png",
+        "url": "https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "El Comisario",
+        "id": "ElComisario.us",
+        "logo": "https://i.imgur.com/XYt8utn.png",
+        "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Family Ties",
+        "id": "FamilyTies.us",
+        "logo": "https://i.imgur.com/WJEkKCb.png",
+        "url": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Kenan & Kel",
+        "id": "KenanKel.us",
+        "logo": "https://i.imgur.com/9PAY5Xz.png",
+        "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Amazing Race",
+        "id": "TheAmazingRace.us",
+        "logo": "https://i.imgur.com/5yzPhRo.png",
+        "url": "https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Judge Judy Channel",
+        "id": "TheJudgeJudyChannel.us",
+        "logo": "https://i.imgur.com/RhD7gIW.png",
+        "url": "https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The New Detectives",
+        "id": "TheNewDetectives.us",
+        "logo": "https://i.imgur.com/GLXg9ge.png",
+        "url": "https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Wild 'N Out",
+        "id": "WildNOut.us",
+        "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true",
+        "url": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8",
         "categories": [
             "series"
         ],
@@ -741,17 +811,6 @@
             "series"
         ],
         "country": "PE"
-    },
-    {
-        "name": "Viasat Serial",
-        "id": "ViasatSerial.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "UA"
     },
     {
         "name": "4ever Drama",
@@ -796,10 +855,31 @@
         "country": "UA"
     },
     {
+        "name": "Viasat Serial",
+        "id": "ViasatSerial.ua",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "RTL Crime",
         "id": "RTLCrime.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg",
         "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Polar",
+        "id": "PlutoTVPolar.de",
+        "logo": "https://i.imgur.com/yApGRsb.png",
+        "url": "https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8",
         "categories": [
             "series"
         ],
@@ -1010,16 +1090,6 @@
         "country": "IL"
     },
     {
-        "name": "Tlnovelas Latin America",
-        "id": "TlnovelasLatinAmerica.mx",
-        "logo": "https://i.imgur.com/Rvm38Mu.png",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Az Corazon",
         "id": "AzCorazon.mx",
         "logo": "https://i.imgur.com/KIpSdQC.png",
@@ -1034,6 +1104,16 @@
         "id": "TlnovelasMexico.mx",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",
         "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tlnovelas Latin America",
+        "id": "TlnovelasLatinAmerica.mx",
+        "logo": "https://i.imgur.com/Rvm38Mu.png",
+        "url": "http://138.121.15.230:9002/TELENOVELAS/index.m3u8",
         "categories": [
             "series"
         ],

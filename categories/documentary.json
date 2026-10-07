@@ -52,16 +52,6 @@
         "country": "CD"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Viasat Explore",
         "id": "ViasatExplore.se",
         "logo": "https://i.imgur.com/DyT5pKB.png",
@@ -120,7 +110,7 @@
         "name": "DocuBox",
         "id": "DocuBox.nl",
         "logo": "https://i.imgur.com/pX4U9OG.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
+        "url": "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
         "categories": [
             "documentary"
         ],
@@ -623,6 +613,16 @@
         "country": "US"
     },
     {
+        "name": "Teen Mom",
+        "id": "TeenMom.us",
+        "logo": "https://i.imgur.com/8o3ClCV.png",
+        "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
         "name": "CT2",
         "id": "CT2.cz",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
@@ -768,6 +768,26 @@
         "id": "CuriosityNOW.de",
         "logo": "https://i.imgur.com/gJ9eMaG.png",
         "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Animals",
+        "id": "PlutoTVAnimals.de",
+        "logo": "https://i.imgur.com/N00seOn.png",
+        "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Conspiracy",
+        "id": "PlutoTVConspiracy.de",
+        "logo": "https://i.imgur.com/sr0kYSH.png",
+        "url": "https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8",
         "categories": [
             "documentary"
         ],

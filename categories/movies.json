@@ -30,6 +30,17 @@
         "country": "KZ"
     },
     {
+        "name": "Next HD",
+        "id": "NextHD.py",
+        "logo": "https://i.imgur.com/c2rF3SS.png",
+        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+        "categories": [
+            "movies",
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Aurora Media Films",
         "id": "AuroraMediaFilms.gt",
         "logo": "https://i.imgur.com/DVC5w6H.png",
@@ -99,16 +110,6 @@
             "series"
         ],
         "country": "CL"
-    },
-    {
-        "name": "Pluto TV Film",
-        "id": "PlutoTVFilm.se",
-        "logo": "https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "SE"
     },
     {
         "name": "Bioskop TelkomVision",
@@ -192,57 +193,6 @@
         "id": "FilmBoxBaltics.nl",
         "logo": "https://i.imgur.com/gXu36aD.png",
         "url": "https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA",
-        "categories": [
-            "movies"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "FilmBox Extra",
-        "id": "FilmBoxExtra.nl",
-        "logo": "https://i.imgur.com/ML7SlIW.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "FilmBox Family",
-        "id": "FilmBoxFamily.nl",
-        "logo": "https://i.imgur.com/CGFyAyc.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "FilmBox Premium",
-        "id": "FilmBoxPremium.nl",
-        "logo": "https://i.imgur.com/RydfsE9.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7043/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "Paramount Network",
-        "id": "ParamountNetwork.nl",
-        "logo": "https://i.imgur.com/I0JJySN.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8",
-        "categories": [
-            "series",
-            "movies"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "FilmBox",
-        "id": "FilmBox.nl",
-        "logo": "https://i.imgur.com/VyaslIY.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -780,16 +730,6 @@
         "country": "IN"
     },
     {
-        "name": "Goldmines Action",
-        "id": "GoldminesAction.in",
-        "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Suriyan TV",
         "id": "SuriyanTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg",
@@ -1150,6 +1090,26 @@
         "country": "IN"
     },
     {
+        "name": "Asianet Movies",
+        "id": "AsianetMovies.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg",
+        "url": "http://51.75.127.199:3141/asianetmovies/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Utsav Movies",
+        "id": "StarUtsavMovies.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",
+        "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "NH BollyFlix",
         "id": "NHBollyFlix.np",
         "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
@@ -1369,16 +1329,6 @@
         "id": "CCTVTheFirstTheater.cn",
         "logo": "https://i.imgur.com/eFxD3hq.png",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
-        "categories": [
-            "movies"
-        ],
-        "country": "CN"
-    },
-    {
-        "name": "CND Film Middle School Channel",
-        "id": "CNDFilmMiddleSchoolChannel.cn",
-        "logo": "https://i.imgur.com/4uG8HsQ.png",
-        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
         "categories": [
             "movies"
         ],
@@ -1630,16 +1580,6 @@
         "country": "US"
     },
     {
-        "name": "AXN Black",
-        "id": "AXNBlack.us",
-        "logo": "https://i.imgur.com/Peo1QiZ.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Whiplash Cinema",
         "id": "WhiplashCinema.us",
         "logo": "https://whiplash.cc/assets/img/channels/whiplashcinema.png",
@@ -1848,7 +1788,7 @@
     {
         "name": "USA Network",
         "id": "USANetwork.us",
-        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
         "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
         "categories": [
             "movies",
@@ -1999,12 +1939,13 @@
         "country": "US"
     },
     {
-        "name": "Paramount Movie Channel",
-        "id": "ParamountMovieChannel.us",
-        "logo": "https://i.imgur.com/sj5h9bl.png",
-        "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
+        "name": "Classic Movie Westerns",
+        "id": "ClassicMovieWesterns.us",
+        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
         "categories": [
-            "movies"
+            "movies",
+            "series"
         ],
         "country": "US"
     },
@@ -2086,17 +2027,6 @@
         "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31448/index.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Viasat Serial",
-        "id": "ViasatSerial.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8",
-        "categories": [
-            "movies",
-            "series"
         ],
         "country": "UA"
     },
@@ -2233,6 +2163,17 @@
         "country": "UA"
     },
     {
+        "name": "Viasat Serial",
+        "id": "ViasatSerial.ua",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "Grjngo Western Movies",
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
@@ -2277,16 +2218,6 @@
         "id": "MyTimeMovieNetwork.uk",
         "logo": "https://i.imgur.com/pw4NZK1.png",
         "url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "AMC Europe",
-        "id": "AMCEurope.uk",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -2836,16 +2767,6 @@
         "country": "ES"
     },
     {
-        "name": "AXN CEE",
-        "id": "AXNCEE.es",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "AXN Movies",
         "id": "AXNMovies.es",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
@@ -2936,16 +2857,6 @@
         "country": "MX"
     },
     {
-        "name": "Az Cinema",
-        "id": "AzCinema.mx",
-        "logo": "https://i.imgur.com/B5UN7C8.png",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "De Pelicula Plus",
         "id": "DePeliculaPlus.mx",
         "logo": "https://i.imgur.com/MMhSmDK.png",
@@ -3004,16 +2915,6 @@
             "movies"
         ],
         "country": "DO"
-    },
-    {
-        "name": "TV1000",
-        "id": "TV1000.ro",
-        "logo": "https://i.imgur.com/GHNsctR.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "RO"
     },
     {
         "name": "Pro Cinema",

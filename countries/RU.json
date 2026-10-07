@@ -58,16 +58,6 @@
         "country": "RU"
     },
     {
-        "name": "AIST TV",
-        "id": "AISTTV.ru",
-        "logo": "https://i.imgur.com/bcw0s4V.png",
-        "url": "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Kulinar TV",
         "id": "KulinarTV.ru",
         "logo": "https://smotret.tv/images/kulinar-tv.webp",
@@ -1037,16 +1027,6 @@
         "url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Nicktoons",
-        "id": "Nicktoons.ru",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/849/index.m3u8",
-        "categories": [
-            "kids"
         ],
         "country": "RU"
     },
@@ -3090,6 +3070,26 @@
         "url": "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8",
         "categories": [
             "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "AIST TV",
+        "id": "AISTTV.ru",
+        "logo": "https://i.imgur.com/bcw0s4V.png",
+        "url": "http://194.143.148.28:8080/Aist/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Live Music Channel",
+        "id": "LiveMusicChannel.ru",
+        "logo": "https://i.imgur.com/9qJkxV9.png",
+        "url": "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "RU"
     }

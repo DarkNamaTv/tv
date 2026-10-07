@@ -71,16 +71,6 @@
     },
     {
         "name": "Tigo Sports",
-        "id": "TigoSports.py",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-        "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
-        "categories": [
-            "sports"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Tigo Sports",
         "id": "TigoSports.gt",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
         "url": "http://168.196.127.137:6001/play/a0b0/index.m3u8",
@@ -266,6 +256,16 @@
         "id": "TyCSportsUSA.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
         "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Showsport",
+        "id": "CanalShowsport.ar",
+        "logo": "https://i.imgur.com/0L9tW3Z.png",
+        "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
         "categories": [
             "sports"
         ],
@@ -1345,7 +1345,7 @@
     {
         "name": "USA Network",
         "id": "USANetwork.us",
-        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
         "url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
         "categories": [
             "movies",
@@ -1490,6 +1490,16 @@
         "id": "WWENetwork.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png",
         "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Bellator MMA",
+        "id": "BellatorMMA.us",
+        "logo": "https://i.imgur.com/VBKoLHk.png",
+        "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
         "categories": [
             "sports"
         ],
@@ -2198,26 +2208,6 @@
         "country": "RO"
     },
     {
-        "name": "Digi Sport 1",
-        "id": "DigiSport1.ro",
-        "logo": "https://i.imgur.com/5zMxDYq.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Digi Sport 2",
-        "id": "DigiSport2.ro",
-        "logo": "https://i.imgur.com/KWDUi3v.png",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "TVR Sport",
         "id": "TVRSport.ro",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
@@ -2263,6 +2253,26 @@
         "id": "VoyoSport1.ro",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
         "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0",
+        "categories": [
+            "sports"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Digi Sport 1",
+        "id": "DigiSport1.ro",
+        "logo": "https://i.imgur.com/5zMxDYq.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Digi Sport 2",
+        "id": "DigiSport2.ro",
+        "logo": "https://i.imgur.com/KWDUi3v.png",
+        "url": "https://dokagents.site/live/digisport2/mono.m3u8",
         "categories": [
             "sports"
         ],

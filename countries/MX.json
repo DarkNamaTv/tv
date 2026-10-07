@@ -349,26 +349,6 @@
         "country": "MX"
     },
     {
-        "name": "Las Estrellas Latin America",
-        "id": "LasEstrellasLatinAmerica.mx",
-        "logo": "https://i.imgur.com/g5ShxZ7.png",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Tlnovelas Latin America",
-        "id": "TlnovelasLatinAmerica.mx",
-        "logo": "https://i.imgur.com/Rvm38Mu.png",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Canal 22 Nacional",
         "id": "Canal22Nacional.mx",
         "logo": "https://i.imgur.com/6qiYvhe.png",
@@ -525,16 +505,6 @@
         "country": "MX"
     },
     {
-        "name": "Az Cinema",
-        "id": "AzCinema.mx",
-        "logo": "https://i.imgur.com/B5UN7C8.png",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "8NTV",
         "id": "8NTV.mx",
         "logo": "https://i.imgur.com/7ecgGIG.png",
@@ -549,14 +519,6 @@
         "id": "RCGTV.mx",
         "logo": "https://i.imgur.com/kYtAR26.png",
         "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
-        "categories": [],
-        "country": "MX"
-    },
-    {
-        "name": "Univision Latin America",
-        "id": "UnivisionLatinAmerica.mx",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-        "url": "http://190.93.224.42/UNIVISION/index.m3u8",
         "categories": [],
         "country": "MX"
     },
@@ -1109,6 +1071,64 @@
         "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "California Medios TV",
+        "id": "CaliforniaMediosTV.mx",
+        "logo": "https://i.imgur.com/IDvpRNI.png",
+        "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Canal 10 Durango",
+        "id": "Canal10Durango.mx",
+        "logo": "https://i.imgur.com/H34quHQ.png",
+        "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
+        "categories": [],
+        "country": "MX"
+    },
+    {
+        "name": "Despierta TV",
+        "id": "DespiertaTV.mx",
+        "logo": "https://i.imgur.com/hywjKNo.jpg",
+        "url": "https://video2.lhdserver.es/despiertatv/live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "ILCE Canal 15 Summa Saberes",
+        "id": "ILCECanal15SummaSaberes.mx",
+        "logo": "https://i.imgur.com/r7czgOc.png",
+        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tlnovelas Latin America",
+        "id": "TlnovelasLatinAmerica.mx",
+        "logo": "https://i.imgur.com/Rvm38Mu.png",
+        "url": "http://138.121.15.230:9002/TELENOVELAS/index.m3u8",
+        "categories": [
+            "series"
         ],
         "country": "MX"
     }
