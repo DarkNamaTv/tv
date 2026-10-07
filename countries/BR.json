@@ -1271,16 +1271,6 @@
         "country": "BR"
     },
     {
-        "name": "Geekdot",
-        "id": "Geekdot.br",
-        "logo": "https://i.imgur.com/jML1u4O.png",
-        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV A Folha",
         "id": "TVAFolha.br",
         "logo": "https://i.imgur.com/I7XGMhj.png",
@@ -1470,14 +1460,6 @@
         "country": "BR"
     },
     {
-        "name": "Amazon Sat",
-        "id": "AmazonSat.br",
-        "logo": "https://i.imgur.com/7rjCS5i.png",
-        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TV Cidade Verde Cuiaba",
         "id": "TVCidadeVerdeCuiaba.br",
         "logo": "https://i.imgur.com/e67h04h.png",
@@ -1627,14 +1609,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Sul Bahia",
-        "id": "TVSulBahia.br",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TV Vicosa",
         "id": "TVVicosa.br",
         "logo": "https://i.imgur.com/TZF55f9.png",
@@ -1649,6 +1623,26 @@
         "id": "CanalSete.br",
         "logo": "https://i.imgur.com/0cq0BPp.png",
         "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "AXN",
+        "id": "AXN.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Arapuan",
+        "id": "TVArapuan.br",
+        "logo": "https://i.imgur.com/3395A2h.png",
+        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
         "categories": [
             "general"
         ],

@@ -30,17 +30,6 @@
         "country": "KZ"
     },
     {
-        "name": "Next HD",
-        "id": "NextHD.py",
-        "logo": "https://i.imgur.com/c2rF3SS.png",
-        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-        "categories": [
-            "movies",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Aurora Media Films",
         "id": "AuroraMediaFilms.gt",
         "logo": "https://i.imgur.com/DVC5w6H.png",
@@ -110,6 +99,16 @@
             "series"
         ],
         "country": "CL"
+    },
+    {
+        "name": "Pluto TV Film",
+        "id": "PlutoTVFilm.se",
+        "logo": "https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "SE"
     },
     {
         "name": "Bioskop TelkomVision",
@@ -314,6 +313,16 @@
         "id": "TelecineAction.br",
         "logo": "https://i.imgur.com/BHYWG0h.png",
         "url": "http://46.151.196.223:14326/",
+        "categories": [
+            "movies"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "AXN",
+        "id": "AXN.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -991,16 +1000,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Gold",
-        "id": "StarGold.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg",
-        "url": "http://51.75.127.199:3141/stargold/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Movies Select",
         "id": "StarMoviesSelect.in",
         "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",
@@ -1015,26 +1014,6 @@
         "id": "StarSuvarnaPlus.in",
         "logo": "https://dtil.tmsimg.com/assets/s143854_ld_h15_aa.png?lock=720x540",
         "url": "http://51.75.127.199:3141/starsuvarnaplus/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Utsav Movies",
-        "id": "StarUtsavMovies.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Vijay Super",
-        "id": "VijaySuper.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1929/1782285031929-h.jpg",
-        "url": "http://51.75.127.199:3141/vijaysuper/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -1111,16 +1090,6 @@
         "country": "IN"
     },
     {
-        "name": "Asianet Movies",
-        "id": "AsianetMovies.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg",
-        "url": "http://51.75.127.199:3141/asianetmovies/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "All Time Movies",
         "id": "AllTimeMovies.in",
         "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
@@ -1165,6 +1134,16 @@
         "id": "SonyPix.in",
         "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540",
         "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Jalsha Movies",
+        "id": "JalshaMovies.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg",
+        "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
         "categories": [
             "movies"
         ],
@@ -1390,6 +1369,16 @@
         "id": "CCTVTheFirstTheater.cn",
         "logo": "https://i.imgur.com/eFxD3hq.png",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+        "categories": [
+            "movies"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CND Film Middle School Channel",
+        "id": "CNDFilmMiddleSchoolChannel.cn",
+        "logo": "https://i.imgur.com/4uG8HsQ.png",
+        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
         "categories": [
             "movies"
         ],
@@ -1960,13 +1949,62 @@
         "country": "US"
     },
     {
-        "name": "Classic Movie Westerns",
-        "id": "ClassicMovieWesterns.us",
-        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
+        "name": "Maxcine",
+        "id": "Maxcine.us",
+        "logo": "https://gia.tv/streams/pptv/208138.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
         "categories": [
-            "movies",
-            "series"
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Maxcine 2",
+        "id": "Maxcine2.us",
+        "logo": "https://gia.tv/streams/pptv/209163.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Maxcine Comedy",
+        "id": "MaxcineComedy.us",
+        "logo": "https://gia.tv/streams/pptv/208730.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Maxcine Family",
+        "id": "MaxcineFamily.us",
+        "logo": "https://gia.tv/streams/pptv/208817.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Maxcine Kids",
+        "id": "MaxcineKids.us",
+        "logo": "https://gia.tv/streams/pptv/209909.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Paramount Movie Channel",
+        "id": "ParamountMovieChannel.us",
+        "logo": "https://i.imgur.com/sj5h9bl.png",
+        "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "US"
     },
@@ -2201,27 +2239,6 @@
         "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Movies",
-        "id": "PlutoTVMovies.de",
-        "logo": "https://i.imgur.com/XzAbXAn.png",
-        "url": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Star Trek",
-        "id": "PlutoTVStarTrek.de",
-        "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
-        "categories": [
-            "movies",
-            "series"
         ],
         "country": "DE"
     },
@@ -2732,6 +2749,16 @@
         "id": "STARTWorld.ru",
         "logo": "https://i.imgur.com/TXtY5eM.png",
         "url": "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "viju TV1000 novella",
+        "id": "vijuTV1000novella.ru",
+        "logo": "https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png",
+        "url": "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8",
         "categories": [
             "movies"
         ],

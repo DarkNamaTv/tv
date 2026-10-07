@@ -87,14 +87,6 @@
         "country": "AR"
     },
     {
-        "name": "Cable Imagen Armstrong",
-        "id": "CableImagenArmstrong.ar",
-        "logo": "https://i.imgur.com/U9NuJQC.png",
-        "url": "https://stream.arcast.com.ar/casse/casse/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "TV Universidad",
         "id": "TVUniversidad.ar",
         "logo": "https://i.imgur.com/0MXsQ25.png",
@@ -747,16 +739,6 @@
         "country": "AR"
     },
     {
-        "name": "Norte TV",
-        "id": "NorteTV.ar",
-        "logo": "https://i.imgur.com/jTX2vp0.png",
-        "url": "https://ntvcanal7.com.ar:81/dash/stream.mpd",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 5 TV Chepes",
         "id": "Canal5TVChepes.ar",
         "logo": "https://i.imgur.com/AzEqroq.png",
@@ -919,16 +901,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 2 NexTV Rafaela",
-        "id": "Canal2NexTVRafaela.ar",
-        "logo": "https://i.imgur.com/hgj3CaR.jpeg",
-        "url": "https://edge.enhdtv.com/nexthd/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 79 Puan",
         "id": "Canal79Puan.ar",
         "logo": "https://i.imgur.com/HYuSqJy.png",
@@ -1048,32 +1020,6 @@
         "logo": "https://i.imgur.com/79sTxtP.png",
         "url": "https://cdn1.tvlin.net/open/telesol/playlist.m3u8",
         "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 5 Santa Fe",
-        "id": "Canal5SantaFe.ar",
-        "logo": "https://i.imgur.com/WX0esjQ.png",
-        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Telefe Salta",
-        "id": "TelefeSalta.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
-        "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
-        "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Bayres TV",
-        "id": "BayresTV.ar",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
-        "url": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "AR"
     },
     {
@@ -1205,16 +1151,6 @@
         "country": "AR"
     },
     {
-        "name": "Eco TV",
-        "id": "EcoTV.ar",
-        "logo": "https://i.imgur.com/V2ldYVd.jpg",
-        "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Litus TV",
         "id": "LitusTV.ar",
         "logo": "https://i.imgur.com/QIGSf4L.png",
@@ -1236,12 +1172,113 @@
         "country": "AR"
     },
     {
-        "name": "Telefe Buenos Aires",
-        "id": "TelefeBuenosAires.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "name": "5tv",
+        "id": "5tv.ar",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Aunar",
+        "id": "Aunar.ar",
+        "logo": "https://i.imgur.com/BfaCaZF.png",
+        "url": "http://190.128.214.97:64333/play/a057/index.m3u8",
+        "categories": [
+            "culture",
+            "travel"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 3 Las Heras",
+        "id": "Canal3LasHeras.ar",
+        "logo": "https://i.imgur.com/bd2afET.png",
+        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 9 Link",
+        "id": "Canal9Link.ar",
+        "logo": "https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg",
+        "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 9 Resistencia",
+        "id": "Canal9Resistencia.ar",
+        "logo": "https://i.imgur.com/xqgRFpC.png",
+        "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Ciudad TV Resistencia",
+        "id": "CiudadTVResistencia.ar",
+        "logo": "https://i.imgur.com/oL8SMTL.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Corrientes TV",
+        "id": "CorrientesTV.ar",
+        "logo": "https://i.imgur.com/7PBkvRp.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "El Trece",
+        "id": "ElTrece.ar",
+        "logo": "https://i.imgur.com/TrgBAdA.png",
+        "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "LAMIL35 TV",
+        "id": "LAMIL35TV.ar",
+        "logo": "https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg",
+        "url": "https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8",
+        "categories": [
+            "classic",
+            "entertainment",
+            "animation"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "NG Federal",
+        "id": "NGFederal.ar",
+        "logo": "https://i.imgur.com/lJCIqYn.png",
+        "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Rock & Pop",
+        "id": "RockPop.ar",
+        "logo": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
+        "url": "http://190.128.214.97:64333/play/a032/index.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "AR"
     }

@@ -141,6 +141,16 @@
         "country": "PY"
     },
     {
+        "name": "RCC TV",
+        "id": "RCCTV.py",
+        "logo": "https://i.imgur.com/qdjBnRl.png",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "categories": [
+            "religious"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Canal 30 TV Bethel",
         "id": "Canal30TVBethel.gt",
         "logo": "https://i.imgur.com/PP4U1JL.png",
@@ -696,6 +706,16 @@
         "id": "ISATV.cl",
         "logo": "https://i.imgur.com/24qGdyn.jpeg",
         "url": "https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio El Sembrador",
+        "id": "RadioElSembrador.cl",
+        "logo": "https://i.imgur.com/gBpMAc3.png",
+        "url": "https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2121,16 +2141,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Bhakti",
-        "id": "ZBBhakti.in",
-        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
-        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Mahaa Bhakti",
         "id": "MahaaBhakti.in",
         "logo": "https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj",
@@ -2285,16 +2295,6 @@
         "id": "QuranTV.ir",
         "logo": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
         "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "RasoulallahTv",
-        "id": "RasoulallahTv.ir",
-        "logo": "https://i.imgur.com/Jh5ADee.png",
-        "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2732,10 +2732,10 @@
         "country": "SV"
     },
     {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+        "name": "TVCa",
+        "id": "TVCa.sv",
+        "logo": "https://i.imgur.com/uPWWtCA.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4353,6 +4353,16 @@
         "country": "US"
     },
     {
+        "name": "OCN TV",
+        "id": "OCNTV.us",
+        "logo": "https://i.imgur.com/iSB5Obl.png",
+        "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
         "name": "TV Mana Mocambique",
         "id": "TVManaMocambique.mz",
         "logo": "https://i.imgur.com/R5YrV5s.png",
@@ -5168,16 +5178,6 @@
         "country": "ES"
     },
     {
-        "name": "Trece",
-        "id": "Trece.es",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
-        "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Hidabroot",
         "id": "Hidabroot.il",
         "logo": "https://i.imgur.com/CTH4Hu2.png",
@@ -5739,16 +5739,6 @@
         "categories": [
             "religious",
             "education"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Medjugorje Italia TV",
-        "id": "MedjugorjeItaliaTV.it",
-        "logo": "",
-        "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "IT"
     },

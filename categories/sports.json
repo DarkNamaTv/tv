@@ -624,26 +624,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 2",
-        "id": "StarSports2.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",
-        "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 1",
-        "id": "StarSports1.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h.jpg",
-        "url": "http://51.75.127.199:3141/starsports1/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 1",
         "id": "SonySportsTen1.in",
         "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
@@ -698,6 +678,16 @@
         "id": "StarSportsKhel.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg",
         "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 5",
+        "id": "SonySportsTen5.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
         "categories": [
             "sports"
         ],
@@ -1604,16 +1594,6 @@
             "sports"
         ],
         "country": "CZ"
-    },
-    {
-        "name": "MRTV Sports",
-        "id": "MRTVSports.mm",
-        "logo": "https://i.imgur.com/cFTR4kC.png",
-        "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MM"
     },
     {
         "name": "Ovacion TV",

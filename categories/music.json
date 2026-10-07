@@ -1,15 +1,5 @@
 [
     {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
-    },
-    {
         "name": "AMC",
         "id": "AMC.af",
         "logo": "https://i.imgur.com/yj8RNnG.png",
@@ -317,17 +307,6 @@
         "logo": "https://i.imgur.com/CaNdkpJ.jpeg",
         "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
         "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Next HD",
-        "id": "NextHD.py",
-        "logo": "https://i.imgur.com/c2rF3SS.png",
-        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-        "categories": [
-            "movies",
             "music"
         ],
         "country": "PY"
@@ -978,6 +957,16 @@
         "country": "CL"
     },
     {
+        "name": "Ritoque TV",
+        "id": "RitoqueTV.cl",
+        "logo": "https://i.imgur.com/nTVJcFA.png",
+        "url": "https://v2.tustreaming.cl/unetev/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Radio SWH TV",
         "id": "RadioSWHTV.lv",
         "logo": "https://i.imgur.com/cFrNsXn.png",
@@ -1129,6 +1118,16 @@
         "id": "MusicTop.ar",
         "logo": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
         "url": "http://190.128.214.97:64333/play/a06o/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Rock & Pop",
+        "id": "RockPop.ar",
+        "logo": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
+        "url": "http://190.128.214.97:64333/play/a032/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1992,16 +1991,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Kalika TV",
         "id": "KalikaTV.in",
         "logo": "https://i.imgur.com/XWXFoJA.png",
@@ -2293,6 +2282,16 @@
         "country": "MK"
     },
     {
+        "name": "TopEstrada TV",
+        "id": "TopEstradaTV.mk",
+        "logo": "https://i.imgur.com/0Dh1FJZ.png",
+        "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MK"
+    },
+    {
         "name": "A2i Music",
         "id": "A2iMusic.sn",
         "logo": "https://i.imgur.com/Fykhzxh.jpg",
@@ -2537,6 +2536,16 @@
         "id": "RumbaTV.co",
         "logo": "https://i.imgur.com/WtVpWwI.png",
         "url": "http://186.148.196.100:8000/play/a02h",
+        "categories": [
+            "music"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Claro Musica TV",
+        "id": "ClaroMusicaTV.co",
+        "logo": "https://i.imgur.com/vrSFUwv.png",
+        "url": "http://45.171.64.30:6060/play/a010/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2852,16 +2861,6 @@
         "url": "https://cdnbarinas.tvzamora.com/showven/index.m3u8",
         "categories": [
             "culture",
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "KandelaTV",
-        "id": "KandelaTV.ve",
-        "logo": "https://i.imgur.com/cCFxyIp.jpg",
-        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
-        "categories": [
             "music"
         ],
         "country": "VE"
@@ -3313,16 +3312,6 @@
         "country": "US"
     },
     {
-        "name": "MTV Classic",
-        "id": "MTVClassic.us",
-        "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Ocko",
         "id": "Ocko.cz",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
@@ -3557,16 +3546,6 @@
         "id": "RadioRumbaTV.pe",
         "logo": "https://i.imgur.com/BYcxI03.png",
         "url": "https://tv.sistemasandinos.org/rumbatv/video.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Metropolitana del Cuzco",
-        "id": "MetropolitanadelCuzco.pe",
-        "logo": "https://i.imgur.com/0B04qgM.png",
-        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -4245,16 +4224,6 @@
         "country": "RU"
     },
     {
-        "name": "Live Music Channel",
-        "id": "LiveMusicChannel.ru",
-        "logo": "https://i.imgur.com/9qJkxV9.png",
-        "url": "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Jalwa TV",
         "id": "JalwaTV.pk",
         "logo": "https://i.imgur.com/HWb5Iat.png",
@@ -4749,16 +4718,6 @@
         "country": "DO"
     },
     {
-        "name": "TV Exitos",
-        "id": "TVExitos.do",
-        "logo": "https://i.imgur.com/ahz7X7u.png",
-        "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "PMC",
         "id": "PMC.ae",
         "logo": "https://i.imgur.com/AbrHI7K.png",
@@ -4991,17 +4950,6 @@
         "country": "RO"
     },
     {
-        "name": "Radio Romania Targu Mures",
-        "id": "RadioRomaniaTarguMures.ro",
-        "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
-        "url": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8",
-        "categories": [
-            "general",
-            "music"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Radio Romania Antena Satelor",
         "id": "RadioRomaniaAntenaSatelor.ro",
         "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
@@ -5036,6 +4984,16 @@
         "id": "BoomTV.ro",
         "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
         "url": "https://tvboom.ro/live-tv/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Super TV",
+        "id": "SuperTV.ro",
+        "logo": "https://i.imgur.com/pzxUE0O.png",
+        "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
         "categories": [
             "music"
         ],

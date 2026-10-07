@@ -572,26 +572,6 @@
         "country": "IN"
     },
     {
-        "name": "Nick HD+",
-        "id": "NickHDPlus.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg",
-        "url": "http://51.75.127.199:3141/nickhd/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Cartoon",
-        "id": "ZBCartoon.in",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sonic",
         "id": "Sonic.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg",
@@ -1137,20 +1117,30 @@
         "country": "US"
     },
     {
-        "name": "Super! iCarly",
-        "id": "SuperiCarly.us",
-        "logo": "https://i.imgur.com/IWcQfF2.png",
-        "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
+        "name": "Nick Jr.",
+        "id": "NickJr.us",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "url": "http://107.167.16.138/nickjr/index.m3u8?token=test",
         "categories": [
             "kids"
         ],
         "country": "US"
     },
     {
-        "name": "Super! SpongeBob",
-        "id": "SuperSpongeBob.us",
-        "logo": "https://i.imgur.com/65wxNn4.png",
-        "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
+        "name": "Nicktoons",
+        "id": "Nicktoons.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
+        "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Super! Pop",
+        "id": "SuperPop.us",
+        "logo": "https://i.imgur.com/2FfREQE.png",
+        "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
         "categories": [
             "kids"
         ],
