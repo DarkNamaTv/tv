@@ -71,6 +71,16 @@
     },
     {
         "name": "Tigo Sports",
+        "id": "TigoSports.py",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Tigo Sports",
         "id": "TigoSports.gt",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
         "url": "http://168.196.127.137:6001/play/a0b0/index.m3u8",
@@ -1740,16 +1750,6 @@
         "id": "Sport3.ua",
         "logo": "https://i.imgur.com/qkvavfH.png",
         "url": "http://stream.mcquack.net/393/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Maincast Cybersport",
-        "id": "MaincastCybersport.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
-        "url": "http://stream.mcquack.net/487/index.m3u8",
         "categories": [
             "sports"
         ],

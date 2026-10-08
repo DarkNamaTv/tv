@@ -503,16 +503,6 @@
         "country": "CO"
     },
     {
-        "name": "MasMusica FM",
-        "id": "MasMusicaFM.co",
-        "logo": "https://i.imgur.com/tCg7owd.png",
-        "url": "https://video.ejeserver.com/live/masmusica.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal Cine Dios",
         "id": "CanalCineDios.co",
         "logo": "https://i.imgur.com/S4xqZgV.png",
@@ -806,16 +796,6 @@
         "country": "CO"
     },
     {
-        "name": "Canal Nets",
-        "id": "CanalNets.co",
-        "logo": "https://i.imgur.com/edaAexc.png",
-        "url": "https://video.ejeserver.com/live/nets.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "NTN24",
         "id": "NTN24.co",
         "logo": "https://i.imgur.com/UoKmSAP.png",
@@ -926,26 +906,6 @@
         "country": "CO"
     },
     {
-        "name": "Canal Telesantiago",
-        "id": "CanalTelesantiago.co",
-        "logo": "https://i.imgur.com/DmkH5p8.jpg",
-        "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Canal Womtv",
-        "id": "CanalWomtv.co",
-        "logo": "https://i.imgur.com/Nr4muMP.jpeg",
-        "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Kalu TV",
         "id": "KaluTV.co",
         "logo": "https://i.imgur.com/MO4w3OT.jpeg",
@@ -966,12 +926,72 @@
         "country": "CO"
     },
     {
-        "name": "TeleQuindio",
-        "id": "TeleQuindio.co",
-        "logo": "https://i.imgur.com/bJWj5ja.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+        "name": "Cristovision",
+        "id": "Cristovision.co",
+        "logo": "https://i.imgur.com/XIhCUY9.png",
+        "url": "http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Emisora Comunitaria 104.1 FM",
+        "id": "EmisoraComunitaria1041FM.co",
+        "logo": "https://i.imgur.com/SQ79Wsb.png",
+        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Raizal TV",
+        "id": "RaizalTV.co",
+        "logo": "https://i.imgur.com/qWNSxq8.png",
+        "url": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Tele Amiga",
+        "id": "TeleAmiga.co",
+        "logo": "https://i.imgur.com/gBZFZNv.png",
+        "url": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Tele Mocoa Canal 10",
+        "id": "TeleMocoaCanal10.co",
+        "logo": "https://i.imgur.com/XHtpEfu.png",
+        "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Tele Vid",
+        "id": "TeleVid.co",
+        "logo": "https://i.imgur.com/kVHJU5V.png",
+        "url": "http://200.122.223.13:55000/play/a01n/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TVGracia",
+        "id": "TVGracia.co",
+        "logo": "https://i.imgur.com/tMl4ISO.png",
+        "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "CO"
     }

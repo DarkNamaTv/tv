@@ -241,6 +241,16 @@
         "country": "GT"
     },
     {
+        "name": "Amigos TV Chiquimula",
+        "id": "AmigosTVChiquimula.gt",
+        "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+        "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GT"
+    },
+    {
         "name": "Poder de Dios TV",
         "id": "PoderdeDiosTV.bo",
         "logo": "https://i.imgur.com/jUfRz3L.png",
@@ -884,16 +894,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal Orbe 21",
-        "id": "CanalOrbe21.ar",
-        "logo": "https://i.imgur.com/USD6Wn8.png",
-        "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Radio Sublime Gracia TV",
         "id": "RadioSublimeGraciaTV.ar",
         "logo": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
@@ -1384,37 +1384,6 @@
         "url": "http://live.imamhossaintv.com/live/ih6.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Al-Jawadain TV",
-        "id": "AlJawadainTV.iq",
-        "logo": "https://i.imgur.com/Eo3UYCK.png",
-        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Alquran",
-        "id": "Alquran.iq",
-        "logo": "https://i.imgur.com/lqVwrAF.png",
-        "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Karbala Documentary",
-        "id": "KarbalaDocumentary.iq",
-        "logo": "https://www.karbala-tv.iq/documentary/static/img/logo.png",
-        "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
-        "categories": [
-            "religious",
-            "documentary"
         ],
         "country": "IQ"
     },
@@ -2652,6 +2621,26 @@
         "country": "PH"
     },
     {
+        "name": "INC Radio",
+        "id": "INCRadio.ph",
+        "logo": "https://i.imgur.com/6cKju6d.png",
+        "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PH"
+    },
+    {
+        "name": "INC TV",
+        "id": "INCTV.ph",
+        "logo": "https://i.imgur.com/iC11uWK.png",
+        "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PH"
+    },
+    {
         "name": "Charity TV",
         "id": "CharityTV.lb",
         "logo": "https://i.imgur.com/U9z8WBY.png",
@@ -2776,16 +2765,6 @@
         "id": "TVCa.sv",
         "logo": "https://i.imgur.com/uPWWtCA.png",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3074,10 +3053,30 @@
         "country": "CO"
     },
     {
-        "name": "Canal Telesantiago",
-        "id": "CanalTelesantiago.co",
-        "logo": "https://i.imgur.com/DmkH5p8.jpg",
-        "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
+        "name": "Cristovision",
+        "id": "Cristovision.co",
+        "logo": "https://i.imgur.com/XIhCUY9.png",
+        "url": "http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Tele Vid",
+        "id": "TeleVid.co",
+        "logo": "https://i.imgur.com/kVHJU5V.png",
+        "url": "http://200.122.223.13:55000/play/a01n/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TVGracia",
+        "id": "TVGracia.co",
+        "logo": "https://i.imgur.com/tMl4ISO.png",
+        "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -4453,16 +4452,6 @@
         "country": "PS"
     },
     {
-        "name": "Holy Quran Radio Nablus",
-        "id": "HolyQuranRadioNablus.ps",
-        "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
-        "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PS"
-    },
-    {
         "name": "RTVC",
         "id": "RTVC.ci",
         "logo": "https://i.imgur.com/oXuSkHz.png",
@@ -5004,17 +4993,6 @@
         "country": "RU"
     },
     {
-        "name": "City Eden TV",
-        "id": "CityEdenTV.ru",
-        "logo": "https://i.imgur.com/X9kACKi.png",
-        "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
-        "categories": [
-            "general",
-            "religious"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Joshua TV",
         "id": "JoshuaTV.pk",
         "logo": "https://i.imgur.com/x9xPR2h.png",
@@ -5411,16 +5389,6 @@
         "country": "PR"
     },
     {
-        "name": "Salvacion TV",
-        "id": "SalvacionTV.pr",
-        "logo": "https://i.imgur.com/6HOViG9.png",
-        "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
         "name": "Familia Vision HD",
         "id": "FamiliaVisionHD.pr",
         "logo": "https://i.imgur.com/uqTH7m5.jpg",
@@ -5431,10 +5399,10 @@
         "country": "PR"
     },
     {
-        "name": "Paraiso TV",
-        "id": "ParaisoTV.pr",
-        "logo": "https://i.imgur.com/wE31GIP.jpg",
-        "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+        "name": "Triunfo 96.9 FM",
+        "id": "Triunfo969FM.pr",
+        "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+        "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
         "categories": [
             "religious"
         ],
