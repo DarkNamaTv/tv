@@ -20,6 +20,16 @@
         "country": "KZ"
     },
     {
+        "name": "Balapan International",
+        "id": "BalapanInternational.kz",
+        "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+        "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "KZ"
+    },
+    {
         "name": "Knowledge Network",
         "id": "KnowledgeNetwork.ca",
         "logo": "https://i.imgur.com/VfofmZZ.png",
@@ -121,6 +131,16 @@
             "kids"
         ],
         "country": "CL"
+    },
+    {
+        "name": "iCarly",
+        "id": "iCarly.se",
+        "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "SE"
     },
     {
         "name": "Kids TV",
@@ -542,36 +562,6 @@
         "country": "IN"
     },
     {
-        "name": "Disney Channel",
-        "id": "DisneyChannel.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg",
-        "url": "http://51.75.127.199:3141/disneychannel/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Disney Junior",
-        "id": "DisneyJunior.in",
-        "logo": "https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png",
-        "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Hungama TV",
-        "id": "HungamaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/hungama/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sonic",
         "id": "Sonic.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg",
@@ -606,6 +596,16 @@
         "id": "ZBCartoon.in",
         "logo": "https://i.imgur.com/BbFNpMr.jpeg",
         "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Disney Junior",
+        "id": "DisneyJunior.in",
+        "logo": "https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png",
+        "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
         "categories": [
             "kids"
         ],
@@ -1188,22 +1188,72 @@
         "country": "US"
     },
     {
-        "name": "Nickelodeon en espanol",
-        "id": "Nickelodeonenespanol.us",
-        "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Tooncast",
         "id": "Tooncast.us",
         "logo": "https://i.imgur.com/3yXRbQy.png",
         "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
         "categories": [
             "animation",
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Bob Esponja Calca Quadrada",
+        "id": "BobEsponjaCalcaQuadrada.us",
+        "logo": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Bob Esponja Pantalones Cuadrados",
+        "id": "BobEsponjaPantalonesCuadrados.us",
+        "logo": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png",
+        "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nickelodeon Teen",
+        "id": "NickelodeonTeen.us",
+        "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+        "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Super! iCarly",
+        "id": "SuperiCarly.us",
+        "logo": "https://i.imgur.com/IWcQfF2.png",
+        "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Super! Pop",
+        "id": "SuperPop.us",
+        "logo": "https://i.imgur.com/2FfREQE.png",
+        "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Super! SpongeBob",
+        "id": "SuperSpongeBob.us",
+        "logo": "https://i.imgur.com/65wxNn4.png",
+        "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
+        "categories": [
             "kids"
         ],
         "country": "US"
@@ -1354,6 +1404,16 @@
         "id": "DisneyChannel.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "url": "https://cdn.telecloud.tv/CH4019/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "SpongeBob Schwammkopf",
+        "id": "SpongeBobSchwammkopf.de",
+        "logo": "https://i.imgur.com/NIsgNvI.png",
+        "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
         "categories": [
             "kids"
         ],
@@ -1689,17 +1749,6 @@
         "country": "PK"
     },
     {
-        "name": "God Stands Kids Club TV",
-        "id": "GodStandsKidsClubTV.pk",
-        "logo": "https://i.imgur.com/FxDBbpz.jpeg",
-        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
-        "categories": [
-            "kids",
-            "religious"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "ABC Entertains",
         "id": "ABCEntertains.au",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
@@ -1855,36 +1904,6 @@
         "country": "TR"
     },
     {
-        "name": "TRT Cocuk",
-        "id": "TRTCocuk.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Nickelodeon",
-        "id": "Nickelodeon.hr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-        "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "HR"
-    },
-    {
-        "name": "Nick Jr.",
-        "id": "NickJr.hr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-        "url": "http://176.61.157.250/NickJr/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "HR"
-    },
-    {
         "name": "El Chavo TV",
         "id": "ElChavoTV.mx",
         "logo": "https://gia.tv/streams/pptv/211465.png",
@@ -1991,16 +2010,6 @@
         "id": "Gulli.fr",
         "logo": "https://i.imgur.com/kqYssbW.png",
         "url": "http://99.27.51.147:8080/Gulli/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Nicktoons",
-        "id": "Nicktoons.fr",
-        "logo": "https://i.imgur.com/OWRUPA4.png",
-        "url": "http://193.254.245.162/NICKELODEON/index.m3u8",
         "categories": [
             "kids"
         ],

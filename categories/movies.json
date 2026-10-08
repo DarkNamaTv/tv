@@ -890,66 +890,6 @@
         "country": "IN"
     },
     {
-        "name": "Colors Bangla Cinema",
-        "id": "ColorsBanglaCinema.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg",
-        "url": "http://51.75.127.199:3141/colorsbanglacinema/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Colors Cineplex Superhits",
-        "id": "ColorsCineplexSuperhits.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Colors Kannada Cinema",
-        "id": "ColorsKannadaCinema.in",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3489/1782291093489-h.jpg",
-        "url": "http://51.75.127.199:3141/colorskannadacinema/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sidharth Gold",
-        "id": "SidharthGold.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png",
-        "url": "http://51.75.127.199:3141/sidharthgold/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Movies Select",
-        "id": "StarMoviesSelect.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/starmoviesselecthd/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Suvarna Plus",
-        "id": "StarSuvarnaPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143854_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/starsuvarnaplus/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Zee Action",
         "id": "ZeeAction.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
@@ -974,26 +914,6 @@
         "id": "ColorsCineplex.in",
         "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg",
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Colors Cineplex Bollywood",
-        "id": "ColorsCineplexBollywood.in",
-        "logo": "https://i.imgur.com/EbHSQAJ.png",
-        "url": "http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Romedy Now",
-        "id": "RomedyNow.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/romedynow/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -1060,10 +980,30 @@
         "country": "IN"
     },
     {
-        "name": "Star Utsav Movies",
-        "id": "StarUtsavMovies.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",
-        "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
+        "name": "Colors Bangla Cinema",
+        "id": "ColorsBanglaCinema.in",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg",
+        "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Goldmines Action",
+        "id": "GoldminesAction.in",
+        "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Movies Select",
+        "id": "StarMoviesSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
         "categories": [
             "movies"
         ],
@@ -1289,16 +1229,6 @@
         "id": "CCTVTheFirstTheater.cn",
         "logo": "https://i.imgur.com/eFxD3hq.png",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
-        "categories": [
-            "movies"
-        ],
-        "country": "CN"
-    },
-    {
-        "name": "CND Film Middle School Channel",
-        "id": "CNDFilmMiddleSchoolChannel.cn",
-        "logo": "https://i.imgur.com/4uG8HsQ.png",
-        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
         "categories": [
             "movies"
         ],
@@ -1683,16 +1613,6 @@
         "country": "US"
     },
     {
-        "name": "IFC",
-        "id": "IFC.us",
-        "logo": "https://i.imgur.com/bQdkyF9.png",
-        "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
         "name": "American Horrors",
         "id": "AmericanHorrors.us",
         "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
@@ -1903,6 +1823,37 @@
         "id": "CinemaxLatinAmerica.us",
         "logo": "https://i.imgur.com/cZWoJWD.png",
         "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Classic Movie Westerns",
+        "id": "ClassicMovieWesterns.us",
+        "logo": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Maxcine",
+        "id": "Maxcine.us",
+        "logo": "https://gia.tv/streams/pptv/208138.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Maxcine 2",
+        "id": "Maxcine2.us",
+        "logo": "https://gia.tv/streams/pptv/209163.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
         "categories": [
             "movies"
         ],
@@ -2149,6 +2100,17 @@
         "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Star Trek",
+        "id": "PlutoTVStarTrek.de",
+        "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
+        "categories": [
+            "movies",
+            "series"
         ],
         "country": "DE"
     },

@@ -1129,16 +1129,6 @@
         "country": "AR"
     },
     {
-        "name": "5tv",
-        "id": "5tv.ar",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Aunar",
         "id": "Aunar.ar",
         "logo": "https://i.imgur.com/BfaCaZF.png",
@@ -1146,46 +1136,6 @@
         "categories": [
             "culture",
             "travel"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 9 Link",
-        "id": "Canal9Link.ar",
-        "logo": "https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg",
-        "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 9 Resistencia",
-        "id": "Canal9Resistencia.ar",
-        "logo": "https://i.imgur.com/xqgRFpC.png",
-        "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Ciudad TV Resistencia",
-        "id": "CiudadTVResistencia.ar",
-        "logo": "https://i.imgur.com/oL8SMTL.png",
-        "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Corrientes TV",
-        "id": "CorrientesTV.ar",
-        "logo": "https://i.imgur.com/7PBkvRp.png",
-        "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "AR"
     },
@@ -1208,16 +1158,6 @@
             "classic",
             "entertainment",
             "animation"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "NG Federal",
-        "id": "NGFederal.ar",
-        "logo": "https://i.imgur.com/lJCIqYn.png",
-        "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "AR"
     },
@@ -1257,14 +1197,6 @@
         "categories": [
             "general"
         ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 5 Santa Fe",
-        "id": "Canal5SantaFe.ar",
-        "logo": "https://i.imgur.com/WX0esjQ.png",
-        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
-        "categories": [],
         "country": "AR"
     },
     {
@@ -1333,6 +1265,38 @@
         "url": "http://200.115.120.1:8000/play/ca131/index.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal Orbe 21",
+        "id": "CanalOrbe21.ar",
+        "logo": "https://i.imgur.com/USD6Wn8.png",
+        "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Norte TV",
+        "id": "NorteTV.ar",
+        "logo": "https://i.imgur.com/jTX2vp0.png",
+        "url": "https://ntvcanal7.com.ar:81/dash/stream.mpd",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Somos Entre Rios",
+        "id": "SomosEntreRios.ar",
+        "logo": "https://files.catbox.moe/ufv5z0.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+        "categories": [
+            "general",
+            "family",
+            "culture"
         ],
         "country": "AR"
     }
